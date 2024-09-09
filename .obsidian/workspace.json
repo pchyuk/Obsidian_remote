@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-09.md"
+                "file": "데이터베이스시스템/0909.md"
               }
             }
           },
@@ -136,13 +136,22 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "098de75ea6fe21f7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,9 +166,9 @@
   },
   "active": "18893237483acc6d",
   "lastOpenFiles": [
-    "2024-09-04.md",
-    "2024-06-06.md",
+    "데이터베이스시스템/0909.md",
     "2024-09-09.md",
-    "데이터베이스시스템/0909.md"
+    "2024-09-04.md",
+    "2024-06-06.md"
   ]
 }
