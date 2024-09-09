@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"716fc24a7e0387a8","x":-150,"y":-185,"width":130,"height":60,"type":"text","text":"SQL"},
+		{"id":"3a1852eacfeea59b","x":220,"y":-80,"width":250,"height":238,"type":"text","text":"- insert\n- delete\n- update\n- retrieve"},
+		{"id":"b06bb1d0e32f869b","x":-150,"y":-60,"width":327,"height":60,"type":"text","text":"DBMS"},
+		{"id":"95e46070cfb3e9f4","x":-49,"y":60,"width":125,"height":60,"type":"text","text":"DB"},
+		{"id":"e79aecc2c1132c9d","x":29,"y":-185,"width":270,"height":60,"type":"text","text":"응용 프로그램"},
+		{"id":"1e0f21a9987717bc","x":90,"y":-300,"width":148,"height":60,"type":"text","text":"Users"}
+	],
+	"edges":[
+		{"id":"c7ee62b4126a7e56","fromNode":"95e46070cfb3e9f4","fromSide":"top","toNode":"b06bb1d0e32f869b","toSide":"bottom"},
+		{"id":"e36ff5ad67e63f78","fromNode":"716fc24a7e0387a8","fromSide":"bottom","toNode":"b06bb1d0e32f869b","toSide":"top"},
+		{"id":"00fe9ce3c0432f17","fromNode":"1e0f21a9987717bc","fromSide":"bottom","toNode":"e79aecc2c1132c9d","toSide":"top"},
+		{"id":"74639f0a8654bc83","fromNode":"e79aecc2c1132c9d","fromSide":"bottom","toNode":"b06bb1d0e32f869b","toSide":"top"}
+	]
+}

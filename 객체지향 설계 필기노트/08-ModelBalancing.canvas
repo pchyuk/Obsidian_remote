@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"f74a38c5e274f0ff","type":"text","text":"# Structural model","x":-400,"y":20,"width":320,"height":60},
+		{"id":"cc50039894e0bb06","type":"text","text":"# Behavioral model","x":160,"y":20,"width":300,"height":60},
+		{"id":"0465fbda9d92ae89","x":-160,"y":-340,"width":320,"height":60,"type":"text","text":"# Functional model"},
+		{"id":"31c2c495bf4411b9","x":-160,"y":-280,"width":320,"height":220,"type":"text","text":"## Use case Description\n## Actors\n## Events, Activities\n## Object node"},
+		{"id":"bf811171aae2a5a3","type":"text","text":"## CRC cards, Class\n## Class responsibility / Class operation\n## Relationship\n## Object node","x":-400,"y":80,"width":320,"height":260}
+	],
+	"edges":[]
+}

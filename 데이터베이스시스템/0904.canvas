@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"36715d6c003c7f00","x":-158,"y":-174,"width":250,"height":60,"type":"text","text":"web server"},
+		{"id":"7f1907b785fe4f9b","x":-158,"y":23,"width":250,"height":60,"type":"text","text":"clerk 1"},
+		{"id":"2686ec90133912fc","x":340,"y":-174,"width":250,"height":60,"type":"text","text":"DB server"},
+		{"id":"c46c3d11d565f19a","x":340,"y":23,"width":250,"height":60,"type":"text","text":"clerk 2"},
+		{"id":"66bb5eb8269b8fc0","x":75,"y":-340,"width":250,"height":121,"type":"text","text":"web+DB\nprograms"},
+		{"id":"f552a1f235ee8c0c","x":640,"y":-302,"width":120,"height":60,"type":"text","text":"DB"},
+		{"id":"ad62642db1a8ef7d","x":-520,"y":-272,"width":300,"height":158,"type":"text","text":"Back-end workers behind the scene\n후방사용자"},
+		{"id":"637602e49af36c12","x":615,"y":-114,"width":290,"height":126,"type":"text","text":"DBMS 개발자\nDB설계"},
+		{"id":"a23d880647a946ff","x":-87,"y":220,"width":575,"height":121,"type":"text","text":"Actors on the scene\n전방사용자 -> end-users(최종사용자)"}
+	],
+	"edges":[
+		{"id":"005d394d750cec33","fromNode":"36715d6c003c7f00","fromSide":"bottom","toNode":"7f1907b785fe4f9b","toSide":"top"},
+		{"id":"891020a2ae33d076","fromNode":"7f1907b785fe4f9b","fromSide":"top","toNode":"36715d6c003c7f00","toSide":"bottom"},
+		{"id":"d4133717c6be9318","fromNode":"c46c3d11d565f19a","fromSide":"top","toNode":"2686ec90133912fc","toSide":"bottom"},
+		{"id":"0ee729ffaf729f04","fromNode":"2686ec90133912fc","fromSide":"bottom","toNode":"c46c3d11d565f19a","toSide":"top"},
+		{"id":"1cb7e2134a51cb7d","fromNode":"36715d6c003c7f00","fromSide":"bottom","toNode":"c46c3d11d565f19a","toSide":"top"},
+		{"id":"47c590ba1777a914","fromNode":"c46c3d11d565f19a","fromSide":"top","toNode":"36715d6c003c7f00","toSide":"bottom"},
+		{"id":"71c3361aea1705d0","fromNode":"7f1907b785fe4f9b","fromSide":"top","toNode":"2686ec90133912fc","toSide":"bottom"},
+		{"id":"85355ae6f057cb53","fromNode":"2686ec90133912fc","fromSide":"bottom","toNode":"7f1907b785fe4f9b","toSide":"top"},
+		{"id":"5b9bc88275df1f33","fromNode":"36715d6c003c7f00","fromSide":"right","toNode":"66bb5eb8269b8fc0","toSide":"bottom"},
+		{"id":"98059843e71161b1","fromNode":"2686ec90133912fc","fromSide":"right","toNode":"f552a1f235ee8c0c","toSide":"bottom"},
+		{"id":"6e266df075a0b099","fromNode":"2686ec90133912fc","fromSide":"bottom","toNode":"637602e49af36c12","toSide":"left"},
+		{"id":"1dc2de806beee8b2","fromNode":"7f1907b785fe4f9b","fromSide":"bottom","toNode":"a23d880647a946ff","toSide":"top"},
+		{"id":"0c2217ef25efa893","fromNode":"c46c3d11d565f19a","fromSide":"bottom","toNode":"a23d880647a946ff","toSide":"top"}
+	]
+}

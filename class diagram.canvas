@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"a370e95bf50326d4","type":"text","text":"# 시스템\n","x":-296,"y":-215,"width":316,"height":75},
+		{"id":"16c3813dfa90e9dc","type":"text","text":"## Attribute\n- 확장자 리스트","x":-296,"y":-140,"width":316,"height":260},
+		{"id":"7a9ad3cbe7b489e8","type":"text","text":"# 외부 DB\n","x":180,"y":-215,"width":316,"height":75},
+		{"id":"78cf6165c24bcf08","type":"text","text":"## Operation\n- 통신이 원활한지 확인\n- 네트워크 상태 확인","x":180,"y":120,"width":316,"height":200},
+		{"id":"3335170fc43089c6","type":"text","text":"## Attribute\n- 분석한 데이터\n- 분석된 데이터의 이름\n- 분석된 데이터의 카테고리","x":180,"y":-140,"width":316,"height":260},
+		{"id":"2e5e3c69d6028709","type":"text","text":"# 이용자\n","x":660,"y":-215,"width":316,"height":75},
+		{"id":"c5fe55447fcff764","type":"text","text":"## Attribute\n","x":660,"y":-140,"width":316,"height":260},
+		{"id":"6c9483b785a01968","type":"text","text":"## Operation\n- 확장자 선택 | 시스템\n","x":660,"y":120,"width":316,"height":200},
+		{"id":"1f441d5094e60f84","type":"text","text":"# Symbol\n","x":180,"y":420,"width":316,"height":75},
+		{"id":"6f050ddec95f8183","type":"text","text":"## Operation\n- data list 조회","x":180,"y":755,"width":316,"height":200},
+		{"id":"b417d009c955f582","type":"text","text":"## Attribute\n- 식별자\n- Type\n- data list\n- 주석","x":180,"y":495,"width":316,"height":260},
+		{"id":"030c751bd3800205","type":"text","text":"## Operation\n- 데이터 카테고리 지정 | 이용자\n- 네트워크 오류 표시 | 외부 DB\n- 데이터 출력 | 이용자\n- 데이터 검색 | 이용자\n- 키워드 입력 | 이용자\n- 데이터 목록 출력 | 이용자\n- 확장자 선택 | 이용","x":-296,"y":120,"width":316,"height":400}
+	],
+	"edges":[]
+}
