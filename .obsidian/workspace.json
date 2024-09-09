@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0909.md",
                 "mode": "source",
                 "source": false
               }
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0909.md"
               }
             }
           }
@@ -143,10 +143,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "712409b46766a207",
   "lastOpenFiles": [
-    "2024-09-09.md",
     "README.md",
+    "2024-09-09.md",
     "Daily Note",
     "무제 파일.canvas",
     "2024-06-06.md",

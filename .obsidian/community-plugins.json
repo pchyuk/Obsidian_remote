@@ -5,5 +5,6 @@
   "obsidian-excalidraw-plugin",
   "obsidian-tasks-plugin",
   "obsidian-kanban",
-  "dataview"
+  "dataview",
+  "editing-toolbar"
 ]
