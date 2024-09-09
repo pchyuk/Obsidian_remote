@@ -1,4 +1,6 @@
 {
   "cssTheme": "GitHub Theme",
-  "baseFontSize": 30
+  "baseFontSize": 30,
+  "interfaceFontFamily": "",
+  "textFontFamily": "D2Coding"
 }

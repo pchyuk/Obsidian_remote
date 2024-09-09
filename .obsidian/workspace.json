@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a24d6eb8693c32f8",
+        "id": "5f726c88cfb8c323",
         "type": "tabs",
         "children": [
           {
-            "id": "346565206635e96f",
+            "id": "fbcca61e53593b48",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-09.md",
+                "file": "데이터베이스시스템/0909.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-09.md"
+                "file": "데이터베이스시스템/0909.md"
               }
-            }
-          },
-          {
-            "id": "e79fa575f41555a0",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           },
           {
@@ -142,6 +134,14 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e79fa575f41555a0",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -176,11 +176,16 @@
   },
   "active": "098de75ea6fe21f7",
   "lastOpenFiles": [
-    "2024-09-04.md",
-    "2024-09-09.md",
+    "데이터베이스시스템/0904.md",
+    "데이터베이스시스템/0902.md",
     "데이터베이스시스템/0909.md",
     "Excalidraw/Drawing 2024-09-09 17.08.40.excalidraw.md",
-    "Excalidraw",
-    "2024-06-06.md"
+    "데이터베이스시스템/0902.canvas",
+    "2024-06-06.md",
+    "0522 피드백.md",
+    "2024-09-04.md",
+    "데이터베이스시스템/0904.canvas",
+    "2024-09-09.md",
+    "Excalidraw"
   ]
 }
