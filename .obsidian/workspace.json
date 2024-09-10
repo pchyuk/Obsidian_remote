@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "2ffeec92ad53d5a6",
+        "id": "df57985aee38f843",
         "type": "tabs",
         "children": [
           {
-            "id": "712409b46766a207",
+            "id": "09f32aeca8e24bfc",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +103,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "README.md"
+              }
             }
           },
           {
@@ -111,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +172,7 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "712409b46766a207",
+  "active": "09f32aeca8e24bfc",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/0909.md",
     "README.md",
