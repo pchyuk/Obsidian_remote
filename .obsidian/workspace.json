@@ -11,9 +11,11 @@
             "id": "09f32aeca8e24bfc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Pasted image 20240904103547.png"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Pasted image 20240904103547.png"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904.md"
               }
             }
           },
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Pasted image 20240904103547.png",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Pasted image 20240904103547.png",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,11 +174,13 @@
   },
   "active": "09f32aeca8e24bfc",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0904.md",
     "3학년 2학기(24-2)/데이터베이스시스템/Pasted image 20240904103547.png",
+    "3학년 2학기(24-2)/데이터베이스시스템/0909.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
     "README.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0909.md",
     "2024-09-09.md",
     "Daily Note",
     "무제 파일.canvas",
@@ -188,10 +192,8 @@
     "Pasted image 20240904103308.png",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/Pasted image 20240617223000.png",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/Pasted image 20240617225245.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904.md",
     "Excalidraw/Drawing 2024-09-09 17.08.40.excalidraw.md",
     "2024-09-04.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "Excalidraw"
   ]
 }
