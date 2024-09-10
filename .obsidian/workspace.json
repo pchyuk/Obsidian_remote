@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417.5
+    "width": 372.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,7 +172,7 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "09f32aeca8e24bfc",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/0909.md",
     "README.md",
