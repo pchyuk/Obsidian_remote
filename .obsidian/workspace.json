@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/0913 2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224.5,
-    "collapsed": true
+    "width": 224.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -105,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/0913 2주차.md"
               }
             }
           },
@@ -115,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/0913 2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/0913 2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 372.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,8 +174,10 @@
   },
   "active": "7e3ef60dc170d841",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md",
+    "3학년 2학기(24-2)/산학프로젝트/0913 2주차.md",
+    "3학년 2학기(24-2)/산학프로젝트",
+    "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
     "3학년 2학기(24-2)/소프트웨어공학",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/Pasted image 20240911101205.png",
@@ -211,7 +211,6 @@
     "무제 파일.canvas",
     "2024-06-06.md",
     "3학년 2학기(24-2)",
-    "3학년 1학기(24-1)",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/0522 피드백.md",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas",
     "Pasted image 20240904103308.png",
