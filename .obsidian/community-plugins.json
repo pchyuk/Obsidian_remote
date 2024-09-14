@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "calendar",
   "table-editor-obsidian",
   "obsidian-excalidraw-plugin",
@@ -7,5 +6,6 @@
   "obsidian-kanban",
   "dataview",
   "editing-toolbar",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git"
 ]
