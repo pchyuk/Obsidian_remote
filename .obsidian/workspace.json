@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-09-15.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-09-15.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md"
               }
             }
           },
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-09-15.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-09-15.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "9b33a22dbe4c6af3",
   "lastOpenFiles": [
     "Daily Note/2024-09-14.md",
     "Daily Note/2024-09-15.md",
