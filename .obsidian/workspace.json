@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "28d31dbfcca9654f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
