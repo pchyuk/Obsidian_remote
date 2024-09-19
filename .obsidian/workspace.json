@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -190,8 +189,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,8 +205,9 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "19087bb097a8c7a7",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/서버프로그래밍",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0912 2주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0919 3주차.md",
