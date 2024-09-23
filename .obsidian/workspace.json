@@ -56,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md"
               }
             }
           },
@@ -160,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,10 +219,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "477197af038c7723",
+  "active": "49e1fd8ec107f949",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
     "3학년 2학기(24-2)/소프트웨어공학/0919 3주차.md",
