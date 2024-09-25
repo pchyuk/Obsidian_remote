@@ -37,6 +37,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6475cfe10399587e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
                 "mode": "source",
                 "source": false
@@ -54,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "45d0554a3b4b6551",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md"
               }
             }
           },
@@ -172,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -231,13 +231,13 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "197ea4fad15a2071",
+  "active": "aff8497bc1e09071",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차/0923 4주차.md",
     "Pasted image 20240925143705.png",
