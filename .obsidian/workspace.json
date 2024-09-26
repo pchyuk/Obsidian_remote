@@ -4,71 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "f0f3322076a84cab",
+        "id": "f3bb5ab321466fe5",
         "type": "tabs",
         "children": [
           {
-            "id": "44440af002cee26a",
+            "id": "61f126210b7cf4a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "197ea4fad15a2071",
+            "id": "e5649054a52f788c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aff8497bc1e09071",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6475cfe10399587e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8cae80a15c9f7bd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0926 4주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,12 +85,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -162,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md"
               }
             }
           },
@@ -172,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -214,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,13 +194,15 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "8cae80a15c9f7bd5",
+  "active": "61f126210b7cf4a7",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/0926 4주차.md",
+    "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차.md",
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차/0923 4주차.md",
     "Pasted image 20240925143705.png",
@@ -251,7 +217,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차/0902.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0909 2주차/0909.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차",
-    "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0919 3주차.md",
     "3학년 2학기(24-2)/창업설계/0923 Topcit 특강.md",
     "3학년 2학기(24-2)/창업설계",
