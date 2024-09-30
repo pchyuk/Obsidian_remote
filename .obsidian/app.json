@@ -2,7 +2,8 @@
   "tabSize": 4,
   "promptDelete": false,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
-  "showLineNumber": true,
-  "spellcheck": false
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "strictLineBreaks": false
 }
