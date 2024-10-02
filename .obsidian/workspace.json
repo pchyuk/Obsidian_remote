@@ -30,18 +30,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "349fd2060f5853aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -102,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
