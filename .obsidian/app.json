@@ -5,5 +5,12 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "spellcheck": false,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 50
+  }
 }
