@@ -8,55 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abfb146b71c1225c",
+            "id": "bcc122aba6d12636",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7ff0eff43c83b91e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0926 4주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fdd5beb3b8ab62ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6eaab3daf4316fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -150,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md"
               }
             }
           },
@@ -160,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -226,10 +188,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "b6eaab3daf4316fc",
+  "active": "bcc122aba6d12636",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/튜터링/1003 튜터링 OT.md",
+    "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2.md",
+    "3학년 2학기(24-2)/튜터링/1003 튜터링 OT.md",
     "3학년 2학기(24-2)/튜터링",
     "Pasted image 20241003163908.png",
     "Pasted image 20241003163852.png",
@@ -269,7 +232,6 @@
     "Excalidraw/Drawing 2024-09-23 16.58.03.excalidraw.md",
     "README.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차",
-    "3학년 2학기(24-2)/산학프로젝트/0920 3주차.md",
     "3학년 2학기(24-2)/서버프로그래밍",
     "Tags",
     "3학년 2학기(24-2)/산학프로젝트",
