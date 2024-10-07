@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차/1002 5주차.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차/1002 5주차.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차/1002 5주차.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +203,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "bc04049f1a9aaa47",
+  "active": "53411c50f5cab32c",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차/1002 5주차.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "Pasted image 20241007111334.png",
