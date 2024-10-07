@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 - 보강.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 - 보강.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 - 보강.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +203,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "204bf91644185524",
+  "active": "29e192af79ac4e9a",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 - 보강.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차.md",
     "Pasted image 20240925104836.png",
     "Pasted image 20240925102516.png",
