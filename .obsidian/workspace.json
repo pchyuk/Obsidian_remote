@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
+                "file": "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md"
+                "file": "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
+                "file": "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
+                "file": "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,12 +215,13 @@
   },
   "active": "53411c50f5cab32c",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
+    "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md",
     "Pasted image 20241007174608.png",
     "Pasted image 20241007174554.png",
     "Pasted image 20241007174403.png",
     "Pasted image 20241007174337.png",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 1.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
     "Pasted image 20241007173416.png",
     "Pasted image 20241007172748.png",
     "Pasted image 20241007172734.png",
@@ -230,7 +229,6 @@
     "Pasted image 20241007165020.png",
     "Pasted image 20241007165003.png",
     "Pasted image 20241007164657.png",
-    "Pasted image 20241007163032.png",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 - 보강.md",
