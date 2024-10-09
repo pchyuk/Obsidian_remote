@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/튜터링/1008 1번째 수업.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/튜터링/1008 1번째 수업.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/튜터링/1008 1번째 수업.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/튜터링/1008 1번째 수업.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,8 +215,8 @@
   },
   "active": "804119ba5b465318",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/1008 6주차.md",
     "3학년 2학기(24-2)/튜터링/1008 1번째 수업.md",
+    "3학년 2학기(24-2)/소프트웨어공학/1008 6주차.md",
     "Pasted image 20241008144611.png",
     "Pasted image 20241008144555.png",
     "Pasted image 20241008144007.png",
