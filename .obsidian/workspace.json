@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8b6aefeb82994a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1008 6주차.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f69983d819de0a00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "333ff64eb1e90d4b",
             "type": "leaf",
             "state": {
@@ -54,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "164fe462f45e426b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md"
               }
             }
           },
@@ -159,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,10 +213,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "a7360755af509e2f",
+  "active": "164fe462f45e426b",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
     "3학년 2학기(24-2)/산학프로젝트/1004 5주차.md",
+    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
+    "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
     "[.md",
     "이름 없는 보드.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2(5장).md",
@@ -236,7 +225,6 @@
     "Pasted image 20241010154604.png",
     "Pasted image 20241010154406.png",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2(4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
     "Daily Note/2024-09-14.md",
     "Pasted image 20241010151405.png",
     "Pasted image 20241010151352.png",
