@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "0d43fb162ce5bf9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b67c1dc89b3dea23",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +134,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +150,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +198,7 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "0d43fb162ce5bf9a",
+  "active": "a78d16ccfeedd566",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
