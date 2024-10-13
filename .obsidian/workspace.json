@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "3d7df409f3ccf0ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b67c1dc89b3dea23",
             "type": "leaf",
             "state": {
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md"
+                "file": "무제 파일.md"
               }
             }
           },
@@ -134,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
+                "file": "무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
+                "file": "무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,11 +213,13 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "a7360755af509e2f",
+  "active": "3d7df409f3ccf0ce",
   "lastOpenFiles": [
+    "새 텍스트 문서.txt",
+    "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
+    "무제 파일.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
     "conflict-files-obsidian-git.md",
-    "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2(5장).md",
     "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
     "3학년 2학기(24-2)/졸업작품 회의",
@@ -237,8 +252,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/0924 4주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0926 4주차.md",
     "3학년 2학기(24-2)/창업설계/0923 Topcit 특강.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 2(7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차/1007 6주차 - 1.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차",
     "3학년 2학기(24-2)/튜터링",
     "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차",
