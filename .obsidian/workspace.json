@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Daily Note/2024-09-15.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "Daily Note/2024-09-15.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Daily Note/2024-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "Daily Note/2024-09-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,8 +214,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "3d7df409f3ccf0ce",
   "lastOpenFiles": [
+    "Daily Note/2024-09-14.md",
+    "무제 파일.md",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241010154646.png",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241010154604.png",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241010154406.png",
@@ -225,11 +228,9 @@
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241008144611.png",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241008144555.png",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241008144007.png",
-    "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241008143912.png",
     "3학년 2학기(24-2)/캡쳐 이미지들",
     "새 텍스트 문서.txt",
     "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
-    "무제 파일.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
     "conflict-files-obsidian-git.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2(5장).md",
@@ -241,7 +242,6 @@
     "[.md",
     "이름 없는 보드.md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2(4장).md",
-    "Daily Note/2024-09-14.md",
     "3학년 2학기(24-2)/소프트웨어공학/1008 6주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차.md",
