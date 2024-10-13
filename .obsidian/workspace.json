@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md"
               }
             }
           },
@@ -134,6 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +201,7 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "b67c1dc89b3dea23",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
