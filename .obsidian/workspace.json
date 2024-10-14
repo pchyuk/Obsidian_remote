@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87bf68bd8e5f6a94",
+            "id": "3c33b66eb84d047c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6a38c4f69ee5cb30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4486f65824491c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-10-14.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -137,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-10-14.md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md"
               }
             }
           },
@@ -147,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-10-14.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-10-14.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,9 +190,11 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "e4486f65824491c9",
+  "active": "3c33b66eb84d047c",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
     "Daily Note/2024-10-13.md",
+    "Daily Note/2024-10-14.md",
     "KakaoTalk_20241014_161926608_01.jpg",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241014171934.png",
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241014171340.png",
@@ -227,7 +206,6 @@
     "3학년 2학기(24-2)/캡쳐 이미지들/Pasted image 20241014174636.png",
     "Pasted image 20241014174636.png",
     "Daily Note/2024-09-15.md",
-    "Daily Note/2024-10-14.md",
     "3학년 2학기(24-2)/소프트웨어공학/0926 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/0912 2주차 (2장).md",
@@ -236,7 +214,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/0924 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
     "무제 파일.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 (7장).md",
