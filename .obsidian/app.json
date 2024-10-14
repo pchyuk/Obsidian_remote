@@ -5,7 +5,7 @@
   "readableLineLength": true,
   "showLineNumber": false,
   "spellcheck": false,
-  "strictLineBreaks": false,
+  "strictLineBreaks": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
