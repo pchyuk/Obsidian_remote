@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md"
               }
             }
           },
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,14 +213,14 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "99c03cac2a857ffb",
+  "active": "15568bd111a2ef4f",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
     "Daily Note/2024-10-13.md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-06 (Complex SQL).en.ko.pdf",
-    "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-00-Syllabus.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-06-ReqAnalysis-2-OOA.en.ko.pdf",
