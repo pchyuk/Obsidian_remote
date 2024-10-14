@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+                "file": "Daily Note/2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -113,7 +112,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md"
+                "file": "Daily Note/2024-10-14.md"
               }
             }
           },
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+                "file": "Daily Note/2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
+                "file": "Daily Note/2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +190,7 @@
   },
   "active": "3c33b66eb84d047c",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
     "Daily Note/2024-10-13.md",
     "Daily Note/2024-10-14.md",
@@ -220,7 +219,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-06 (Complex SQL).en.ko.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차 (4~5장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차 (4장).md",
