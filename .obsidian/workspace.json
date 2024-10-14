@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +85,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0919 3주차 (2장).md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0919 3주차 (2장).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0919 3주차 (2장).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,10 +201,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "616a6d8f254264ef",
+  "active": "a1d3f5dc165670cb",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
+    "3학년 2학기(24-2)/졸업작품 회의/1013 회의록.md",
     "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디",
     "Daily Note/2024-10-13.md",
