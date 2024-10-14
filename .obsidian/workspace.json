@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/무제 파일.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/무제 파일.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차.md"
               }
             }
           },
@@ -147,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/무제 파일.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/무제 파일.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,8 +217,8 @@
   },
   "active": "99c03cac2a857ffb",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/무제 파일.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차.md",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-00-Syllabus.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-06-ReqAnalysis-2-OOA.en.ko.pdf",
