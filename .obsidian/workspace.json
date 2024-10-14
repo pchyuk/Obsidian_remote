@@ -44,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,10 +215,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "6a38c4f69ee5cb30",
+  "active": "e4486f65824491c9",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
     "무제 파일.md",
     "KakaoTalk_20241014_162302118.jpg",
     "KakaoTalk_20241014_161926608_01.jpg",
