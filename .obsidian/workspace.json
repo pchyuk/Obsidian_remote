@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "37786617f13cc9f4",
+        "id": "3fa53ed8eb236c13",
         "type": "tabs",
         "children": [
           {
-            "id": "3c33b66eb84d047c",
+            "id": "d582706106796bf2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -109,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -120,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,15 +180,15 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "3c33b66eb84d047c",
+  "active": "d582706106796bf2",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
     "Daily Note/2024-10-15.md",
     "3학년 2학기(24-2)/창업설계/TOPCIT/정보보안이해와활용영역_충북대.pdf",
     "3학년 2학기(24-2)/창업설계/TOPCIT/시스템 아키텍쳐이해와활용영역_충북대.pdf",
     "3학년 2학기(24-2)/창업설계/TOPCIT/소프트웨어개발영역_충북대.pdf",
     "3학년 2학기(24-2)/창업설계/TOPCIT/데이터이해와활용영역_충북대.pdf",
     "3학년 2학기(24-2)/창업설계/TOPCIT",
-    "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
     "Daily Note/2024-10-14.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
