@@ -16,21 +16,8 @@
                 "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf"
               }
             }
-          },
-          {
-            "id": "937cc12c61456d4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-10-16.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-10-16.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf"
               }
             }
           },
@@ -133,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-10-16.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-10-16.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,10 +186,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "937cc12c61456d4c",
+  "active": "e1d8394b5800d24e",
   "lastOpenFiles": [
-    "Daily Note/2024-10-17.md",
     "Daily Note/2024-10-16.md",
+    "Daily Note/2024-10-17.md",
     "Daily Note/2024-10-14.md",
     "Daily Note/2024-10-15.md",
     "Daily Note/2024-10-13.md",
