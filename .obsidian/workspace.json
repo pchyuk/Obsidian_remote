@@ -11,8 +11,10 @@
             "id": "e1d8394b5800d24e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf"
+              }
             }
           }
         ]
@@ -107,7 +109,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf"
+              }
             }
           },
           {
@@ -116,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,6 +188,7 @@
   },
   "active": "e1d8394b5800d24e",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0902.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
