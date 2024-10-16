@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +203,10 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "4e09717fdb8f444b",
+  "active": "9f608704257ddf2f",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2(7장).md",
     "3학년 2학기(24-2)/C언어 응컴 튜터링/1015 2번째 수업.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
