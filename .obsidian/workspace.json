@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md"
               }
             }
           },
@@ -148,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,8 +197,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,13 +215,13 @@
   },
   "active": "5c2db56a9a5cbe7d",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
     "Pasted image 20241016114218.png",
     "Pasted image 20241016112154.png",
     "Pasted image 20241016112138.png",
     "Pasted image 20241016111935.png",
     "Pasted image 20241016111926.png",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
     "Pasted image 20241016111257.png",
     "Pasted image 20241016111140.png",
     "Pasted image 20241016111130.png",
@@ -246,7 +244,6 @@
     "3학년 2학기(24-2)/창업설계/TOPCIT",
     "Daily Note/2024-10-14.md",
     "Daily Note/2024-10-13.md",
-    "KakaoTalk_20241014_161926608_01.jpg",
     "Daily Note/2024-09-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/0912 2주차 (2장).md",
