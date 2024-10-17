@@ -4,51 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "b4a1fd6890449cbe",
+        "id": "a56cd40f783cf809",
         "type": "tabs",
         "children": [
           {
-            "id": "fb0bc61ef4a0b5cd",
+            "id": "0ccf3d55c2d293fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1014 7주차 (8~9장)"
+              "title": "1010 6주차 - 2 (5장)"
             }
           },
           {
-            "id": "e4cb6aa9ef46f5c9",
+            "id": "a2b6b8f1a244dcfc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1017 7주차 (9장)"
-            }
-          },
-          {
-            "id": "0142ad8711532b6f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.7.4"
-              },
-              "icon": "lucide-file",
-              "title": "Release Notes 1.7.4"
+              "title": "1017 7주차 (5장)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "1017 7주차 (5장) 개요"
             }
           },
           {
@@ -164,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +164,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "1017 7주차 (5장)의 백링크"
             }
           },
           {
@@ -182,11 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "1017 7주차 (5장)의 나가는 링크"
             }
           },
           {
@@ -237,11 +229,13 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "0142ad8711532b6f",
+  "active": "a2b6b8f1a244dcfc",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
     "Pasted image 20241017105434.png",
     "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
     "Pasted image 20241017103259.png",
     "Capture Images/Pasted image 20241017103259.png",
     "Capture Images/Pasted image 20241017103243.png",
@@ -251,7 +245,6 @@
     "Capture Images/Pasted image 20241016112154.png",
     "Capture Images/Pasted image 20241016112138.png",
     "Capture Images/Pasted image 20241016111935.png",
-    "Capture Images/Pasted image 20241016111926.png",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
     "Daily Note/2024-10-16.md",
     "Daily Note/2024-10-17.md",
@@ -284,7 +277,6 @@
     "3학년 2학기(24-2)/C언어 응컴 튜터링/1015 2번째 수업.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/졸업작품 & 소공 회의/1015 회의록.md",
-    "3학년 2학기(24-2)/소프트웨어공학/0926 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf",
     "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
