@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0902 1주차 (1장)"
+            }
+          },
+          {
+            "id": "5d3b5ec2ece12a15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "0904 1주차 (1장)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,8 +229,9 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "1f120d090ef5afc5",
+  "active": "5d3b5ec2ece12a15",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
     "Daily Note/2024-10-17.md",
     "Pasted image 20241017214227.png",
@@ -251,7 +267,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-04.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-02.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0909 2주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
