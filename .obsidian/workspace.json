@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,10 +203,15 @@
       "obsidian-kanban:새 보드 만들기": false
     }
   },
-  "active": "fb0bc61ef4a0b5cd",
+  "active": "e4cb6aa9ef46f5c9",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+    "Pasted image 20241017103321.png",
+    "Pasted image 20241017103259.png",
+    "Pasted image 20241017103243.png",
+    "Pasted image 20241017103231.png",
+    "Pasted image 20241017103219.png",
     "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
     "Daily Note/2024-10-16.md",
     "Daily Note/2024-10-17.md",
@@ -240,18 +246,13 @@
     "Pasted image 20241016111935.png",
     "Pasted image 20241016111926.png",
     "Pasted image 20241016111257.png",
-    "Pasted image 20241016111140.png",
-    "Pasted image 20241016111130.png",
-    "Pasted image 20241016111120.png",
     "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
-    "Pasted image 20241016102233.png",
     "3학년 2학기(24-2)/C언어 응컴 튜터링/1015 2번째 수업.md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/졸업작품 & 소공 회의/1015 회의록.md",
     "3학년 2학기(24-2)/소프트웨어공학/0926 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf",
     "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
-    "Daily Note/2024-09-15.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
