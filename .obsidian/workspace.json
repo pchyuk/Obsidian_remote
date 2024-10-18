@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1018 7주차 - UseCase 작성 연습.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1018 7주차 - UseCase 작성 연습"
+              "title": "1010 6주차 - 1 (4장)"
             }
           },
           {
@@ -48,8 +48,33 @@
               "icon": "lucide-file",
               "title": "1017 7주차 (5장)"
             }
+          },
+          {
+            "id": "140b21cddaf617d3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-04-ProjectManagement.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-04-ProjectManagement"
+            }
+          },
+          {
+            "id": "4e2c3c5aea1bf6a7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-04-ProjectManagement.en.ko"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -102,23 +127,20 @@
             }
           },
           {
-            "id": "10f1f98878d73d51",
+            "id": "9baa2a1678347cb3",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 288.5,
-    "collapsed": true
+    "width": 288.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -229,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -246,12 +267,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5513848d2730cbc5",
+  "active": "4e2c3c5aea1bf6a7",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/1008 6주차 (4장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2 (4장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1 (3장).md",
+    "3학년 2학기(24-2)/산학프로젝트/1018 7주차 - UseCase 작성 연습.md",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/11. DataLayerDesign.md",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/0522 피드백.md",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/06-Structural Modeling.md",
-    "3학년 2학기(24-2)/산학프로젝트/1018 7주차 - UseCase 작성 연습.md",
     "Pasted image 20241018095727.png",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
     "Pasted image 20241018095514.png",
@@ -289,12 +313,9 @@
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-04.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-02.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0909 2주차.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
