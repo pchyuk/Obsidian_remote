@@ -4,46 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f4067a8c653917a9",
+        "id": "c040e6fe50494a5d",
         "type": "tabs",
         "children": [
           {
-            "id": "5513848d2730cbc5",
+            "id": "1ab2dbfde0cb4e33",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024-04-ProjectManagement.en.ko"
+              "icon": "lucide-file",
+              "title": "0902 1주차 (1장)"
             }
           },
           {
-            "id": "140b21cddaf617d3",
+            "id": "7d3f05aec69c9657",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-04-ProjectManagement.pdf"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2024-04-ProjectManagement"
-            }
-          },
-          {
-            "id": "4e2c3c5aea1bf6a7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/번역본/2024-04-ProjectManagement.en.ko.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2024-04-ProjectManagement.en.ko"
+              "icon": "lucide-file",
+              "title": "0904 1주차 (1장)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +89,7 @@
             }
           },
           {
-            "id": "9baa2a1678347cb3",
+            "id": "508b5dcbe6e6c610",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -238,8 +231,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5513848d2730cbc5",
+  "active": "7d3f05aec69c9657",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
@@ -253,7 +248,6 @@
     "Pasted image 20241018095727.png",
     "Pasted image 20241018095514.png",
     "3학년 2학기(24-2)/산학프로젝트/1011 6주차.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
     "Pasted image 20241018024713.png",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
     "Daily Note/2024-10-17.md",
@@ -281,7 +275,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-03.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-04.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-02.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
