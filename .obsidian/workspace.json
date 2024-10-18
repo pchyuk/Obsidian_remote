@@ -35,8 +35,7 @@
               "title": "1017 7주차 (5장)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -89,7 +88,7 @@
             }
           },
           {
-            "id": "43eb821ccba4531d",
+            "id": "10f1f98878d73d51",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,7 +101,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 288.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -111,6 +111,7 @@
       {
         "id": "c3c16ceba955020d",
         "type": "tabs",
+        "dimension": 50.43402777777778,
         "children": [
           {
             "id": "7227c226702a3b4e",
@@ -196,6 +197,7 @@
       {
         "id": "d5aafccbe7424b4c",
         "type": "tabs",
+        "dimension": 49.56597222222222,
         "children": [
           {
             "id": "a78d16ccfeedd566",
@@ -211,26 +213,27 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-kanban:새 보드 만들기": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "efa5ef45a7bc5fc9",
+  "active": "5513848d2730cbc5",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/산학프로젝트/1018 7주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
+    "3학년 2학기(24-2)/산학프로젝트/1018 7주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
     "Pasted image 20241018024713.png",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
