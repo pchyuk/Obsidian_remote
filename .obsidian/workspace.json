@@ -105,10 +105,12 @@
             "id": "10f1f98878d73d51",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -125,7 +127,7 @@
       {
         "id": "c3c16ceba955020d",
         "type": "tabs",
-        "dimension": 50.43402777777778,
+        "dimension": 50.434027777777786,
         "children": [
           {
             "id": "7227c226702a3b4e",
@@ -211,7 +213,7 @@
       {
         "id": "d5aafccbe7424b4c",
         "type": "tabs",
-        "dimension": 49.56597222222222,
+        "dimension": 49.565972222222214,
         "children": [
           {
             "id": "a78d16ccfeedd566",
