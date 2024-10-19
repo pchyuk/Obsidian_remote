@@ -1,4 +1,5 @@
 # Obsidian_remote
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20pchyuk's%20Obsidian!%20&fontSize=50)
 ### pchyuk의 Obsidian 입니다.
 #### TIL (Today I Learned)
 - 강의자료, 수업 내용 정리
