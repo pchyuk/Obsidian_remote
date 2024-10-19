@@ -69,40 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0930 5주차 (5~6장)"
-            }
-          },
-          {
-            "id": "7fcf9f2c54df2284",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "README"
-            }
-          },
-          {
-            "id": "29b9febbeb24f66e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-10-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-20"
             }
           },
           {
@@ -134,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -196,8 +168,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -328,14 +299,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7fcf9f2c54df2284",
+  "active": "c51da49d752bb9a6",
   "lastOpenFiles": [
+    "Daily Note/2024-10-31.md",
+    "Daily Note/2024-10-30.md",
+    "Daily Note/2024-10-29.md",
+    "Daily Note/2024-10-28.md",
+    "Daily Note/2024-10-27.md",
+    "Daily Note/2024-10-26.md",
+    "Daily Note/2024-10-25.md",
+    "Daily Note/2024-10-24.md",
+    "Daily Note/2024-10-23.md",
+    "Daily Note/2024-10-22.md",
+    "Daily Note/2024-10-21.md",
+    "README.md",
     "Tags",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1 (6장).md",
     "Daily Note/2024-10-20.md",
     "Daily Note/24년 10월",
     "Daily Note/24년 9월",
-    "README.md",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
     "Daily Note/2024-10-19.md",
     "Daily Note/2024-10-18.md",
@@ -358,16 +340,6 @@
     "Capture Images/Pasted image 20241017214227.png",
     "Capture Images/Pasted image 20241017214054.png",
     "Capture Images/Pasted image 20241017213752.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1008 6주차 (4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2 (4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1 (3장).md",
     "3학년 2학기(24-2)/기타",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-07 (Relational ALgebra).en.ko.pdf",
