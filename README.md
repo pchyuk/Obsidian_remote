@@ -3,7 +3,7 @@
 ### pchyuk의 Obsidian 입니다.
 #### TIL (Today I Learned)
 - 강의자료, 수업 내용 정리
-- Velog에 (언젠가, 아마도?) 올라갈 내용의 초안
+- velog에 (언젠가, 아마도?) 올라갈 내용의 초안
 	- <https://velog.io/@pchyuk>
 - 학기별, 과목별로 정리
 
