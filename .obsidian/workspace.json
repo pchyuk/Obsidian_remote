@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Note/2024-10-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2024-10-20"
             }
           },
           {
@@ -125,7 +125,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-19.md",
+                "file": "Daily Note/2024-10-19.md",
                 "mode": "source",
                 "source": false
               },
@@ -134,7 +134,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -327,20 +327,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "29b9febbeb24f66e",
+  "active": "7fcf9f2c54df2284",
   "lastOpenFiles": [
+    "Daily Note/2024-10-20.md",
+    "Daily Note/24년 10월",
+    "Daily Note/24년 9월",
+    "README.md",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
-    "2024-10-19.md",
-    "2024-10-18.md",
+    "Daily Note/2024-10-19.md",
+    "Daily Note/2024-10-18.md",
     "Daily Note/2024-10-17.md",
     "Daily Note/2024-10-16.md",
     "Daily Note/2024-10-15.md",
     "Daily Note/2024-10-14.md",
     "Daily Note/2024-10-13.md",
-    "README.md",
-    "Daily Note/2024-09-15.md",
+    "Daily Note/24년 9월/2024-09-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
-    "Daily Note/2024-09-14.md",
+    "Daily Note/24년 9월/2024-09-14.md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
     "Capture Images/Pasted image 20241019011855.png",
     "Capture Images/Pasted image 20241019011847.png",
@@ -364,8 +367,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/1008 6주차 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 1 (3장).md",
-    "3학년 2학기(24-2)/산학프로젝트/1018 7주차 - UseCase 작성 연습.md",
-    "3학년 1학기(24-1)/객체지향 설계 필기노트/11. DataLayerDesign.md",
     "3학년 2학기(24-2)/기타",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-07 (Relational ALgebra).en.ko.pdf",
@@ -373,8 +374,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-03_CouseRegistrationSystem.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-03.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-04.en.ko.pdf",
-    "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-02.en.ko.pdf",
-    "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-01.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
