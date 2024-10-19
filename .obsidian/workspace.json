@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "508b5dcbe6e6c610",
+            "id": "8fc6a3417f238e23",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -289,13 +289,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
@@ -303,6 +303,7 @@
   },
   "active": "29b9febbeb24f66e",
   "lastOpenFiles": [
+    "Tags",
     "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
@@ -340,7 +341,6 @@
     "Daily Note/2024-10-16.md",
     "Daily Note/2024-10-14.md",
     "Daily Note/2024-10-15.md",
-    "Daily Note/2024-10-13.md",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-07 (Relational ALgebra).en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/강의자료/2019-F-Database-Systems-07 (Relational ALgebra).pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-03_CouseRegistrationSystem.pdf",
