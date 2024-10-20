@@ -4,40 +4,46 @@
 - Relation in RM
 #### Row
 - Tuple in RM
-Column
-Attribute in RM
-Features
-Data Definition
-DDL(Data Definition Language)를 이용해 데이터를 정의하는 행위
-테이블, 인덱스, 뷰 등과 같은 DB 객체를 생성하고 수정하는데 사용함.
-Data Manipulation
-DML(Data manipulation language)를 이용해 데이터를 조작하는 행위
-ex) 삽입, 수정, 삭제, 조회
-Transaction Control
-Indexing
-Security psecification
-Active DB
-Multi-media
-Distributed Databses
-Schema and Catalog Concepts in SQL
-SQL Schema
-schema 이름을 식별자로서 사용함.
-각 요소는 소유한 식별자와 설명자를 포함하고 있음.
-CREATE TABLE COMPANY.EMPLOYEE
-Schema elements include
-Tables
-Constraints
-views
-domains
-other constructs
-또한 각 문장은 세미콜론으로 끝남.
-CREATE SCHEMA STATEMENT
-CREATE SCHEMA COMPANY(DB 이름임) AUTHORIZATION 'Jsmith';
-Catalog
-SQL 환경에서 스키마의 컬랙션으로 이름지어져 있음
-이런 Catalog를 묶은 Cluster of Catalog가 존재하지만 원래 존재하는 개념은
-아니고 일부 시스템에서 사용하는 아이디어임.
-CREATE TABLE Command in SQL
+#### Column
+- Attribute in RM
+#### Features
+- **Data Definition**
+	- DDL(Data Definition Language)를 이용해 데이터를 정의하는 행위
+	- 테이블, 인덱스, 뷰 등과 같은 DB 객체를 생성하고 수정하는데 사용함.
+- **Data Manipulation**
+	- DML(Data manipulation language)를 이용해 데이터를 조작하는 행위
+	- ex) 삽입, 수정, 삭제, 조회
+- Transaction Control
+- Indexing
+- Security psecification
+- Active DB
+- Multi-media
+- Distributed Databses
+
+---
+## Schema and Catalog Concepts in SQL
+### SQL Schema
+- schema 이름을 식별자로서 사용함.
+- 각 요소는 소유한 식별자와 설명자를 포함하고 있음.
+- CREATE TABLE COMPANY.EMPLOYEE
+
+### Schema elements include
+- Tables
+- Constraints
+- views
+- domains
+- other constructs
+- 또한 각 문장은 세미콜론으로 끝남.
+
+### CREATE SCHEMA STATEMENT
+- CREATE SCHEMA COMPANY(DB 이름임) AUTHORIZATION 'Jsmith';
+
+### Catalog
+- SQL 환경에서 스키마의 컬랙션으로 이름지어져 있음
+- 이런 Catalog를 묶은 Cluster of Catalog가 존재하지만 원래 존재하는 개념은 아니고 일부 시스템에서 사용하는 아이디어임.
+
+---
+## CREATE TABLE Command in SQL
 Specifying a new relation
 새로운 relation을 만드는 행위임
 Table의 이름이 필요함
