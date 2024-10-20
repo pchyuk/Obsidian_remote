@@ -186,26 +186,29 @@ DEPARTMENT(Dnumber)
 
 ### 각각의 튜플에 `CHECK`를 통해 추가적인 제약 사항이 가능함.
 
-### `CHECK (dept_create_date <= Mgr_start_date)`
-
+### `CHECK (Dept_create_date <= Mgr_start_date)`
 - 해당 절은 CREATE TABLE문장의 끝부분에 와야 함.
+- 각 튜플에 개별적으로 적용
 
 ---
-Basic Retrieval Queries in SQL
-Retrieval - 검색
-집합에 대한 operation들에 대해 알아보는 챕터임.
-SELECT Statement
+## Basic Retrieval Queries in SQL
+- Retrieval - 검색
+- 집합에 대한 operation들에 대해 알아보는 챕터임.
+
+### SELECT Statement
+```SQL
 SELECT <attribute list>
 FROM <table list>
 WHERE <condition>;
-SQL
-attribute list
-요소들에 대해서도 이름을 다시 지을 수 있음!!
-이 경우 모든 EMPLOYEE의 Ssn을 가져옴
-attribute 의 이름들에 대한 리스트임.
-table list
-relation의 이름들에 대한 리스트임
-condition
+```
+
+- attribute list
+	- 요소들에 대해서도 이름을 다시 지을 수 있음!!
+	- 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
+	- attribute 의 이름들에 대한 리스트임.
+- table list
+	- relation의 이름들에 대한 리스트임
+	condition
 Boolean Expression
 =, <, <=, >,>= <>
 join condition
