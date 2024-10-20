@@ -111,10 +111,11 @@
 - `CREATE DOMAIN SSN_TYPE AS CHAR(9)`
 
 ### TYPE
-- 사용자 정의
+- 사용자 정의 유형(UDT, User Defined Type)은 객체 지향 애플리케이션에 지원됨.
+- `CREATE TYPE`
 
 ---
-## Specifying Constraints
+## Specifying Constraints in SQL
 ### Basic Constraints
 #### Key Constraints
 - Primary Key 의 값은 중복될 수 없음.
@@ -134,19 +135,19 @@
 - `age INT CHECK(age > 18)`
 
 ---
-### Key and Referential Integrity Constraints
+### Specifying Key and Referential Integrity Constraints
 - 키와 참조 무결성 제약 조건
-#### PRIMARY KEY clause
+#### **PRIMARY KEY** clause
 - `Dnumber INT PRIMARY KEY`
 - 하나 또는 더 많은 속성을 primary key로 지정함.
 - 여러 개를 지정하는 경우 이를 Composite Key라고 부름
 
-#### UNIQUE clause
+#### **UNIQUE** clause
 - a.k.a Secondary key or CANDIDATE key
 - `Dname VARCHAR(15) UNIQUE`
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
 
-#### Foreign KEY clause
+#### **Foreign KEY** clause
 - Default operation : 위반(violation)을 없애는 업데이트
 - referential triggered action clause 추가
 	- Option include
