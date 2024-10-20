@@ -1,4 +1,5 @@
 # Chap 6: Basic SQL
+## **SQL Data Definition and Data Types**
 ## SQL Data Definition,Data Types,Standards
 ### Terminology
 #### Table
