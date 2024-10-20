@@ -405,12 +405,12 @@ DELETE FROM EMPLOYEE;
 - 추가적으로 SET 절을 이용해 수정될 새 속성들을 명세할 수 있음
 ```SQL
 UPDATE PROJECT
-SET PLOCATION = 'bellaire',DNUM = 5
-WHERE PNUMBER = 10
+	SET PLOCATION = 'bellaire',DNUM = 5
+	WHERE PNUMBER = 10
 UPDATE EMPOLYEE
 SET SALARY = SALARY * 1.1
-WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME =
-'RESEARCH');
+WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 ```
-각 명령어는 한 relation에 대해서의 tuple을 수정한다.
-참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
+
+- 각 명령어는 한 relation에 대해서의 tuple을 수정한다.
+- 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
