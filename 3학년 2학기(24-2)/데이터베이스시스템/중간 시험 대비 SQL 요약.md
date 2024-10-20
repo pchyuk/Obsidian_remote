@@ -208,19 +208,29 @@ WHERE <condition>;
 	- attribute 의 이름들에 대한 리스트임.
 - table list
 	- relation의 이름들에 대한 리스트임
-	condition
-Boolean Expression
-=, <, <=, >,>= <>
-join condition
-여러 relation이 포함되는 경우
-Aliasing and Renaming
-별명을 붙이는 거임
+- condition
+	- Boolean Expression
+	- =, <, <=, >, >=, <>``
+- join condition
+	- 여러 relation이 포함되는 경우
+
+---
+## Aliasing and Renaming
+- 별명을 붙이는 거임
+
+```SQL
 SELECT E.Fname, E.Lname, S.Fname, S.Lname
 FROM EMPLOYEE AS E, EMPLOYEE AS S
 WHERE E.Super_ssn = S.Ssn;
-SQL
+```
+
+요소들에 대해서도 이름을 다시 지을 수 있음!!
+
+```SQL
 EMPLOYEE AS E(Fn, Mi, ...)
-SQL
+```
+
+---
 WHERE 절이 없는경우
 모든 항목을 선택함 (단일인 경우)
 SELECT Ssn
