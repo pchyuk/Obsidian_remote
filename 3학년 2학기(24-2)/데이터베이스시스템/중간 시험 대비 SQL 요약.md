@@ -259,13 +259,19 @@ Ssn | Department
 - 선택된 튜플에서 모든 attributes를 가져옴
 
 ---
-## Table을 집합으로 사용하는 방법
-SQL은 쿼리의 결과로 중복되는 튜플을 삭제하지 않는다.
-DISTINCT 키워트를 통해 중복되는 튜플을 삭제할 수 있음 .
-Set Oprations
-UNION, EXCEPT, INTERSECT가 있음 .
-Multiset으로 하고 싶다면 ALL을 붙여주면 댐
-UNION ALL, EXCEPT ALL ~~
+## Tables as Sets in SQL
+Table을 집합으로 사용하는 방법
+
+- SQL은 쿼리의 결과로 중복되는 튜플을 삭제하지 않는다.
+- `DISTINCT` 키워트를 통해 중복되는 튜플을 삭제 가능
+	- 결과에는 고유한 튜플만 남아야 한다.
+
+### Set Oprations
+- UNION, EXCEPT, INTERSECT가 있음
+- Multiset으로 하고 싶다면 ALL을 붙여주면 됨
+	- UNION ALL, EXCEPT ALL ~~
+
+---
 Substring Pattern Matching and Arithmetic Operators
 Like Comparison operator
 % - 0 개 이상의 임의의 문자를 대체함
