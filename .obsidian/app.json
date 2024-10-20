@@ -12,5 +12,7 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 70
-  }
+  },
+  "focusNewTab": true,
+  "showUnsupportedFiles": true
 }
