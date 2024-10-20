@@ -48,9 +48,18 @@
               "icon": "lucide-file",
               "title": "1007 6주차 - 2 (7장)"
             }
+          },
+          {
+            "id": "a68d0fa204c74f31",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -244,7 +253,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0afaa89462c0d3f7",
+  "active": "a68d0fa204c74f31",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
