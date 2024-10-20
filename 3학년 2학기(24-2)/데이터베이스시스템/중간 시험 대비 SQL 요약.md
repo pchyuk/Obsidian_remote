@@ -342,7 +342,6 @@ FROM <table list>
 - Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
 - data type에 대한 제약사항은 자동적으로 관측됨
 - 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
-
 ```SQL
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
 VALUES ('Richard', 'Marini',4,'653298653')
@@ -352,7 +351,6 @@ VALUES ('아무튼 많은 정보들...')
 ```
 
 - query의 결과를 통해 Insert로 여러 tuple을 넣는 방법도 있음.
-
 ```SQL
 CREATE TABLE WORKS_ON_INFO
 (
@@ -385,23 +383,27 @@ CREATE TABLE D5EMPS LIKE EMPLOYEE (
 ) WITH DATA;
 ```
 
-
-DELETE
-
-WHERE 절을 포함하여 삭제할 tuple을 정함
+---
+## DELETE
+- WHERE 절을 포함하여 삭제할 tuple을 정함
+```SQL
 DELETE FROM EMPLOYEE
 WHERE Lname = 'Brown';
+```
 
-무결성 참조가 강조됨.
-제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만
-사라짐
-WHERE절이 없다면 모든 tuple이 사라짐
+- 무결성 참조가 강조됨.
+- 제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만 사라짐
+- WHERE절이 없다면 모든 tuple이 사라짐
+```SQL
 DELETE FROM EMPLOYEE;
-SQL
-UPDATE
-Attribute의 값을 수정하기 위한 연산임.
-WHERE 절을 통해 수정할 tuple을 선택함.
-추가적으로 SET 절을 이용해 수정될 새 속성들을 명세할 수 있음
+```
+
+---
+## UPDATE
+- Attribute의 값을 수정하기 위한 연산임
+- WHERE 절을 통해 수정할 tuple을 선택함
+- 추가적으로 SET 절을 이용해 수정될 새 속성들을 명세할 수 있음
+```SQL
 UPDATE PROJECT
 SET PLOCATION = 'bellaire',DNUM = 5
 WHERE PNUMBER = 10
@@ -409,6 +411,6 @@ UPDATE EMPOLYEE
 SET SALARY = SALARY * 1.1
 WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME =
 'RESEARCH');
-SQL
+```
 각 명령어는 한 relation에 대해서의 tuple을 수정한다.
 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
