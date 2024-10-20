@@ -85,35 +85,40 @@
 
 #### Boolean data type
 - Values of TRUE or FALSE or NULL
-DATE data type
-YYYY-MM-DD 의 10자리를 가지고 있음.
-Component로 YEAR, MONTH 그리고 DAY를 가짐
-여러가지 매핑 함수가 존재함.
-Timestamp data type
-DATE와 TIME field를 포함함
-INTERVAL data type
-date나 time, timestamp 값에 증가 또는 감소시킬수 있는 값임
-DATE, TIME, Timestamp, INTERVAL 데이터 타입들은 문자열 포맷으로 바뀔
-수 있음.
-Domain
-속성 명세에 사용된 이름
-여러 속성에의해 사용되는 domain의 data type을 바꾸는 것을 쉽게 만들어
-줌.
-속성 값이 가질 수 있는 범위와 데이터 타입을 정의하는 개념.
-CREATE DOMAIN SSN_TYPE AS CHAR(9)
-Specifying Constraints
-Basic Constraints
-Key Constraints
-Primary Key 의 값은 중복될 수 없음.
-Entity integrity Constraints
-Primary Key 의 값은 null일 수 없음
-Referential integrity Constraints
-Foreign key는 이미 존재하는 primary key이거나 null이어야 함.
-Domain Constraints
-값의 형식과 범위를 제한하는 제약 조건임.
-Attribute Contraints
-Default Value
-Default <value>
+
+#### DATE data type
+- YYYY-MM-DD 의 10자리를 가지고 있음.
+- Component로 YEAR, MONTH 그리고 DAY를 가짐
+- 여러가지 매핑 함수가 존재함.
+
+#### Timestamp data type
+- DATE와 TIME field를 포함함
+
+#### INTERVAL data type
+- date나 time, timestamp 값에 증가 또는 감소시킬수 있는 값임
+- DATE, TIME, Timestamp, INTERVAL 데이터 타입들은 문자열 포맷으로 바뀔 수 있음.
+
+### Domain
+- 속성 명세에 사용된 이름
+- 여러 속성에 의해 사용되는 domain의 data type을 바꾸는 것을 쉽게 만들어 줌.
+- 속성 값이 가질 수 있는 범위와 데이터 타입을 정의하는 개념.
+- `CREATE DOMAIN SSN_TYPE AS CHAR(9)`
+
+---
+## Specifying Constraints
+### Basic Constraints
+#### Key Constraints
+- Primary Key 의 값은 중복될 수 없음.
+#### Entity integrity Constraints
+- Primary Key 의 값은 null일 수 없음
+#### Referential integrity Constraints
+- Foreign key는 이미 존재하는 primary key이거나 null이어야 함.
+#### Domain Constraints
+- 값의 형식과 범위를 제한하는 제약 조건임.
+
+### Attribute Contraints
+#### Default Value
+- `Default <value>`
 CHECK clause
 CHECK <range>
 age INT CHECK(age > 18)
