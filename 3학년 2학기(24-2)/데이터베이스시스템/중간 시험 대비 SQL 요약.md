@@ -181,10 +181,16 @@ DEPARTMENT(Dnumber)
 ```
 
 ---
-각각의 튜플에 CHECK를 통해 추가적인 제약 사항이 가능함.
-CHECK (dept_create_date <= Mgr_start_date)
-SQL
-해당 절은 CREATE TABLE문장의 끝부분에 와야 함.
+## Specifying Constraints on Tuples Using `CHECK`
+- `CHECK`를 사용하여 튜플에 대한 제약 조건 지정
+
+### 각각의 튜플에 `CHECK`를 통해 추가적인 제약 사항이 가능함.
+
+### `CHECK (dept_create_date <= Mgr_start_date)`
+
+- 해당 절은 CREATE TABLE문장의 끝부분에 와야 함.
+
+---
 Basic Retrieval Queries in SQL
 Retrieval - 검색
 집합에 대한 operation들에 대해 알아보는 챕터임.
