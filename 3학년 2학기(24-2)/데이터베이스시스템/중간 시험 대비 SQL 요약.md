@@ -98,6 +98,7 @@
 - date나 time, timestamp 값에 증가 또는 감소시킬수 있는 값임
 - DATE, TIME, Timestamp, INTERVAL 데이터 타입들은 문자열 포맷으로 바뀔 수 있음.
 
+---
 ### Domain
 - 속성 명세에 사용된 이름
 - 여러 속성에 의해 사용되는 domain의 data type을 바꾸는 것을 쉽게 만들어 줌.
@@ -116,25 +117,30 @@
 #### Domain Constraints
 - 값의 형식과 범위를 제한하는 제약 조건임.
 
+---
 ### Attribute Contraints
 #### Default Value
 - `Default <value>`
-CHECK clause
-CHECK <range>
-age INT CHECK(age > 18)
-Key and Referential Integrity Constraints
-키와 참조 무결성 제약 조건
-PRIMARY KEY clause
-Dnumber INT PRIMARY KEY
-하나 또는 더 많은 속성을 primary key로 지정함.
-여러 개를 지정하는 경우 이를 Composite Key라고 부름
-UNIQUE clause
-a.k.a Secondary key or CANDIDATE key
-Dname VARCHAR(15) UNIQUE
-Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
-Foreign KEY clause
-Default operation : 위반(violation)을 없애는 업데이트
-referential triggered action clause 추가
+#### CHECK clause
+- `CHECK <range>`
+- `age INT CHECK(age > 18)`
+
+---
+### Key and Referential Integrity Constraints
+- 키와 참조 무결성 제약 조건
+#### PRIMARY KEY clause
+- `Dnumber INT PRIMARY KEY`
+- 하나 또는 더 많은 속성을 primary key로 지정함.
+- 여러 개를 지정하는 경우 이를 Composite Key라고 부름
+
+#### UNIQUE clause
+- a.k.a Secondary key or CANDIDATE key
+- `Dname VARCHAR(15) UNIQUE`
+- Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
+
+#### Foreign KEY clause
+- Default operation : 위반(violation)을 없애는 업데이트
+- referential triggered action clause 추가
 Option include
 SET NULL
 CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
