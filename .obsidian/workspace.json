@@ -11,12 +11,14 @@
             "id": "f2571818580c2ae8",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/강의자료/2019-F-Database-Systems-06 (Complex SQL).pdf"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "2019-F-Database-Systems-06 (Complex SQL)"
+              "icon": "lucide-file",
+              "title": "0911 2주차 (2~3장)"
             }
           }
         ]
@@ -85,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -215,6 +218,7 @@
   },
   "active": "f2571818580c2ae8",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
@@ -243,7 +247,6 @@
     "Daily Note/24년 10월",
     "Daily Note/24년 9월",
     "3학년 2학기(24-2)/기타/241017 공공기관 취업 특강.md",
-    "Daily Note/2024-10-19.md",
     "Capture Images/Pasted image 20241019011855.png",
     "Capture Images/Pasted image 20241019011847.png",
     "Capture Images/Pasted image 20241019011836.png",
