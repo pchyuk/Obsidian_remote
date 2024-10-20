@@ -25,7 +25,6 @@
 ### SQL Schema
 - schema 이름을 식별자로서 사용함.
 - 각 요소는 소유한 식별자와 설명자를 포함하고 있음.
-- CREATE TABLE COMPANY.EMPLOYEE
 
 ### Schema elements include
 - Tables
@@ -44,40 +43,48 @@
 
 ---
 ## CREATE TABLE Command in SQL
-Specifying a new relation
-새로운 relation을 만드는 행위임
-Table의 이름이 필요함
-초기 제약 사항과 속성 그리고 타입을 명세해야 함.
-Table 예제
-COMPANY 스키마에 EMPLOYEE라는 테이블 생성
-CREATE TABLE EMPLOYEE
-기본 스키마에 EMPLOYEE라는 테이블 생성
-Base Tables (a.k.a base relations)
-Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된
-다.
-Virtual Relations(a.k.a Views)
-CREATE VIEW STATEMENT를 통해 생성됨.
-물리적 파일과 동일하지 않음.
-외부 키 문제 발생 가능성
-순환 참조 : 둘 이상의 테이블이 서로 참조하는 상황
-아직 생성되지 않은 테이블을 참조할 가능성
-DBA(DB 관리자)는 이 문제가 일어나지 않도록 무결성을 지킬 수 있는 엄격한
-제약을 가해야 함.
-Attribute Data Types and Domains in SQL
-Basic Data Types
-Numeric data type
-INT, INTEGER and SMALLINT
-FLOAT or REAL, DOUBLE PRECISION
-Character|String data types
-Fixed length : CHAR(n), CHARACTER(n)
-Varying length : VARCAHR(n), CHAR VARYING(n), CHARACTER
-VARYING(n)
-Bit-string data types
-bit를 저장하는 데이터 타입
-Fixed length : BIT(n)
-Varying length : BIT VARYING(n)
-Boolean data type
-Values of TRUE or FALSE or NULL
+### Specifying a new relation
+- 새로운 relation을 만드는 행위임
+- Table의 이름이 필요함
+- 초기 제약 사항과 속성 그리고 타입을 명세해야 함.
+
+### Table 예제
+`CREATE TABLE COMPANY.EMPLOYEE`
+- COMPANY 스키마에 EMPLOYEE라는 테이블 생성
+
+`CREATE TABLE EMPLOYEE`
+- 기본 스키마에 EMPLOYEE라는 테이블 생성
+
+### Base Tables (a.k.a base relations)
+- Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된다.
+
+### Virtual Relations(a.k.a Views)
+- `CREATE VIEW` STATEMENT를 통해 생성됨.
+- 물리적 파일과 동일하지 않음.
+
+### 외부 키 문제 발생 가능성
+- 순환 참조 : 둘 이상의 테이블이 서로 참조하는 상황
+- 아직 생성되지 않은 테이블을 참조할 가능성
+- DBA(DB 관리자)는 이 문제가 일어나지 않도록 무결성을 지킬 수 있는 엄격한 제약을 가해야 함.
+
+---
+## Attribute Data Types and Domains in SQL
+### Basic Data Types
+#### Numeric data type
+- INT, INTEGER and SMALLINT
+- FLOAT or REAL, DOUBLE PRECISION
+
+#### Character | String data types
+- Fixed length : CHAR(n), CHARACTER(n)
+- Varying length : VARCAHR(n), CHAR VARYING(n), CHARACTER VARYING(n)
+
+#### Bit-string data types
+- bit를 저장하는 데이터 타입
+- Fixed length : BIT(n)
+- Varying length : BIT VARYING(n)
+
+#### Boolean data type
+- Values of TRUE or FALSE or NULL
 DATE data type
 YYYY-MM-DD 의 10자리를 가지고 있음.
 Component로 YEAR, MONTH 그리고 DAY를 가짐
