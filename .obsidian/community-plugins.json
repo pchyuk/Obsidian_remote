@@ -10,5 +10,6 @@
   "obsidian-git",
   "obsidian-icon-folder",
   "make-md",
-  "open-in-new-tab"
+  "open-in-new-tab",
+  "new-tab-default-page"
 ]
