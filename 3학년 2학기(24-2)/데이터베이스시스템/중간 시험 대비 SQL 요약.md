@@ -203,8 +203,6 @@ WHERE <condition>;
 ```
 
 - attribute list
-	- 요소들에 대해서도 이름을 다시 지을 수 있음!!
-	- 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
 	- attribute 의 이름들에 대한 리스트임.
 - table list
 	- relation의 이름들에 대한 리스트임
@@ -236,22 +234,32 @@ EMPLOYEE AS E(Fn, Mi, ...)
 - WHERE 절이 없는 경우 & Asterisk( * )의 사용법
 
 ### 모든 항목을 선택함 (단일인 경우)
+```SQL
 SELECT Ssn
 FROM EMPLOYEE;
-SQL 가능한 모든 조합에 대해 나옴(여러 개인경우)
-이 경우 모든 EMPLOYEE의 Ssn에 대해서 DEPARTMENT의 Dname과 조합해 나
-옴
+``` 
+- 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
+
+### 가능한 모든 조합에 대해 나옴(여러개인 경우)
+```SQL
 SELECT Ssn, Dname
 FROM EMPLOYEE, DEPARTMENT
-SQL
+```
+- 이 경우 모든 EMPLOYEE의 Ssn에 대해서 DEPARTMENT의 Dname과 조합해 나옴
+
+```
 Ssn | Department
 123 | RESEARCH
 456 | RESEARCH
 123 | DEVELOP
 456 | DEVELOP
-using Asterisk(*)
-선택된 튜플에서 모든 attributes를 가져옴
-Table을 집합으로 사용하는 방법
+```
+
+### using Asterisk( * )
+- 선택된 튜플에서 모든 attributes를 가져옴
+
+---
+## Table을 집합으로 사용하는 방법
 SQL은 쿼리의 결과로 중복되는 튜플을 삭제하지 않는다.
 DISTINCT 키워트를 통해 중복되는 튜플을 삭제할 수 있음 .
 Set Oprations
