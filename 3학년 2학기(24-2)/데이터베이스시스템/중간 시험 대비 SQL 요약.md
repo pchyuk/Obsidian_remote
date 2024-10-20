@@ -217,6 +217,7 @@ WHERE <condition>;
 ---
 ## Aliasing and Renaming
 - 별명을 붙이는 거임
+- `AS` 키워드 사용
 
 ```SQL
 SELECT E.Fname, E.Lname, S.Fname, S.Lname
@@ -231,8 +232,10 @@ EMPLOYEE AS E(Fn, Mi, ...)
 ```
 
 ---
-WHERE 절이 없는경우
-모든 항목을 선택함 (단일인 경우)
+## Unspecified WHERE Clause and Use of the Asterisk
+- WHERE 절이 없는 경우 & Asterisk( * )의 사용법
+
+### 모든 항목을 선택함 (단일인 경우)
 SELECT Ssn
 FROM EMPLOYEE;
 SQL 가능한 모든 조합에 대해 나옴(여러 개인경우)
