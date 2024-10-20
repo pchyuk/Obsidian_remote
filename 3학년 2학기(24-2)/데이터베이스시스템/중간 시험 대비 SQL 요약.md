@@ -332,15 +332,16 @@ FROM <table list>
 ```
 
 ---
-
+## **INSERT, DELETE, and UPDATE Statements in SQL**
 ## INSERT,DELETE ,and UPDATE Stat.in SQL
-insert, delete, update command is modify the DB
-INSERT
-insert a tuple in a relation
-add more than one tuples
-Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
-data type에 대한 제약사항은 자동적으로 관측됨
-부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
+- insert, delete, update command is modify the DB
+
+### INSERT
+- insert a tuple in a relation
+- add more than one tuples
+- Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
+- data type에 대한 제약사항은 자동적으로 관측됨
+- 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
 VALUES ('Richard', 'Marini',4,'653298653')
 or
