@@ -158,23 +158,29 @@
 	- CASCADE 옵션은 관계 relation, 여러 값은 가진 속성, 약한 엔티티 타입에 적합함.
 
 ---
-## 제약사항에 이름 붙이기
-Name a Constraint
-특정한 제약사항을 식별해 이름 붙이기
-나중에 대체할 때 좋음
-예시
+## Giving Names to Constraints
+- 제약사항에 이름 붙이기
+### `CONSTRAINT` 키워드 사용하기
+- 특정한 제약사항을 식별해 이름 붙이기
+- 나중에 대체할 때 좋음
+
+---
+### 예시
+```SQL
 CREATE TABLE EMPLOYEE
-(CONSTRAINT EMPPK
-PRIMARY KEY (Ssn),
-CONSTRAINT EMPSUPERFK
-FOREIGN KEY (Super_ssn) REFERENCES
+	(CONSTRAINT EMPPK
+		PRIMARY KEY (Ssn),
+	CONSTRAINT EMPSUPERFK
+		FOREIGN KEY (Super_ssn) REFERENCES
 EMPLOYEE(Ssn)
-ON DELETE SET NULL ON UPDATE CASCADE,
-CONSTRAINT EMPDEPETFK
-FOREIGN KEY(Dno) REFERENCES
+		ON DELETE SET NULL ON UPDATE CASCADE,
+	CONSTRAINT EMPDEPETFK
+		FOREIGN KEY(Dno) REFERENCES
 DEPARTMENT(Dnumber)
-ON DELETE SET DEFAULT ON UPDATE CASCADE);
-SQL
+		ON DELETE SET DEFAULT ON UPDATE CASCADE);
+```
+
+---
 각각의 튜플에 CHECK를 통해 추가적인 제약 사항이 가능함.
 CHECK (dept_create_date <= Mgr_start_date)
 SQL
