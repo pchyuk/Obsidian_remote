@@ -1,3 +1,4 @@
+# Chap 6: Basic SQL
 ## SQL Data Definition,Data Types,Standards
 ### Terminology
 #### Table
@@ -141,15 +142,15 @@
 #### Foreign KEY clause
 - Default operation : 위반(violation)을 없애는 업데이트
 - referential triggered action clause 추가
-Option include
-SET NULL
-CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
-SET DEFAULT
-SET NULL 또는 SET DEFAULT를 사용하게되면 ON DELETE(삭제 시)와
-ON UPDATE(업데이트 시) 모두 동일하게 적용
-CASCADE 옵션은 관계 relation, 여러 값은 가진 속성, 약한 엔티티 타입
-에 적합함.
-제약사항에 이름 붙이기
+	- Option include
+		- SET NULL
+		- CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
+		- SET DEFAULT
+	- SET NULL 또는 SET DEFAULT를 사용하게되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
+	- CASCADE 옵션은 관계 relation, 여러 값은 가진 속성, 약한 엔티티 타입에 적합함.
+
+---
+## 제약사항에 이름 붙이기
 Name a Constraint
 특정한 제약사항을 식별해 이름 붙이기
 나중에 대체할 때 좋음
