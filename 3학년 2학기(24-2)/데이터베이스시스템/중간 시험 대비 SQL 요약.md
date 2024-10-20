@@ -33,13 +33,14 @@
 - views
 - domains
 - other constructs
-- 또한 각 문장은 세미콜론으로 끝남.
+
+### 또한 각 문장은 세미콜론으로 끝남.
 
 ### CREATE SCHEMA STATEMENT
-- CREATE SCHEMA COMPANY(DB 이름임) AUTHORIZATION 'Jsmith';
+- `CREATE SCHEMA COMPANY(DB 이름임) AUTHORIZATION 'Jsmith';`
 
 ### Catalog
-- SQL 환경에서 스키마의 컬랙션으로 이름지어져 있음
+- SQL 환경에서 ==스키마의 컬렉션==으로 이름지어져 있음
 - 이런 Catalog를 묶은 Cluster of Catalog가 존재하지만 원래 존재하는 개념은 아니고 일부 시스템에서 사용하는 아이디어임.
 
 ---
@@ -71,23 +72,23 @@
 ---
 ## Attribute Data Types and Domains in SQL
 ### Basic Data Types
-#### Numeric data type
+#### **Numeric** data type
 - INT, INTEGER and SMALLINT
 - FLOAT or REAL, DOUBLE PRECISION
 
-#### Character | String data types
+#### **Character-String** data types
 - Fixed length : CHAR(n), CHARACTER(n)
 - Varying length : VARCAHR(n), CHAR VARYING(n), CHARACTER VARYING(n)
 
-#### Bit-string data types
+#### **Bit-string** data types
 - bit를 저장하는 데이터 타입
 - Fixed length : BIT(n)
 - Varying length : BIT VARYING(n)
 
-#### Boolean data type
+#### **Boolean** data type
 - Values of TRUE or FALSE or NULL
 
-#### DATE data type
+#### **DATE** data type
 - YYYY-MM-DD 의 10자리를 가지고 있음.
 - Component로 YEAR, MONTH 그리고 DAY를 가짐
 - 여러가지 매핑 함수가 존재함.
