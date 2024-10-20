@@ -342,42 +342,56 @@ FROM <table list>
 - Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
 - data type에 대한 제약사항은 자동적으로 관측됨
 - 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
+
+```SQL
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
 VALUES ('Richard', 'Marini',4,'653298653')
 or
 INSERT INTO EMPLOYEE
 VALUES ('아무튼 많은 정보들...')
-SQL
-query의 결과를 통해 Insert로 여러 tuple을 넣는 방법도 있음.
+```
+
+- query의 결과를 통해 Insert로 여러 tuple을 넣는 방법도 있음.
+
+```SQL
 CREATE TABLE WORKS_ON_INFO
 (
-Emp_name VARCHAR(15),
-Proj_name VARCHAR(15),
-Hours_per_week DECIMAL(3,1)
+	Emp_name VARCHAR(15),
+	Proj_name VARCHAR(15),
+	Hours_per_week DECIMAL(3,1)
 );
 INSERT INTO WORKS_ON_INFO(Emp_name, Proj_name,
 Hours_per_week)
 SELECT E.Lname,P.Pname,W.Hours
 FROM PROJECT P, WORKS_ON W, EMPLOYEE E
 WHERE P.Pnumber = W.Pno AND W.Essn = E.Ssn;
-SQL
-Bulk loading
-대용량의 tuple을 relation에 넣는 것임.
-LIKE 을 이용한 Attribute 복사
+```
+
+---
+## Bulk Loading of Tables
+- 대용량의 tuple을 relation에 넣는 것임.
+- `LIKE` 을 이용한 Attribute 복사
+```SQL
 CREATE TABLE D001EMP LIKE dept_emp;
-/*dept_emp와 동일한 attribute를 갖는 D001EMP TABLE 생성*/
+/* dept_emp와 동일한 attribute를 갖는 D001EMP TABLE 생성 */
 INSERT INTO D001EMP (SELECT * from dept_emp)
-/*dept_emp의 모든 tuple을 D001EMP로 삽입*/
-SQL
-생성하면서 데이터 복사하기
+/* dept_emp의 모든 tuple을 D001EMP로 삽입 */
+```
+
+- 생성하면서 데이터 복사하기
+```SQL
 CREATE TABLE D5EMPS LIKE EMPLOYEE (
-SELECT E.* FROM EMPLOYEE AS E WHERE E.Dno=5
+	SELECT E.* FROM EMPLOYEE AS E WHERE E.Dno=5
 ) WITH DATA;
-SQL DELETE
+```
+
+
+DELETE
+
 WHERE 절을 포함하여 삭제할 tuple을 정함
 DELETE FROM EMPLOYEE
 WHERE Lname = 'Brown';
-SQL
+
 무결성 참조가 강조됨.
 제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만
 사라짐
