@@ -116,6 +116,7 @@
 - `CREATE TYPE`
 
 ---
+## **Specifying Constraints in SQL**
 ## Specifying Constraints in SQL
 ### Basic Constraints
 #### Key Constraints
@@ -192,6 +193,7 @@ DEPARTMENT(Dnumber)
 - 각 튜플에 개별적으로 적용
 
 ---
+## **Basic Retrieval Queries in SQL**
 ## Basic Retrieval Queries in SQL
 - Retrieval - 검색
 - 집합에 대한 operation들에 대해 알아보는 챕터임.
@@ -330,6 +332,7 @@ FROM <table list>
 ```
 
 ---
+
 ## INSERT,DELETE ,and UPDATE Stat.in SQL
 insert, delete, update command is modify the DB
 INSERT
