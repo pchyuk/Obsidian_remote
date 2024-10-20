@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "d0ad4f84cd7f4762",
+            "id": "f9f2940226ac7b96",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -168,7 +168,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -301,6 +302,7 @@
   },
   "active": "c51da49d752bb9a6",
   "lastOpenFiles": [
+    "Tags",
     "Daily Note/2024-10-31.md",
     "Daily Note/2024-10-30.md",
     "Daily Note/2024-10-29.md",
@@ -313,7 +315,6 @@
     "Daily Note/2024-10-22.md",
     "Daily Note/2024-10-21.md",
     "README.md",
-    "Tags",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1 (6장).md",
     "Daily Note/2024-10-20.md",
     "Daily Note/24년 10월",
@@ -329,7 +330,6 @@
     "Daily Note/24년 9월/2024-09-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
     "Daily Note/24년 9월/2024-09-14.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
     "Capture Images/Pasted image 20241019011855.png",
     "Capture Images/Pasted image 20241019011847.png",
     "Capture Images/Pasted image 20241019011836.png",
