@@ -13,12 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데베시 중간 대비 문제 및 풀이"
+              "title": "0923 4주차 (3장)"
+            }
+          },
+          {
+            "id": "3a26874586478b1b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
+                "viewState": {
+                  "x": 160,
+                  "y": -71,
+                  "zoom": -0.11671172214488335
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "0902"
             }
           }
         ]
@@ -87,8 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -218,6 +234,10 @@
   },
   "active": "f2571818580c2ae8",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
+    "Pasted image 20241020211934.png",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
@@ -226,7 +246,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
     "Daily Note/2024-10-20.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
@@ -243,8 +262,6 @@
     "Daily Note/2024-10-25.md",
     "Daily Note/2024-10-24.md",
     "Daily Note/2024-10-23.md",
-    "Daily Note/2024-10-22.md",
-    "Daily Note/2024-10-21.md",
     "Daily Note/24년 10월",
     "Daily Note/24년 9월",
     "Capture Images/Pasted image 20241019011855.png",
@@ -256,7 +273,6 @@
     "Capture Images/Pasted image 20241018024713.png",
     "Capture Images/Pasted image 20241017214227.png",
     "Capture Images/Pasted image 20241017214054.png",
-    "Capture Images/Pasted image 20241017213752.png",
     "3학년 2학기(24-2)/기타",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-05 (Basic SQL).en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-07 (Relational ALgebra).en.ko.pdf",
@@ -265,7 +281,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-03.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/번역본/2019-F-Database-Systems-04.en.ko.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
