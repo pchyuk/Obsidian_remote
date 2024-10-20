@@ -93,19 +93,25 @@
 - Component로 YEAR, MONTH 그리고 DAY를 가짐
 - 여러가지 매핑 함수가 존재함.
 
-#### Timestamp data type
+---
+### Additional data types
+#### **Timestamp** data type
 - DATE와 TIME field를 포함함
 
-#### INTERVAL data type
+#### **INTERVAL** data type
 - date나 time, timestamp 값에 증가 또는 감소시킬수 있는 값임
-- DATE, TIME, Timestamp, INTERVAL 데이터 타입들은 문자열 포맷으로 바뀔 수 있음.
+#### **DATE, TIME, Timestamp, INTERVAL** 데이터 타입들은 **문자열 포맷으로 바뀔 수 있음.**
 
 ---
 ### Domain
-- 속성 명세에 사용된 이름
+- ==속성 명세에 사용된 이름==
 - 여러 속성에 의해 사용되는 domain의 data type을 바꾸는 것을 쉽게 만들어 줌.
 - 속성 값이 가질 수 있는 범위와 데이터 타입을 정의하는 개념.
+- 스키마의 가독성을 올려 줌
 - `CREATE DOMAIN SSN_TYPE AS CHAR(9)`
+
+### TYPE
+- 사용자 정의
 
 ---
 ## Specifying Constraints
