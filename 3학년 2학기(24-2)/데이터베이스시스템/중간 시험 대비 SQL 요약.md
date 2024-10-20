@@ -272,28 +272,36 @@ Table을 집합으로 사용하는 방법
 	- UNION ALL, EXCEPT ALL ~~
 
 ---
-Substring Pattern Matching and Arithmetic Operators
-Like Comparison operator
-% - 0 개 이상의 임의의 문자를 대체함
-_ - 정확히 한 개의 문자를 대체함
-using
+## Substring Pattern Matching and Arithmetic Operators
+### `LIKE` 비교 연산자
+- `%` - 0 개 이상의 임의의 문자를 대체함
+- `_` - 정확히 한 개의 문자를 대체함
+#### using
+```SQL
 SELECT Fname
 FROM EMPLOYEE
 WHERE Address LIKE '%Cheongju%'
-SQL
-Between
+```
+
+### `BETWEEN` 비교 연산자
+```SQL
 SELECT *
 FROM EMPLOYEE
 WHERE (Salary BETWEEN 30000 AND 40000);
-SQL
-Arithmetic Operations
-+, -, *, / 다 있음.
-보통 SELECT에 포함되어 사용함
+```
+
+---
+## Arithmetic Operations
+### Standard arithmitic operations
+- +, -, * , / 다 있음.
+- 보통 SELECT에 포함되어 사용함
+
+```SQL
 SELECT E.Fname, E.Lname, 1.1* E.Salary AS Increased_sal
 FROM EMPLOYEE AS E, WORKS_ON AS W, PROJECT AS P
 WHERE E.Ssn = W.Essn AND W.Pno = P.Pnumber AND P.Pname =
 'ProductX';
-SQL
+```
 ORDER BY Clause
 Keyword
 DESC(내림차순)
