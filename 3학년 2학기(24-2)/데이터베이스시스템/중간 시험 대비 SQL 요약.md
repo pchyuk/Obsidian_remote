@@ -302,24 +302,34 @@ FROM EMPLOYEE AS E, WORKS_ON AS W, PROJECT AS P
 WHERE E.Ssn = W.Essn AND W.Pno = P.Pnumber AND P.Pname =
 'ProductX';
 ```
-ORDER BY Clause
-Keyword
-DESC(내림차순)
-ASC(오름차순)
-일반적으로 쿼리 끝에옴
+
+---
+### `ORDER BY` 절 사용
+- Keyword
+	- `DESC`(내림차순)
+	- `ASC`(오름차순)
+- 일반적으로 쿼리 끝에 옴
+
+```SQL
 SELECT D.Dname, E.Lname, E.Fname, P.Pname
 FROM DEPARTMENT AS D, EMPLOYEE AS E, WORKS_ON AS W, PROJECT
 AS P
 WHERE D.Dnumber = E.Dno AND E.Ssn = W.Essn AND W.Pno =
 P.Pnumber
 ORDER BY D.Dname, E.Lname, E.Fname;
-SQL
-BASIC SQL Retrieval Query Block
+```
+
+---
+## BASIC SQL Retrieval Query Block
+```SQL
 SELECT <attribute list>
 FROM <table list>
 [WHERE <condition>]
 [ORDER BY <attribute list> <keyword>]
-INSERT,DELETE ,and UPDATE Stat.in SQL
+```
+
+---
+## INSERT,DELETE ,and UPDATE Stat.in SQL
 insert, delete, update command is modify the DB
 INSERT
 insert a tuple in a relation
