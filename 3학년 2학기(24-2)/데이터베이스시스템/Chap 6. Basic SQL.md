@@ -187,14 +187,14 @@ DEPARTMENT(Dnumber)
 
 ### 각각의 튜플에 `CHECK`를 통해 추가적인 제약 사항이 가능함.
 
-### `CHECK (Dept_create_date <= Mgr_start_date)`
-- 해당 절은 CREATE TABLE문장의 끝부분에 와야 함.
+### `CHECK` 절은 CREATE TABLE문장의 끝부분에 와야 함.
 - 각 튜플에 개별적으로 적용
+- `CHECK (Dept_create_date <= Mgr_start_date)`
 
 ---
 ## **Basic Retrieval Queries in SQL**
 ## Basic Retrieval Queries in SQL
-- Retrieval - 검색
+- Retrieval - 집합
 - 집합에 대한 operation들에 대해 알아보는 챕터임.
 
 ### SELECT Statement
