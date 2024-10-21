@@ -236,7 +236,8 @@ EMPLOYEE AS E(Fn, Mi, ...)
 - WHERE 절이 없는 경우 & Asterisk( * )의 사용법
 
 ### WHERE 절이 없을 때
-- 
+- 튜플 선택에 대한 조건이 없음을 나타냄
+
 ```SQL
 SELECT Ssn
 FROM EMPLOYEE;
@@ -244,7 +245,9 @@ FROM EMPLOYEE;
 - 모든 항목을 선택함 (단일인 경우)
 - 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
 
-### 가능한 모든 조합에 대해 나옴(여러개인 경우)
+### 결과는 Cross-product이다
+- 가능한 모든 조합에 대해 나옴(여러 개인 경우)
+
 ```SQL
 SELECT Ssn, Dname
 FROM EMPLOYEE, DEPARTMENT
