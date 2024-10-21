@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "5659f7a4ce269681",
+            "id": "a9ff52255b279b35",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,12 +126,12 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -242,8 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
