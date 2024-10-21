@@ -4,52 +4,207 @@
     "type": "split",
     "children": [
       {
-        "id": "cc192cfd813cc3a4",
+        "id": "4afa48a90cffa1d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d82af1cfb7ca2bbf",
+            "id": "25da488ac39f434b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1021 8주차 (10장)"
+              "title": "Chap 6. Basic SQL"
             }
           },
           {
-            "id": "48eab43ccb7cdfb1",
+            "id": "c487ef8a24362ec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1017 7주차 (9장)"
+              "title": "데베시 중간 대비 최종본"
             }
           },
           {
-            "id": "832a71656a31f0a0",
+            "id": "152a1bb6b25db8eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1014 7주차 (8~9장)"
+              "title": "0902 1주차 (1장)"
+            }
+          },
+          {
+            "id": "e9dc5afc4f81ccec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0904 1주차 (1장)"
+            }
+          },
+          {
+            "id": "e628c648c5d8b018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0911 2주차 (2~3장)"
+            }
+          },
+          {
+            "id": "53db961ae175b6bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0923 4주차 (3장)"
+            }
+          },
+          {
+            "id": "d2c44c77d53fdfa7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0925 4주차 (5장)"
+            }
+          },
+          {
+            "id": "345f678d6d1bd5d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0930 5주차 (5~6장)"
+            }
+          },
+          {
+            "id": "145bf43b190cd547",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차 (6장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1002 5주차 (6장)"
+            }
+          },
+          {
+            "id": "90d4cc9cd338cf8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1 (6장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1007 6주차 - 1 (6장)"
+            }
+          },
+          {
+            "id": "0cc0850e714c5f31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2 (7장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1007 6주차 - 2 (7장)"
+            }
+          },
+          {
+            "id": "b1f02a455c14b787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1014 7주차 (7장)"
+            }
+          },
+          {
+            "id": "2ab67f872dbb9dc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1016 7주차 - 1 (7장)"
+            }
+          },
+          {
+            "id": "251ac0bdf07332de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1016 7주차 - 2 (8장)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +257,7 @@
             }
           },
           {
-            "id": "a9ff52255b279b35",
+            "id": "dfe8152edb8e97a0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -115,8 +270,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -227,8 +381,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,38 +397,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d82af1cfb7ca2bbf",
+  "active": "152a1bb6b25db8eb",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2 (7장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1 (6장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차 (6장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
     "Pasted image 20241021105123.png",
     "Pasted image 20241021105107.png",
     "Pasted image 20241021105052.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
     "Pasted image 20241021040351.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
     "Pasted image 20241021040154.png",
     "Pasted image 20241021040059.png",
     "Pasted image 20241021040039.png",
     "Pasted image 20241021040021.png",
     "Pasted image 20241021035900.png",
     "Pasted image 20241021035645.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 1 (6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0930 5주차 (5~6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/1002 5주차 (6장).md",
     "Daily Note/2024-10-20.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
