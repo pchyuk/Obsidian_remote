@@ -138,17 +138,17 @@
 ---
 ### Specifying Key and Referential Integrity Constraints
 - 키와 참조 무결성 제약 조건
-#### **PRIMARY KEY** clause
+#### **PRIMARY KEY** 절
 - `Dnumber INT PRIMARY KEY`
 - 하나 또는 더 많은 속성을 primary key로 지정함.
 - 여러 개를 지정하는 경우 이를 Composite Key라고 부름
 
-#### **UNIQUE** clause
+#### **UNIQUE** 절
 - a.k.a Secondary key or CANDIDATE key
 - `Dname VARCHAR(15) UNIQUE`
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
 
-#### **Foreign KEY** clause
+#### **Foreign KEY** 절
 - Default operation : 위반(violation)을 없애는 업데이트
 - referential triggered action clause 추가
 	- Option include
