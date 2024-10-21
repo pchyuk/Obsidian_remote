@@ -104,9 +104,18 @@
               "icon": "lucide-file",
               "title": "1007 6주차 (7~8장)"
             }
+          },
+          {
+            "id": "b6aa3e45314e70c2",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -299,7 +308,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98125bea9d4dd0b8",
+  "active": "b6aa3e45314e70c2",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차 (7~8장).md",
