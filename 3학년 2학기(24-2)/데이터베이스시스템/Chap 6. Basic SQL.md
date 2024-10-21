@@ -235,11 +235,13 @@ EMPLOYEE AS E(Fn, Mi, ...)
 ## Unspecified WHERE Clause and Use of the Asterisk
 - WHERE 절이 없는 경우 & Asterisk( * )의 사용법
 
-### 모든 항목을 선택함 (단일인 경우)
+### WHERE 절이 없을 때
+- 
 ```SQL
 SELECT Ssn
 FROM EMPLOYEE;
 ``` 
+- 모든 항목을 선택함 (단일인 경우)
 - 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
 
 ### 가능한 모든 조합에 대해 나옴(여러개인 경우)
