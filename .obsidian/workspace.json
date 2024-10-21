@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "1016 7주차 - 2 (8장)"
             }
+          },
+          {
+            "id": "fee18b96ff9916eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/0904 1주차 (1장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0904 1주차 (1장)"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -144,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -273,10 +286,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22ebd8f56748ad11",
+  "active": "fee18b96ff9916eb",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 2 (8장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/1007 6주차 - 2 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
