@@ -4,95 +4,118 @@
     "type": "split",
     "children": [
       {
-        "id": "2efaeb9e2d5f777e",
+        "id": "a0b958a7bf1dff31",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e4541ecad1732d",
+            "id": "7f55ff32ce63651d",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "e90e3d9664f4cc30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차 (2장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chap 6. Basic SQL"
+              "title": "0912 2주차 (2장)"
             }
           },
           {
-            "id": "ee142c22cb7ae48a",
+            "id": "59d3465b4172c05c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/0925.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1 (2장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0925"
+              "title": "0916 3주차 - 1 (2장)"
             }
           },
           {
-            "id": "291461dfcdafb529",
+            "id": "583fa8c6e3538deb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2 (3장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1021 8주차 (10장)"
+              "title": "0916 3주차 - 2 (3장)"
             }
           },
           {
-            "id": "b86487c6a28ecaee",
+            "id": "a08f9e3c4bb0a220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차 (4장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1017 7주차 (9장)"
+              "title": "0919 3주차 (4장)"
             }
           },
           {
-            "id": "98125bea9d4dd0b8",
+            "id": "7fd4ae2c150d979f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차 (4~5장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1014 7주차 (8~9장)"
+              "title": "0923 4주차 (4~5장)"
             }
           },
           {
-            "id": "ebc0b6e298f9fb21",
+            "id": "452304e19145c1a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차 (8장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차 (5~6장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1010 6주차 (8장)"
+              "title": "0930 5주차 (5~6장)"
             }
           },
           {
-            "id": "9cd0973f22e49e94",
+            "id": "b0ff153a335b8e70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 (7장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1003 5주차 (7장)"
+            }
+          },
+          {
+            "id": "1f470c8607019416",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -106,16 +129,63 @@
             }
           },
           {
-            "id": "b6aa3e45314e70c2",
+            "id": "0367bacb9679a7e2",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차 (8장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1010 6주차 (8장)"
+            }
+          },
+          {
+            "id": "433fa461f520a7f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1014 7주차 (8~9장)"
+            }
+          },
+          {
+            "id": "ab1753420a836fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1017 7주차 (9장)"
+            }
+          },
+          {
+            "id": "2fd64ffb11ff2e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1021 8주차 (10장)"
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -168,7 +238,7 @@
             }
           },
           {
-            "id": "465bd829ec621aed",
+            "id": "8b1d157d8be9f07d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,7 +247,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -308,13 +379,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6aa3e45314e70c2",
+  "active": "433fa461f520a7f1",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/프로그래밍언어론/1010 6주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1007 6주차 (7~8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1014 7주차 (8~9장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1021 8주차 (10장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1017 7주차 (9장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0923 4주차 (4~5장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 (7장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차 (4장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2 (3장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 1 (2장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/0912 2주차 (2장).md",
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
@@ -329,7 +407,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/0925 4주차 (5장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0923 4주차 (3장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차 (2~3장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902 1주차 (1장).md",
     "Pasted image 20241021105123.png",
     "Pasted image 20241021105107.png",
     "Pasted image 20241021105052.png",
@@ -340,13 +417,7 @@
     "Pasted image 20241021040021.png",
     "Pasted image 20241021035900.png",
     "Pasted image 20241021035645.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/.md",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
-    "Daily Note/2024-10-20.md",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1010 마일스톤 미팅.md",
-    "README.md",
     "Tags",
     "Daily Note/24년 10월",
     "Daily Note/24년 9월",
