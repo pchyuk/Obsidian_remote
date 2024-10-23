@@ -15,8 +15,37 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "c3c94813115e1133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1010 6주차 - 1 (4장)"
+            }
+          },
+          {
+            "id": "51f99115134c936d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1010 6주차 - 2 (5장)"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -211,13 +239,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91ebad98e8875329",
+  "active": "c3c94813115e1133",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1008 6주차 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1022 8주차 - 1 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 2 (5장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1003 5주차 - 2 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/1022 8주차 - 2 (6장).md",
     "Pasted image 20241022143821.png",
