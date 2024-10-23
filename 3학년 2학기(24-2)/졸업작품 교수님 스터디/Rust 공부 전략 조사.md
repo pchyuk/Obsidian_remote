@@ -114,7 +114,11 @@
 - the books for rust
 	- Chap 17..18 
 	- Rust의 객체 지향 기능
+		- 트레이드 객체
+		- 객체지향 디자인 패턴턴
 	- 패턴, 매칭
+		- 반박 가능성
+		- 패턴 문법법
 - Rust by example
 	- 21. Testing
 - Rust by practice
@@ -140,6 +144,8 @@
 - the books for rust
 	- Chap 20 
 	- 최종 프로젝트: 멀티스레드 웹 서버 구축하기
+		- 싱글스레드 웹 서버 먼저 구축
+		- 싱글스레드를 멀티스레드로
 - Rust by practice
 	- 29. Async/Await TODO
 	- 30. Standard Library TODO
