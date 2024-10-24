@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -174,12 +173,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/Rust 공부 전략 조사.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1106 졸작 관련 랩실 컨택 리스트업.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Rust 공부 전략 조사의 나가는 링크"
+              "title": "1106 졸작 관련 랩실 컨택 리스트업의 나가는 링크"
             }
           },
           {
@@ -193,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -214,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
