@@ -57,9 +57,18 @@
               "icon": "lucide-file",
               "title": "1010 6주차 - 2 (5장)"
             }
+          },
+          {
+            "id": "0914d3e1a080490b",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -112,23 +121,20 @@
             }
           },
           {
-            "id": "3a73fbc3dd1ebae5",
+            "id": "3d51c22af782616e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -199,12 +205,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1022 8주차 - 2 (6장).md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/Rust 공부 전략 조사.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1022 8주차 - 2 (6장)의 나가는 링크"
+              "title": "Rust 공부 전략 조사의 나가는 링크"
             }
           },
           {
@@ -218,7 +224,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -239,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,7 +261,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "58c221e952617abc",
+  "active": "0914d3e1a080490b",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/소프트웨어공학/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/Rust 공부 전략 조사.md",
