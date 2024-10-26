@@ -1,5 +1,7 @@
 # Obsidian_remote
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Welcome%20to%20pchyuk's%20Obsidian!%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=header&fontSize=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lobster&size=50&pause=1000&color=58A6FF&center=true&vCenter=true&width=870&height=100&lines=Welcome+to+pchyuk's+Obsidian!)](https://git.io/typing-svg)
+
 ### pchyuk의 Obsidian 입니다.
 #### TIL (Today I Learned)
 - 강의자료, 수업 내용 정리
