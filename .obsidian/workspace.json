@@ -159,7 +159,7 @@
             }
           },
           {
-            "id": "3f1ba72eced352e9",
+            "id": "11b36a48c95527cb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -168,7 +168,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -287,6 +288,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "widgets:Add widget": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
