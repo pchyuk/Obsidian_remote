@@ -168,8 +168,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,7 +299,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c51da49d752bb9a6",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "Daily Note/2024-10-31.md",
     "Daily Note/2024-10-30.md",
