@@ -67,18 +67,14 @@
             "id": "c51da49d752bb9a6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false
-                  ]
-                }
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "0910 2주차 (2장)"
             }
           },
           {
@@ -172,8 +168,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -217,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Kanban.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled Kanban"
+              "title": "Outline of 0910 2주차 (2장)"
             }
           },
           {
@@ -306,10 +301,10 @@
   },
   "active": "c51da49d752bb9a6",
   "lastOpenFiles": [
+    "Untitled Kanban.md",
     "Day Planners/Day Planner-20241027.md",
     "Day Planners",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md",
-    "Untitled Kanban.md",
     "README.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20241024154600.png",
