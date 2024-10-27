@@ -13,7 +13,8 @@
             "state": {
               "type": "beautitab-react-view",
               "state": {},
-              "title": "New tab"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -126,7 +127,7 @@
             }
           },
           {
-            "id": "d7312dda4ed0c713",
+            "id": "f73668f2fd47a225",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -180,10 +181,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/0912 2주차 (2장).md"
               },
               "icon": "lucide-list",
-              "title": "0910 2주차 (2장) 개요"
+              "title": "0912 2주차 (2장) 개요"
             }
           },
           {
@@ -270,6 +271,7 @@
   },
   "active": "1d6ec258d645c6b6",
   "lastOpenFiles": [
+    "Tags",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md",
     "Pasted Images/Pasted image 20241024152114.png",
     "Pasted Images/Pasted image 20241024152103.png",
@@ -307,7 +309,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
-    "Tags",
     "Daily Note/24년 10월",
     "Daily Note/24년 9월",
     "3학년 2학기(24-2)/기타",
