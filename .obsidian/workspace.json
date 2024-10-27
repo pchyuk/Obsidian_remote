@@ -22,31 +22,17 @@
             }
           },
           {
-            "id": "e6c18e6a64d7df96",
+            "id": "3d0d0f173232a9dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 & 소공 회의/1013 회의록.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1013 회의록"
-            }
-          },
-          {
-            "id": "882eca677835eac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/24년 10월/2024-10-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-10-27"
+              "title": "0910 2주차 (2장)"
             }
           },
           {
@@ -76,9 +62,22 @@
               "icon": "lucide-file",
               "title": "0919 3주차 (2장)"
             }
+          },
+          {
+            "id": "882eca677835eac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/24년 10월/2024-10-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-10-27"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/24년 10월/2024-10-27.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-27 개요"
+              "title": "2. Qualities 개요"
             }
           },
           {
@@ -273,16 +272,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "882eca677835eac9",
+  "active": "c3173fd5832a0aee",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
+    "3학년 2학기(24-2)/졸업작품 & 소공 회의/1013 회의록.md",
+    "Daily Note/24년 10월/2024-10-27.md",
     "Daily Note/24년 10월/2024-10-16.md",
     "Daily Note/24년 10월/2024-10-12.md",
-    "Daily Note/24년 10월/2024-10-27.md",
     "Daily Note/24년 10월",
     "Daily Note/24년 10월/2024-10-28.md",
-    "3학년 2학기(24-2)/졸업작품 & 소공 회의/1013 회의록.md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0912 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본",
