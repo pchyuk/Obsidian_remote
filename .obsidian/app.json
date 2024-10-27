@@ -14,5 +14,6 @@
     "downscalePercent": 70
   },
   "focusNewTab": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "Pasted Images"
 }
