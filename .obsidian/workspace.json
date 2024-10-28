@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -199,10 +199,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1008 6주차 (4장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md"
               },
               "icon": "lucide-list",
-              "title": "1008 6주차 (4장) 개요"
+              "title": "4. Software Project Management 개요"
             }
           },
           {
@@ -287,11 +287,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5118b278681b3f34",
+  "active": "ce21fa148ce72029",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 2 (4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1008 6주차 (4장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 2 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1022 8주차 - 2 (6장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1024 8주차 (6장).md",
