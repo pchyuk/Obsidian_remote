@@ -77,7 +77,8 @@
               "title": "1003 5주차 - 1 (3장)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md"
               },
               "icon": "lucide-list",
-              "title": "2. Qualities 개요"
+              "title": "3. Software Process & Its Models 개요"
             }
           },
           {
@@ -272,15 +273,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d217a56d1ef13b48",
+  "active": "3a1a182701012825",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md",
     "Pasted Images/Pasted image 20241028221630.png",
     "Pasted Images/Pasted image 20241028221555.png",
     "Pasted Images/Pasted image 20241028221329.png",
     "Pasted Images/Pasted image 20241028221314.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0924 4주차 (3장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 1 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0926 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
