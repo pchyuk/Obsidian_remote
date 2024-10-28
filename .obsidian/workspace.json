@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -185,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 2 (4장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1008 6주차 (4장).md"
               },
               "icon": "lucide-list",
-              "title": "1003 5주차 - 2 (4장) 개요"
+              "title": "1008 6주차 (4장) 개요"
             }
           },
           {
@@ -273,11 +273,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ce21fa148ce72029",
+  "active": "5118b278681b3f34",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 2 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1010 6주차 - 1 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1008 6주차 (4장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 2 (4장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1003 5주차 - 1 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0924 4주차 (3장).md",
@@ -288,7 +289,6 @@
     "Pasted Images/Pasted image 20241028233951.png",
     "Pasted Images/Pasted image 20241028233647.png",
     "Pasted Images/Pasted image 20241028233633.png",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "Pasted Images/Pasted image 20241028221630.png",
     "Pasted Images/Pasted image 20241028221555.png",
     "Pasted Images/Pasted image 20241028221329.png",
