@@ -77,7 +77,8 @@
               "title": "5. Requirement Analysis & Specification (1)"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/2024 소공 홍장의 교수님 중간 족보.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md"
               },
               "icon": "lucide-list",
-              "title": "2024 소공 홍장의 교수님 중간 족보 개요"
+              "title": "3. Software Process & Its Models 개요"
             }
           },
           {
@@ -270,13 +271,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d217a56d1ef13b48",
+  "active": "3a1a182701012825",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/2024 소공 홍장의 교수님 중간 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/5. Requirement Analysis & Specification (1).md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
-    "3학년 2학기(24-2)/소프트웨어공학/2024 소공 홍장의 교수님 중간 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1022 8주차 - 1 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1017 7주차 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1010 6주차 - 2 (5장).md",
