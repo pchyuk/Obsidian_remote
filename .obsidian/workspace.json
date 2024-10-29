@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/5. Requirement Analysis & Specification (1).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md"
               },
               "icon": "lucide-list",
-              "title": "5. Requirement Analysis & Specification (1) 개요"
+              "title": "4. Software Project Management 개요"
             }
           },
           {
@@ -300,12 +300,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ffa60dbafc921250",
+  "active": "ce21fa148ce72029",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1017 7주차 (5장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1010 6주차 - 2 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/5. Requirement Analysis & Specification (1).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1022 8주차 - 1 (5장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1017 7주차 (5장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1010 6주차 - 2 (5장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1022 8주차 - 2 (6장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
