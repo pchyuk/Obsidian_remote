@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "060030412fba294b",
+            "id": "72f3c95c1dcb455d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e2a95321544d567b",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차 (4장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2 (3장).md",
