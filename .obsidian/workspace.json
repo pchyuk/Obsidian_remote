@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/24년 10월/2024-10-29.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1030 9주차 (9장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-10-29"
+              "title": "1030 9주차 (9장)"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/24년 10월/2024-10-29.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/1030 9주차 (9장).md"
               },
               "icon": "lucide-list",
-              "title": "2024-10-29 개요"
+              "title": "1030 9주차 (9장) 개요"
             }
           },
           {
@@ -215,11 +214,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "e2a95321544d567b",
   "lastOpenFiles": [
+    "Daily Note/24년 10월/2024-10-29.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/1030 9주차 (9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/0919 3주차 (4장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/0916 3주차 - 2 (3장).md",
-    "Daily Note/24년 10월/2024-10-29.md",
     "Daily Note/24년 10월/2024-10-28.md",
     "Daily Note/24년 10월/2024-10-31.md",
     "Daily Note/24년 10월/2024-10-30.md",
@@ -252,7 +252,6 @@
     "Pasted Images/Pasted image 20241028221314.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0912 2주차 (2장).md",
     "Daily Note/24년 10월",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본",
