@@ -78,20 +78,6 @@
             }
           },
           {
-            "id": "8bfa688c37fb9f8b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1010 6주차 (8장)"
-            }
-          },
-          {
             "id": "27bbc93d62e5bd8a",
             "type": "leaf",
             "state": {
@@ -120,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -226,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md"
               },
               "icon": "lucide-list",
-              "title": "8. First-Order functions 개요"
+              "title": "9. First-Class Functions 개요"
             }
           },
           {
@@ -313,12 +299,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "213f049f1c772c09",
+  "active": "27bbc93d62e5bd8a",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "Pasted Images/Pasted image 20241104010938.png",
     "Pasted Images/Pasted image 20241104010907.png",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
     "Pasted Images/Pasted image 20241104005710.png",
@@ -345,7 +331,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0912 2주차 (2장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
-    "Pasted Images/Pasted image 20241103214248.png",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions (GPT).md",
