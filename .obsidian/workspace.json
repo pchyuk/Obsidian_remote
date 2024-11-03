@@ -8,63 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35218db235cff716",
+            "id": "fd1e67188a7b367c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Introduction to Scala"
+              "title": "5. Pattern Matching"
             }
           },
           {
-            "id": "f6111fd6b70b6f10",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0916 3주차 - 1 (2장)"
-            }
-          },
-          {
-            "id": "011d807e37464b8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0916 3주차 - 2 (3장)"
-            }
-          },
-          {
-            "id": "bfa15a562ac7e78c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. Immutability"
-            }
-          },
-          {
-            "id": "d7df7bb030506514",
+            "id": "e3f7076fc564252a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,7 +36,7 @@
             }
           },
           {
-            "id": "d1d12f0e66120554",
+            "id": "69c06e2d0e4fae05",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,125 +50,49 @@
             }
           },
           {
-            "id": "596f73dbc0c22221",
+            "id": "5214d018ce2c94da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데베시 중간 대비 문제 및 풀이"
+              "title": "1. Introduction"
             }
           },
           {
-            "id": "f0c6f5f6431877b2",
+            "id": "548441094415a723",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "데베시 중간 대비 최종본"
+              "title": "2. Introduction to Scala"
             }
           },
           {
-            "id": "397fad9bf7d1e40f",
+            "id": "59edc177a661ae7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1016 7주차 - 2 (8장)"
-            }
-          },
-          {
-            "id": "3055fcab813c2c82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1016 7주차 - 1 (7장)"
-            }
-          },
-          {
-            "id": "7334d703d8053ad5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chap 6. Basic SQL"
-            }
-          },
-          {
-            "id": "67c9d7353874449e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": -71,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0902"
-            }
-          },
-          {
-            "id": "658dcf1302e9a5d5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
-                "viewState": {
-                  "x": 160,
-                  "y": -71,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "0902"
-            }
-          },
-          {
-            "id": "fd1e67188a7b367c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. Pattern Matching"
+              "title": "3. Immutability"
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md"
               },
               "icon": "lucide-list",
-              "title": "5. Pattern Matching 개요"
+              "title": "4. Functions 개요"
             }
           },
           {
@@ -366,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -403,8 +285,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6744a7ae97f7538",
+  "active": "e3f7076fc564252a",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions (GPT).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1030 9주차 (9장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
@@ -413,11 +301,7 @@
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
     "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions (GPT).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0912 2주차 (2장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion (PPT).md",
@@ -431,7 +315,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers (PDF, PPT).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics (PPT, PDF).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
     "Pasted Images/Pasted image 20241102180057.png",
