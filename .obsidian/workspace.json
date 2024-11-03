@@ -139,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1106 졸작 관련 랩실 컨택 리스트업.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. Recursion"
+              "title": "1106 졸작 관련 랩실 컨택 리스트업"
             }
           },
           {
@@ -282,10 +282,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1106 졸작 관련 랩실 컨택 리스트업.md"
               },
               "icon": "lucide-list",
-              "title": "10. Recursion 개요"
+              "title": "1106 졸작 관련 랩실 컨택 리스트업 개요"
             }
           },
           {
@@ -332,7 +332,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -371,6 +371,7 @@
   },
   "active": "7911887a2a417da7",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
@@ -380,7 +381,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/2. Introduction to Scala.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
     "Pasted Images/Pasted image 20241104014157.png",
     "Pasted Images/Pasted image 20241104014103.png",
     "Pasted Images/Pasted image 20241104014050.png",
