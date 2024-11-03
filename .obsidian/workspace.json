@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "9aa9c08042f23466",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0930 5주차 (5~6장)"
+            }
+          },
+          {
             "id": "f9114f0b6f8d5a67",
             "type": "leaf",
             "state": {
@@ -87,7 +101,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -153,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -194,10 +207,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md"
               },
               "icon": "lucide-list",
-              "title": "0923 4주차 (4~5장) 개요"
+              "title": "4. Functions 개요"
             }
           },
           {
@@ -282,13 +295,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a65f5dee292d1d92",
+  "active": "ac29db8b57f4f597",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
@@ -313,7 +327,6 @@
     "Pasted Images/Pasted image 20241102175235.png",
     "Pasted Images/Pasted image 20241102175120.png",
     "Pasted Images/Pasted image 20241102174951.png",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
     "Daily Note/2024-11-01.md",
