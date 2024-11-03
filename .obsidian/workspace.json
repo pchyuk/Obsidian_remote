@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8193b98a11f7cc5f",
+            "id": "31031c78c0bd3960",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions (PPT).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. First-Order functions"
+              "title": "9. First-Class Functions (PPT)"
             }
           },
           {
-            "id": "acd7ff73fcc04036",
+            "id": "52ec407526494a65",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1007 6주차 (7~8장)"
+              "title": "1014 7주차 (8~9장)"
             }
           }
         ]
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions (PPT).md"
               },
               "icon": "lucide-list",
-              "title": "8. First-Order functions 개요"
+              "title": "9. First-Class Functions (PPT) 개요"
             }
           },
           {
@@ -230,12 +230,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8193b98a11f7cc5f",
+  "active": "31031c78c0bd3960",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions (PPT).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions (PPT).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers (PDF, PPT).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics (PPT, PDF).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
@@ -246,7 +249,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
@@ -255,7 +257,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1017 7주차 (9장).md",
     "Daily Note/2024-11-02.md",
     "Pasted Images/Pasted image 20241102180057.png",
@@ -264,7 +265,6 @@
     "Pasted Images/Pasted image 20241102175235.png",
     "Pasted Images/Pasted image 20241102175120.png",
     "Pasted Images/Pasted image 20241102174951.png",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
     "Daily Note/2024-11-01.md",
     "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트",
