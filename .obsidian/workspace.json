@@ -50,6 +50,104 @@
             }
           },
           {
+            "id": "9413e71da594a705",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0930 5주차 (5~6장)"
+            }
+          },
+          {
+            "id": "99c54b7dc3fda69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1003 5주차 (7장)"
+            }
+          },
+          {
+            "id": "5ba9c4faa797d8ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1017 7주차 (9장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1017 7주차 (9장)"
+            }
+          },
+          {
+            "id": "561572f0281618fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1014 7주차 (8~9장)"
+            }
+          },
+          {
+            "id": "23d4adebe326e73d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1010 6주차 (8장)"
+            }
+          },
+          {
+            "id": "802642d4773bd146",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1021 8주차 (10장)"
+            }
+          },
+          {
+            "id": "63310c677bfa8531",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1024 8주차 (10장)"
+            }
+          },
+          {
             "id": "4dce260bc8af6fac",
             "type": "leaf",
             "state": {
@@ -118,37 +216,9 @@
               "icon": "lucide-file",
               "title": "10. Recursion"
             }
-          },
-          {
-            "id": "c2b2281fa86ecd87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1024 8주차 (10장)"
-            }
-          },
-          {
-            "id": "6c5e61f9114499bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1021 8주차 (10장)"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,10 +324,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md"
               },
               "icon": "lucide-list",
-              "title": "1021 8주차 (10장) 개요"
+              "title": "6. Syntax and Semantics 개요"
             }
           },
           {
@@ -304,7 +374,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -341,13 +411,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6c5e61f9114499bf",
+  "active": "fbf63f47475df8eb",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1017 7주차 (9장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "Pasted Images/Pasted image 20241103221023.png",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
@@ -370,11 +446,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 최종본.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/데베시 중간 대비 문제 및 풀이.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
     "Pasted Images/Pasted image 20241102180057.png",
