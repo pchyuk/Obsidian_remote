@@ -8,48 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "510cdf105aee99a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/1. Introduction.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Introduction"
-            }
-          },
-          {
-            "id": "ac29db8b57f4f597",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Functions"
-            }
-          },
-          {
-            "id": "a65f5dee292d1d92",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0923 4주차 (4~5장)"
-            }
-          },
-          {
             "id": "57aa158bd4f0802b",
             "type": "leaf",
             "state": {
@@ -78,30 +36,49 @@
             }
           },
           {
-            "id": "f9114f0b6f8d5a67",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "85bde1a14841fcf0",
+            "id": "bfd9218e7c3f027f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1024 8주차 (10장)"
+              "title": "1003 5주차 (7장)"
+            }
+          },
+          {
+            "id": "90ce51b822e5440b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. Syntax and Semantics"
+            }
+          },
+          {
+            "id": "d84337682838fe13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7. Identifiers"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md"
               },
               "icon": "lucide-list",
-              "title": "5. Pattern Matching 개요"
+              "title": "7. Identifiers 개요"
             }
           },
           {
@@ -296,9 +273,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "57aa158bd4f0802b",
+  "active": "d84337682838fe13",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
@@ -310,7 +289,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
@@ -319,7 +297,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1017 7주차 (9장).md",
     "Daily Note/2024-11-02.md",
@@ -348,6 +325,4 @@
     "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
-    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
-  ]
-}
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/clas
