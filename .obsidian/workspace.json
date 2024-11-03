@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -212,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md"
               },
               "icon": "lucide-list",
-              "title": "9. First-Class Functions 개요"
+              "title": "10. Recursion 개요"
             }
           },
           {
@@ -299,11 +299,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27bbc93d62e5bd8a",
+  "active": "7911887a2a417da7",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/7. Identifiers.md",
     "Pasted Images/Pasted image 20241104010938.png",
     "Pasted Images/Pasted image 20241104010907.png",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
