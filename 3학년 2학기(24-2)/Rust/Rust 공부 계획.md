@@ -9,7 +9,7 @@
 
 
 ---
-## 전략
+## 계획
 ### Week 1
 - [ ] The Rust Programming Language
 	- [ ] 1. 시작해 봅시다
