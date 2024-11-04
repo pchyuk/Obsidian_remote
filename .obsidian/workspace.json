@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략 조사.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1023 Rust 공부 전략 조사"
+              "title": "1023 Rust 공부 전략"
             }
           }
         ],
@@ -97,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -138,10 +137,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략 조사.md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략.md"
               },
               "icon": "lucide-list",
-              "title": "1023 Rust 공부 전략 조사 개요"
+              "title": "1023 Rust 공부 전략 개요"
             }
           },
           {
@@ -169,12 +168,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략 조사.md",
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1023 Rust 공부 전략.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1023 Rust 공부 전략 조사의 나가는 링크"
+              "title": "1023 Rust 공부 전략의 나가는 링크"
             }
           },
           {
@@ -209,8 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
