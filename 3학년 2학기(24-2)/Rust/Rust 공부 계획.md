@@ -14,11 +14,11 @@
 ### Week 1
 - [ ] The Rust Programming Language
 	- [x] 1. 시작해 봅시다 ✅ 2024-11-05
-	- [ ] 2. 추리 게임을 통한 전체적인 구조 파악
+	- [x] 2. 추리 게임을 통한 전체적인 구조 파악 ✅ 2024-11-06
 	- [ ] 3. 변수와 가변성, 데이터 타입, 주석, 제어 흐름문
 
 - [ ] Rust by Example
-	- [ ] primitives
+	- [ ] 2. primitives
 
 - [ ] Rust by Practice
 	- [ ] hello world
