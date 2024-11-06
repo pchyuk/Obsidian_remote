@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장 질문.md",
+                "file": "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장 질문.md",
                 "mode": "source",
                 "source": false
               },
@@ -36,12 +36,36 @@
             }
           },
           {
+            "id": "e89bb35daeef7419",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/Rust/Week 1/1~3장 공부.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "1~3장 공부"
+            }
+          },
+          {
+            "id": "51aad9a4d72cc858",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/Rust/Week 1/Study Rust Day1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Study Rust Day1"
+            }
+          },
+          {
             "id": "4cfdd25b35446a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장.md",
+                "file": "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장 질문.md"
+                "file": "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장 질문.md"
               },
               "icon": "lucide-list",
               "title": "Week 1 - 1 ~ 3장 질문 개요"
@@ -245,8 +269,12 @@
   },
   "active": "5f421437b1edc8a1",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장.md",
-    "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장 질문.md",
+    "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장.md",
+    "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장 질문.md",
+    "3학년 2학기(24-2)/Rust/Week 1/Study Rust Day1.pdf",
+    "3학년 2학기(24-2)/Rust/Week 1/1~3장 공부.pdf",
+    "3학년 2학기(24-2)/Rust/Week 1/Questions.pdf",
+    "3학년 2학기(24-2)/Rust/Week 1",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "3학년 2학기(24-2)/서버프로그래밍/1031.md",
@@ -281,17 +309,12 @@
     "Pasted Images/Pasted image 20241104010907.png",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1010 6주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
     "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트",
-    "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-07-SoftwareDesign-Modularity.pdf",
-    "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-07-SoftwareDesign-Modularity.en.ko.pdf",
-    "3학년 2학기(24-2)/기타/진로고민/~$2024학년도 전기 대학원 석,박사 선발 현황(게시).xlsx",
-    "3학년 2학기(24-2)/기타/진로고민/2021-전기 일반대학원 신입생 선발 현황.xls",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
