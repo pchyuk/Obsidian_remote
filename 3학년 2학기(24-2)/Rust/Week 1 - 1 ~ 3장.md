@@ -106,8 +106,35 @@ fn main() {
 	let k = 'out_loop': loop {
 		let mut rem = 0;
 		loop {
-		
+			println!("rem : {rem}");
+			if rem == 2 {
+				break;
+			}
+			if cnt == 2 {
+				break 'out_loop' cnt*2
+			}
+			rem += 1;
 		}
+		cnt += 1;
+	}
+	println!("cnt : {cnt}");
+	println!("k : {k}");
+}
+```
+
+---
+## while statement
+- 우리가 흔히 아는 while 문이다.
+
+---
+## for statement
+- python for문
+- count down 예제
+
+```rust
+fn main() {
+	for n in (1..4).rev() { // for n in range(3,0,-1)
+		println!()
 	}
 }
 ```
