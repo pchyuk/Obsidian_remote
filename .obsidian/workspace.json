@@ -22,48 +22,6 @@
             }
           },
           {
-            "id": "5f0bcd9ba84be230",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/1031.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1031"
-            }
-          },
-          {
-            "id": "f4f6176fb5f93781",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1101 회의록"
-            }
-          },
-          {
-            "id": "7470944e8345d4bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/0925.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0925"
-            }
-          },
-          {
             "id": "5f421437b1edc8a1",
             "type": "leaf",
             "state": {
@@ -78,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -131,7 +89,7 @@
             }
           },
           {
-            "id": "39151834392d073e",
+            "id": "70fd9252484ae276",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md"
+                "file": "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장.md"
               },
               "icon": "lucide-list",
-              "title": "1101 회의록 개요"
+              "title": "Week 1 - 1 ~ 3장 개요"
             }
           },
           {
@@ -271,13 +229,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f4f6176fb5f93781",
+  "active": "5f421437b1edc8a1",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
+    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "3학년 2학기(24-2)/서버프로그래밍/1031.md",
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "Day Planners/Day Planner-20241027.md",
     "Daily Note/2024-11-02.md",
-    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "Pasted Images/Pasted image 20241105131619.png",
@@ -309,7 +268,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1014 7주차 (8~9장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1017 7주차 (9장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
