@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "b65a049b4e9458e5",
+            "id": "aa5ea7880941abbc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,8 +97,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,7 +228,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6744a7ae97f7538",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/Rust/Week 1 - 1 ~ 3장.md",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
