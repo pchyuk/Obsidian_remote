@@ -1,3 +1,4 @@
+# Chap. 1
 ## Output
 - Hello world
 
@@ -16,10 +17,31 @@ fn main() {
 
 ### intructions
 - `cargo new`로 새 프로젝트를 생성할 수 있습니다. 
+	- `cargo new "project_name"`
 - `cargo build` 명령으로 프로젝트를 빌드할 수 있습니다. 
 - `cargo run` 명령어는 한 번에 프로젝트를 빌드하고 실행할 수 있습니다. 
-- `cargo check` 명령으로 바이너리를 생성하지 않고 프로젝트의 에러를 체크 할 수 있습니다. 
+- `cargo check` 명령으로 바이너리를 생성하지 않고 프로젝트의 에러를 체크 할 수 있습니다.
+
 - 빌드로 만들어진 파일은 작성한 소스 코드와 뒤섞이지 않도록 *target/debug* 디렉터리에 저장됩니다.
+
+---
+# Chap.2
+## Mutable
+- let x = 5;
+	- 이렇게 하면 나중에 값 수정을 할 수 없다.
+- let mut x;
+	- 이렇게 선언하거나
+- [;]
+
+
+
+
+
+
+
+
+
+
 
 ---
 ## Condition
@@ -134,7 +156,20 @@ fn main() {
 ```rust
 fn main() {
 	for n in (1..4).rev() { // for n in range(3,0,-1)
-		println!()
+		println!("{number}!");
 	}
 }
 ```
+
+---
+## Debugging
+`std::fmt`
+- `fmt::Debug` 의 `{:?}` 는 디버깅 목적으로 사용된다.
+
+---
+## Dead code
+- 사용되지 않지만 선언만 된 변수 / 함수들
+
+---
+## Debug 모드
+- `{:?}` 타입 그대로 출력한다.
