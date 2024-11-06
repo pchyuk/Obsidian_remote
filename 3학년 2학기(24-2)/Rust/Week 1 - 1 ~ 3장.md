@@ -56,3 +56,58 @@ fn main(){
 ```
 
 ---
+## Loop statement
+- `loop`는 기본적으로 무한 반복이다.
+- `break`를 통해 나갈 수 있다.
+
+### value return
+```rust
+fn main(){
+	let mut cnt = 0;
+	let s = loop {
+		cnt += 1;
+		if cnt == 10 {
+			break cnt;
+		}
+	}
+}
+```
+
+- `;` 는 없어도 된다.
+
+---
+### labeling loop
+
+```rust
+fn main(){
+	let mut cnt = 0;
+	'out_loop': loop {
+		let mut rem = 0;
+		loop {
+			if rem == 2 {
+				break;
+			}
+			if cnt == 2 {
+				break 'out_loop';
+			}
+			rem += 1;
+		}
+		cnt += 1;
+	}
+	println!("cnt : {cnt}");
+}
+```
+
+- value return 과 응용
+
+```rust
+fn main() {
+	let mut cnt = 0;
+	let k = 'out_loop': loop {
+		let mut rem = 0;
+		loop {
+		
+		}
+	}
+}
+```
