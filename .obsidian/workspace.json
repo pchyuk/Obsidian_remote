@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md",
+                "file": "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1107 10주차 -2 (8장)"
+              "title": "24.11.07 CUVIC 대학원 연구실 설명"
+            }
+          },
+          {
+            "id": "945d244645b84bfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.10.17 공공기관 취업 특강"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,8 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -143,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md"
+                "file": "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강.md"
               },
               "icon": "lucide-list",
-              "title": "1107 10주차 -2 (8장) 개요"
+              "title": "24.10.17 공공기관 취업 특강 개요"
             }
           },
           {
@@ -214,8 +227,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7de773a92ad3af91",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
+    "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
@@ -268,7 +281,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/6. Syntax and Semantics.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/4. Functions.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/5. Pattern Matching.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/3. Immutability.md",
     "Pasted Images/Pasted image 20241104014157.png",
     "Pasted Images/Pasted image 20241104014103.png",
     "Pasted Images/Pasted image 20241104014050.png",
