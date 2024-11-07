@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md"
               },
               "icon": "lucide-list",
-              "title": "1024 8주차 (10장) 개요"
+              "title": "1107 10주차 (10~11장) 개요"
             }
           },
           {
@@ -243,8 +243,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e2cce5f19e1fc2c",
+  "active": "6ae61f419dafbee2",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1021 8주차 (10장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
     "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장 질문.md",
@@ -279,7 +280,6 @@
     "Pasted Images/Pasted image 20241104014050.png",
     "Pasted Images/Pasted image 20241104014022.png",
     "Pasted Images/Pasted image 20241104013725.png",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1024 8주차 (10장).md",
     "Pasted Images/Pasted image 20241104013403.png",
     "Pasted Images/Pasted image 20241104013131.png",
     "Pasted Images/Pasted image 20241104010938.png",
