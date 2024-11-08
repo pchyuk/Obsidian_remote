@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1108.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24.11.07 CUVIC 대학원 연구실 설명"
-            }
-          },
-          {
-            "id": "5b16369e808fc0dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1016 HTCondor 정리 보고서"
+              "title": "1108"
             }
           }
         ]
@@ -97,12 +83,12 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -142,10 +128,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1108.md"
               },
               "icon": "lucide-list",
-              "title": "24.11.07 CUVIC 대학원 연구실 설명 개요"
+              "title": "1108 개요"
             }
           },
           {
@@ -213,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,8 +218,9 @@
   },
   "active": "7de773a92ad3af91",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
+    "3학년 2학기(24-2)/산학프로젝트/1108.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "README.md",
     "Daily Note/2024-11-07.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
@@ -267,7 +255,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1106 졸작 관련 랩실 컨택 리스트업.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/10. Recursion.md",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/9. First-Class Functions.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본/8. First-Order functions.md",
     "Pasted Images/Pasted image 20241104014157.png",
     "Pasted Images/Pasted image 20241104014103.png",
     "Pasted Images/Pasted image 20241104014050.png",
