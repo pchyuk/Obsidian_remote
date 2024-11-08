@@ -34,21 +34,9 @@
               "icon": "lucide-file",
               "title": "교원대 대학원"
             }
-          },
-          {
-            "id": "465f5eb04b18c28b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025학년도 전기 대학원 신입생 모집요강"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +89,7 @@
             }
           },
           {
-            "id": "4b7651aff5786aff",
+            "id": "e242d8f6ddcdc1c6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -110,7 +98,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -154,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf"
+                "file": "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md"
               },
               "icon": "lucide-list",
-              "title": "2025학년도 전기 대학원 신입생 모집요강 개요"
+              "title": "교원대 대학원 개요"
             }
           },
           {
