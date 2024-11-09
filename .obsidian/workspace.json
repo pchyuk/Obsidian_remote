@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-09.md",
+                "file": "Daily Note/2024-11-11.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-09"
+              "title": "2024-11-11"
             }
           }
         ],
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-09.md"
+                "file": "Daily Note/2024-11-11.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-09 개요"
+              "title": "2024-11-11 개요"
             }
           },
           {
@@ -232,9 +232,9 @@
   },
   "active": "5b0542183c258d80",
   "lastOpenFiles": [
-    "Daily Note/2024-11-08.md",
-    "Daily Note/2024-11-09.md",
     "Daily Note/2024-11-10.md",
+    "Daily Note/2024-11-09.md",
+    "Daily Note/2024-11-08.md",
     "Daily Note/2024-11-06.md",
     "Daily Note/2024-11-07.md",
     "Daily Note/Template.md",
