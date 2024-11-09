@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-09.md",
+                "file": "Daily Note/2024-11-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-09"
+              "title": "2024-11-08"
             }
           }
         ]
@@ -127,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-09.md"
+                "file": "Daily Note/2024-11-08.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-09 개요"
+              "title": "2024-11-08 개요"
             }
           },
           {
@@ -217,20 +217,24 @@
   },
   "active": "593f756f60fcb830",
   "lastOpenFiles": [
-    "Daily Note/2024-11-01.md",
     "Daily Note/2024-11-09.md",
-    "Daily Note/Template.md",
+    "Daily Note/2024-11-16.md",
+    "Daily Note/2024-11-15.md",
+    "Daily Note/2024-11-14.md",
+    "Daily Note/2024-11-13.md",
+    "Daily Note/2024-11-12.md",
     "Daily Note/2024-11-11.md",
-    "README.md",
-    "Daily Note/2024-11-03.md",
-    "Daily Note/2024-11-02.md",
     "Daily Note/2024-11-10.md",
     "Daily Note/2024-11-08.md",
     "Daily Note/2024-11-07.md",
     "Daily Note/2024-11-06.md",
     "Daily Note/2024-11-05.md",
     "Daily Note/2024-11-04.md",
-    "Daily Note/2024-11-12.md",
+    "Daily Note/2024-11-03.md",
+    "Daily Note/2024-11-01.md",
+    "Daily Note/2024-11-02.md",
+    "Daily Note/Template.md",
+    "README.md",
     "3학년 2학기(24-2)/소프트웨어공학/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/5. Requirement Analysis & Specification (1).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
@@ -241,7 +245,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/졸업작품 & 소공 회의/1015 회의록.md",
     "3학년 2학기(24-2)/소프트웨어공학/졸업작품 & 소공 회의/1013 회의록.md",
     "3학년 2학기(24-2)/소프트웨어공학/졸업작품 & 소공 회의",
-    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트",
     "Pasted Images/Pasted image 20241107105233.png",
     "Pasted Images/Pasted image 20241107105210.png",
@@ -254,9 +257,6 @@
     "Pasted Images/Pasted image 20241104013725.png",
     "Pasted Images/Pasted image 20241104014022.png",
     "Pasted Images",
-    "Daily Note/24년 10월/2024-10-31.md",
-    "Daily Note/24년 10월/2024-10-30.md",
-    "Daily Note/24년 10월/2024-10-29.md",
     "Daily Note/24년 10월",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본",
