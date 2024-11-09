@@ -12,15 +12,14 @@
 #### Daily Note
 - To Do List
 	- 그날 그날의 일정들
-		- 대부분은 시간표입니다...
 		- 과제, 회의, 약속 등등
 		- Reminder
 - Daily Diary
 	- 일기장
-- Wanna Buy
-	- 사고싶은 것 
+	- Wanna Buy
+		- 사고싶은 것 
 		- 언젠간 살 것들...?
-- Bucket List
-	- 하고싶은 것
-- etc
-	- 잡담, 그저 메모
+	- Bucket List
+		- 하고싶은 것
+	- etc
+		- 잡담, 그저 메모
