@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-11.md"
+                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-11 개요"
+              "title": "Rust 공부 계획 개요"
             }
           },
           {
@@ -201,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-11-11.md",
+                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-11-11의 나가는 링크"
+              "title": "Rust 공부 계획의 나가는 링크"
             }
           },
           {
@@ -257,10 +257,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e6744a7ae97f7538",
+  "active": "62475312e4b6a3a9",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "Daily Note/2024-11-11.md",
+    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "Daily Note/2024-11-08.md",
     "conflict-files-obsidian-git.md",
     "Daily Note/Template.md",
