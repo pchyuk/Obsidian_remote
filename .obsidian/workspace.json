@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,8 +126,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-11.md"
+                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-11 개요"
+              "title": "Rust 공부 계획 개요"
             }
           },
           {
@@ -258,10 +257,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea5b69a124478363",
+  "active": "62475312e4b6a3a9",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
     "Daily Note/2024-11-11.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
     "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
     "3학년 2학기(24-2)/산학프로젝트/1108.md",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
