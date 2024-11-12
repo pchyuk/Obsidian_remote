@@ -11,9 +11,14 @@
             "id": "06764bc94979ee47",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-11-12.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-11-12"
             }
           },
           {
@@ -228,6 +233,8 @@
   },
   "active": "a4683e071421e81f",
   "lastOpenFiles": [
+    "Daily Note/2024-11-12.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1112 11주차 (8장).md",
     "Pasted Images/Pasted image 20241112133221.png",
     "Pasted Images/Pasted image 20241112133205.png",
     "Pasted Images/Pasted image 20241112133148.png",
@@ -235,8 +242,6 @@
     "Pasted Images/Pasted image 20241112133107.png",
     "Pasted Images/Pasted image 20241112133048.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1112 11주차 (8장).md",
-    "Daily Note/2024-11-12.md",
     "Daily Note/2024-11-11.md",
     "Daily Note/2024-11-13.md",
     "Daily Note/Template.md",
@@ -271,7 +276,6 @@
     "3학년 2학기(24-2)/Rust/Week 1/1~3장 공부.pdf",
     "3학년 2학기(24-2)/Rust/Week 1/Questions.pdf",
     "3학년 2학기(24-2)/Rust/Week 1",
-    "Pasted Images/Pasted image 20241105131619.png",
     "3학년 2학기(24-2)/Rust",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본",
     "3학년 2학기(24-2)/프로그래밍언어론/챕터별 정리본",
