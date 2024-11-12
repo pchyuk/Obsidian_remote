@@ -65,12 +65,14 @@
             "id": "ad84078af73227d7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/무제 파일.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "GNU Parallel 2018"
+              "icon": "lucide-file",
+              "title": "무제 파일"
             }
           }
         ],
@@ -180,10 +182,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/무제 파일.md"
               },
               "icon": "lucide-list",
-              "title": "GNU Parallel 2018 개요"
+              "title": "무제 파일 개요"
             }
           },
           {
@@ -269,14 +271,21 @@
   },
   "active": "ad84078af73227d7",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/무제 파일.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel - 영찬.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/Gnu Parallel 조사 - 재찬.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/msoA99C.tmp",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~$GNU parallel.pptx",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/Gnu Parallel 조사.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel.pptx",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
     "Daily Note/2024-11-13.md",
     "Daily Note/24년 11월/2024-11-01.md",
     "Daily Note/24년 11월/2024-11-10.md",
     "Daily Note/24년 11월/2024-11-03.md",
     "Daily Note/24년 11월",
-    "Daily Note/24년 9월/무제 폴더",
     "Daily Note/Template.md",
     "Daily Note/24년 11월/2024-11-04.md",
     "Daily Note/24년 11월/2024-11-05.md",
@@ -299,23 +308,15 @@
     "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
     "3학년 2학기(24-2)/산학프로젝트/1108.md",
     "conflict-files-obsidian-git.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/6장 데이터 정의 언어 실습 문제.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 DDL 실습 과제.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제",
     "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
-    "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
     "README.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "Pasted Images/Pasted image 20241107105233.png",
     "Pasted Images/Pasted image 20241107105221.png",
     "Pasted Images/Pasted image 20241107105210.png",
     "Pasted Images/Pasted image 20241107105148.png",
-    "3학년 2학기(24-2)/Rust/Week 1/Study Rust Day1.pdf",
-    "3학년 2학기(24-2)/Rust/Week 1/1~3장 공부.pdf",
-    "3학년 2학기(24-2)/Rust/Week 1/Questions.pdf",
-    "3학년 2학기(24-2)/Rust/Week 1",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
     "무제 파일.canvas",
