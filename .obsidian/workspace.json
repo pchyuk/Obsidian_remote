@@ -152,8 +152,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md"
+                "file": "Daily Note/2024-11-13.md"
               },
               "icon": "lucide-list",
-              "title": "GNU Parallel 조사 - 찬혁 개요"
+              "title": "2024-11-13 개요"
             }
           },
           {
@@ -284,8 +283,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b07dbdbd9f5d5fdb",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel - 영찬.pdf",
