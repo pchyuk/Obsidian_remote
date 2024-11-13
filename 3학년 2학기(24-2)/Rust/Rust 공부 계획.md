@@ -12,13 +12,13 @@
 ---
 ## 계획
 ### Week 1
-- [ ] The Rust Programming Language
+- [x] The Rust Programming Language ✅ 2024-11-13
 	- [x] 1. 시작해 봅시다 ✅ 2024-11-05
 	- [x] 2. 추리 게임을 통한 전체적인 구조 파악 ✅ 2024-11-06
-	- [ ] 3. 변수와 가변성, 데이터 타입, 주석, 제어 흐름문
+	- [x] 3. 변수와 가변성, 데이터 타입, 주석, 제어 흐름문 ✅ 2024-11-13
 
-- [ ] Rust by Example
-	- [ ] 2. primitives
+- [x] Rust by Example ✅ 2024-11-13
+	- [x] 2. primitives ✅ 2024-11-13
 
 - [ ] Rust by Practice
 	- [ ] hello world
