@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
+                "file": "Daily Note/2024-11-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust 공부 계획"
+              "title": "2024-11-14"
             }
           }
         ],
@@ -146,10 +146,12 @@
             "id": "d8068ffd37de4be6",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Spaces"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -196,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md"
+                "file": "Daily Note/2024-11-14.md"
               },
               "icon": "lucide-list",
-              "title": "Rust 공부 계획 개요"
+              "title": "2024-11-14 개요"
             }
           },
           {
@@ -285,6 +287,8 @@
   },
   "active": "3d527cacb5c961db",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
+    "Daily Note/2024-11-14.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
     "Daily Note/2024-11-13.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
@@ -317,7 +321,6 @@
     "Pasted Images/Pasted image 20241112133107.png",
     "Pasted Images/Pasted image 20241112133048.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md",
-    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
     "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
     "3학년 2학기(24-2)/산학프로젝트/1108.md",
