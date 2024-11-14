@@ -27,16 +27,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1114 11주차 (9장)"
+              "title": "Brief UseCase 작성"
+            }
+          },
+          {
+            "id": "0c0df1d2983a9918",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/1108.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1108"
+            }
+          },
+          {
+            "id": "d78f99c6797a3532",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/1025 8주차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1025 8주차"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1108.md"
               },
               "icon": "lucide-list",
-              "title": "1114 11주차 (9장) 개요"
+              "title": "1108 개요"
             }
           },
           {
@@ -230,10 +258,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "0c0df1d2983a9918",
   "lastOpenFiles": [
-    "3학년 1학기(24-1)/컴파일러 필기노트/기말대비 필기노트.md",
+    "3학년 2학기(24-2)/산학프로젝트/1025 8주차.md",
+    "3학년 2학기(24-2)/산학프로젝트/1108.md",
+    "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
+    "3학년 2학기(24-2)/산학프로젝트/과제",
+    "3학년 1학기(24-1)/컴파일러 필기노트/기말대비 필기노트.md",
     "3학년 1학기(24-1)/객체지향 설계 필기노트/11. DataLayerDesign.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1112 11주차 (8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
@@ -253,7 +285,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/msoA99C.tmp",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~$GNU parallel.pptx",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/Gnu Parallel 조사.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel.pptx",
     "Daily Note/24년 11월/2024-11-01.md",
     "Daily Note/24년 11월/2024-11-10.md",
     "Daily Note/Template.md",
@@ -271,9 +302,6 @@
     "Pasted Images/Pasted image 20241112133124.png",
     "Pasted Images/Pasted image 20241112133107.png",
     "Pasted Images/Pasted image 20241112133048.png",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -2 (8장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1107 10주차 (10~11장).md",
-    "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "Pasted Images/Pasted image 20241107105233.png",
     "Pasted Images/Pasted image 20241107105221.png",
