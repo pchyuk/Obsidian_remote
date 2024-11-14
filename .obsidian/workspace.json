@@ -8,89 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "06764bc94979ee47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-12.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-12"
-            }
-          },
-          {
-            "id": "a4683e071421e81f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/24년 11월/2024-11-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-03"
-            }
-          },
-          {
-            "id": "8b202841204f3430",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-13"
-            }
-          },
-          {
-            "id": "23a527418268cc4e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "HTCondor__"
-            }
-          },
-          {
-            "id": "ad84078af73227d7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GNU Parallel 조사 - 찬혁"
-            }
-          },
-          {
             "id": "3d527cacb5c961db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-14.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-14"
+              "title": "1114 11주차 (12장)"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,22 +74,21 @@
             }
           },
           {
-            "id": "d8068ffd37de4be6",
+            "id": "13f50627fa9058d2",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -198,10 +128,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-14.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-14 개요"
+              "title": "1114 11주차 (12장) 개요"
             }
           },
           {
@@ -269,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,10 +218,13 @@
   },
   "active": "3d527cacb5c961db",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "Daily Note/2024-11-14.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
     "Daily Note/2024-11-13.md",
+    "Daily Note/24년 11월/2024-11-03.md",
+    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel - 영찬.pdf",
@@ -300,10 +234,8 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~$GNU parallel.pptx",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/Gnu Parallel 조사.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel.pptx",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
     "Daily Note/24년 11월/2024-11-01.md",
     "Daily Note/24년 11월/2024-11-10.md",
-    "Daily Note/24년 11월/2024-11-03.md",
     "Daily Note/Template.md",
     "Daily Note/24년 11월/2024-11-04.md",
     "Daily Note/24년 11월/2024-11-05.md",
@@ -328,7 +260,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 DDL 실습 과제.md",
     "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/1016 HTCondor 정리 보고서.md",
-    "README.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "Pasted Images/Pasted image 20241107105233.png",
     "Pasted Images/Pasted image 20241107105221.png",
