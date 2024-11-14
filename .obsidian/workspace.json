@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,10 +170,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1108.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md"
               },
               "icon": "lucide-list",
-              "title": "1108 개요"
+              "title": "Brief UseCase 작성 개요"
             }
           },
           {
@@ -258,10 +258,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0c0df1d2983a9918",
+  "active": "9dd1f08a340375bc",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/산학프로젝트/1025 8주차.md",
     "3학년 2학기(24-2)/산학프로젝트/1108.md",
+    "3학년 2학기(24-2)/산학프로젝트/1025 8주차.md",
     "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
     "3학년 2학기(24-2)/산학프로젝트/과제",
