@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
+                "file": "Daily Note/2024-11-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1114 11주차 (12장)"
+              "title": "2024-11-14"
             }
           },
           {
@@ -101,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -142,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md"
+                "file": "Daily Note/2024-11-14.md"
               },
               "icon": "lucide-list",
-              "title": "1114 11주차 (12장) 개요"
+              "title": "2024-11-14 개요"
             }
           },
           {
@@ -192,7 +191,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -213,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -232,13 +230,13 @@
   },
   "active": "3d527cacb5c961db",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
+    "Daily Note/2024-11-13.md",
     "Daily Note/2024-11-14.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
-    "Daily Note/2024-11-13.md",
     "Daily Note/24년 11월/2024-11-03.md",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
