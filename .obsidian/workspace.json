@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Daily Note/2024-11-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2024-11-15"
             }
           },
           {
@@ -226,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Daily Note/2024-11-15.md"
               },
               "icon": "lucide-list",
-              "title": "README 개요"
+              "title": "2024-11-15 개요"
             }
           },
           {
@@ -315,6 +315,7 @@
   },
   "active": "ee712b227290b900",
   "lastOpenFiles": [
+    "README.md",
     "Daily Note/2024-11-15.md",
     "Daily Note/Template.md",
     "Daily Note/2024-11-14.md",
@@ -342,7 +343,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
     "3학년 2학기(24-2)/산학프로젝트/과제",
     "3학년 1학기(24-1)/컴파일러 필기노트/기말대비 필기노트.md",
-    "3학년 1학기(24-1)/객체지향 설계 필기노트/11. DataLayerDesign.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/HTCondor__.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel - 영찬.pdf",
