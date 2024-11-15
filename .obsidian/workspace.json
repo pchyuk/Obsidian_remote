@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-15.md",
+                "file": "Daily Note/2024-11-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-15"
+              "title": "2024-11-16"
             }
           },
           {
@@ -155,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-15.md"
+                "file": "Daily Note/2024-11-16.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-15 개요"
+              "title": "2024-11-16 개요"
             }
           },
           {
@@ -242,10 +242,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "9dd1f08a340375bc",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "Daily Note/2024-11-15.md",
+    "Daily Note/2024-11-16.md",
+    "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "README.md",
     "Daily Note/2024-11-14.md",
     "Pasted Images/Pasted image 20241115105135.png",
