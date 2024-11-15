@@ -49,8 +49,7 @@
               "title": "Rust 공부 계획"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-15.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-15 개요"
+              "title": "1115 11주차 개요"
             }
           },
           {
@@ -243,12 +242,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "147cbbb448d67785",
+  "active": "9dd1f08a340375bc",
   "lastOpenFiles": [
+    "Daily Note/2024-11-15.md",
     "README.md",
     "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "Daily Note/2024-11-14.md",
-    "Daily Note/2024-11-15.md",
     "Pasted Images/Pasted image 20241115105135.png",
     "Pasted Images/14.png",
     "Daily Note/Template.md",
