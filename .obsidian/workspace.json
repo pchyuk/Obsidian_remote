@@ -35,8 +35,7 @@
               "title": "2024-11-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-15.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-15 개요"
+              "title": "1115 11주차 개요"
             }
           },
           {
@@ -231,10 +230,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "248178faf89da132",
+  "active": "9dd1f08a340375bc",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "Daily Note/2024-11-15.md",
+    "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "3학년 2학기(24-2)/산학프로젝트/1025 8주차.md",
     "3학년 2학기(24-2)/산학프로젝트/1108.md",
     "Daily Note/2024-11-12.md",
