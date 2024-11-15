@@ -1,5 +1,5 @@
 ## To Do List
-### Task
+### Tasks
 - [ ] 📅
 
 ### Study
