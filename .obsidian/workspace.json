@@ -111,8 +111,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -243,7 +242,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9dd1f08a340375bc",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "Daily Note/2024-11-15.md",
