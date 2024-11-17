@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-17.md"
+                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-17 개요"
+              "title": "Rust 공부 계획 개요"
             }
           },
           {
@@ -243,10 +243,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "c44b11f210616db9",
   "lastOpenFiles": [
-    "Daily Note/2024-11-18.md",
     "Daily Note/2024-11-17.md",
+    "Daily Note/2024-11-18.md",
     "Daily Note/2024-11-15.md",
     "Daily Note/2024-11-16.md",
     "Daily Note/2024-11-14.md",
