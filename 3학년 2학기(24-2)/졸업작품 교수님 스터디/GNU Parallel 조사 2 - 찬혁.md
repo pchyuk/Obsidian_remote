@@ -251,23 +251,23 @@ parallel --tmpdir /var/tmp --files echo ::: A B C
 /var/tmp/7ZAcf3WZ.par
 /var/tmp/Liuka_2L.par
 ```
-또는:
 
-bash
-
-
+- 또는
+```bash
 TMPDIR=/var/tmp parallel --files echo ::: A B C
-출력: 위와 동일합니다.
+```
 
-출력 결과는 --results를 사용하여 구조화된 방식으로 저장할 수 있습니다:
+- 출력: 위와 동일
 
-bash
-
-
+- 출력 결과는 `--results`를 사용하여 구조화된 방식으로 저장할 수 있다.
+```bash
 parallel --results outfile echo ::: A B C
-출력:
+```
 
-
+- 출력:
+```bash
 A
 B
 C
+```
+
