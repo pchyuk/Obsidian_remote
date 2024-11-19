@@ -75,7 +75,7 @@ export -f half_line_print
 
 - 숫자 (#)를 인수로 받아들인다. 
 - 전체 줄 ‘#-start’와 그 뒤에 반 줄 ‘#’를 출력한다. 
-- 그런 다음 # 초 동안 잠자고, ‘-middle’과 ‘#-end’를 출력합니다.
+- 그런 다음 # 초 동안 잠자고, ‘-middle’과 ‘#-end’를 출력한다다.
 
 - 인수와 같은 순서로 출력을 강제하려면 `--keep-order/-k`를 사용한다.
 
@@ -83,7 +83,7 @@ export -f half_line_print
 parallel -j2 -k half_line_print ::: 4 2 1
 ```
 
-- output
+- 출력
 ```bash
 4-start
 4-middle
@@ -98,3 +98,52 @@ parallel -j2 -k half_line_print ::: 4 2 1
 
 ---
 ## 6.4 Output before jobs complete
+- 작업 완료 전에 출력하기
+
+- GNU Parallel은 명령이 완료될 때까지 출력을 연기한다.
+
+```bash
+parallel -j2 half_line_print ::: 4 2 1
+```
+
+- 출력
+```bash
+2-start
+2-middle
+2-end
+1-start
+1-middle
+1-end
+4-start
+4-middle
+4-end
+```
+
+- 이는 `--group`이 기본값이기 때문이다. 
+- 즉시 출력을 받으려면 `--ungroup/-u`를 사용해라.
+
+```bash
+parallel -j2 --ungroup half_line_print ::: 4 2 1
+```
+
+- 출력
+```bash
+4-start
+42-start
+2-middle
+2-end
+1-start
+1-middle
+1-end
+-middle
+4-end
+```
+
+- `--ungroup`은 빠르지만 `--tag`를 비활성화하여 한 작업의 반 줄이 다른 작업의 반 줄과 섞일 수 있습니다. 이는 두 번째 줄에서 '4-middle'이 '2-start'와 섞인 경우에서 발생했습니다.
+
+이를 피하려면 --linebuffer를 사용하여 전체 줄만 출력하도록 합니다:
+
+bash
+
+
+parallel -j2 --linebuffer half_line_print ::: 4 2 1
