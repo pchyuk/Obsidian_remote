@@ -27,5 +27,29 @@ C-bar    foo-C
 ---
 
 ## 6.2 See what is being run
-- 무엇이 실행되고 있는지 확인하라
+- 무엇이 실행되고 있는지 확인
 
+- `--dryrun`을 사용하여 실행하지 않고도 어떤 명령이 실행될지 확인한다.
+	- `parallel --dryrun echo {} ::: A B C`
+
+- 출력 결과(순서는 변동 가능)
+```
+echo A
+echo B
+echo C
+```
+
+- 실행하기 전에 명령을 출력하고 싶을 땐 `--verbose`를 사용한다.
+	- `parallel --verbose echo {} ::: A B C`
+
+- 출력 결과(순서는 변동 가능)
+```
+echo A
+echo B
+A
+echo C
+B
+C
+```
+
+- 이 내용은 반만 맞음. 8.
