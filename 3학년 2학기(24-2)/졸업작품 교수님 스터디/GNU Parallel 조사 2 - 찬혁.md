@@ -57,7 +57,7 @@ C
 ## 6.3 Force same order as input
 - 입력과 동일한 순서로 강제 실행
 
-```
+```bash
 half_line_print(){
 	printf "%s-start\n%s" $1 $1
 	sleep $1
@@ -67,3 +67,13 @@ half_line_print(){
 export -f half_line_print
 ```
 
+- 숫자 (#)를 인수로 받아들인다. 
+- 전체 줄 ‘#-start’와 그 뒤에 반 줄 ‘#’를 출력한다. 
+- 그런 다음 # 초 동안 잠자고, ‘-middle’과 ‘#-end’를 출력합니다.
+
+- 인수와 같은 순서로 출력을 강제하려면 --keep-order/-k를 사용합니다:
+
+bash
+
+
+parallel -j2 -k half_line_print ::: 4 2 1
