@@ -341,3 +341,49 @@ echo "${myarray[1]}"
 5
 ```
 
+- 명령어를 실행할 수 있는 배열:
+```bash
+cmd=("echo '<<Joe \"double space\" cartoon>>'" "pwd")
+parset data -j2 ::: "${cmd[@]}"
+echo "${data[0]}"
+echo "${data[1]}"
+```
+
+- 출력
+```bash
+<<Joe "double space" cartoon>>
+[current dir]
+```
+
+---
+### 6.8.1 파이프에서 읽지 않기
+- GNU Parset는 파이프에서 읽을 수 없다. 
+- 이는 parset가 서브셸에서 시작되기 때문이며, 
+- 따라서 출력이 시작 셸에서 보이지 않게 된다. 이를 위한 몇 가지 해결 방법이 있습니다.
+
+6.8.1.1 임시 파일 사용
+
+파이프에서 직접 읽는 대신, 출력을 파일에 저장하고 parset가 그 파일에서 읽도록 합니다:
+
+bash
+
+
+seq 3 > parallel_input
+parset res1,res2,res3 echo ::: parallel_input
+echo "$res1"
+echo "$res2"
+echo "$res3"
+rm parallel_input
+6.8.1.2 프로세스 치환 사용
+
+셸이 프로세스 치환을 지원하면(Bash, Zsh, Ksh 모두 지원), 이를 사용할 수 있습니다:
+
+bash
+
+
+parset res echo ::: <(seq 100)
+echo "${res[1]}"
+echo "${res[99]}"
+6.8.1.3 FIFO 사용
+
+데이터의 양이 많고 GNU Parset가 출력을 생성하기 전에 읽기 시작해야 하는 경우, FIFO를 사용하여 생성할 수 있습니다.
