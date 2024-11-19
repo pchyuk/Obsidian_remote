@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -184,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-18.md"
+                "file": "Daily Note/2024-11-19.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-18 개요"
+              "title": "2024-11-19 개요"
             }
           },
           {
@@ -271,12 +271,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6ba3f8de7eecfc5",
+  "active": "872cb7c391370f0f",
   "lastOpenFiles": [
-    "Daily Note/2024-11-19.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
     "Daily Note/2024-11-18.md",
     "Daily Note/2024-11-17.md",
+    "Daily Note/2024-11-19.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "Daily Note/2024-11-15.md",
     "Daily Note/2024-11-16.md",
