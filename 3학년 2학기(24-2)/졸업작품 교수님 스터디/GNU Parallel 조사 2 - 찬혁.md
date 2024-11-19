@@ -161,3 +161,55 @@ parallel -j2 --linebuffer half_line_print ::: 4 2 1
 4-end
 ```
 
+- `--keep-order` 또는 `--line-buffer`를 사용하면 GNU Parallel은 첫 번째 작업의 출력을 완료할 때까지 계속해서 해당 작업의 라인을 출력한 후, 두 번째 작업이 실행되는 동안 계속해서 그 작업의 라인을 출력한다. 
+- 전체 라인을 버퍼링하지만, **서로 다른 작업의 출력은 섞이지 않는다.**
+
+- 비교:
+```bash
+parallel -j4 'echo {}-a;sleep {};echo {}-b' ::: 1 3 2 4
+```
+
+- 출력:
+```bash
+1-a
+1-b
+2-a
+2-b
+3-a
+3-b
+4-a
+4-b
+```
+
+
+```bash
+parallel -j4 --line-buffer 'echo {}-a;sleep {};echo {}-b' ::: 1 3 2 4
+```
+
+- 출력:
+```bash
+2-a
+3-a
+1-a
+4-a
+1-b
+2-b
+3-b
+4-b
+```
+
+
+```bash
+parallel -j4 -k --line-buffer 'echo {}-a;sleep {};echo {}-b' ::: 1 3 2 4
+```
+
+- 출력:
+```bash
+1-a
+1-b
+3-a
+3-b
+2-b
+4-a
+4-b
+```
