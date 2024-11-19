@@ -271,3 +271,25 @@ B
 C
 ```
 
+---
+## 6.6 Save to CSV/TSV
+- CSV/TSV로 저장하기
+
+- 많은 프로그램이 쉼표로 구분된 값/탭으로 구분된 값 파일을 지원한다. 
+- GNU Parallel도 마찬가지. 
+- `--results` 인자가 .csv 또는 .tsv로 끝나면 출력은 CSV/TSV 파일이 된다.
+
+```bash
+parallel --results my.csv echo ::: A B ::: C D
+```
+
+---
+## 6.7 SQL 데이터베이스에 저장하기
+- GNU Parallel은 SQL 데이터베이스에 저장할 수 있다.
+- GNU Parallel을 테이블에 지정하면, 각 변수와 출력이 각자의 열에 함께 배치된다.
+
+### 6.7.1 CSV를 SQL 데이터베이스로 사용하기
+- 가장 간단한 방법은 CSV 파일을 저장 테이블로 사용하는 것이다.
+```bash
+parallel --sqlandworker csv:///%%2Ftmp%2Flog.csv \
+```
