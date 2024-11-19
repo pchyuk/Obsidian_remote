@@ -292,4 +292,38 @@ parallel --results my.csv echo ::: A B ::: C D
 - 가장 간단한 방법은 CSV 파일을 저장 테이블로 사용하는 것이다.
 ```bash
 parallel --sqlandworker csv:///%%2Ftmp%2Flog.csv \
+seq ::: 10 ::: 12 13 14
+cat /tmp/log.csv
 ```
+
+---
+## 6.8 셸 변수에 출력 저장
+- GNU Parset는 GNU Parallel의 출력 결과를 셸 변수로 설정한다. 
+- GNU Parset에는 하나의 중요한 제한 사항이 있다.
+	- **파이프의 일부가 될 수 없다.** 
+	- 특히, 이는 표준 입력(stdin)에서 읽거나 다른 프로그램으로 출력을 파이프할 수 없음을 의미한다.
+
+GNU Parset는 셸 함수입니다. 다음 명령어를 실행하여 활성화합니다:
+
+
+env_parallel --install
+그 후 새 셸을 시작합니다.
+
+Parset는 bash, dash, ash, sh, ksh, zsh에서 지원됩니다.
+
+parset를 사용하려면, 목적 변수를 일반 GNU Parallel 옵션과 명령어 앞에 배치합니다:
+
+
+parset myvar1,myvar2 -j2 echo ::: a b
+echo $myvar1
+echo $myvar2
+출력:
+
+
+a
+b
+단일 변수만 제공하면 배열로 처리됩니다:
+
+
+parset myarray seq {} 5 ::: 1 2 3
+echo "${myarray[1]}"
