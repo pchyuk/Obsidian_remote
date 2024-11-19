@@ -25,7 +25,6 @@ C-bar    foo-C
 ```
 
 ---
-
 ## 6.2 See what is being run
 - 무엇이 실행되고 있는지 확인
 
@@ -52,4 +51,19 @@ B
 C
 ```
 
-- 이 내용은 반만 맞음. 8.
+- 이 내용은 반만 맞음. 8.8장에서 더 다룰 것
+
+---
+## 6.3 Force same order as input
+- 입력과 동일한 순서로 강제 실행
+
+```
+half_line_print(){
+	printf "%s-start\n%s" $1 $1
+	sleep $1
+	printf "%s\n" -middle
+	echo $1-end
+}
+export -f half_line_print
+```
+
