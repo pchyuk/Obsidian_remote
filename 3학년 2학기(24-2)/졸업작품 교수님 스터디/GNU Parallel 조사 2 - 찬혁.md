@@ -223,33 +223,34 @@ parallel -j4 -k --line-buffer 'echo {}-a;sleep {};echo {}-b' ::: 1 3 2 4
 - 이는 `--line-buffer`를 `--keep-order` 없이 사용할 때 적용되지 않으며, `--ungroup`(버퍼링하지 않음)에서도 적용되지 않는다.
 
 ---
+## 6.5 Save output into files
+- 파일로 출력 저장
 
-6.5 파일로 출력 저장
-
-GNU Parallel은 각 작업의 출력을 파일에 저장할 수 있습니다:
-
-bash
-
-
+- GNU Parallel은 각 작업의 출력을 파일에 저장할 수 있다.
+```bash
 parallel --files echo ::: A B C
-출력은 다음과 유사합니다:
+```
 
-
+- 출력은 다음과 비슷하다.
+```bash
 /tmp/pAh6uWQcg.par
 /tmp/opjhZCzAX4.par
 /tmp/wOAT_Rph2o.par
-기본적으로 GNU Parallel은 /tmp에 파일로 출력을 캐시합니다. 이는 TMPDIR 또는 --tmpdir을 설정하여 변경할 수 있습니다:
+```
 
-bash
+- 기본적으로 GNU Parallel은 `/tmp`에 파일로 출력을 캐시한다. 
+- 이는 `$TMPDIR` 또는 `--tmpdir`을 설정하여 변경할 수 있다.
 
-
+```bash
 parallel --tmpdir /var/tmp --files echo ::: A B C
-출력은 다음과 유사합니다:
+```
 
-
+- 출력은 다음과 비슷하다.
+```bash
 /var/tmp/N_vk7phQRc.par
 /var/tmp/7ZAcf3WZ.par
 /var/tmp/Liuka_2L.par
+```
 또는:
 
 bash
