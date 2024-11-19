@@ -161,7 +161,7 @@ parallel -j2 --linebuffer half_line_print ::: 4 2 1
 4-end
 ```
 
-- `--keep-order` 또는 `--line-buffer`를 사용하면 GNU Parallel은 첫 번째 작업의 출력을 완료할 때까지 계속해서 해당 작업의 라인을 출력한 후, 두 번째 작업이 실행되는 동안 계속해서 그 작업의 라인을 출력한다. 
+- `--keep-order` `--line-buffer`를 사용하면 GNU Parallel은 첫 번째 작업의 출력을 완료할 때까지 계속해서 해당 작업의 라인을 출력한 후, 두 번째 작업이 실행되는 동안 계속해서 그 작업의 라인을 출력한다. 
 - 전체 라인을 버퍼링하지만, **서로 다른 작업의 출력은 섞이지 않는다.**
 
 - 비교:
@@ -209,7 +209,64 @@ parallel -j4 -k --line-buffer 'echo {}-a;sleep {};echo {}-b' ::: 1 3 2 4
 1-b
 3-a
 3-b
+2-a
 2-b
 4-a
 4-b
 ```
+
+### 6.4.1 Buffer on disk
+- 디스크의 버퍼
+
+- GNU Parallel은 출력 결과를 임시 파일에 버퍼링한다. 
+- 프로그램의 출력이 여유 디스크 공간보다 많으면, 디스크는 `--group` 또는 `--line-buffer` `--keep-order`를 사용할 때 채워진다. 
+- 이는 `--line-buffer`를 `--keep-order` 없이 사용할 때 적용되지 않으며, `--ungroup`(버퍼링하지 않음)에서도 적용되지 않는다.
+
+---
+
+6.5 파일로 출력 저장
+
+GNU Parallel은 각 작업의 출력을 파일에 저장할 수 있습니다:
+
+bash
+
+
+parallel --files echo ::: A B C
+출력은 다음과 유사합니다:
+
+
+/tmp/pAh6uWQcg.par
+/tmp/opjhZCzAX4.par
+/tmp/wOAT_Rph2o.par
+기본적으로 GNU Parallel은 /tmp에 파일로 출력을 캐시합니다. 이는 TMPDIR 또는 --tmpdir을 설정하여 변경할 수 있습니다:
+
+bash
+
+
+parallel --tmpdir /var/tmp --files echo ::: A B C
+출력은 다음과 유사합니다:
+
+
+/var/tmp/N_vk7phQRc.par
+/var/tmp/7ZAcf3WZ.par
+/var/tmp/Liuka_2L.par
+또는:
+
+bash
+
+
+TMPDIR=/var/tmp parallel --files echo ::: A B C
+출력: 위와 동일합니다.
+
+출력 결과는 --results를 사용하여 구조화된 방식으로 저장할 수 있습니다:
+
+bash
+
+
+parallel --results outfile echo ::: A B C
+출력:
+
+
+A
+B
+C
