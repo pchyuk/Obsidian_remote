@@ -139,11 +139,25 @@ parallel -j2 --ungroup half_line_print ::: 4 2 1
 4-end
 ```
 
-- `--ungroup`은 빠르지만 `--tag`를 비활성화하여 한 작업의 반 줄이 다른 작업의 반 줄과 섞일 수 있습니다. 이는 두 번째 줄에서 '4-middle'이 '2-start'와 섞인 경우에서 발생했습니다.
+- `--ungroup`은 빠르지만 `--tag`를 비활성화하여 한 작업의 반 줄이 다른 작업의 반 줄과 섞일 수 있다. 
+	- 두 번째 줄에서 '4-middle'이 '2-start'와 섞인 경우
 
-이를 피하려면 --linebuffer를 사용하여 전체 줄만 출력하도록 합니다:
+- 이를 피하려면 `--linebuffer`를 사용하여 전체 줄만 출력하도록 합니다:
 
-bash
-
-
+```bash
 parallel -j2 --linebuffer half_line_print ::: 4 2 1
+```
+
+- 출력
+```bash
+4-start
+2-start
+2-middle
+2-end
+1-start
+1-middle
+1-end
+4-middle
+4-end
+```
+
