@@ -303,27 +303,41 @@ cat /tmp/log.csv
 	- **파이프의 일부가 될 수 없다.** 
 	- 특히, 이는 표준 입력(stdin)에서 읽거나 다른 프로그램으로 출력을 파이프할 수 없음을 의미한다.
 
-GNU Parset는 셸 함수입니다. 다음 명령어를 실행하여 활성화합니다:
-
-
+- GNU Parset는 셸 함수이다. 
+- 다음 명령어를 실행하여 활성화한다.
+```bash
 env_parallel --install
-그 후 새 셸을 시작합니다.
+```
 
-Parset는 bash, dash, ash, sh, ksh, zsh에서 지원됩니다.
+- 그 후 새 셸을 시작한다.
 
-parset를 사용하려면, 목적 변수를 일반 GNU Parallel 옵션과 명령어 앞에 배치합니다:
+- Parset는 bash, dash, ash, sh, ksh, zsh에서 지원됩니다.
 
+- parset를 사용하려면, 목적 변수(destination value)를 일반 GNU Parallel 옵션과 명령어 앞에 배치한다.
 
+```bash
 parset myvar1,myvar2 -j2 echo ::: a b
 echo $myvar1
 echo $myvar2
-출력:
+```
 
-
+- 출력
+```bash
 a
 b
-단일 변수만 제공하면 배열로 처리됩니다:
+```
 
-
+- 단일 변수만 제공하면 배열로 처리된다.
+```bash
 parset myarray seq {} 5 ::: 1 2 3
 echo "${myarray[1]}"
+```
+
+- 출력
+```bash
+2
+3
+4
+5
+```
+
