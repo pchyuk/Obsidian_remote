@@ -693,16 +693,18 @@ Seq Host Starttime Runtime Send Receive Exitval Signal Command
 9 : 1376580154.466 0.005 0 3 0  exit 3
 ```
 
-마지막으로 seq 1 2 3이 반복되었는데, 이는 이들이 0이 아닌 다른 종료 코드를 반환했기 때문입니다.
+- 마지막으로 seq 1 2 3이 반복되었는데, 이는 이들이 0이 아닌 다른 종료 코드를 반환했기 때문이다.
 
---retry-failed는 --resume-failed와 거의 동일하게 작동합니다. --resume-failed는 명령줄에서 명령을 읽고(joblog의 명령은 무시됨), --retry-failed는 명령줄을 무시하고 joblog에 언급된 명령을 다시 실행합니다.
+- `--retry-failed`는 `--resume-failed`와 거의 동일하게 작동한다. 
+- `--resume-failed`는 명령줄에서 명령을 읽고(joblog의 명령은 무시됨), 
+- `--retry-failed`는 명령줄을 무시하고 joblog에 언급된 명령을 다시 실행한다.
 
-bash
-
-
+```bash
 parallel --retry-failed --joblog /tmp/log
 cat /tmp/log
-출력:
+```
+
+- 출력:
 
 
 Seq Host Starttime Runtime Send Receive Exitval Signal Command

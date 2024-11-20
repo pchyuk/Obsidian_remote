@@ -64,6 +64,20 @@
             }
           },
           {
+            "id": "c76748273a9f54eb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GNU Parallel 조사 2 - 찬혁"
+            }
+          },
+          {
             "id": "ee839b5043ce33e2",
             "type": "leaf",
             "state": {
@@ -76,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -138,8 +152,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,10 +196,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-20.md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-20 개요"
+              "title": "GNU Parallel 조사 2 - 찬혁 개요"
             }
           },
           {
@@ -271,13 +284,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38d8293702c53d3b",
+  "active": "c76748273a9f54eb",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
+    "Daily Note/2024-11-20.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (10장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/gnu2 - 영찬.pdf",
-    "Daily Note/2024-11-20.md",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "Daily Note/2024-11-19.md",
     "Daily Note/2024-11-18.md",
