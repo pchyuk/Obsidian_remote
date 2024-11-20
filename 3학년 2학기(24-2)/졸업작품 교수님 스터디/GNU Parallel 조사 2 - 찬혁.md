@@ -514,13 +514,20 @@ tmux -S /tmp/tmsrPr00 attach
 - 일반 `tmux` 키 조합(CONTROL-b n 또는 CONTROL-b p)을 사용하여 실행 중인 작업의 창 사이를 전환할 수 있다.
 - 작업이 완료되면 창을 닫기 전에 10초 동안 일시 정지한다.
 
-각 작업을 자신의 창에서 열려면 --tmuxpane을 사용하십시오. --fg는 즉시 tmux에 연결합니다:
+- 각 작업을 자신의 창에서 열려면 `--tmuxpane`을 사용
+- `--fg`는 즉시 `tmux`에 연결한다.
 
-
+```bash
 parallel --tmuxpane --fg \
 'echo start {}; sleep {}; echo done {}' ::: 10 11 12 13 14 15 16 17
-7.5 타이밍
-일부 작업은 시작할 때 많은 I/O를 수행합니다. 그래서 GNU Parallel은 새로운 작업을 시작하는 것을 지연시킬 수 있습니다. --delay X는 각 시작 전에 최소한 X 초가 경과하도록 보장합니다:
+```
+
+---
+## 7.5 타이밍
+- 일부 작업은 시작할 때 많은 I/O를 수행한다. 
+- 그래서 GNU Parallel은 새로운 작업을 시작하는 것을 지연시킬 수 있다. 
+	- 엄청난 무리의 소동을 피하기 위해
+- `--delay X`는 각 시작 전에 최소한 X 초가 경과하도록 보장한다.
 
 
 parallel --delay 2.5 echo Starting {}; date ::: 1 2 3
