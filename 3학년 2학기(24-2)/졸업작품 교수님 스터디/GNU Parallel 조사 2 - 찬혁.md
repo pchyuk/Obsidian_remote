@@ -803,7 +803,7 @@ parallel --sshlogin $SERVER1 echo running on ::: server1
 running on server 1
 ```
 
-다른 사용자 이름을 사용하려면 서버 앞에 username@를 추가합니다:
+- 다른 사용자 이름을 사용하려면 서버 앞에 username@를 추가한다.
 
 
 parallel -S username@$SERVER1 echo running on ::: username@server1
