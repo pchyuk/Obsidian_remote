@@ -991,3 +991,40 @@ cat input_file.out
 This is input_file
 ```
 
+- `--transferfile {} --return foo --cleanup`의 단축키는 `--trc foo` 이다.
+
+
+```bash
+echo This is input_file > input_file
+parallel -S $SERVER1 --trc {}.out cat {} > "{}".out ::: input_file
+cat input_file.out
+```
+
+- 출력: 위와 동일
+
+- 모든 작업에 공통 데이터베이스가 필요한 경우, GNU Parallel은 `--basefile`을 사용하여 첫 번째 작업 전에 파일을 전송할 수 있다.
+
+
+echo common data > common_file
+parallel --basefile common_file -S $SERVER1 \
+cat common_file; echo {} ::: foo
+출력:
+
+common data
+foo
+원격 호스트에서 마지막 작업 후에 제거하려면 --cleanup을 사용합니다.
+
+GNU Parallel은 파일 전송에 rsync를 사용하므로 ./를 사용하여 어떤 디렉토리에 상대적으로 파일을 지정할 수 있습니다. 이는 foo/bar/file을 $SERVER1의 ~/bar/file로 전송합니다:
+
+
+parallel -S $server1 --transfer wc {./} ::: foo/./bar/file
+8.3 작업 디렉토리
+원격 머신의 기본 작업 디렉토리는 로그인 디렉토리입니다. 이는 --workdir로 변경할 수 있습니다:
+
+
+--workdir mydir
+--transferfile과 --return으로 전송된 파일은 원격 컴퓨터의 mydir에 상대적이며, 명령은 해당 mydir에서 실행됩니다.
+
+특별한 mydir 값인 ...은 원격 컴퓨터에서 ~/.parallel/tmp 아래에 디렉토리를 생성합니다. --cleanup이 주어지면 이 디렉토리는 제거됩니다.
+
+특별한 mydir 값인 .은 홈 디렉토리를 사용합니다. 이 경우 홈 디렉토리는 .으로 간주되며, .은 해당 디렉토리로 처리됩니다.
