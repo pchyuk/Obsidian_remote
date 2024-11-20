@@ -11,7 +11,7 @@
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 70
+    "downscalePercent": 50
   },
   "focusNewTab": true,
   "showUnsupportedFiles": true,
