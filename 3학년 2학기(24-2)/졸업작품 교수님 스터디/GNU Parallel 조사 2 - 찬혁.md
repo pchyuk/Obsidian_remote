@@ -835,7 +835,7 @@ parallel -S '/usr/bin/ssh' $SERVER1 echo custom ::: ssh
 custom ssh
 ```
 
-- ssh 명령어는 --ssh로도 지정할 수 있습니다:
+- ssh 명령어는 `--ssh`로도 지정할 수 있다.
 
 
 parallel --ssh /usr/bin/ssh -S $SERVER1 echo custom ::: ssh
