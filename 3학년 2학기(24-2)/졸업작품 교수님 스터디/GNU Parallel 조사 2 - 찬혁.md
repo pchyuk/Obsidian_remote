@@ -768,3 +768,88 @@ echo 1; exit 1
 
 ---
 # 8. Remote execution
+- GNU Parallel은 원격 서버에서 작업을 실행할 수 있다.
+- 원격 머신과 통신하기 위해 ssh를 사용한다.
+
+- 다음에서는 두 개의 서버에 접근할 수 있다고 가정 
+	- $SERVER1과 $SERVER2
+```bash
+SERVER1=server.example.com
+SERVER2=server2.example.net
+```
+
+- 따라서 다음을 수행할 수 있어야 한다.
+```bash
+ssh $SERVER1 echo works
+ssh $SERVER2 echo works
+```
+
+- 설정은 다음 명령어를 실행하여 할 수 있다.
+```bash
+ssh-keygen -t dsa; ssh-copy-id $SERVER1; ssh-copy-id $SERVER2
+```
+
+- 빈 패스프레이즈(passphrase)를 사용합니다.
+
+---
+## 8.1 Sshlogin
+- 가장 기본적인 sshlogin은 `-S host/--sshlogin host:`
+```bash
+parallel --sshlogin $SERVER1 echo running on ::: server1
+```
+
+- 출력:
+```bash
+running on server 1
+```
+
+다른 사용자 이름을 사용하려면 서버 앞에 username@를 추가합니다:
+
+
+parallel -S username@$SERVER1 echo running on ::: username@server1
+출력:
+
+
+running on username@server1
+특별한 sshlogin :는 로컬 머신입니다:
+
+
+parallel -S : echo running on ::: _the_local_machine
+출력:
+
+
+running on the_local_machine
+8.1 SSH 명령어 사용하기
+ssh가 $PATH에 없으면 $SERVER1 앞에 추가할 수 있습니다:
+
+
+parallel -S '/usr/bin/ssh' $SERVER1 echo custom ::: ssh
+출력:
+
+
+custom ssh
+ssh 명령어는 --ssh로도 지정할 수 있습니다:
+
+
+parallel --ssh /usr/bin/ssh -S $SERVER1 echo custom ::: ssh
+또는 $PARALLEL_SSH를 설정하여 사용할 수도 있습니다:
+
+
+export PARALLEL_SSH=/usr/bin/ssh
+parallel -S $SERVER1 echo custom ::: ssh
+8.1.2 여러 서버
+여러 서버는 -S를 여러 번 사용하여 지정할 수 있습니다:
+
+
+parallel -S $SERVER1 -S $SERVER2 echo ::: running on more hosts
+출력(순서는 다를 수 있습니다):
+
+
+running
+on
+more
+hosts
+또는 ,로 구분할 수 있습니다:
+
+
+parallel -S $SERVER1,$SERVER2 echo ::: running on more hosts
