@@ -669,3 +669,49 @@ Seq Host Starttime Runtime Send Receive Exitval Signal Command
 6 : 1376580070.038 0.007 0 0 0 0 exit 0
 ```
 
+- 주목: **마지막 두 작업의 시작 시간이 첫 번째 실행과 분명히 다르다**.
+
+- `--resume-failed`와 함께 GNU Parallel은 실패한 작업을 다시 실행한다.
+
+```bash
+parallel --resume-failed --joblog /tmp/log exit ::: 1 2 3 0 0 0
+cat /tmp/log
+```
+
+- 출력:
+
+```bash
+Seq Host Starttime Runtime Send Receive Exitval Signal Command
+1 : 1376580069.544 0.008 0 1 0  exit 1
+2 : 1376580069.552 0.009 0 2 0  exit 2
+3 : 1376580069.560 0.012 0 3 0  exit 3
+4 : 1376580069.571 0.005 0 0 0  exit 0
+5 : 1376580070.028 0.009 0 0 0  exit 0
+6 : 1376580070.038 0.007 0 0 0  exit 0
+7 : 1376580154.433 0.010 0 1 0  exit 1
+8 : 1376580154.444 0.022 0 2 0  exit 2
+9 : 1376580154.466 0.005 0 3 0  exit 3
+```
+
+마지막으로 seq 1 2 3이 반복되었는데, 이는 이들이 0이 아닌 다른 종료 코드를 반환했기 때문입니다.
+
+--retry-failed는 --resume-failed와 거의 동일하게 작동합니다. --resume-failed는 명령줄에서 명령을 읽고(joblog의 명령은 무시됨), --retry-failed는 명령줄을 무시하고 joblog에 언급된 명령을 다시 실행합니다.
+
+bash
+
+
+parallel --retry-failed --joblog /tmp/log
+cat /tmp/log
+출력:
+
+
+Seq Host Starttime Runtime Send Receive Exitval Signal Command
+1 : 13765880069.544 0.008 0 1 0  exit 1
+2 : 13765880069.552 0.009 0 2 0  exit 2
+3 : 13765880069.560 0.012 0 3 0  exit 3
+4 : 13765880069.571 0.005 0 0 0  exit 0
+5 : 13765880070.028 0.009 0 0 0  exit 0
+6 : 13765880070.038 0.007 0 0 0  exit 0
+7 : 1376588154.433 0.010 0 1 0  exit 1
+8 : 1376588154.444 0.022 0 2 0  exit 2
+9 : 1376588154.466 0.005 0 3 0  exit 3
