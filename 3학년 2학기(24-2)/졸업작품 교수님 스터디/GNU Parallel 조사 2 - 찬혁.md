@@ -872,7 +872,7 @@ parallel -S $SERVER1,$SERVER2 echo ::: running on more hosts
 
 - 또는 새 줄에서
 ```bash
-# This gives a \n between $SERVER1 and $SERVER2
+# $SERVER1과 $SERVER2 사이에 '\n' 추가
 SERVERS="echo $SERVER1; echo $SERVER2"
 parallel -s "$SERVERS" echo ::: running on more hosts
 ```
@@ -880,38 +880,46 @@ parallel -s "$SERVERS" echo ::: running on more hosts
 - 파일에서 읽어올 수도 있다.
 	- 여기서 user@를 $SERVER2의 사용자로 교체
 
-
+```bash
 echo $SERVER1 > nodefile
- # Force special ssh-command, username
-
+# 특별한 ssh 명령어, 사용자 강제 지정
 echo /usr/bin/ssh user@$SERVER2 >> nodefile
 parallel --sshloginfile nodefile echo ::: running on more hosts
-출력: 위와 동일합니다.
+```
 
-매 작업이 끝날 때마다 --sshloginfile은 다시 읽히므로, 실행 중에 호스트를 추가하거나 제거할 수 있습니다.
+- 출력: 위와 동일
 
-특별한 --sshloginfile은 ~/.parallel/sshloginfile에서 읽어옵니다.
+- 매 작업이 끝날 때마다 `--sshloginfile`은 다시 읽히므로, 실행 중에 호스트를 추가하거나 제거할 수 있다.
 
-GNU Parallel이 특정 CPU 수를 가진 서버를 다루도록 강제하려면, 숫자와 슬래시 /를 sshlogin 앞에 추가합니다:
+- 특별한 `--sshloginfile`은 `~/.parallel/sshloginfile`에서 읽어온온다.
 
+- GNU Parallel이 특정 CPU 수를 가진 서버를 다루도록 강제하려면, 숫자와 슬래시 `/`를 `sshlogin` 앞에 추가합니다:
 
+```bash
 parallel -S 4/$SERVER1 echo force {} CPUs on server ::: 4
-출력:
+```
 
+- 출력:
 
+```bash
 force 4 CPUs on server
-8.1.3 서버를 그룹으로 나누기
-서버는 @groupname을 추가하여 그룹으로 나눌 수 있으며, 그룹은 --hostgroup을 사용하여 선택할 수 있습니다:
+```
 
+---
+### 8.1.3 서버를 그룹으로 나누기
+- 서버는 `@groupname`을 추가하여 그룹으로 나눌 수 있으며, 그룹은 `--hostgroup`을 사용하여 선택할 수 있다.
 
-parallel --hostgroup -S @grp1/$SERVER1 -S @grp2/$SERVER2 echo {} \
-::: run_on_grp1@grp1 run_on_grp2@grp2
-출력:
+```bash
+parallel --hostgroup -S @grp1/$SERVER1 -S @grp2/$SERVER2 echo {} \ ::: run_on_grp1@grp1 run_on_grp2@grp2
+```
 
-
+- 출력:
+```bash
 run_on_grp1
 run_on_grp2
-호스트는 #로 구분하여 여러 개를 지정할 수 있으며, 이를 통해 GNU Parallel이 -S @groupname으로 실행할 수 있습니다:
+```
+
+- 호스트는 로 구분하여 여러 개를 지정할 수 있으며, 이를 통해 GNU Parallel이 -S @groupname으로 실행할 수 있습니다:
 
 
 parallel -S @grp1 @$grp1+grp2/$SERVER2 -S @grp2/$SERVER2 echo {} \
