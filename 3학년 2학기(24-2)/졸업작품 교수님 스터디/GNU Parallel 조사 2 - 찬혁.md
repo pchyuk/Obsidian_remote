@@ -1036,6 +1036,42 @@ parallel -S $server1 --transfer wc {./} ::: foo/./bar/file
 - 특별한 mydir 값인 `...`은 원격 컴퓨터에서 `~/.parallel/tmp` 아래에 디렉토리를 생성한다. 
 - `--cleanup`이 주어지면 이 디렉토리는 제거된다.
 
-- 특별한 mydir 값인 `.`은 홈 디렉토리를 사용한다. 
-- 이 경우 홈 디렉토리는 `.`으로 간주되며, 
-- .은 해당 디렉토리로 처리됩니다.
+- 특수 mydir 값 `.` 은 현재 작업 디렉토리를 사용한다.
+
+- 현재 작업 디렉토리가 홈 디렉토리 아래에 있는 경우 값 `.` 은 홈 디렉토리에 대한 상대 경로로 처리된다.
+
+- 즉, 원격 컴퓨터에서 홈 디렉토리가 다른 경우,(예: 로그인이 다른 경우) 상대 경로는 여전히 홈 디렉토리에 대한 상대 경로가 된다.
+
+parallel -S $SERVER1 pwd ::: ""
+parallel --workdir -S $SERVER1 pwd ::: ""
+parallel --workdir ... -S $SERVER1 pwd ::: ""
+출력:
+
+[the login dir on $SERVER1]
+[current dir relative on $SERVER1]
+[a dir in ~/.parallel/tmp/...]
+8.4 sshd 과부하 방지
+같은 서버에서 많은 작업이 시작되면, sshd가 과부하될 수 있습니다. GNU Parallel은 각 작업 실행 간에 지연을 삽입하여 이를 방지할 수 있습니다:
+
+
+parallel -S $SERVER1 --sshdelay 0.2 echo ::: 1 2 3
+출력 (순서는 다를 수 있습니다):
+
+1
+2
+3
+sshd는 --controlmaster를 사용하면 덜 과부하됩니다. 이는 ssh 연결을 다중화합니다:
+
+
+parallel --controlmaster -S $SERVER1 echo ::: 1 2 3
+출력: 위와 동일합니다.
+8.5 다운된 호스트 무시
+많은 호스트가 있는 클러스터에서는 일부 호스트가 자주 다운되는 경우가 있습니다. GNU Parallel은 이러한 호스트를 무시할 수 있습니다. 이 경우, 173.194.32.46 호스트가 다운되었습니다:
+
+
+parallel --filter-hosts -S 173.194.32.46,$SERVER1 echo ::: bar
+출력:
+
+bar
+8.6 모든 호스트에서 같은 명령 실행
+GNU Parallel은 모든 호스트에서 같은 명령을 실행할 수 있습니다.
