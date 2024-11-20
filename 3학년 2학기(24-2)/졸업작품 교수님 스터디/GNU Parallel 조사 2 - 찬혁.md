@@ -723,3 +723,44 @@ Seq Host Starttime Runtime Send Receive Exitval Signal Command
 ```
 
 ---
+## 7.9 종료
+### 7.9.1 무조건 종료
+- 기본적으로 GNU Parallel은 모든 작업이 완료될 때까지 기다렸다가 종료한다.
+
+- GNU Parallel에 TERM 신호를 보내면, 새로운 작업의 생성을 중단하고 남은 작업이 완료될 때까지 기다린다. 
+- 다시 GNU Parallel에 TERM 신호를 보내면, GNU Parallel은 모든 실행 중인 작업을 종료하고 나온다.
+
+### 7.9.2 작업 상태에 따른 종료
+- 특정 작업의 경우, 하나의 작업이 실패하고 종료 코드가 0이 아닌 경우 계속 진행할 필요가 없다. 
+- GNU Parallel은 `--halt soon,fail=1` 옵션을 사용하여 새로운 작업의 생성을 중단한다.
+
+```bash
+parallel -j2 --halt soon,fail=1 echo {} \; exit {} ::: 0 0 1 2 3
+```
+
+- 출력:
+
+
+0
+0
+1
+parallel: This job failed:
+echo 1; exit 1
+parallel: Starting no more jobs. Waiting for 1 jobs to finish
+2
+--halt now,fail=1 옵션을 사용하면 실행 중인 작업이 즉시 종료됩니다:
+
+
+parallel -j2 --halt now,fail=1 echo {} \; exit {} ::: 0 0 1 2 3
+출력:
+
+
+0
+0
+1
+parallel: 이 작업이 실패했습니다:
+echo 1; exit 1
+--halt에 비율이 주어지면, GNU Parallel이 새로운 작업의 생성을 중단하기 전에 이 비율만큼의 작업이 실패해야 합니다:
+
+
+parallel -j2 --halt soon,fail=20% echo {} \; exit {} ::: 0 1 2 3 4 5 6 7 8 9
