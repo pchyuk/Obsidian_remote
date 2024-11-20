@@ -1169,36 +1169,52 @@ Joe's var is green
 
 - 만약 env_parallel이 실패한다면, `--env`를 사용하여 GNU Parallel에 원격 시스템으로 전송할 이름을 지정할 수 있다.
 
-
+```bash
 MYVAR='foo bar'
 env_parallel --env MYVAR -S $SERVER1 echo '$MYVAR' ::: baz
-출력:
+```
 
+- 출력:
+```bash
 foo bar baz
-이것은 함수에도 적용됩니다. 만약 쉘이 Bash라면:
+```
 
+- 이것은 함수에도 적용된다. 
+	- 만약 쉘이 Bash라면
 
-# 이것은 Bash에서만 작동합니다
+```bash
+# Bash에서만 작동
 my_func() {
   echo in my_func $1
 }
 env_parallel --env my_func -S $SERVER1 my_func ::: baz
-출력:
+```
 
+- 출력:
+```bash
 in my_func baz
-변수를 개별적으로 지정하는 대신, GNU Parallel은 정의된 이름을 깨끗한 쉘에서 기록하고 해당 목록에 없는 이름만 전송할 수 있습니다. GNU Parallel은 무시할 이름을 ~/.parallel/ignored_vars에 기록합니다. 이를 위해 다음을 실행합니다:
+```
 
+- 변수를 개별적으로 지정하는 대신, GNU Parallel은 정의된 이름을 깨끗한 쉘에서 기록하고 해당 목록에 없는 이름만 전송할 수 있다. 
+- GNU Parallel은 무시할 이름을 `~/.parallel/ignored_vars`에 기록한다. 
+- 이를 위해 다음을 실행한다.
 
+```bash
 env_parallel -record-env
 cat ~/.parallel/ignored_vars
-출력:
+```
 
+- 출력:
+
+```bash
 [list of variables to ignore - including $PATH and $HOME]
-이 작업은 한 번만 수행하면 됩니다.
+```
 
-이후에는 --env _를 사용하여 GNU Parallel에 ~/.parallel/ignored_vars에 무시되지 않은 모든 이름을 전송하도록 지시할 수 있습니다:
+- 이 작업은 한 번만 수행하면 된다.
 
+- 이후에는 `--env _` 를 사용하여 GNU Parallel에 `~/.parallel/ignored_vars`에 무시되지 않은 모든 이름을 전송하도록 지시할 수 있다.
 
+```bash
 foo_func() {
   foo_alias $foo_var functions, ${foo_array[*]} are all "$@"
 }
@@ -1206,6 +1222,10 @@ foo_var='variables,'
 foo_array=('and arrays')
 alias foo_alias='echo aliases,'
 env_parallel --env _ -S $SERVER1 foo_func ::: copied
-출력:
+```
 
+- 출력:
+```bash
 aliases, functions, and arrays are all copied
+```
+
