@@ -838,7 +838,9 @@ custom ssh
 - ssh 명령어는 `--ssh`로도 지정할 수 있다.
 
 
+```bash
 parallel --ssh /usr/bin/ssh -S $SERVER1 echo custom ::: ssh
+```
 또는 $PARALLEL_SSH를 설정하여 사용할 수도 있습니다:
 
 
