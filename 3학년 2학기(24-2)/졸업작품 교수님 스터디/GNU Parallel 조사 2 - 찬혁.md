@@ -471,12 +471,65 @@ parallel --shuf echo ::: 1 2 3 ::: a b c ::: A B C
 ## 7.3 상호 작용성 (Interactivity)
 - GNU Parallel은 명령을 실행할 때 `--interactive` 플래그를 사용할 수 있도록 요청할 수 있다.
 
-
+```bash
 parallel --interactive echo ::: 1 2 3
-출력:
+```
 
+- 출력:
 
+```bash
 echo 1 ?...y
 echo 2 ?...n
 1
 echo 3 ?...y
+3
+```
+
+- GNU Parallel은 인터랙티브 명령어(예: `emacs`)에 인수를 전달하여 한 번에 파일을 편집할 수 있다.
+
+```bash
+parallel --tty emacs ::: file1 file2 file3
+```
+
+ - 또는 여러 개의 인수를 한 번에 열어 여러 파일을 열 수 있다.
+
+```bash
+parallel -X --tty vi ::: file1 file2 file3
+```
+
+---
+## 7.4 각 작업에 대한 터미널
+- `--tmux`를 사용하면 GNU Parallel이 각 작업 실행에 대해 터미널을 시작할 수 있다.
+
+```bash
+seq 10 20 | parallel --tmux 'echo start {}; sleep {}; echo done {}'
+```
+
+- 이 명령은 다음과 비슷한 내용을 실행하라고 지시한다.
+
+```bash
+tmux -S /tmp/tmsrPr00 attach
+```
+
+- 일반 `tmux` 키 조합(CONTROL-b n 또는 CONTROL-b p)을 사용하여 실행 중인 작업의 창 사이를 전환할 수 있다.
+- 작업이 완료되면 창을 닫기 전에 10초 동안 일시 정지한다.
+
+각 작업을 자신의 창에서 열려면 --tmuxpane을 사용하십시오. --fg는 즉시 tmux에 연결합니다:
+
+
+parallel --tmuxpane --fg \
+'echo start {}; sleep {}; echo done {}' ::: 10 11 12 13 14 15 16 17
+7.5 타이밍
+일부 작업은 시작할 때 많은 I/O를 수행합니다. 그래서 GNU Parallel은 새로운 작업을 시작하는 것을 지연시킬 수 있습니다. --delay X는 각 시작 전에 최소한 X 초가 경과하도록 보장합니다:
+
+
+parallel --delay 2.5 echo Starting {}; date ::: 1 2 3
+출력:
+
+
+Starting 1
+Thu Aug 15 16:24:33 CEST 2013
+Starting 2
+Thu Aug 15 16:24:35 CEST 2013
+Starting 3
+Thu Aug 15 16:24:38 CEST 2013
