@@ -1113,38 +1113,99 @@ bar
 ```
 
 - 종종 인수 없이 모든 호스트에서 단일 명령을 실행하고 싶을 수 있다. 
-- 이때 --nonall을 사용합니다:
+- 이때 `--nonall`을 사용한다.
 
-
+```bash
 parallel --nonall -S $SERVER1,$SERVER2 echo foo bar
-출력:
+```
 
+- 출력:
+```bash
 foo bar
 foo bar
---tag가 --nonall과 --onall과 함께 사용될 때, --tagstring은 호스트를 나타냅니다:
+```
 
+- `--tag`가 `--nonall`과 `--onall`과 함께 사용될 때, 
+- `--tagstring`은 호스트를 나타낸다.
 
+```bash
 parallel --nonall --tag -S $SERVER1,$SERVER2 echo foo bar
-출력 (순서는 다를 수 있습니다):
+```
 
+- 출력 (순서는 변동 가능)
+
+```bash
 $SERVER1 foo bar
 $SERVER2 foo bar
---jobs는 병렬로 로그인할 서버의 수를 설정합니다.
+```
 
-8.7 환경 변수 및 함수 전송
-env_parallel은 모든 별칭, 함수, 변수 및 배열을 전송하는 쉘 함수입니다. 다음과 같이 실행하여 활성화할 수 있습니다:
+- `--jobs`는 병렬로 로그인할 서버의 수를 설정한다.
 
+---
+## 8.7 환경 변수 및 함수 전송
+- `env_parallel`은 모든 별칭, 함수, 변수 및 배열을 전송하는 쉘 함수이다. 
+- 다음과 같이 실행하여 활성화할 수 있다.
 
+```bash
 source `which env_parallel.bash`
-사용하는 쉘로 bash를 대체하십시오.
+```
 
-이제 env_parallel을 parallel 대신 사용할 수 있으며, 환경을 유지할 수 있습니다:
+- 사용하는 쉘로 bash를 대체하라
 
+- 이제 `env_parallel`을 `parallel` 대신 사용할 수 있으며, 환경을 유지할 수 있다.
 
+```bash
 alias myecho=echo
 myvar="Joe's var is"
 env_parallel -S $SERVER1 'myecho $myvar' ::: green
+```
+
+- 출력:
+```bash
+Joe's var is green
+```
+
+- 환경이 설정되지 않은 경우, `env_parallel`이 실패할 수 있다.
+
+- 만약 env_parallel이 실패한다면, `--env`를 사용하여 GNU Parallel에 원격 시스템으로 전송할 이름을 지정할 수 있다.
+
+
+MYVAR='foo bar'
+env_parallel --env MYVAR -S $SERVER1 echo '$MYVAR' ::: baz
 출력:
 
-Joe's var is green
-환경이 설정되지 않은 경우, env_parallel이 실패할 수 있습니다.
+foo bar baz
+이것은 함수에도 적용됩니다. 만약 쉘이 Bash라면:
+
+
+# 이것은 Bash에서만 작동합니다
+my_func() {
+  echo in my_func $1
+}
+env_parallel --env my_func -S $SERVER1 my_func ::: baz
+출력:
+
+in my_func baz
+변수를 개별적으로 지정하는 대신, GNU Parallel은 정의된 이름을 깨끗한 쉘에서 기록하고 해당 목록에 없는 이름만 전송할 수 있습니다. GNU Parallel은 무시할 이름을 ~/.parallel/ignored_vars에 기록합니다. 이를 위해 다음을 실행합니다:
+
+
+env_parallel -record-env
+cat ~/.parallel/ignored_vars
+출력:
+
+[list of variables to ignore - including $PATH and $HOME]
+이 작업은 한 번만 수행하면 됩니다.
+
+이후에는 --env _를 사용하여 GNU Parallel에 ~/.parallel/ignored_vars에 무시되지 않은 모든 이름을 전송하도록 지시할 수 있습니다:
+
+
+foo_func() {
+  foo_alias $foo_var functions, ${foo_array[*]} are all "$@"
+}
+foo_var='variables,'
+foo_array=('and arrays')
+alias foo_alias='echo aliases,'
+env_parallel --env _ -S $SERVER1 foo_func ::: copied
+출력:
+
+aliases, functions, and arrays are all copied
