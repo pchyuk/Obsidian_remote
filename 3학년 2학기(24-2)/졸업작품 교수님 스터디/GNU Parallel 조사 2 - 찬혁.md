@@ -740,7 +740,7 @@ parallel -j2 --halt soon,fail=1 echo {} \; exit {} ::: 0 0 1 2 3
 
 - 출력:
 
-
+```bash
 0
 0
 1
@@ -748,19 +748,23 @@ parallel: This job failed:
 echo 1; exit 1
 parallel: Starting no more jobs. Waiting for 1 jobs to finish
 2
---halt now,fail=1 옵션을 사용하면 실행 중인 작업이 즉시 종료됩니다:
+```
 
+- `--halt now,fail=1` 옵션을 사용하면 실행 중인 작업이 즉시 종료된다.
 
+```bash
 parallel -j2 --halt now,fail=1 echo {} \; exit {} ::: 0 0 1 2 3
-출력:
+```
 
+- 출력:
 
+```bash
 0
 0
 1
-parallel: 이 작업이 실패했습니다:
+parallel: This job failed:
 echo 1; exit 1
---halt에 비율이 주어지면, GNU Parallel이 새로운 작업의 생성을 중단하기 전에 이 비율만큼의 작업이 실패해야 합니다:
+```
 
-
-parallel -j2 --halt soon,fail=20% echo {} \; exit {} ::: 0 1 2 3 4 5 6 7 8 9
+---
+# 8. Remote execution
