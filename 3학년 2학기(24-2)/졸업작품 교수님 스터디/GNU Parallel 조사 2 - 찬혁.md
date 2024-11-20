@@ -433,3 +433,50 @@ rm input_fifo
 ```bash
 /usr/bin/time parallel -N0 --jobs 0 sleep 1 ::: num128
 ```
+
+- `--jobs`는 작업이 완료될 때마다 다시 읽는 파일에서 값을 읽을 수 있다.
+
+```bash
+echo 50% > my_jobs
+/usr/bin/time parallel -N0 --jobs my_jobs sleep 1 ::: num128 & sleep 1
+echo 0 > my_jobs
+wait
+```
+
+- GNU Parallel은 시작할 때 `my_jobs`를 읽는다. 
+- 이 파일에는 50%가 포함되어 있으므로, GNU Parallel은 코어 수의 50%를 계산하고 그만큼의 작업을 병렬로 시작한다.
+
+- `&` 때문에 GNU Parallel은 백그라운드에서 시작됩니다.
+
+- 1초 후에 `0`이 `my_jobs`에 입력된다. 작업이 완료되면, GNU Parallel은 `my_jobs`를 다시 읽고 가능한 한 많은 작업을 시작한한다.
+
+- CPU 코어 수 대신 CPU 수를 기준으로 비율을 계산할 수도 있다.
+
+```bash
+parallel --use-cpus-instead-of-cores -N0 sleep 1 ::: num8
+```
+
+---
+## 7.2 작업 순서 섞기
+- 여러 개의 작업이 있는 경우(예: 여러 입력 소스의 조합으로), 작업의 순서를 섞으면 각기 다른 값을 먼저 실행할 수 있다. 
+- 이를 위해 `--shuf`를 사용한다.
+
+```bash
+parallel --shuf echo ::: 1 2 3 ::: a b c ::: A B C
+```
+
+- 출력: 모든 조합이지만 각 실행마다 다른 순서.
+
+---
+## 7.3 상호 작용성 (Interactivity)
+- GNU Parallel은 명령을 실행할 때 `--interactive` 플래그를 사용할 수 있도록 요청할 수 있다.
+
+
+parallel --interactive echo ::: 1 2 3
+출력:
+
+
+echo 1 ?...y
+echo 2 ?...n
+1
+echo 3 ?...y
