@@ -611,3 +611,42 @@ Computer:jobs running/jobs completed/% of started jobs/
 Average seconds to complete 
 local:0/9/100%/1.1S
 ```
+
+- 진행 표시줄은 `--bar`로 표시할 수 있다.
+
+```bash
+parallel --bar sleep ::: 1 3 2 2 1 3 3 2 1
+```
+
+- 그래픽 표시줄은 `--bar`와 `zenity`를 사용하여 표시할 수 있다.
+
+```bash
+seq 1000 | parallel -j10 --bar '(echo -n {}; sleep 0.1)' \
+2> >(zenity --progress --auto-kill --auto-close)
+```
+
+---
+## 7.7 로그 파일
+- 지금까지 완료된 작업의 로그 파일은 `--joblog`를 사용하여 생성할 수 있다.
+
+```bash
+parallel --joblog /tmp/log exit ::: 1 2 3 0
+cat /tmp/log
+```
+출력:
+
+
+Seq Host Starttime    Runtime Send Receive Exitval Signal Command
+1 : 1376577364.974 0.008  0 0 1 0 exit 1
+2 : 1376577364.982 0.013  0 0 2 0 exit 2
+3 : 1376577364.990 0.013  0 0 3 0 exit 3
+4 : 1376577365.003 0.003  0 0 0 0 exit 0
+로그에는 작업 순서, 작업이 실행된 호스트, 시작 시간 및 실행 시간, 전송된 데이터 양, 종료 값, 작업을 종료시킨 신호, 마지막으로 실행된 명령이 포함됩니다.
+
+7.8 작업 재개
+--joblog를 사용하면 GNU Parallel을 중단하고 중단된 지점에서 다시 시작할 수 있습니다. 완료된 작업의 입력은 변경되지 않습니다:
+
+
+parallel --joblog /tmp/log exit ::: 1 2 3 0
+parallel --resume --joblog /tmp/log exit ::: 1 2 3 0
+cat /tmp/log
