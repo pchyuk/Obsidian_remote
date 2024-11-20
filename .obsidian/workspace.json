@@ -8,85 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "872cb7c391370f0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-19.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-19"
-            }
-          },
-          {
-            "id": "c76748273a9f54eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-20"
-            }
-          },
-          {
-            "id": "804b79be152691eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GNU Parallel 조사 - 찬혁"
-            }
-          },
-          {
-            "id": "20a25556242ea8f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-20"
-            }
-          },
-          {
-            "id": "ca05f79bdbafba17",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "dda0e5616a8ede6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GNU Parallel 조사 2 - 찬혁"
-            }
-          },
-          {
             "id": "adc9641aa15ccc14",
             "type": "leaf",
             "state": {
@@ -99,23 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-11-20"
             }
-          },
-          {
-            "id": "2e29c4b21030cdfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-20.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-20"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
