@@ -529,14 +529,69 @@ parallel --tmuxpane --fg \
 	- 엄청난 무리의 소동을 피하기 위해
 - `--delay X`는 각 시작 전에 최소한 X 초가 경과하도록 보장한다.
 
-
+```bash
 parallel --delay 2.5 echo Starting {}; date ::: 1 2 3
-출력:
+```
 
+- 출력:
 
+```bash
 Starting 1
 Thu Aug 15 16:24:33 CEST 2013
 Starting 2
 Thu Aug 15 16:24:35 CEST 2013
 Starting 3
 Thu Aug 15 16:24:38 CEST 2013
+```
+
+- 작업이 특정 시간 이상 걸리는 경우 실패할 가능성이 있는 경우, `--timeout`을 사용하여 중단할 수 있다. 
+	- `--timeout`의 정확도는 2초이다. 
+	- `--timeout 100000`은 `--timeout 1d3.5h16.6m4s`로 표현할 수 있다.
+
+```bash
+parallel --timeout 4.1 sleep {}; echo {} ::: 2 4 6 8
+```
+
+출력:
+
+
+2
+4
+GNU Parallel은 작업의 중앙값 실행 시간을 계산하고 200% 이상 걸리는 작업을 종료할 수 있습니다:
+
+
+parallel --timeout 200% sleep {}; echo {} ::: 2.1 2.2 3 7 2.3
+출력:
+
+
+2.1
+2.2
+3
+2.3
+이는 몇몇 작업이 비정상적으로 실행되어 나머지 작업보다 훨씬 더 오랜 시간이 걸릴 때 유용합니다.
+
+7.6 진행 정보
+완료된 작업의 실행 시간을 기반으로 GNU Parallel은 총 실행 시간을 추정할 수 있습니다:
+
+
+parallel --eta sleep ::: 1 3 2 2 1 3 3 2 1
+출력:
+
+
+Computers / CPU cores / Max jobs to run
+1:local / 2 / 2
+
+Computer:jobs running/jobs completed/% of started jobs/
+Average seconds to complete
+ETA: 2s 0 left 1.11 avg local:0/9/100%/1.1s
+GNU Parallel은 --progress를 사용하여 진행 정보를 제공할 수 있습니다:
+
+
+parallel --progress sleep ::: 1 3 2 2 1 3 3 2 1
+출력:
+
+
+Computers / CPU cores / Max jobs to run
+1:local / 2 / 2
+
+Computer:jobs running/jobs completed/% of started jobs/
