@@ -769,10 +769,10 @@ echo 1; exit 1
 ---
 # 8. Remote execution
 - GNU Parallel은 원격 서버에서 작업을 실행할 수 있다.
-- 원격 머신과 통신하기 위해 ssh를 사용한다.
+- 원격 머신과 통신하기 위해 `ssh`를 사용한다.
 
 - 다음에서는 두 개의 서버에 접근할 수 있다고 가정 
-	- $SERVER1과 $SERVER2
+	- `$SERVER1`과 `$SERVER2`
 ```bash
 SERVER1=server.example.com
 SERVER2=server2.example.net
@@ -803,32 +803,39 @@ parallel --sshlogin $SERVER1 echo running on ::: server1
 running on server 1
 ```
 
-- 다른 사용자 이름을 사용하려면 서버 앞에 username@를 추가한다.
-
-
+- 다른 사용자 이름을 사용하려면 서버 앞에 `username@`를 추가한다.
+```bash
 parallel -S username@$SERVER1 echo running on ::: username@server1
-출력:
+```
 
-
+- 출력:
+```bash
 running on username@server1
-특별한 sshlogin :는 로컬 머신입니다:
+```
 
-
+- 특별한 sshlogin `:`는 로컬 머신이다.
+```bash
 parallel -S : echo running on ::: _the_local_machine
-출력:
+```
 
-
+- 출력:
+```bash
 running on the_local_machine
-8.1 SSH 명령어 사용하기
-ssh가 $PATH에 없으면 $SERVER1 앞에 추가할 수 있습니다:
+```
 
-
+---
+### 8.1.1 SSH 명령어 사용하기
+- ssh가 `$PATH`에 없으면 `$SERVER1` 앞에 추가할 수 있다.
+```bash
 parallel -S '/usr/bin/ssh' $SERVER1 echo custom ::: ssh
-출력:
+```
 
-
+- 출력:
+```bash
 custom ssh
-ssh 명령어는 --ssh로도 지정할 수 있습니다:
+```
+
+- ssh 명령어는 --ssh로도 지정할 수 있습니다:
 
 
 parallel --ssh /usr/bin/ssh -S $SERVER1 echo custom ::: ssh
