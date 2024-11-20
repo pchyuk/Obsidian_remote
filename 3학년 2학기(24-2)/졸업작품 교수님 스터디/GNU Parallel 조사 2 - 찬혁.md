@@ -660,5 +660,12 @@ cat /tmp/log
 - 출력:
 
 ```bash
-Seq Host Starttime Runtime Send Receive Exitval Signal Command 1 : 1376580069.544 0.008 0 0] 1 0 exit 1 2 : 1376580069.552 0.009 0 0 2 0 exit 2 3 1376580069.560 0.012 0 0 3 0 exit 3 4 1376580069.571 0.005 0 0 0 9] exit 0 ro] 1376580070.028 0.009 a Q 0 iG] exit 0 6 1376580070.038 0.007 0] a Qa QO exit 0
+Seq Host Starttime Runtime Send Receive Exitval Signal Command 
+1 : 1376580069.544 0.008 0 0 1 0 exit 1 
+2 : 1376580069.552 0.009 0 0 2 0 exit 2 
+3 : 1376580069.560 0.012 0 0 3 0 exit 3 
+4 : 1376580069.571 0.005 0 0 0 0 exit 0 
+5 : 1376580070.028 0.009 0 0 0 0 exit 0 
+6 : 1376580070.038 0.007 0 0 0 0 exit 0
 ```
+
