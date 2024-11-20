@@ -92,12 +92,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
+                "file": "Daily Note/2024-11-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rust 공부 계획"
+              "title": "2024-11-20"
             }
           },
           {
@@ -168,7 +168,7 @@
             }
           },
           {
-            "id": "44fb2380a44c989f",
+            "id": "bc5df80b266a6fe2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -177,7 +177,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,10 +222,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/Rust/Rust 공부 계획.md"
+                "file": "Daily Note/2024-11-20.md"
               },
               "icon": "lucide-list",
-              "title": "Rust 공부 계획 개요"
+              "title": "2024-11-20 개요"
             }
           },
           {
@@ -311,6 +312,7 @@
   },
   "active": "adc9641aa15ccc14",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
     "Daily Note/2024-11-20.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
@@ -322,7 +324,6 @@
     "Daily Note/2024-11-18.md",
     "Daily Note/2024-11-17.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
-    "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "Daily Note/2024-11-15.md",
     "Daily Note/2024-11-16.md",
     "Daily Note/2024-11-14.md",
