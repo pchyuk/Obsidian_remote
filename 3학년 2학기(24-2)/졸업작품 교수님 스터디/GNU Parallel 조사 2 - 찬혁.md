@@ -1042,36 +1042,109 @@ parallel -S $server1 --transfer wc {./} ::: foo/./bar/file
 
 - 즉, 원격 컴퓨터에서 홈 디렉토리가 다른 경우,(예: 로그인이 다른 경우) 상대 경로는 여전히 홈 디렉토리에 대한 상대 경로가 된다.
 
+```bash
 parallel -S $SERVER1 pwd ::: ""
 parallel --workdir -S $SERVER1 pwd ::: ""
 parallel --workdir ... -S $SERVER1 pwd ::: ""
-출력:
+```
 
+- 출력:
+```bash
 [the login dir on $SERVER1]
 [current dir relative on $SERVER1]
 [a dir in ~/.parallel/tmp/...]
-8.4 sshd 과부하 방지
-같은 서버에서 많은 작업이 시작되면, sshd가 과부하될 수 있습니다. GNU Parallel은 각 작업 실행 간에 지연을 삽입하여 이를 방지할 수 있습니다:
+```
 
+---
+## 8.4 sshd 과부하 방지
+- 같은 서버에서 많은 작업이 시작되면, `sshd`가 과부하될 수 있다. 
+- GNU Parallel은 각 작업 실행 간에 **지연을 삽입**하여 이를 방지할 수 있다.
 
+```bash
 parallel -S $SERVER1 --sshdelay 0.2 echo ::: 1 2 3
-출력 (순서는 다를 수 있습니다):
+```
 
+- 출력 (순서는 변동 가능):
+```bash
 1
 2
 3
-sshd는 --controlmaster를 사용하면 덜 과부하됩니다. 이는 ssh 연결을 다중화합니다:
+```
 
+- `sshd`는 `--controlmaster`를 사용하면 덜 과부하된다. 
+	- 이는 ssh 연결을 다중화한다.
 
+```bash
 parallel --controlmaster -S $SERVER1 echo ::: 1 2 3
-출력: 위와 동일합니다.
-8.5 다운된 호스트 무시
-많은 호스트가 있는 클러스터에서는 일부 호스트가 자주 다운되는 경우가 있습니다. GNU Parallel은 이러한 호스트를 무시할 수 있습니다. 이 경우, 173.194.32.46 호스트가 다운되었습니다:
+```
 
+- 출력: 위와 동일
 
+---
+## 8.5 다운된 호스트 무시
+- 많은 호스트가 있는 클러스터에서는 일부 호스트가 자주 다운되는 경우가 있다. 
+- GNU Parallel은 이러한 호스트를 무시할 수 있다. 
+- 이 경우, `173.194.32.46` 호스트가 다운되었다.
+
+```bash
 parallel --filter-hosts -S 173.194.32.46,$SERVER1 echo ::: bar
+```
+
+- 출력:
+```bash
+bar
+```
+
+---
+## 8.6 모든 호스트에서 같은 명령 실행
+- GNU Parallel은 모든 호스트에서 같은 명령을 실행할 수 있다.
+
+```bash
+parallel --onall -S $SERVER1,$SERVER2 echo ::: foo bar
+```
+
+- 출력 (순서는 변동 가능):
+
+```bash
+foo
+bar
+foo
+bar
+```
+
+- 종종 인수 없이 모든 호스트에서 단일 명령을 실행하고 싶을 수 있다. 
+- 이때 --nonall을 사용합니다:
+
+
+parallel --nonall -S $SERVER1,$SERVER2 echo foo bar
 출력:
 
-bar
-8.6 모든 호스트에서 같은 명령 실행
-GNU Parallel은 모든 호스트에서 같은 명령을 실행할 수 있습니다.
+foo bar
+foo bar
+--tag가 --nonall과 --onall과 함께 사용될 때, --tagstring은 호스트를 나타냅니다:
+
+
+parallel --nonall --tag -S $SERVER1,$SERVER2 echo foo bar
+출력 (순서는 다를 수 있습니다):
+
+$SERVER1 foo bar
+$SERVER2 foo bar
+--jobs는 병렬로 로그인할 서버의 수를 설정합니다.
+
+8.7 환경 변수 및 함수 전송
+env_parallel은 모든 별칭, 함수, 변수 및 배열을 전송하는 쉘 함수입니다. 다음과 같이 실행하여 활성화할 수 있습니다:
+
+
+source `which env_parallel.bash`
+사용하는 쉘로 bash를 대체하십시오.
+
+이제 env_parallel을 parallel 대신 사용할 수 있으며, 환경을 유지할 수 있습니다:
+
+
+alias myecho=echo
+myvar="Joe's var is"
+env_parallel -S $SERVER1 'myecho $myvar' ::: green
+출력:
+
+Joe's var is green
+환경이 설정되지 않은 경우, env_parallel이 실패할 수 있습니다.
