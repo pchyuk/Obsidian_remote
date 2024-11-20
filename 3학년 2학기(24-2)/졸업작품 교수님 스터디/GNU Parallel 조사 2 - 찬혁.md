@@ -837,27 +837,31 @@ custom ssh
 
 - ssh 명령어는 `--ssh`로도 지정할 수 있다.
 
-
 ```bash
 parallel --ssh /usr/bin/ssh -S $SERVER1 echo custom ::: ssh
 ```
-또는 $PARALLEL_SSH를 설정하여 사용할 수도 있습니다:
 
-
+- 또는 `$PARALLEL_SSH`를 설정하여 사용할 수도 있다.
+```bash
 export PARALLEL_SSH=/usr/bin/ssh
 parallel -S $SERVER1 echo custom ::: ssh
-8.1.2 여러 서버
-여러 서버는 -S를 여러 번 사용하여 지정할 수 있습니다:
+```
 
+---
+### 8.1.2 여러 서버
+- 여러 서버는 `-S`를 여러 번 사용하여 지정할 수 있다.
 
+```bash
 parallel -S $SERVER1 -S $SERVER2 echo ::: running on more hosts
-출력(순서는 다를 수 있습니다):
+```
 
-
+- 출력(순서는 변동 가능):
+```bash
 running
 on
 more
 hosts
+```
 또는 ,로 구분할 수 있습니다:
 
 
