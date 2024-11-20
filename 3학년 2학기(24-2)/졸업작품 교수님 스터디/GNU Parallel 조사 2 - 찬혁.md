@@ -931,41 +931,63 @@ run_on_grp1
 also_grp1
 ```
 
----
 #### 8.1.3.1 인수로 정의된 호스트 그룹
 - 호스트 그룹은 인수에 `@`를 추가하고 `sshlogin`을 사용하여 정의할 수도 있다.
 
+```bash
+parallel --hostgroup echo {} \ ::: run_on_server1@$SERVER1 run_on_server 2@$SERVER2
+```
 
-parallel --hostgroup echo {} \
-::: run_on_server1@$SERVER1 run_on_server 2@$SERVER2
-출력:
-
+- 출력:
+```bash
 run_on_server1
 run_on_server2
-8.2 파일 전송
-GNU Parallel은 파일을 원격 호스트로 전송하여 처리할 수 있습니다. 이는 --transferfile을 사용하여 rsync로 수행됩니다.
+```
 
+---
+## 8.2 파일 전송
+- GNU Parallel은 파일을 원격 호스트로 전송하여 처리할 수 있다. 
+	- `--transferfile`을 사용하여 `rsync`로 수행.
 
+```bash
 echo This is input_file > input_file
 parallel -S $SERVER1 --transferfile {} ::: input_file
-출력:
+```
 
+- 출력:
+```bash
 This is input_file
-rsync 옵션은 --rsync-options 또는 $PARALLEL_RSYNC_OPTS로 제어할 수 있습니다. 기본값은 -rlDzR입니다.
+```
 
-파일이 다른 파일로 처리되면, 결과 파일은 --return을 사용하여 반환할 수 있습니다:
+- `rsync` 옵션은 `--rsync-options` 또는 `$PARALLEL_RSYNC_OPTS`로 제어할 수 있다. 
+- 기본값: `-rlDzR`
 
+- 파일이 다른 파일로 처리되면, 결과 파일은 `--return`을 사용하여 반환할 수 있다.
 
+```bash
 echo This is input_file > input_file
 parallel -S $SERVER1 --transferfile {} --return {}.out \
 cat {} > "{}".out ::: input_file
 cat input_file.out
-출력: 위와 동일합니다.
-원격 서버에서 입력 파일과 출력 파일을 제거하려면 --cleanup을 사용합니다:
+```
+
+- 출력: 위와 동일
+```bash
+This is input_file
+```
+
+- 원격 서버에서 입력 파일과 출력 파일을 제거하려면 `--cleanup`을 사용한다.
 
 
+```bash
 echo This is input_file > input_file
 parallel -S $SERVER1 --transferfile {} --return {}.out --cleanup \
 cat {} > "{}".out ::: input_file
 cat input_file.out
-출력: 위와 동일합니다.
+```
+
+- 출력: 위와 동일
+```bash
+This is input_file
+```
+
