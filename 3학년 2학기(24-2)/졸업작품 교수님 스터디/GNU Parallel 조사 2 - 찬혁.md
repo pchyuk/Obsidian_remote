@@ -651,7 +651,14 @@ Seq Host Starttime    Runtime Send Receive Exitval Signal Command
 - `--joblog`를 사용하면 GNU Parallel을 중단하고 중단된 지점에서 다시 시작할 수 있다. 
 - 완료된 작업의 입력은 변경되지 않는다.
 
-
+```bash
 parallel --joblog /tmp/log exit ::: 1 2 3 0
 parallel --resume --joblog /tmp/log exit ::: 1 2 3 0
 cat /tmp/log
+```
+
+- 출력:
+
+```bash
+Seq Host Starttime Runtime Send Receive Exitval Signal Command 1 : 1376580069.544 0.008 0 0] 1 0 exit 1 2 : 1376580069.552 0.009 0 0 2 0 exit 2 3 1376580069.560 0.012 0 0 3 0 exit 3 4 1376580069.571 0.005 0 0 0 9] exit 0 ro] 1376580070.028 0.009 a Q 0 iG] exit 0 6 1376580070.038 0.007 0] a Qa QO exit 0
+```
