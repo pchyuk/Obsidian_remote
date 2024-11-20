@@ -1229,3 +1229,39 @@ env_parallel --env _ -S $SERVER1 foo_func ::: copied
 aliases, functions, and arrays are all copied
 ```
 
+---
+## 8.8 실제 실행되는 명령 보기
+- `--verbose`는 로컬 머신에서 실행될 명령을 보여준다.
+
+- `--nice`, `--pipepart`를 사용할 때 또는 작업이 원격 머신에서 실행될 때, 명령은 도우미 스크립트로 감싸진다. 
+- `-vv`는 이 모든 것을 보여준다:
+
+```bash
+parallel -vv --pipepart --block 1M wc ::: num30000
+```
+
+- 출력:
+
+```bash
+<num30000 perl -e 'while(@ARGV) { sysseek(STDIN,shift,0) || die; $left = shift; while($read = sysread(STDIN,$buf, ($left > 131072 ? 131072 : $left))) { $left -= $read; syswrite(STDOUT,$buf); } }'>
+0 0 0 168894 | (wc)
+30000 30000 168894
+```
+
+- 코드를 이해할 필요는 없지만, 예기치 않은 결과가 발생할 경우 실제로 실행되는 명령을 아는 것이 유용할 수 있다.
+
+- 명령이 복잡해지면 출력이 읽기 어려워지므로, 디버깅에만 유용하하다:
+
+```bash
+my_func3() {
+  echo in my_func $1 > $1.out
+}
+export -f my_func3
+parallel -vv --workdir ... --nice 17 --env _ --trc {}.out \
+-S $SERVER1 my_func3 {} ::: abc-file
+```
+
+- 출력: 다음과 유사할 것
+```bash
+[in my_func 1 > 1.out]
+```
