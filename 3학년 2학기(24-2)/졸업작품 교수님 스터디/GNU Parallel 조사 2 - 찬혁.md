@@ -578,27 +578,36 @@ parallel --timeout 200% sleep {}; echo {} ::: 2.1 2.2 3 7 2.3
 
 ---
 ## 7.6 진행 정보
-완료된 작업의 실행 시간을 기반으로 GNU Parallel은 총 실행 시간을 추정할 수 있습니다:
+- 완료된 작업의 실행 시간을 기반으로 GNU Parallel은 총 실행 시간을 추정할 수 있다.
 
-
+```bash
 parallel --eta sleep ::: 1 3 2 2 1 3 3 2 1
-출력:
+```
 
+- 출력:
 
+```bash
 Computers / CPU cores / Max jobs to run
 1:local / 2 / 2
 
 Computer:jobs running/jobs completed/% of started jobs/
 Average seconds to complete
 ETA: 2s 0 left 1.11 avg local:0/9/100%/1.1s
-GNU Parallel은 --progress를 사용하여 진행 정보를 제공할 수 있습니다:
+```
 
+- GNU Parallel은 `--progress`를 사용하여 진행 정보를 제공할 수 있다.
 
+```bash
 parallel --progress sleep ::: 1 3 2 2 1 3 3 2 1
-출력:
+```
 
+- 출력:
 
+```bash
 Computers / CPU cores / Max jobs to run
 1:local / 2 / 2
 
 Computer:jobs running/jobs completed/% of started jobs/
+Average seconds to complete 
+local:0/9/100%/1.1S
+```
