@@ -102,8 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -214,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,11 +231,11 @@
   },
   "active": "adc9641aa15ccc14",
   "lastOpenFiles": [
+    "Daily Note/2024-11-20.md",
+    "Daily Note/2024-11-21.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1121 12주차 (13장).md",
     "Pasted Images/Pasted image 20241121103437.png",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1114 11주차 (12장).md",
-    "Daily Note/2024-11-21.md",
-    "Daily Note/2024-11-20.md",
     "3학년 2학기(24-2)/Rust/Rust 공부 계획.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.md",
