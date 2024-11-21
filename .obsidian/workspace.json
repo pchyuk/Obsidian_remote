@@ -126,8 +126,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -259,7 +258,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "38cedf15bf33bae2",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/서버프로그래밍/1031.md",
