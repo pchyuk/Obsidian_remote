@@ -117,7 +117,7 @@
             }
           },
           {
-            "id": "9271b510809c0181",
+            "id": "4c837657d0346cae",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -126,7 +126,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -258,7 +259,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "38cedf15bf33bae2",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/서버프로그래밍/1031.md",
