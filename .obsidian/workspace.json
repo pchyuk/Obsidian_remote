@@ -8,49 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e0b68fe9bc8c4204",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1114 11주차 (9장)"
-            }
-          },
-          {
-            "id": "43b74da2a62059ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1121 12주차 (10장)"
-            }
-          },
-          {
-            "id": "a59a51d84eae1122",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/1031.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1031"
-            }
-          },
-          {
-            "id": "38cedf15bf33bae2",
+            "id": "ff06701c41b248b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,105 +22,30 @@
             }
           },
           {
-            "id": "ee6d38db9efa6358",
+            "id": "c0add10bebc5b549",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0912 2주차 (2장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0912 2주차 (2장)"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           },
           {
-            "id": "05d280c5590e846c",
+            "id": "70a62482d4cca096",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0916 3주차 - 2 (3장)"
-            }
-          },
-          {
-            "id": "5dd09352a2f7d467",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0923 4주차 (4~5장)"
-            }
-          },
-          {
-            "id": "97676e4604980376",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0919 3주차 (4장)"
-            }
-          },
-          {
-            "id": "d46fa7f52492fa99",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0930 5주차 (5~6장)"
-            }
-          },
-          {
-            "id": "e9a5aaec296a378a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1007 6주차 (7~8장)"
-            }
-          },
-          {
-            "id": "01e196c791150c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-11-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-22"
+              "title": "1115 11주차"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -224,8 +107,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -269,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-22.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-22 개요"
+              "title": "1115 11주차 개요"
             }
           },
           {
@@ -356,22 +238,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01e196c791150c61",
+  "active": "70a62482d4cca096",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1121 12주차 (13장).md",
+    "Daily Note/2024-11-22.md",
+    "Daily Note/2024-11-21.md",
+    "Daily Note/2024-11-27.md",
+    "Daily Note/2024-11-28.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1007 6주차 (7~8장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1121 12주차 (13장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0912 2주차 (2장).md",
-    "Daily Note/2024-11-22.md",
     "Daily Note/2024-11-20.md",
-    "Daily Note/2024-11-27.md",
     "Daily Note/2024-11-18.md",
     "Daily Note/2024-11-19.md",
-    "Daily Note/2024-11-21.md",
     "3학년 2학기(24-2)/서버프로그래밍/0925.md",
     "3학년 2학기(24-2)/서버프로그래밍/1031.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
@@ -387,7 +270,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "Daily Note/2024-11-17.md",
     "Daily Note/2024-11-15.md",
-    "Daily Note/2024-11-16.md",
     "Pasted Images/Pasted image 20241115105135.png",
     "Pasted Images/14.png",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
