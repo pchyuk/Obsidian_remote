@@ -25,9 +25,14 @@
             "id": "c0add10bebc5b549",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1122 12주차"
             }
           }
         ],
@@ -136,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "1122 12주차 개요"
             }
           },
           {
@@ -224,6 +231,7 @@
   },
   "active": "c0add10bebc5b549",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md",
     "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
     "Daily Note/2024-11-22.md",
     "Daily Note/2024-11-21.md",
@@ -253,7 +261,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/gnu2 - 영찬.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (10장).md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
-    "Daily Note/2024-11-17.md",
     "Pasted Images/Pasted image 20241115105135.png",
     "Pasted Images/14.png",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
