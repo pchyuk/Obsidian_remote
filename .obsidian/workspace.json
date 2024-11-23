@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-10.md",
+                "file": "Daily Note/2024-11-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-10"
+              "title": "2024-11-23"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -128,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-10.md"
+                "file": "Daily Note/2024-11-23.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-10 개요"
+              "title": "2024-11-23 개요"
             }
           },
           {
@@ -216,12 +215,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "00a827a7897734c6",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "Daily Note/2024-11-10.md",
+    "Daily Note/2024-11-23.md",
     "Daily Note/2024-11-07.md",
     "Daily Note/2024-11-08.md",
     "Daily Note/2024-11-09.md",
-    "Daily Note/2024-11-10.md",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 DDL 실습 과제.md",
     "Day Planners/Day Planner-20241027.md",
     "Day Planners/Day Planner-20241109.md",
@@ -245,7 +245,6 @@
     "Daily Note/2024-11-03.md",
     "Daily Note/2024-11-01.md",
     "Daily Note/2024-11-02.md",
-    "README.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본",
     "3학년 2학기(24-2)/소프트웨어공학/졸업작품 & 소공 회의",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트",
