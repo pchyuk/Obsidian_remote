@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-22.md",
+                "file": "Daily Note/2024-11-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-22"
+              "title": "2024-11-24"
             }
           }
         ],
@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "dccec00180d8fdcd",
+            "id": "0692b5cbd0acbd6b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -143,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-22.md"
+                "file": "Daily Note/2024-11-24.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-22 개요"
+              "title": "2024-11-24 개요"
             }
           },
           {
@@ -233,10 +233,11 @@
   },
   "active": "4f032fc725be9da9",
   "lastOpenFiles": [
+    "Daily Note/2024-11-22.md",
+    "Daily Note/2024-11-24.md",
     "Daily Note/2024-11-20.md",
     "Daily Note/2024-11-21.md",
     "Daily Note/2024-11-23.md",
-    "Daily Note/2024-11-22.md",
     "conflict-files-obsidian-git.md",
     "Pasted Images/Pasted image 20241121103437.png",
     "Pasted Images/Pasted image 20241120193938.png",
@@ -274,7 +275,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1112 11주차 (8장).md",
     "3학년 2학기(24-2)/산학프로젝트/과제",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/6장 데이터 정의 언어 실습 문제.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/과제",
