@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 1 (14장).md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 2 (15장).md"
               },
               "icon": "lucide-list",
-              "title": "1125 13주차 - 1 (14장) 개요"
+              "title": "1125 13주차 - 2 (15장) 개요"
             }
           },
           {
@@ -245,11 +245,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eac43ee105196f1d",
+  "active": "c0add10bebc5b549",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 1 (14장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 2 (15장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1121 12주차 (13장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 1 (14장).md",
     "Pasted Images/Pasted image 20241125104037.png",
     "Daily Note/2024-11-25.md",
     "Daily Note/2024-11-24.md",
