@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "19b5da9e40214e2f",
+            "id": "d4b54d7c4a1214e4",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -214,7 +215,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "c0add10bebc5b549",
   "lastOpenFiles": [
     "Daily Note/2024-11-24.md",
     "Daily Note/2024-11-25.md",
