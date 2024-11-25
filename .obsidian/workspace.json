@@ -112,8 +112,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -245,7 +244,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c0add10bebc5b549",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md",
     "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md",
