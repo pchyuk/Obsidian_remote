@@ -275,8 +275,7 @@ cat num_%header | \
 ```
 
 - 출력 (순서는 다를 수 있음)
-
-```shell
+```bash
 JOB1 
 %head1 
 %head2 
@@ -284,38 +283,42 @@ JOB1
 2 
 3 
 JOB2 
-%head1 %*head2 4 5 6 JOB3 %*head1 %*head2 7 8 9 JOB4 %*head1 %*head2 10
+%head1
+%head2 
+4 
+5 
+6 
+JOB3 
+%head1 
+%head2 
+7 
+8 
+9 
+JOB4 
+%head1 
+%head2 
+10
 ```
 
 ---
+### 예제 2: 헤더가 2줄일 경우
+- 헤더가 정확히 두 줄이라면 `--header 2`를 사용할 수 있다.
+```bash
+cat num_%header | parallel --header 2 --pipe -N3 echo JOB{@}\;cat
+```
 
-#### 예제 2: 헤더가 2줄일 경우
-
-헤더가 정확히 두 줄이라면 `--header 2`를 사용할 수 있습니다:
-
-bash
-
-Copy code
-
-`cat num_%header | parallel --header 2 --pipe -N3 echo JOB{#}\;cat`
-
-**출력**:  
-위와 동일합니다.
+- 출력: 위와 동일
 
 ---
+## 9.5 Fixed length records
+- **고정 길이 레코드(Fixed length records)** 는 `--recend ''`와 `--block recordsize`를 설정해 처리할 수 있다.  
+- n 바이트 크기의 헤더는 `--header .{n}`를 사용해 처리한다.
 
-### 9.5 고정 길이 레코드 처리
-
-**고정 길이 레코드**는 `--recend ''`와 `--block recordsize`를 설정해 처리할 수 있습니다.  
-n 바이트 크기의 헤더는 `--header .{n}`를 사용해 처리합니다.
-
-#### 예제: 4바이트 헤더와 3바이트 레코드
-
-bash
-
-Copy code
-
-`cat fixedlen | parallel --pipe --header .{4} --block 3 --recend '' \ "echo start; cat; echo"`
+### 예제: 4바이트 헤더와 3바이트 레코드
+```bash
+cat fixedlen | parallel --pipe --header .{4} --block 3 --recend '' \ 
+	'echo start; cat; echo'
+```
 
 **출력**:
 
