@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "01a00875c9624c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 3 - 찬혁.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GNU Parallel 조사 3 - 찬혁"
+            }
+          },
+          {
             "id": "03ea751535011216",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -141,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-26.md"
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 3 - 찬혁.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-26 개요"
+              "title": "GNU Parallel 조사 3 - 찬혁 개요"
             }
           },
           {
@@ -228,14 +243,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "01a00875c9624c27",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 3 - 찬혁.md",
+    "Daily Note/2024-11-26.md",
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "Pasted Images/Pasted image 20241126194734.png",
     "Pasted Images/Pasted image 20241126193423.png",
     "Pasted Images/9.png",
-    "Daily Note/2024-11-26.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
@@ -264,7 +281,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 2 풀이.md",
     "3학년 2학기(24-2)/산학프로젝트/1115 11주차.md",
-    "Daily Note/2024-11-27.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/gnu2 - 영찬.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
