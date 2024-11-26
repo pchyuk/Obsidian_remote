@@ -265,3 +265,112 @@ END
 
 ---
 ## 9.4 Header
+- 입력 데이터에 **헤더**가 있는 경우, `--header` 옵션을 사용해 각 작업에 헤더를 반복적으로 추가할 수 있다.
+
+### 예제 1: 정규 표현식으로 헤더 매칭하기
+- 헤더가 `%`로 시작한다고 가정
+```bash
+cat num_%header | \ 
+	parallel --header '(%.*\n)*' --pipe -N3 echo JOB{@}\;cat
+```
+
+- 출력 (순서는 다를 수 있음)
+
+```shell
+JOB1 
+%head1 
+%head2 
+1 
+2 
+3 
+JOB2 
+%head1 %*head2 4 5 6 JOB3 %*head1 %*head2 7 8 9 JOB4 %*head1 %*head2 10
+```
+
+---
+
+#### 예제 2: 헤더가 2줄일 경우
+
+헤더가 정확히 두 줄이라면 `--header 2`를 사용할 수 있습니다:
+
+bash
+
+Copy code
+
+`cat num_%header | parallel --header 2 --pipe -N3 echo JOB{#}\;cat`
+
+**출력**:  
+위와 동일합니다.
+
+---
+
+### 9.5 고정 길이 레코드 처리
+
+**고정 길이 레코드**는 `--recend ''`와 `--block recordsize`를 설정해 처리할 수 있습니다.  
+n 바이트 크기의 헤더는 `--header .{n}`를 사용해 처리합니다.
+
+#### 예제: 4바이트 헤더와 3바이트 레코드
+
+bash
+
+Copy code
+
+`cat fixedlen | parallel --pipe --header .{4} --block 3 --recend '' \ "echo start; cat; echo"`
+
+**출력**:
+
+sql
+
+Copy code
+
+`start HHHHAAA start HHHHCCC start HHHHBBB`
+
+---
+
+### 9.6 표준 입력을 읽지 못하는 프로그램
+
+일부 프로그램은 **표준 입력(stdin)** 대신 파일로부터 데이터를 읽어야 합니다.
+
+#### 9.6.1 `--cat` 사용
+
+`--cat` 옵션을 사용하면, GNU Parallel이 임시 파일을 생성해 데이터를 저장한 후 해당 파일을 프로그램이 읽도록 합니다. 프로그램이 종료되면 임시 파일은 삭제됩니다.
+
+bash
+
+Copy code
+
+`cat num1000000 | parallel --pipe --cat wc {}`
+
+**출력**:
+
+python
+
+Copy code
+
+`149796 149796 165668 165668 149796 149796 ...`
+
+GNU Parallel은 `/tmp/parXxXxXxx` 형식의 임시 파일을 생성하고, 각 파일에 데이터를 저장한 뒤 **wc** 명령어를 실행합니다. 프로그램이 끝나면 이 파일들은 삭제됩니다.
+
+---
+
+#### 9.6.2 `--fifo` 사용
+
+`--cat`은 데이터를 디스크에 저장한 뒤 읽기 때문에 느릴 수 있습니다.  
+프로그램이 **FIFO**(명명된 파이프)를 읽을 수 있다면, GNU Parallel은 데이터를 디스크에 저장하지 않고 처리할 수 있습니다.
+
+bash
+
+Copy code
+
+`cat num1000000 | parallel --pipe --fifo wc {}`
+
+**출력**:
+
+bash
+
+Copy code
+
+`149796 149796 1048572 /tmp/parXXXXXX 165668 165668 1048571 /tmp/parYYYYYY ...`
+
+**FIFO 제한사항**:  
+프로그램이 파일을 **처음부터 끝까지** 읽어야만 합니다. 만약 일부 데이터만 읽고 처리를 중단한다면, GNU Parallel은 작업이 멈추게 됩니다.
