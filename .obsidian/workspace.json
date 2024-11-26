@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-27.md",
+                "file": "Daily Note/2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-27"
+              "title": "2024-11-26"
             }
           }
         ],
@@ -157,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-11-27.md"
+                "file": "Daily Note/2024-11-26.md"
               },
               "icon": "lucide-list",
-              "title": "2024-11-27 개요"
+              "title": "2024-11-26 개요"
             }
           },
           {
@@ -246,8 +246,8 @@
   },
   "active": "a9960943c83d64bf",
   "lastOpenFiles": [
-    "Daily Note/2024-11-26.md",
     "Daily Note/2024-11-27.md",
+    "Daily Note/2024-11-26.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 3 - 찬혁.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 2 - 찬혁.md",
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
