@@ -429,9 +429,17 @@ seq 30 | parallel -v --pipe --tee --tag grep {} ::: 4 5 6
 ```
 
 - 출력
-
 ```bash
 4 grep 
 4 4 
-4 14 24 grep 5 5 15 25 grep 6 6 16 26
+4 14 
+4 24 
+5 grep 5
+5 5 
+5 15 
+5 25 
+6 grep 6 
+6 6
+6 16 
+6 26
 ```
