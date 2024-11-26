@@ -134,3 +134,128 @@ cat numi000000 | parallel --pipe -L75 wc
 ---
 ## 9.3 레코드 구분자
 - GNU Parallel은 레코드가 어디에서 나뉘는지를 결정하기 위해 **구분자(separators)** 를 사용한다.
+
+- `--recstart`는 레코드가 시작되는 문자열을 지정하고, `--recend`는 레코드가 끝나는 문자열을 지정한다.  
+- 기본값은 `--recend '\n'` (줄바꿈)과 `--recstart ""` 이다.  
+- `--recend`와 `--recstart`를 모두 설정하면, 레코드는 **`--recend` 문자열 바로 뒤에 `--recstart` 문자열이 따라올 때만** 나뉜다.
+
+---
+### 예제 1: 입력 데이터 분리하기
+- 다음 입력 데이터를 사용한다고 가정한다.
+```bash
+/foo, bar/, /baz, qux/,
+```
+
+- 이 데이터를 다음과 같이 분리하고 싶다.
+
+```bash
+/foo, bar/, 
+/baz, qux/,
+```
+
+---
+
+#### 1. `--recend`만 사용한 경우
+- `--recend`를 `', '`로 설정:
+
+bash
+
+Copy code
+
+`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recend ', ' --pipe echo JOB{#}\;cat\;echo END`
+
+**출력**:
+
+sql
+
+Copy code
+
+`JOB1 /foo, barEND JOB2 /, END JOB3 /baz, END JOB4 qux/, END`
+
+=> 원하는 결과가 아닙니다. 문제는 레코드에 `', '`가 포함되어 있기 때문입니다.
+
+---
+
+**2. `--recstart`만 사용한 경우**  
+`--recstart`를 `'/'`로 설정:
+
+bash
+
+Copy code
+
+`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recstart / --pipe echo JOB{#}\;cat\;echo END`
+
+**출력**:
+
+bash
+
+Copy code
+
+`JOB1 /foo, barEND JOB2 /, END JOB3 /baz, quxEND JOB4 / END`
+
+=> 이것도 원하는 결과가 아닙니다.
+
+---
+
+**3. `--recend`와 `--recstart`를 모두 설정한 경우**  
+`--recend`를 `', '`로, `--recstart`를 `'/'`로 설정:
+
+bash
+
+Copy code
+
+`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recend ', ' --recstart / --pipe \ echo JOB{#}\;cat\;echo END`
+
+**출력**:
+
+bash
+
+Copy code
+
+`JOB1 /foo, bar/, END JOB2 /baz, qux/, END`
+
+=> 원하는 결과가 나왔습니다.
+
+---
+
+#### 정규식 사용하기
+
+`--regexp` 옵션을 사용하면 `--recend`와 `--recstart`를 정규식으로 처리할 수 있습니다.
+
+bash
+
+Copy code
+
+`echo foo,bar,_baz,__qux | \ parallel -kN1 --regexp --recend ,_* --pipe \ echo JOB{#}\;cat\;echo END`
+
+**출력**:
+
+sql
+
+Copy code
+
+`JOB1 foo, END JOB2 bar, END JOB3 baz, __END JOB4 qux END`
+
+---
+
+#### 레코드 구분자 제거
+
+`--remove-rec-sep` 또는 `--rrs` 옵션을 사용하면 레코드 구분자를 제거할 수 있습니다.
+
+bash
+
+Copy code
+
+`echo foo,bar,_baz,__qux | \ parallel -kN1 --rrs --regexp --recend ,_* --pipe \ echo JOB{#}\;cat\;echo END`
+
+**출력**:
+
+Copy code
+
+`JOB1 fooEND JOB2 barEND JOB3 bazEND JOB4 quxEND`
+
+4o
+
+  
+
+ChatGPT can
