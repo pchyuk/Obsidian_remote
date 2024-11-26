@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
+                "file": "Daily Note/2024-11-26.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24.11.26 공공기관 취업 특강 - 한전 KDN"
+              "title": "2024-11-26"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +88,7 @@
             }
           },
           {
-            "id": "19e3f9d17e741ba7",
+            "id": "44246c9f2a1ab40b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +97,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md"
+                "file": "Daily Note/2024-11-26.md"
               },
               "icon": "lucide-list",
-              "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원 개요"
+              "title": "2024-11-26 개요"
             }
           },
           {
@@ -229,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "03ea751535011216",
+  "active": "8e6bc9a2d461c2dd",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
