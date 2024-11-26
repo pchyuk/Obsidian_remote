@@ -82,8 +82,7 @@ cat num1000000 | parallel --pipe -j4 --keep-order --round-robin wc
 ```
 
 ---
-## 9.2 레코드
-
+## 9.2 Records
 - GNU Parallel은 입력을 **레코드**로 인식한다. 
 	- 기본(default) 레코드는 한 줄이다.  
 
@@ -132,7 +131,7 @@ cat numi000000 | parallel --pipe -L75 wc
 	- 위의 경우, 마지막 작업은 25줄을 처리했다.
 
 ---
-## 9.3 레코드 구분자
+## 9.3 Record separators
 - GNU Parallel은 레코드가 어디에서 나뉘는지를 결정하기 위해 **구분자(separators)** 를 사용한다.
 
 - `--recstart`는 레코드가 시작되는 문자열을 지정하고, `--recend`는 레코드가 끝나는 문자열을 지정한다.  
@@ -221,45 +220,48 @@ END
 - 원하는 결과가 나왔다.
 
 ---
+### 정규식 사용하기
+- `--regexp` 옵션을 사용하면 `--recend`와 `--recstart`를 정규식으로 처리할 수 있다.
+```bash
+echo foo,bar,_baz,__qux | \ 
+	parallel -kN1 --regexp --recend ,_* --pipe \ 
+	echo JOB{@}\;cat\;echo END
+```
 
-#### 정규식 사용하기
-
-`--regexp` 옵션을 사용하면 `--recend`와 `--recstart`를 정규식으로 처리할 수 있습니다.
-
-bash
-
-Copy code
-
-`echo foo,bar,_baz,__qux | \ parallel -kN1 --regexp --recend ,_* --pipe \ echo JOB{#}\;cat\;echo END`
-
-**출력**:
-
-sql
-
-Copy code
-
-`JOB1 foo, END JOB2 bar, END JOB3 baz, __END JOB4 qux END`
+- 출력
+```bash
+JOB1 
+foo, END 
+JOB2 
+bar, END 
+JOB3 
+baz, __END 
+JOB4 
+qux 
+END
+```
 
 ---
+### 레코드 구분자 제거
+- `--remove-rec-sep` 또는 `--rrs` 옵션을 사용하면 레코드 구분자를 제거할 수 있다.
+```bash
+echo foo,bar,_baz,__qux | \ 
+	parallel -kN1 --rrs --regexp --recend ,_* --pipe \ 
+	echo JOB{@}\;cat\;echo END
+```
 
-#### 레코드 구분자 제거
+- 출력
+```bash
+JOB1 
+fooEND 
+JOB2 
+barEND 
+JOB3 
+bazEND 
+JOB4 
+qux
+END
+```
 
-`--remove-rec-sep` 또는 `--rrs` 옵션을 사용하면 레코드 구분자를 제거할 수 있습니다.
-
-bash
-
-Copy code
-
-`echo foo,bar,_baz,__qux | \ parallel -kN1 --rrs --regexp --recend ,_* --pipe \ echo JOB{#}\;cat\;echo END`
-
-**출력**:
-
-Copy code
-
-`JOB1 fooEND JOB2 barEND JOB3 bazEND JOB4 quxEND`
-
-4o
-
-  
-
-ChatGPT can
+---
+## 9.4 Header
