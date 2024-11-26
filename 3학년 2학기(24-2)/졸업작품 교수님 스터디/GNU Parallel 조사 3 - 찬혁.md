@@ -320,18 +320,18 @@ cat fixedlen | parallel --pipe --header .{4} --block 3 --recend '' \
 	'echo start; cat; echo'
 ```
 
-**출력**:
-
-sql
-
-Copy code
-
-`start HHHHAAA start HHHHCCC start HHHHBBB`
+- 출력
+```bash
+start 
+HHHHAAA 
+start 
+HHHHCCC 
+start 
+HHHHBBB
+```
 
 ---
-
-### 9.6 표준 입력을 읽지 못하는 프로그램
-
+## 9.6 표준 입력을 읽지 못하는 프로그램
 일부 프로그램은 **표준 입력(stdin)** 대신 파일로부터 데이터를 읽어야 합니다.
 
 #### 9.6.1 `--cat` 사용
