@@ -372,7 +372,7 @@ cat num1000000 | parallel --pipe --fifo wc {}
 	- 만약 일부 데이터만 읽고 처리를 중단한다면, GNU Parallel은 작업이 멈추게 된다.
 
 ---
-## 9.7 Use --pipepart for high performance
+## 9.7 Use `--pipepart` for high performance
 - `--pipe`는 성능이 그리 효율적이지 않아 약 500MB/s의 속도에 그친다.  
 - 반면, `--pipepart`는 5GB/s 이상의 속도를 쉽게 낼 수 있다. 
 - 하지만 몇 가지 제한 사항이 있다.
@@ -419,24 +419,19 @@ parallel --pipepart -a num1000000 --block -3 -j5 wc
 - `--round-robin` 방식에서는 입력이 섞이기 때문에 순서를 유지할 수 없다.
 
 ---
-## 9.8 `--tee`를 사용해 모든 입력 복제하기
+## 9.8 Duplicate all input using `--tee`
+- `--tee` 옵션을 사용하면 동일한 입력 데이터를 여러 작업에 복제할 수 있다.
 
-`--tee` 옵션을 사용하면 동일한 입력 데이터를 여러 작업에 복제할 수 있습니다.
+### 예제:
+- 다음 명령은 입력 데이터를 각 작업에 복제해 `grep` 명령어를 실행한다.
+```bash
+seq 30 | parallel -v --pipe --tee --tag grep {} ::: 4 5 6
+```
 
-#### 예제:
+- 출력
 
-다음 명령은 입력 데이터를 각 작업에 복제해 `grep` 명령어를 실행합니다:
-
-bash
-
-Copy code
-
-`seq 30 | parallel -v --pipe --tee --tag grep {} ::: 456`
-
-**출력**:
-
-perl
-
-Copy code
-
-`4 grep 4 4 4 14 24 grep 5 5 15 25 grep 6 6 16 26`
+```bash
+4 grep 
+4 4 
+4 14 24 grep 5 5 15 25 grep 6 6 16 26
+```
