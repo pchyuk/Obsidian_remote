@@ -147,19 +147,17 @@ cat numi000000 | parallel --pipe -L75 wc
 ```
 
 - 이 데이터를 다음과 같이 분리하고 싶다.
-
 ```bash
 /foo, bar/, 
 /baz, qux/,
 ```
 
 ---
-
 #### 1. `--recend`만 사용한 경우
 - `--recend`를 `', '`로 설정:
 ```bash
 echo /foo, bar/, /baz, qux/, | \ 
-	parallel -kN1 --recend ', ' --pipe echo JOB {@} \;cat\;echo END
+	parallel -kN1 --recend ', ' --pipe echo JOB{@}\;cat\;echo END
 ```
 
 - 출력
@@ -175,50 +173,52 @@ qux/,
 END
 ```
 
-=> 원하는 결과가 아님. 
-- 레코드에 `', '`가 포함되어 있기 때문입니다.
+- 원하는 결과가 아님. 
+	- 레코드에 `', '`가 포함되어 있기 때문
 
 ---
+#### 2. `--recstart`만 사용한 경우
+- `--recstart`를 `'/'`로 설정
+```bash
+echo /foo, bar/, /baz, qux/, | \ 
+	parallel -kN1 --recstart / --pipe echo JOB{@}\;cat\;echo END
+```
 
-**2. `--recstart`만 사용한 경우**  
-`--recstart`를 `'/'`로 설정:
+- 출력
+```bash
+JOB1 
+/foo, barEND 
+JOB2 
+/, END 
+JOB3 
+/baz, quxEND 
+JOB4 
+/,
+END
+```
 
-bash
-
-Copy code
-
-`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recstart / --pipe echo JOB{#}\;cat\;echo END`
-
-**출력**:
-
-bash
-
-Copy code
-
-`JOB1 /foo, barEND JOB2 /, END JOB3 /baz, quxEND JOB4 / END`
-
-=> 이것도 원하는 결과가 아닙니다.
+- 이것도 원하는 결과가 아님.
 
 ---
+#### 3. `--recend`와 `--recstart`를 모두 설정한 경우
+- `--recend`를 `', '`로, `--recstart`를 `'/'`로 설정:
 
-**3. `--recend`와 `--recstart`를 모두 설정한 경우**  
-`--recend`를 `', '`로, `--recstart`를 `'/'`로 설정:
+```bash
+echo /foo, bar/, /baz, qux/, | \ 
+	parallel -kN1 --recend ', ' --recstart / --pipe \ 
+	echo JOB{@}\;cat\;echo END
+```
 
-bash
+- 출력
+```bash
+JOB1 
+/foo, bar/, END 
+JOB2 
+/baz, qux/, 
+END
+```
 
-Copy code
-
-`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recend ', ' --recstart / --pipe \ echo JOB{#}\;cat\;echo END`
-
-**출력**:
-
-bash
-
-Copy code
-
-`JOB1 /foo, bar/, END JOB2 /baz, qux/, END`
-
-=> 원하는 결과가 나왔습니다.
+- 원하는 결과가 나왔다.
 
 ---
 
