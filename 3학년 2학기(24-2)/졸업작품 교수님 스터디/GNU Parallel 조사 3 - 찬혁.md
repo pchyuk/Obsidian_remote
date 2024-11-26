@@ -157,22 +157,26 @@ cat numi000000 | parallel --pipe -L75 wc
 
 #### 1. `--recend`만 사용한 경우
 - `--recend`를 `', '`로 설정:
+```bash
+echo /foo, bar/, /baz, qux/, | \ 
+	parallel -kN1 --recend ', ' --pipe echo JOB {@} \;cat\;echo END
+```
 
-bash
+- 출력
+```bash
+JOB1 
+/foo, END 
+JOB2 
+bar/, END 
+JOB3 
+/baz, END 
+JOB4 
+qux/, 
+END
+```
 
-Copy code
-
-`echo /foo, bar/, /baz, qux/, | \ parallel -kN1 --recend ', ' --pipe echo JOB{#}\;cat\;echo END`
-
-**출력**:
-
-sql
-
-Copy code
-
-`JOB1 /foo, barEND JOB2 /, END JOB3 /baz, END JOB4 qux/, END`
-
-=> 원하는 결과가 아닙니다. 문제는 레코드에 `', '`가 포함되어 있기 때문입니다.
+=> 원하는 결과가 아님. 
+- 레코드에 `', '`가 포함되어 있기 때문입니다.
 
 ---
 
