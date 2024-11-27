@@ -98,8 +98,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -230,7 +229,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "01a00875c9624c27",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "Daily Note/2024-11-26.md",
     "Daily Note/24년 11월/2024-11-11.md",
