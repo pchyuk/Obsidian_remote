@@ -82,6 +82,18 @@
               "icon": "lucide-file-text",
               "title": "week"
             }
+          },
+          {
+            "id": "485c86a2ef566834",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "GNU Parallel 조사 3 - 찬혁"
+            }
           }
         ],
         "currentTab": 1
@@ -279,8 +291,9 @@
   },
   "active": "1bb40788f81127a5",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/9. error handling.pdf",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel/GNU Parallel 조사 3.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/9. error handling.pdf",
     "Daily Note/2024-11-27.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
@@ -293,7 +306,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.20/Gnu Parallel 조사 - 재찬.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/무제 파일.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.20",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
     "Daily Note/2024-11-26.md",
     "Daily Note/24년 11월/2024-11-11.md",
     "Daily Note/Template.md",

@@ -166,35 +166,7 @@ JOB1
 JOB2 
 bar/, END 
 JOB3 
-/baz, END 
-JOB4 
-qux/, 
-END
-```
-
-- 원하는 결과가 아님. 
-	- 레코드에 `', '`가 포함되어 있기 때문
-
----
-#### 2. `--recstart`만 사용한 경우
-- `--recstart`를 `'/'`로 설정
-```bash
-echo /foo, bar/, /baz, qux/, | \ 
-	parallel -kN1 --recstart / --pipe echo JOB{@}\;cat\;echo END
-```
-
-- 출력
-```bash
-JOB1 
-/foo, barEND 
-JOB2 
-/, END 
-JOB3 
-/baz, quxEND 
-JOB4 
-/,
-END
-```
+로
 
 - 이것도 원하는 결과가 아님.
 
