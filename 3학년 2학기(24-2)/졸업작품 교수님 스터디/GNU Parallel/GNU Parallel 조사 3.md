@@ -166,7 +166,39 @@ JOB1
 JOB2 
 bar/, END 
 JOB3 
-로
+/baz, END 
+JOB4 
+qux/, 
+END
+```
+
+- 콤마가 나오면 무조건 줄바꿈
+
+- 원하는 결과가 아님. 
+	- 레코드에 `', '`가 포함되어 있기 때문
+
+---
+#### 2. `--recstart`만 사용한 경우
+- `--recstart`를 `'/'`로 설정
+```bash
+echo /foo, bar/, /baz, qux/, | \ 
+	parallel -kN1 --recstart / --pipe echo JOB{@}\;cat\;echo END
+```
+
+- 출력
+```bash
+JOB1 
+/foo, barEND 
+JOB2 
+/, END 
+JOB3 
+/baz, quxEND 
+JOB4 
+/,
+END
+```
+
+- / 를 항상 새로운 줄의 시작으로
 
 - 이것도 원하는 결과가 아님.
 
