@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-11-26.md",
+                "file": "Daily Note/2024-11-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-11-26"
+              "title": "2024-11-27"
             }
           },
           {
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "6e92104bdda9cec8",
+            "id": "3f856bf1c17608ef",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -112,7 +112,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
