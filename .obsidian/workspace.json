@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
+                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1126 13주차 - 2 (11장)"
-            }
-          },
-          {
-            "id": "7a5dd2f157b14978",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24.11.28 멘토링"
+              "title": "1129 13주차"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -143,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md"
               },
               "icon": "lucide-list",
-              "title": "24.11.28 멘토링 개요"
+              "title": "1129 13주차 개요"
             }
           },
           {
@@ -214,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,16 +214,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a5dd2f157b14978",
+  "active": "be07ccab74881ed2",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
+    "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
+    "Daily Note/2024-11-29.md",
+    "Daily Note/2024-11-28.md",
+    "Daily Note/2024-11-27.md",
+    "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
     "Pasted Images/Pasted image 20241128171059.png",
     "Pasted Images/Pasted image 20241128171003.png",
     "Pasted Images/Pasted image 20241128170952.png",
     "Pasted Images/Pasted image 20241128170912.png",
     "Pasted Images/Pasted image 20241128170814.png",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
-    "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
-    "Daily Note/2024-11-28.md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
     "Pasted Images/Pasted image 20241128150944.png",
@@ -251,7 +237,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/10. generic type, trait, lifetime.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/9. error handling.pdf",
-    "Daily Note/2024-11-27.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel/GNU Parallel 조사 3.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel/GNU Parallel 조사 1.md",
@@ -273,12 +258,10 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0912 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
-    "Pasted Images/Pasted image 20241126133550.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 1 (10장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
     "Daily Note/2024-11-25.md",
     "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md",
-    "3학년 2학기(24-2)/산학프로젝트/과제/Brief UseCase 작성.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
