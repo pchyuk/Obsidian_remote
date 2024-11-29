@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
+                "file": "Daily Note/2024-11-30.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1129 13주차"
+              "title": "2024-11-30"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
+                "file": "Daily Note/2024-11-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24.11.28 멘토링"
+              "title": "2024-11-29"
             }
           }
         ]
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "7ab23b3e8a44e122",
+            "id": "1754de505c0cd4fb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,7 +97,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -141,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md"
+                "file": "Daily Note/2024-11-30.md"
               },
               "icon": "lucide-list",
-              "title": "1129 13주차 개요"
+              "title": "2024-11-30 개요"
             }
           },
           {
@@ -212,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,10 +231,11 @@
   },
   "active": "be07ccab74881ed2",
   "lastOpenFiles": [
+    "Daily Note/2024-11-29.md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
+    "Daily Note/2024-11-30.md",
     "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
-    "Daily Note/2024-11-29.md",
     "Daily Note/2024-11-28.md",
     "Daily Note/2024-11-27.md",
     "Pasted Images/Pasted image 20241128171059.png",
@@ -276,7 +277,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 1 (10장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
     "Daily Note/2024-11-25.md",
-    "3학년 2학기(24-2)/산학프로젝트/1122 12주차.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
