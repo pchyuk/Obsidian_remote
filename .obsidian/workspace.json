@@ -20,6 +20,20 @@
               "icon": "lucide-file",
               "title": "1129 13주차"
             }
+          },
+          {
+            "id": "250ed984e84c8fa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.11.28 멘토링"
+            }
           }
         ]
       }
@@ -87,8 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -218,12 +231,12 @@
   },
   "active": "be07ccab74881ed2",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
+    "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
     "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
     "Daily Note/2024-11-29.md",
     "Daily Note/2024-11-28.md",
     "Daily Note/2024-11-27.md",
-    "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
     "Pasted Images/Pasted image 20241128171059.png",
     "Pasted Images/Pasted image 20241128171003.png",
     "Pasted Images/Pasted image 20241128170952.png",
