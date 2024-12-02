@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "1202 14주차 (17장)"
             }
+          },
+          {
+            "id": "10e6397b3cc2b0ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1129 13주차"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,10 +185,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md"
+                "file": "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md"
               },
               "icon": "lucide-list",
-              "title": "1202 14주차 (17장) 개요"
+              "title": "1129 13주차 개요"
             }
           },
           {
@@ -259,10 +273,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1aa17f0664abefb5",
+  "active": "10e6397b3cc2b0ad",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1030 9주차 (9장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "Daily Note/2024-12-02.md",
