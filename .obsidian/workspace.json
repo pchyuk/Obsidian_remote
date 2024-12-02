@@ -4,63 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "a0e0db2187f0c779",
+        "id": "6bef778ed224eb3c",
         "type": "tabs",
         "children": [
           {
-            "id": "d6bec9d1af204f49",
+            "id": "fc58b6ed34885c7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-01.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1128 13주차 (15장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-01"
+              "title": "1128 13주차 (15장)"
             }
           },
           {
-            "id": "be07ccab74881ed2",
+            "id": "b514bfee62ae2652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-02.md",
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1202 14주차 (15장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-02"
-            }
-          },
-          {
-            "id": "b580126987c0bbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/24년 11월/2024-11-21.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-21"
-            }
-          },
-          {
-            "id": "8017caec37dd3119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/24년 11월/2024-11-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-11-29"
+              "title": "1202 14주차 (15장)"
             }
           }
         ],
@@ -126,8 +98,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-02.md"
+                "file": "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1202 14주차 (15장).md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-02 개요"
+              "title": "1202 14주차 (15장) 개요"
             }
           },
           {
@@ -258,10 +229,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be07ccab74881ed2",
+  "active": "b514bfee62ae2652",
   "lastOpenFiles": [
-    "Daily Note/24년 11월/2024-11-21.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1128 13주차 (15장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1202 14주차 (15장).md",
     "Daily Note/24년 11월/2024-11-29.md",
+    "Daily Note/24년 11월/2024-11-21.md",
     "Daily Note/2024-12-02.md",
     "Daily Note/2024-12-01.md",
     "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
@@ -279,7 +252,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
     "Pasted Images/Pasted image 20241128150944.png",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 2 (15장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1128 13주차 (15장).md",
     "Pasted Images/Pasted image 20241128101232.png",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
@@ -305,7 +277,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0919 3주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0912 2주차 (2장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
