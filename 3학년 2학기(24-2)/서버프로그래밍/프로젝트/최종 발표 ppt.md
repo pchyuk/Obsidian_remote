@@ -28,6 +28,11 @@
 ## Git Activity - Contributors
 - 깃허브 사이트 캡쳐
 
+![[Pasted image 20241203153837.png]]
+
+![[Pasted image 20241203154020.png]]
+
+
 ---
 ## 동영상 시연
 - 최종 버전의 프로젝트 결과물
