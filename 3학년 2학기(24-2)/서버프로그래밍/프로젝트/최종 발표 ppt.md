@@ -32,6 +32,12 @@
 
 ![[Pasted image 20241203154020.png]]
 
+![[Pasted image 20241203154409.png]]
+
+![[Pasted image 20241203154608.png]]
+![[Pasted image 20241203154702.png]]
+
+
 
 ---
 ## 동영상 시연
