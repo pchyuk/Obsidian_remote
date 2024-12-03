@@ -35,7 +35,8 @@
               "title": "1203 14주차 (11장)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1203 14주차 (11장).md"
               },
               "icon": "lucide-list",
-              "title": "1128 13주차 (11장) 개요"
+              "title": "1203 14주차 (11장) 개요"
             }
           },
           {
@@ -230,10 +231,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e3744a498a6e1539",
+  "active": "6ce8234ba120e294",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1203 14주차 (11장).md",
+    "Pasted Images/Pasted image 20241203131323.png",
+    "Pasted Images/Pasted image 20241203131030.png",
+    "Pasted Images/Pasted image 20241203131018.png",
+    "Pasted Images/Pasted image 20241203131008.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1203 14주차 (11장).md",
     "Daily Note/2024-12-05.md",
     "Daily Note/2024-12-03.md",
     "Daily Note/2024-12-02.md",
@@ -257,9 +262,6 @@
     "Pasted Images/Pasted image 20241202103853.png",
     "Pasted Images/Pasted image 20241202103702.png",
     "Pasted Images/Pasted image 20241202103647.png",
-    "Pasted Images/Pasted image 20241202103235.png",
-    "Pasted Images/Pasted image 20241202103148.png",
-    "Pasted Images/Pasted image 20241202103130.png",
     "Daily Note/24년 11월/2024-11-21.md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
@@ -275,7 +277,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel/GNU Parallel 조사 1.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/Manual",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel/GNU Parallel 조사 2.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.20/GNU parallel - 영찬.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.20/Gnu Parallel 조사 - 재찬.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
