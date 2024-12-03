@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/최종 발표 ppt.md",
+                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최종 발표 ppt"
+              "title": "MultiThreading_WebHardServer"
             }
           },
           {
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/최종 발표 ppt.md"
+                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md"
               },
               "icon": "lucide-list",
-              "title": "최종 발표 ppt 개요"
+              "title": "MultiThreading_WebHardServer 개요"
             }
           },
           {
@@ -206,7 +206,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -246,7 +246,7 @@
   "active": "3bf1cee4c4cbffa0",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
-    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/최종 발표 ppt.md",
+    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
     "Daily Note/2024-12-03.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/.md",
     "Pasted Images/Pasted image 20241203154740.png",
