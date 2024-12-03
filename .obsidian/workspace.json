@@ -25,13 +25,14 @@
             "id": "3bf1cee4c4cbffa0",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
                 "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/최종 발표 ppt.md",
-                "staged": false
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (최종 발표 ppt)"
+              "icon": "lucide-file",
+              "title": "최종 발표 ppt"
             }
           }
         ],
@@ -140,9 +141,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/최종 발표 ppt.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "최종 발표 ppt 개요"
             }
           },
           {
