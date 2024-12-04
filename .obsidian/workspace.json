@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
+                "file": "Daily Note/2024-12-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MultiThreading_WebHardServer"
+              "title": "2024-12-04"
             }
           },
           {
@@ -103,7 +103,7 @@
             }
           },
           {
-            "id": "acff6fa57aace86f",
+            "id": "0d1ce17aa65114fc",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -157,10 +157,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md"
+                "file": "Daily Note/2024-12-04.md"
               },
               "icon": "lucide-list",
-              "title": "MultiThreading_WebHardServer 개요"
+              "title": "2024-12-04 개요"
             }
           },
           {
@@ -246,8 +246,9 @@
   },
   "active": "3bf1cee4c4cbffa0",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
+    "Daily Note/2024-12-04.md",
+    "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "Daily Note/2024-12-03.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/.md",
     "Pasted Images/Pasted image 20241203154740.png",
@@ -281,7 +282,6 @@
     "3학년 2학기(24-2)/산학프로젝트/1129 13주차.md",
     "Daily Note/24년 11월/2024-11-21.md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링/24.11.28 멘토링.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1126 13주차 - 2 (11장).md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
