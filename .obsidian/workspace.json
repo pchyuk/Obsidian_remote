@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-04.md",
+                "file": "Daily Note/2024-12-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-04"
+              "title": "2024-12-05"
             }
           }
         ],
@@ -226,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-04.md"
+                "file": "Daily Note/2024-12-05.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-04 개요"
+              "title": "2024-12-05 개요"
             }
           },
           {
@@ -315,6 +315,8 @@
   },
   "active": "21ce4b8b38252acb",
   "lastOpenFiles": [
+    "Daily Note/2024-12-04.md",
+    "Daily Note/2024-12-05.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL (중간 범위).md",
@@ -332,8 +334,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 최종본.md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)",
-    "Daily Note/2024-12-04.md",
-    "Daily Note/2024-12-05.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "Daily Note/2024-12-03.md",
