@@ -8,49 +8,86 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54a27e1608319798",
+            "id": "5c8fa87a49ea32a0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-12-03.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-03"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           },
           {
-            "id": "3bf1cee4c4cbffa0",
+            "id": "265488d99155bd58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-04.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1030 9주차 (9장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-04"
+              "title": "1030 9주차 (9장)"
             }
           },
           {
-            "id": "b9f09ff06d6fad9d",
+            "id": "f79dc205c13849c9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1101 회의록"
+              "title": "Chap 6. Basic SQL"
+            }
+          },
+          {
+            "id": "3fe7252c6b661089",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1120 12주차 (14장)"
+            }
+          },
+          {
+            "id": "a8693dfb72720259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1202 14주차 (17장)"
+            }
+          },
+          {
+            "id": "a592a64b36db27ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1016 7주차 - 2 (8장)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -112,8 +149,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -157,10 +193,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-04.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/Chap 6. Basic SQL.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-04 개요"
+              "title": "Chap 6. Basic SQL 개요"
             }
           },
           {
@@ -244,10 +280,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3bf1cee4c4cbffa0",
+  "active": "f79dc205c13849c9",
   "lastOpenFiles": [
-    "Daily Note/2024-12-05.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1030 9주차 (9장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "Daily Note/2024-12-04.md",
+    "Daily Note/2024-12-05.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/MultiThreading_WebHardServer.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "Daily Note/2024-12-03.md",
@@ -271,10 +311,6 @@
     "Pasted Images/Pasted image 20241203142750.png",
     "Daily Note/2024-12-02.md",
     "Daily Note/24년 11월/2024-11-26.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1030 9주차 (9장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "Daily Note/24년 11월/2024-11-27.md",
     "Daily Note/24년 11월/2024-11-29.md",
     "Daily Note/2024-12-01.md",
