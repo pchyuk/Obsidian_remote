@@ -63,19 +63,29 @@ Schema and Catalog Concepts in SQL
 
 ### 기본 표준 SQL 구문을 다룬다.
 - 기존 RDBMS 시스템에는 변형이 있다.
+
 ### SQL 스키마
 - 스키마(schema) 이름을 식별자로서 사용함.
 - 각 요소는 소유한 식별자와 설명자를 포함하고 있음.
 - 일부 시스템에서는 스키마를 데이터 베이스 라고 부름
+
 ### 스키마 요소에는 다음이 포함된다.
-- 테이블(Table), 제약 조건, 뷰, 도메인 및 기타 구성 요소
+#### 1. 테이블 (Tables)
+#### 2. 제약 조건 (constraints)
+#### 3. 뷰 (view)
+#### 4. 도메인 (domains)
+#### 5. 기타 구성 요소 (other constructs)
+
 ### SQL의 각 문장은 **세미콜론**으로 끝난다.
 
 ---
 ### CREATE SCHEMA 문
-- `CREATE SCHEMA COMPANY AUTHORIZATION ‘Jsmith’;`
-### Catalog
-- SQL 환경에서 명명된 스키마 컬렉션
-### SQL에는 카탈로그 클러스터 라는 개념도 있다.
+- `CREATE SCHEMA COMPANY(DB 이름) AUTHORIZATION ‘Jsmith’;`
+
+### 목록 (Catalog)
+- SQL 환경에서 **스키마의 컬렉션**으로 이름지어져 있음
+- 이런 Catalog를 묶은 Cluster of Catalog가 존재하지만 원래 존재하는 개념은 아니고 일부 시스템에서 사용하는 아이디어임.
+
+### SQL에는 카탈로그 클러스터(cluster of catalogs) 라는 개념도 있다.
 
 ---
