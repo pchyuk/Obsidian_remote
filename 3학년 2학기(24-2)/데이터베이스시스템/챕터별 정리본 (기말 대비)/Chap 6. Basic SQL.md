@@ -19,18 +19,23 @@
 
 ---
 ## 관계형 작업
+Relational 
 - 관계 대수학 (Relational Algrebra)
 - 관계적 계산 (Relational Calculus)
 	- 튜플 관계 계산
 	- 도메인 관계 계산
 
 ---
-## **SQL Data Definition and Data Types**
-**SQL 데이터 정의 및 데이터 유형**
+## **SQL 데이터 정의 및 데이터 유형**
+**SQL Data Definition and Data Types**
+
 ## SQL 데이터 정의, 데이터 유형, 표준
 ### 용어 (Terminology)
-- 관계형 모델 용어인 관계, 튜플, 속성에 사용되는 테이블, 행, 열
-- 테이블
+- 관계형 모델(Relational Model, RM) 용어인 관계, 튜플, 속성에 사용되는 테이블, 행, 열
+#### 테이블 (Table)
+- 관계형 모델(RM)의 관계(relation)
+#### 행 (Row)
+- 관계형 모델(RM)의 관계(relation)
 
 ### CREATE 문 (statement)
 - 데이터 정의를 위한 주요 SQL 명령
