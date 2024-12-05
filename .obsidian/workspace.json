@@ -120,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,15 +173,13 @@
             }
           },
           {
-            "id": "0d1ce17aa65114fc",
+            "id": "4fb6d0d027abe27a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Spaces"
             }
           }
         ]
@@ -228,10 +226,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-05.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-05 개요"
+              "title": "0930 5주차 (5~6장) 개요"
             }
           },
           {
@@ -315,16 +313,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "21ce4b8b38252acb",
+  "active": "dfd24bb390ed7a5f",
   "lastOpenFiles": [
-    "Daily Note/2024-12-04.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "Daily Note/2024-12-05.md",
+    "Daily Note/2024-12-04.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL (중간 범위).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 2 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 1 (6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/무제 폴더",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
