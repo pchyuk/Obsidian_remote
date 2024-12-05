@@ -45,7 +45,7 @@ SQL Data Definition, Data Types, Standards
 
 ### SQL 언어의 기능 (Features)
 #### **데이터 정의 (Data Definition)**
-- DDL(Data Definition Language)를 이용해 데이터를 정의하는 행위
+- DDL(Data Definition Language)을 이용해 데이터를 정의하는 행위
 - 테이블, 인덱스, 뷰 등과 같은 DB 객체를 생성하고 수정하는데 사용함.
 #### **데이터 조작 (Data Manipulation)**
 - DML(Data manipulation language)를 이용해 데이터를 조작하는 행위
@@ -59,13 +59,16 @@ SQL Data Definition, Data Types, Standards
 
 ---
 ## SQL의 스키마 및 카탈로그 개념 (10p)
+Schema and Catalog Concepts in SQL
+
 ### 기본 표준 SQL 구문을 다룬다.
 - 기존 RDBMS 시스템에는 변형이 있다.
 ### SQL 스키마
-- 스키마 이름으로 식별
-- 각 요소에 대한 권한 부여 식별자와 설명자 포함
+- 스키마(schema) 이름을 식별자로서 사용함.
+- 각 요소는 소유한 식별자와 설명자를 포함하고 있음.
+- 일부 시스템에서는 스키마를 데이터 베이스 라고 부름
 ### 스키마 요소에는 다음이 포함된다.
-- 테이블, 제약 조건, 뷰, 도메인 및 기타 구성 요소
+- 테이블(Table), 제약 조건, 뷰, 도메인 및 기타 구성 요소
 ### SQL의 각 문장은 **세미콜론**으로 끝난다.
 
 ---
