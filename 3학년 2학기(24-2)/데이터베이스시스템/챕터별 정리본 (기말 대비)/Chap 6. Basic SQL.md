@@ -108,9 +108,11 @@ SQL Data Definition, Data Types, Standards
 - Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된다.
 
 ### 가상 관계 (뷰)
-Virtual Relations(Views)
+*Virtual Relations (Views)*
 - `CREATE VIEW` STATEMENT를 통해 생성됨.
-- 물리적 파일과 동일하지 않음.
+- **어떤 물리적 파일과도 동일하지 않다.**
+
+---
 
 ### 외부 키 문제 발생 가능성
 - 순환 참조 : 둘 이상의 테이블이 서로 참조하는 상황
