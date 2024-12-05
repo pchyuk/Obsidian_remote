@@ -18,24 +18,27 @@
 - 구문을 사용하여 관계형 데이터 모델을 비공식적으로 또는 실용적으로 렌더링한 것
 
 ---
-## 관계형 작업
-Relational 
-- 관계 대수학 (Relational Algrebra)
-- 관계적 계산 (Relational Calculus)
-	- 튜플 관계 계산
-	- 도메인 관계 계산
+## 관계형 작업 (Relational Operation)
+### 관계 대수학 (Relational Algrebra)
+### 관계적 계산 (Relational Calculus)
+- 튜플 관계 계산
+- 도메인 관계 계산
 
 ---
 ## **SQL 데이터 정의 및 데이터 유형**
 **SQL Data Definition and Data Types**
 
 ## SQL 데이터 정의, 데이터 유형, 표준
+SQL Data Definition, Data Types, Standards
+
 ### 용어 (Terminology)
-- 관계형 모델(Relational Model, RM) 용어인 관계, 튜플, 속성에 사용되는 테이블, 행, 열
+- 관계형 모델(Relational Model, RM) 용어인 **관계, 튜플, 속성**에 사용되는 **테이블, 행, 열**
 #### 테이블 (Table)
-- 관계형 모델(RM)의 관계(relation)
+- 관계형 모델(RM)의 관계(Relation)
 #### 행 (Row)
-- 관계형 모델(RM)의 관계(relation)
+- 관계형 모델(RM)의 튜플(Tuple)
+#### 열 (Column)
+- 관계형 모델(RM)의 속성(Attribute)
 
 ### CREATE 문 (statement)
 - 데이터 정의를 위한 주요 SQL 명령
