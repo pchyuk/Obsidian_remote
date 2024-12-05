@@ -168,8 +168,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,7 +299,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a0c588fb38fc85a9",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "Daily Note/2024-12-09.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
