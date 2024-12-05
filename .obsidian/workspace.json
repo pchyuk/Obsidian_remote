@@ -105,8 +105,7 @@
               "title": "Chap 6. Basic SQL (중간 범위)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -212,10 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-05.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-05 개요"
+              "title": "Chap 6. Basic SQL 개요"
             }
           },
           {
@@ -299,10 +298,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dfd24bb390ed7a5f",
+  "active": "39d85c6d89dba96e",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL (중간 범위).md",
     "Daily Note/2024-12-05.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL (중간 범위).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "Daily Note/2024-12-04.md",
