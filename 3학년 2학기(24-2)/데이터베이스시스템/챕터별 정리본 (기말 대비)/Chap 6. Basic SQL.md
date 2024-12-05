@@ -43,7 +43,19 @@ SQL Data Definition, Data Types, Standards
 ### CREATE 문 (statement)
 - 데이터 정의를 위한 주요 SQL 명령
 
-### 언어에는 데이터 정의, 데이터 조작, 트랜잭션 제어, 인덱싱, 보안 사양(허용 및 취소), 활성 데이터베이스(트리거), 멀티미디어, 분산 데이터베이스 등의 기능이 있다.
+### SQL 언어의 기능 (Features)
+#### **데이터 정의 (Data Definition)**
+- DDL(Data Definition Language)를 이용해 데이터를 정의하는 행위
+- 테이블, 인덱스, 뷰 등과 같은 DB 객체를 생성하고 수정하는데 사용함.
+#### **데이터 조작 (Data Manipulation)**
+- DML(Data manipulation language)를 이용해 데이터를 조작하는 행위
+- ex) 삽입, 수정, 삭제, 조회
+#### 트랜잭션 제어 (Transaction Control)
+#### 인덱싱 (Indexing)
+#### 보안 사양(허용 및 취소) (Security specification(Grant and Revoke))
+#### 활성 데이터베이스(트리거) (Active DB(Trigger))
+#### 멀티미디어 (Multi-media)
+#### 분산 데이터베이스 (Distributed Databases)
 
 ---
 ## SQL의 스키마 및 카탈로그 개념 (10p)
