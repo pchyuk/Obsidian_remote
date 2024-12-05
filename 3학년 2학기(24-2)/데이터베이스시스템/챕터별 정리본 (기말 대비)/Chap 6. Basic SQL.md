@@ -107,8 +107,8 @@ SQL Data Definition, Data Types, Standards
 *Base Tables (base relation)*
 - Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된다.
 
-### 가상 관계 ()
-### Virtual Relations(Views)
+### 가상 관계 (뷰)
+Virtual Relations(Views)
 - `CREATE VIEW` STATEMENT를 통해 생성됨.
 - 물리적 파일과 동일하지 않음.
 
