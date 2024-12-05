@@ -59,7 +59,7 @@ SQL Data Definition, Data Types, Standards
 
 ---
 ## SQL의 스키마 및 카탈로그 개념 (10p)
-Schema and Catalog Concepts in SQL
+*Schema and Catalog Concepts in SQL*
 
 ### 기본 표준 SQL 구문을 다룬다.
 - 기존 RDBMS 시스템에는 변형이 있다.
@@ -96,18 +96,19 @@ Schema and Catalog Concepts in SQL
 - 초기 제약 사항과 속성 그리고 타입을 명세해야 함.
 
 ### 선택적으로 스키마를 지정 가능
-
-### Table 예제
-`CREATE TABLE COMPANY.EMPLOYEE`
+#### `CREATE TABLE COMPANY.EMPLOYEE`
 - COMPANY 스키마에 EMPLOYEE라는 테이블 생성
 
-`CREATE TABLE EMPLOYEE`
+#### `CREATE TABLE EMPLOYEE`
 - 기본 스키마에 EMPLOYEE라는 테이블 생성
 
-### Base Tables (a.k.a base relations)
+---
+### 기본 테이블 (기본 관계) 
+*Base Tables (base relation)*
 - Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된다.
 
-### Virtual Relations(a.k.a Views)
+### 가상 관계 ()
+### Virtual Relations(Views)
 - `CREATE VIEW` STATEMENT를 통해 생성됨.
 - 물리적 파일과 동일하지 않음.
 
