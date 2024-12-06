@@ -250,13 +250,14 @@ SQL Data Definition, Data Types, Standards
 ---
 ### **Foreign KEY** 절
 #### 기본 작업 : 위반(violation) 시 업데이트 거부
-#### 참조 트리거 action 절 추가
+#### 참조 트리거 작업 절 추가
 - 옵션에는 다음 명령들이 포함된다.
 	- SET NULL
 	- CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
 	- SET DEFAULT
-- SET NULL 또는 SET DEFAULT를 사용하게되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
-- CASCADE 옵션은 관계 relation, 여러 값은 가진 속성, 약한 엔티티 타입에 적합함.
+- DBMS에서 SET NULL 또는 SET DEFAULT를 사용하게 되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
+- "relation" 관계, 다중 값 속성, 약한 엔터티 유형에 적합한 CASCADE 옵션
+- CASCADE 옵션은 "relation" 관계, 여러 값을 가진(multivaled) 속성, 약한 엔티티 타입()에 적합함.
 
 ---
 ## Giving Names to Constraints
