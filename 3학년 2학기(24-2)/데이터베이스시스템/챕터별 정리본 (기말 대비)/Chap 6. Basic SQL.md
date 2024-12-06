@@ -305,7 +305,13 @@ DEPARTMENT(Dnumber)
 ### SELECT Statement
 - 데이터베이스에서 정보를 검색하기 위한 기본 문장 하나 
 
-### SQL은 테이블에 모든 속성 값에서 동일한 두 개 이상의 튜플을 가
+### SQL은 테이블에 모든 속성 값에서 동일한 두 개 이상의 튜플을 가질 수 있도록 허용
+- 관계형 모델(RM)과는 다름
+	- 관계형 모델은 엄격하게 집합 이론 기반(set-theory based)
+- 멀티셋(Multiset) 또는 백 동작(bag behavior)
+- 튜플 ID를 키로 사용할 수 있음
+
+---
 
 ```SQL
 SELECT <attribute list>
