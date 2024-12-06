@@ -370,15 +370,14 @@ WHERE E.Super_ssn = S.Ssn;
 ![[Pasted image 20241207022527.png]]
 
 ---
-
-- 요소들에 대해서도 이름을 다시 지을 수 있음!!
-
-```SQL
-EMPLOYEE AS E(Fn, Mi, ...)
-```
-
+- 속성 이름도 바꿀 수 있다.
+	- 요소들에 대해서도 이름을 다시 지을 수 있음!!
+	- `EMPLOYEE AS E(Fn, Mi, Ln, Ssn, Bd, Addr, Sex, Sal, Sssn, Dno)`
+- 관계 EMPLOYEE에 이제 튜플 변수에 해당하는 변수 이름 E가 있다는 점에 유의
+- 대부분의 SQL 구현에서 `AS` 를 삭제할 수 있다.
 ---
-## Unspecified WHERE Clause and Use of the Asterisk
+## 지정되지 않은 WHERE 절과 별표 사용 (44p)
+*Unspecified WHERE Clause and Use of the Asterisk*
 - WHERE 절이 없는 경우 & Asterisk( * )의 사용법
 
 ### WHERE 절이 없을 때
@@ -392,7 +391,8 @@ FROM EMPLOYEE;
 - 이 경우 모든 EMPLOYEE의 Ssn을 가져옴
 
 ### 결과는 Cross-product이다
-- 가능한 모든 조합에 대해 나옴(여러 개인 경우)
+- 가능한 모든 가능한 튜플 조합에 대해 나옴(여러 개인 경우)
+	- 또는 데카르트 곱의 대수 연산
 
 ```SQL
 SELECT Ssn, Dname
