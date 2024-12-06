@@ -342,7 +342,12 @@ WHERE <condition>;
 - 선택 조건에는 여러 관계가 관련된 경우 조인 조건(8장 참고)이 포함.
 
 ---
+## 모호한 속성 이름 (40p)
+*Ambiguous Attribute Names*
 
+### 서로 다른 관계의 두 개(또는 그 이상) 속성에 동일한 이름을 사용할 수 있음
+- 속성이 서로 다른 관계(relations)에 있는 한
+- 모호함(ambiguity)을 방지하기 위해 관계 이름(relation name)으로 속성 이름을 한정해야 함
 
 
 

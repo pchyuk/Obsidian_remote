@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md"
               },
               "icon": "lucide-list",
-              "title": "Chap 6. Basic SQL 개요"
+              "title": "1002 5주차 (6장) 개요"
             }
           },
           {
@@ -285,14 +285,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a1518c04544cd8e",
+  "active": "f4f79806698a05cc",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "Pasted Images/Pasted image 20241207012647.png",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "Daily Note/2024-12-07.md",
     "Daily Note/2024-12-09.md",
     "Daily Note/2024-12-06.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "Pasted Images/Pasted image 20241206233718.png",
     "Pasted Images/Pasted image 20241206233609.png",
     "Pasted Images/Pasted image 20241206233408.png",
@@ -323,7 +323,6 @@
     "Pasted Images/Pasted image 20241203154740.png",
     "Pasted Images/Pasted image 20241203154702.png",
     "Pasted Images/Pasted image 20241203154608.png",
-    "Pasted Images/Pasted image 20241203154409.png",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 1 (14장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 2 (15장).md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링",
