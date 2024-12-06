@@ -414,8 +414,10 @@ Ssn | Department
 - * 는 관계 이름 앞에 붙을 수 있다.
 	- 예: EMPLOYEE *
 
+![[Pasted image 20241207023717.png]]
 
-
+여기까지 함
+내일 다시 하자
 
 ---
 ## Tables as Sets in SQL
