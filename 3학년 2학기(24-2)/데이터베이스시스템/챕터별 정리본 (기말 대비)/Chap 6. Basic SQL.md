@@ -294,12 +294,19 @@ DEPARTMENT(Dnumber)
 - `CHECK (Dept_create_date <= Mgr_start_date)`
 
 ---
-## **Basic Retrieval Queries in SQL**
-## Basic Retrieval Queries in SQL
-- Retrieval - 집합
+## **SQL의 기본 검색 쿼리**
+**Basic Retrieval Queries in SQL**
+
+## SQL의 기본 검색 쿼리
+*Basic Retrieval Queries in SQL*
+- Retrieval - 집합, 검색
 - 집합에 대한 operation들에 대해 알아보는 챕터임.
 
 ### SELECT Statement
+- 데이터베이스에서 정보를 검색하기 위한 기본 문장 하나 
+
+
+
 ```SQL
 SELECT <attribute list>
 FROM <table list>
