@@ -359,15 +359,19 @@ WHERE <condition>;
 - 별명을 붙이는 거임
 - `AS` 키워드 사용
 
+### 각 직원에 대해 직원의 성과 이름을 검색하고 직속 상사의 성과 이름을 검색
 ```SQL
 SELECT E.Fname, E.Lname, S.Fname, S.Lname
 FROM EMPLOYEE AS E, EMPLOYEE AS S
 WHERE E.Super_ssn = S.Ssn;
 ```
+- 여러 테이블에서 동일하거나 유사한 속성에 이름을 약어로 표시하고 접두사를 붙이는 것이 권장되는 관행이다.
 
+![[Pasted image 20241207022527.png]]
 
+---
 
-요소들에 대해서도 이름을 다시 지을 수 있음!!
+- 요소들에 대해서도 이름을 다시 지을 수 있음!!
 
 ```SQL
 EMPLOYEE AS E(Fn, Mi, ...)
