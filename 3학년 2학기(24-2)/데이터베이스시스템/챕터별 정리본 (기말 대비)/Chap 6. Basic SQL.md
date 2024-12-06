@@ -247,7 +247,7 @@ SQL Data Definition, Data Types, Standards
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
 
 ---
-#### **Foreign KEY** 절
+### **Foreign KEY** 절
 - Default operation : 위반(violation)을 없애는 업데이트
 - referential triggered action clause 추가
 	- Option include
