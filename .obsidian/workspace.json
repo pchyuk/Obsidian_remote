@@ -144,7 +144,7 @@
             }
           },
           {
-            "id": "cd979b5d23fbf529",
+            "id": "1858e2bf119063ec",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -153,7 +153,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
