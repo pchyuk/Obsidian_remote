@@ -227,19 +227,21 @@ SQL Data Definition, Data Types, Standards
 - 속성의 기본 값은 NULL이 될 수 없다.
 
 #### CHECK 절
-- 
+- `Dnumber INT NOT NULL CHECK(Dnumber > 0 AND Dnumber < 21);`
 - `CHECK <range>`
 - `age INT CHECK(age > 18)`
 
 ---
-### Specifying Key and Referential Integrity Constraints
-- 키와 참조 무결성 제약 조건
-#### **PRIMARY KEY** 절
-- `Dnumber INT PRIMARY KEY`
+## 키 및 참조 무결성 제약 조건 지정 (28p)
+*Specifying Key and Referential Integrity Constraints*
+
+### **PRIMARY KEY** 절
 - 하나 또는 더 많은 속성을 primary key로 지정함.
+- `Dnumber INT PRIMARY KEY`
 - 여러 개를 지정하는 경우 이를 Composite Key라고 부름
 
-#### **UNIQUE** 절
+### **UNIQUE** 절
+- 대체(alternate)
 - a.k.a Secondary key or CANDIDATE key
 - `Dname VARCHAR(15) UNIQUE`
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
