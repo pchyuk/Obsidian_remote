@@ -145,19 +145,37 @@ SQL Data Definition, Data Types, Standards
 
 ![[Pasted image 20241206233609.png]]
 
-
+---
+![[Pasted image 20241206233718.png]]
 
 ---
 ## SQL의 속성 데이터 유형 및 도메인 (20p)
 *Attribute Data Types and Domains in SQL*
-### 기본 데이터 유형
-#### **Numeric** data type
-- INT, INTEGER and SMALLINT
-- FLOAT or REAL, DOUBLE PRECISION
 
-#### **Character-String** data types
-- Fixed length : CHAR(n), CHARACTER(n)
-- Varying length : VARCAHR(n), CHAR VARYING(n), CHARACTER VARYING(n)
+### 기본 데이터 유형
+#### **숫자** 데이터 유형
+• 정수: INTEGER, INT, SMALLINT
+• 부동 소수점(실수): FLOAT 또는 REAL, DOUBLE PRECISION
+
+#### **문자열** 데이터 유형
+• 고정 길이: CHAR(n), CHARACTER(n)
+• 가변 길이: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n)
+
+---
+#### 비트 문자열 데이터 유형
+• 고정 길이: BIT(n)
+• 가변 길이: BIT VARYING(n)
+
+– 부울 데이터 유형
+• TRUE 또는 FALSE 또는 NULL 값
+
+– DATE 데이터 유형
+• 10개 위치
+• 구성 요소는 YYYY-MM-DD 형식의 YEAR, MONTH 및 DAY입니다.
+• RDBMS에서 날짜 형식을 변경하기 위해 사용 가능한 여러 매핑 함수
+
+
+
 
 #### **Bit-string** data types
 - bit를 저장하는 데이터 타입
