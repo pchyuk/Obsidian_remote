@@ -297,7 +297,7 @@ DEPARTMENT(Dnumber)
 ## **SQL의 기본 검색 쿼리**
 **Basic Retrieval Queries in SQL**
 
-## SQL의 기본 검색 쿼리
+## SQL의 기본 검색 쿼리 (34p)
 *Basic Retrieval Queries in SQL*
 - Retrieval - 집합, 검색
 - 집합에 대한 operation들에 대해 알아보는 챕터임.
@@ -312,22 +312,29 @@ DEPARTMENT(Dnumber)
 - 튜플 ID를 키로 사용할 수 있음
 
 ---
-
+## 기본 SQL 쿼리의 SELECT-FROM-WHERE 구조 (35p)
+### SELECT 문의 기본 형식
 ```SQL
 SELECT <attribute list>
 FROM <table list>
 WHERE <condition>;
 ```
 
-- attribute list
-	- attribute 의 이름들에 대한 리스트임.
-- table list
-	- relation의 이름들에 대한 리스트임
-- condition
-	- Boolean Expression
-	- =, <, <=, >, >=, <>``
-- join condition
-	- 여러 relation이 포함되는 경우
+#### attribute list
+- attribute 의 이름들에 대한 리스트임.
+#### table list
+- relation의 이름들에 대한 리스트임
+#### condition
+- Boolean Expression
+- =, <, <=, >, >=, <>``
+#### join condition
+- 여러 relation이 포함되는 경우
+
+---
+
+
+
+
 
 ---
 ## Aliasing and Renaming
