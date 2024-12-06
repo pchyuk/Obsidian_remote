@@ -152,32 +152,32 @@ SQL Data Definition, Data Types, Standards
 ## SQL의 속성 데이터 유형 및 도메인 (21p)
 *Attribute Data Types and Domains in SQL*
 
-### 기본 데이터 유형
-#### **숫자** 데이터 유형
+### 기본 데이터 타입
+#### **숫자** 데이터 타입
 - 정수: INTEGER, INT, SMALLINT
 - 부동 소수점(실수): FLOAT 또는 REAL, DOUBLE PRECISION
 
-#### **문자 문자열** 데이터 유형
+#### **문자 문자열** 데이터 타입
 - 고정 길이: CHAR(n), CHARACTER(n)
 - 가변 길이: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n)
 
 ---
-#### **비트 문자열** 데이터 유형
+#### **비트 문자열** 데이터 타입
 - bit를 저장하는 데이터 타입
 - 고정 길이: BIT(n)
 - 가변 길이: BIT VARYING(n)
 
-#### **Boolean** 데이터 유형
+#### **Boolean** 데이터 타입
 - TRUE 또는 FALSE 또는 NULL 값
 
-#### **DATE** 데이터 유형
+#### **DATE** 데이터 타입
 - YYYY-MM-DD 의 10자리를 가지고 있음.
 - Component로 YEAR, MONTH 그리고 DAY를 가짐
 - RDBMS에서 날짜 형식을 변경하기 위해 사용 가능한 여러 가지 매핑 함수가 존재함.
 
 ---
-### 추가 데이터 유형 (23p)
-#### **Timestamp** 데이터 유형
+### 추가 데이터 타입 (23p)
+#### **Timestamp** 데이터 타입
 - DATE와 TIME field를 포함함
 	- 초의 소수 자릿수에 대한 최소 6개 위치 추가
 	- 선택 사항 WITH TIME ZONE 한정자
@@ -188,20 +188,23 @@ SQL Data Definition, Data Types, Standards
 #### **DATE, TIME, Timestamp, INTERVAL** 데이터 타입들은 **문자열 포맷으로 바뀔 수 있음.**
 
 ---
-### Domain
-- ==속성 명세에 사용된 이름==
+#### **도메인** (Domain)
+- **속성 명세에 사용된 이름**
 - 여러 속성에 의해 사용되는 domain의 data type을 바꾸는 것을 쉽게 만들어 줌.
 - 속성 값이 가질 수 있는 범위와 데이터 타입을 정의하는 개념.
 - 스키마의 가독성을 올려 줌
 - `CREATE DOMAIN SSN_TYPE AS CHAR(9)`
 
-### TYPE
+#### **타입** (TYPE)
 - 사용자 정의 유형(UDT, User Defined Type)은 객체 지향 애플리케이션에 지원됨.
 - `CREATE TYPE`
 
 ---
-## **Specifying Constraints in SQL**
-## Specifying Constraints in SQL
+## **SQL에서 제약 조건 지정**
+**Specifying Constraints in SQL**
+
+## SQL에서 제약 조건 지정
+*Specifying Constraints in SQL*
 ### Basic Constraints
 #### Key Constraints
 - Primary Key 의 값은 중복될 수 없음.
