@@ -354,6 +354,8 @@ WHERE <condition>;
 ---
 ## 별칭 지정 및 이름 변경 (41p)
 *Aliasing and Renaming*
+### 별칭 또는 튜플 변수
+- 쿼리에서 EMPLOYEE 관계를 두 번 참조하기 위해 대체 관계 이름 E 및 S를 선언한다.
 - 별명을 붙이는 거임
 - `AS` 키워드 사용
 
@@ -362,6 +364,8 @@ SELECT E.Fname, E.Lname, S.Fname, S.Lname
 FROM EMPLOYEE AS E, EMPLOYEE AS S
 WHERE E.Super_ssn = S.Ssn;
 ```
+
+
 
 요소들에 대해서도 이름을 다시 지을 수 있음!!
 
