@@ -349,11 +349,11 @@ WHERE <condition>;
 - 속성이 서로 다른 관계(relations)에 있는 한
 - 모호함(ambiguity)을 방지하기 위해 관계 이름(relation name)으로 속성 이름을 한정해야 함
 
-
-
+![[Pasted image 20241207021254.png]]
 
 ---
-## Aliasing and Renaming
+## 별칭 지정 및 이름 변경 (41p)
+*Aliasing and Renaming*
 - 별명을 붙이는 거임
 - `AS` 키워드 사용
 
