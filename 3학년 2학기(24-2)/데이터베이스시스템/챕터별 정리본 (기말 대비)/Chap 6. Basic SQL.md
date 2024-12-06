@@ -18,7 +18,8 @@
 - 구문을 사용하여 관계형 데이터 모델을 비공식적으로 또는 실용적으로 렌더링한 것
 
 ---
-## 관계형 작업 (Relational Operation) (5p)
+## 관계형 작업 (5p)
+*Relational Operation* 
 ### 관계 대수학 (Relational Algrebra)
 ### 관계적 계산 (Relational Calculus)
 - 튜플 관계 계산
@@ -89,13 +90,16 @@ SQL Data Definition, Data Types, Standards
 ### SQL에는 카탈로그 클러스터(cluster of catalogs) 라는 개념도 있다.
 
 ---
-## CREATE TABLE Command in SQL
+## SQL에서의 CREATE TABLE 명령 (12p)
+*CREATE TABLE Command in SQL*
+
 ### 새로운 관계 지정 (Specifying a new relation)
+*Specifying a new relation*
 - 새로운 relation을 만드는 행위임
 - Table의 이름을 제공해 줘야 함.
 - 초기 제약 사항과 속성 그리고 타입을 명세해야 함.
 
-### 선택적으로 스키마를 지정 가능
+### 선택적으로 스키마를 지정 가능 (Can optionally specify schema)
 #### `CREATE TABLE COMPANY.EMPLOYEE`
 - COMPANY 스키마에 EMPLOYEE라는 테이블 생성
 
