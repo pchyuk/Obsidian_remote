@@ -133,6 +133,21 @@ SQL Data Definition, Data Types, Standards
 ![[Pasted image 20241206223737.png]]
 
 ---
+![[Pasted image 20241206233316.png]]
+
+---
+## COMPANY 스키마를 정의하기 위한 SQL CREATE TABLE 데이터 정의 문 (17p)
+
+![[Pasted image 20241206233408.png]]
+
+---
+## COMPANY 스키마를 정의하기 위한 SQL CREATE TABLE 데이터 정의 문 (18p)
+
+![[Pasted image 20241206233609.png]]
+
+
+
+---
 ## SQL의 속성 데이터 유형 및 도메인 (20p)
 *Attribute Data Types and Domains in SQL*
 ### 기본 데이터 유형
