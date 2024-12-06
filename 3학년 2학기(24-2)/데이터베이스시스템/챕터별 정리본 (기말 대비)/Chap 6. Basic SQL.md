@@ -154,41 +154,26 @@ SQL Data Definition, Data Types, Standards
 
 ### 기본 데이터 유형
 #### **숫자** 데이터 유형
-• 정수: INTEGER, INT, SMALLINT
-• 부동 소수점(실수): FLOAT 또는 REAL, DOUBLE PRECISION
+- 정수: INTEGER, INT, SMALLINT
+- 부동 소수점(실수): FLOAT 또는 REAL, DOUBLE PRECISION
 
-#### **문자열** 데이터 유형
-• 고정 길이: CHAR(n), CHARACTER(n)
-• 가변 길이: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n)
+#### **문자 문자열** 데이터 유형
+- 고정 길이: CHAR(n), CHARACTER(n)
+- 가변 길이: VARCHAR(n), CHAR VARYING(n), CHARACTER VARYING(n)
 
 ---
-#### 비트 문자열 데이터 유형
-• 고정 길이: BIT(n)
-• 가변 길이: BIT VARYING(n)
-
-– 부울 데이터 유형
-• TRUE 또는 FALSE 또는 NULL 값
-
-– DATE 데이터 유형
-• 10개 위치
-• 구성 요소는 YYYY-MM-DD 형식의 YEAR, MONTH 및 DAY입니다.
-• RDBMS에서 날짜 형식을 변경하기 위해 사용 가능한 여러 매핑 함수
-
-
-
-
-#### **Bit-string** data types
+#### **비트 문자열** 데이터 유형
 - bit를 저장하는 데이터 타입
-- Fixed length : BIT(n)
-- Varying length : BIT VARYING(n)
+- 고정 길이: BIT(n)
+- 가변 길이: BIT VARYING(n)
 
-#### **Boolean** data type
-- Values of TRUE or FALSE or NULL
+#### **Boolean** 데이터 유형
+- TRUE 또는 FALSE 또는 NULL 값
 
-#### **DATE** data type
+#### **DATE** 데이터 유형
 - YYYY-MM-DD 의 10자리를 가지고 있음.
 - Component로 YEAR, MONTH 그리고 DAY를 가짐
-- 여러가지 매핑 함수가 존재함.
+- RDBMS에서 날짜 형식을 변경하기 위해 사용 가능한 여러 가지 매핑 함수가 존재함.
 
 ---
 ### Additional data types
