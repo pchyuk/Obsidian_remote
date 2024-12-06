@@ -203,7 +203,7 @@ SQL Data Definition, Data Types, Standards
 ## **SQL에서 제약 조건 지정**
 **Specifying Constraints in SQL**
 
-## SQL에서 제약 조건 지정
+## SQL에서 제약 조건 지정 (26p)
 *Specifying Constraints in SQL*
 ### 관계 모델(RM)에는 SQL에서 지원되는 3가지 기본 제약 사항이 있다.
 #### 1. **키** 제약 조건 (Key Constraints)
@@ -216,10 +216,18 @@ SQL Data Definition, Data Types, Standards
 - 값의 형식과 범위를 제한하는 제약 조건임.
 
 ---
-### Attribute Contraints
-#### Default Value
+## 속성 제약 조건 지정 (27p)
+*Attribute Contraints*
+
+### 속성 도메인에 대한 기타 제약 사항
+*Other Restrictions on attribute domains*
+
+#### 속성의 기본 값 (Default Value of an attribute)
 - `Default <value>`
-#### CHECK clause
+- 속성의 기본 값은 NULL이 될 수 없다.
+
+#### CHECK 절
+- 
 - `CHECK <range>`
 - `age INT CHECK(age > 18)`
 
