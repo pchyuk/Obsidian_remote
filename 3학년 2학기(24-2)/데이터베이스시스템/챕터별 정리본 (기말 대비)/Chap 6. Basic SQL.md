@@ -392,7 +392,7 @@ FROM EMPLOYEE;
 
 ### 결과는 Cross-product이다
 - 가능한 모든 가능한 튜플 조합에 대해 나옴(여러 개인 경우)
-	- 또는 데카르트 곱의 대수 연산
+	- 또는 데카르트 곱의 대수 연산 - 8장 참고
 
 ```SQL
 SELECT Ssn, Dname
@@ -408,8 +408,14 @@ Ssn | Department
 456 | DEVELOP
 ```
 
-### using Asterisk( * )
-- 선택된 튜플에서 모든 attributes를 가져옴
+---
+### Asterisk ( * ) 지정
+- 선택한 튜플의 모든 속성(attribute) 값을 검색함
+- * 는 관계 이름 앞에 붙을 수 있다.
+	- 예: EMPLOYEE *
+
+
+
 
 ---
 ## Tables as Sets in SQL
