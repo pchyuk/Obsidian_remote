@@ -305,7 +305,7 @@ DEPARTMENT(Dnumber)
 ### SELECT Statement
 - 데이터베이스에서 정보를 검색하기 위한 기본 문장 하나 
 
-
+### SQL은 테이블에 모든 속성 값에서 동일한 두 개 이상의 튜플을 가
 
 ```SQL
 SELECT <attribute list>
