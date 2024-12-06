@@ -331,7 +331,7 @@ WHERE <condition>;
 - 여러 relation이 포함되는 경우
 
 ---
-### 논리적 비교 연산자 (Logical comparison operators)
+### 논리적 비교 연산자 (Logical comparison operators) (36p)
 - =, <, <=, >, >=, <>
 
 ### 투영 속성 (Projection attributes)
@@ -340,6 +340,12 @@ WHERE <condition>;
 ### 선택 조건 (Selection condition)
 - 검색된 튜플에 대해 참이어야 하는 bool 조건. 
 - 선택 조건에는 여러 관계가 관련된 경우 조인 조건(8장 참고)이 포함.
+
+---
+
+
+
+
 
 ---
 ## Aliasing and Renaming
