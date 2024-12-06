@@ -176,12 +176,13 @@ SQL Data Definition, Data Types, Standards
 - RDBMS에서 날짜 형식을 변경하기 위해 사용 가능한 여러 가지 매핑 함수가 존재함.
 
 ---
-### Additional data types
-#### **Timestamp** data type
+### 추가 데이터 유형 (23p)
+#### **Timestamp** 데이터 유형
 - DATE와 TIME field를 포함함
 
 #### **INTERVAL** data type
-- date나 time, timestamp 값에 증가 또는 감소시킬수 있는 값임
+- date나 time, timestamp 값에 증가 또는 감소시킬 수 있는 값임
+
 #### **DATE, TIME, Timestamp, INTERVAL** 데이터 타입들은 **문자열 포맷으로 바뀔 수 있음.**
 
 ---
