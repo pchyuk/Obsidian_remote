@@ -99,7 +99,7 @@ SQL Data Definition, Data Types, Standards
 - Table의 이름을 제공해 줘야 함.
 - 초기 제약 사항과 속성 그리고 타입을 명세해야 함.
 
-### 선택적으로 스키마를 지정 가능 (Can optionally specify schema)
+### 선택적으로 스키마를 지정 가능
 #### `CREATE TABLE COMPANY.EMPLOYEE`
 - COMPANY 스키마에 EMPLOYEE라는 테이블 생성
 
@@ -121,6 +121,14 @@ SQL Data Definition, Data Types, Standards
 - 순환 참조 : 둘 이상의 테이블이 서로 참조하는 상황
 - 아직 생성되지 않은 테이블을 참조할 가능성
 - DBA(DB 관리자)는 이 문제가 일어나지 않도록 무결성을 지킬 수 있는 엄격한 제약을 가해야 함.
+
+---
+## 회사 관계형 데이테베이스 스키마 (14p)
+
+![[Pasted image 20241206223425.png]]
+
+---
+## COMPANY 관계형 데이터베이스 스
 
 ---
 ## SQL의 속성 데이터 유형 및 도메인 (20p)
