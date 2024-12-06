@@ -256,15 +256,15 @@ SQL Data Definition, Data Types, Standards
 	- CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
 	- SET DEFAULT
 - DBMS에서 SET NULL 또는 SET DEFAULT를 사용하게 되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
-- "relation" 관계, 다중 값 속성, 약한 엔터티 유형에 적합한 CASCADE 옵션
-- CASCADE 옵션은 "relation" 관계, 여러 값을 가진(multivaled) 속성, 약한 엔티티 타입()에 적합함.
+- CASCADE 옵션은 **"relation" 관계, 여러 값을 가진(multivaled) 속성, 약한 엔티티 타입(weak entity)에 적합**함.
 
 ---
-## Giving Names to Constraints
-- 제약사항에 이름 붙이기
-### `CONSTRAINT` 키워드 사용하기
-- 특정한 제약사항을 식별해 이름 붙이기
-- 나중에 대체할 때 좋음
+## 제약 조건에 이름 지정
+*Giving Names to Constraints*
+
+### `CONSTRAINT` 키워드 사용
+- 특정한 제약사항을 식별해 제약 조건에 이름 붙이기
+- 나중에 대체, 변경할 때 유용함함
 
 ---
 ### 예시
@@ -281,6 +281,8 @@ EMPLOYEE(Ssn)
 DEPARTMENT(Dnumber)
 		ON DELETE SET DEFAULT ON UPDATE CASCADE);
 ```
+
+![[Pasted image 20241207012647.png]]
 
 ---
 ## Specifying Constraints on Tuples Using `CHECK`
