@@ -205,14 +205,14 @@ SQL Data Definition, Data Types, Standards
 
 ## SQL에서 제약 조건 지정
 *Specifying Constraints in SQL*
-### Basic Constraints
-#### Key Constraints
+### 관계 모델(RM)에는 SQL에서 지원되는 3가지 기본 제약 사항이 있다.
+#### 1. **키** 제약 조건 (Key Constraints)
 - Primary Key 의 값은 중복될 수 없음.
-#### Entity integrity Constraints
+#### 2. **엔티티 무결성** 제약 조건 (Entity integrity Constraints)
 - Primary Key 의 값은 null일 수 없음
-#### Referential integrity Constraints
-- Foreign key는 이미 존재하는 primary key이거나 null이어야 함.
-#### Domain Constraints
+#### 3. **참조 무결성** 제약 조건 (Referential integrity Constraints)
+- Foreign key는 이미 존재하는 **primary key**이거나 **null**이어야 함.
+#### + 4. **도메인** 제약 조건 (Domain Constraints)
 - 값의 형식과 범위를 제한하는 제약 조건임.
 
 ---
