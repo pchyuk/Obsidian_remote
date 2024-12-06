@@ -103,7 +103,7 @@ SQL Data Definition, Data Types, Standards
 - 기본 스키마에 EMPLOYEE라는 테이블 생성
 
 ---
-### 기본 테이블 (기본 관계) 
+### 기본 테이블 (기본 관계) (13p)
 *Base Tables (base relation)*
 - Relation 과 Relation의 튜플들은 실제로 DBMS에 파일로서 저장되고 생성된다.
 
@@ -113,15 +113,15 @@ SQL Data Definition, Data Types, Standards
 - **어떤 물리적 파일과도 동일하지 않다.**
 
 ---
-
-### 외부 키 문제 발생 가능성
+### + 외부 키 문제 발생 가능성
 - 순환 참조 : 둘 이상의 테이블이 서로 참조하는 상황
 - 아직 생성되지 않은 테이블을 참조할 가능성
 - DBA(DB 관리자)는 이 문제가 일어나지 않도록 무결성을 지킬 수 있는 엄격한 제약을 가해야 함.
 
 ---
-## Attribute Data Types and Domains in SQL
-### Basic Data Types
+## SQL의 속성 데이터 유형 및 도메인 (20p)
+*Attribute Data Types and Domains in SQL*
+### 기본 데이터 유형
 #### **Numeric** data type
 - INT, INTEGER and SMALLINT
 - FLOAT or REAL, DOUBLE PRECISION
