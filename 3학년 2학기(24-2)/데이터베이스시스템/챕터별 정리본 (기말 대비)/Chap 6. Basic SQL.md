@@ -128,7 +128,9 @@ SQL Data Definition, Data Types, Standards
 ![[Pasted image 20241206223425.png]]
 
 ---
-## COMPANY 관계형 데이터베이스 스
+## COMPANY 관계형 데이터베이스 스키마에 대한 가능한 데이터베이스 상태 중 하나 (15p)
+
+![[Pasted image 20241206223737.png]]
 
 ---
 ## SQL의 속성 데이터 유형 및 도메인 (20p)
