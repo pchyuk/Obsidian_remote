@@ -241,7 +241,7 @@ SQL Data Definition, Data Types, Standards
 - 여러 개를 지정하는 경우 이를 Composite Key라고 부름
 
 ### **UNIQUE** 절
-- 대체(alternate)
+- 대체(alternate) 키를 지정한다. 
 - a.k.a Secondary key or CANDIDATE key
 - `Dname VARCHAR(15) UNIQUE`
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
