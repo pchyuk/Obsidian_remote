@@ -248,23 +248,23 @@ SQL Data Definition, Data Types, Standards
 - Null 값을 허용하며 여러 개를 설정할 수 있다는 점에서 Primary Key와 다름
 
 ---
-### **Foreign KEY** 절
+### **Foreign KEY** 절 (29p)
 #### 기본 작업 : 위반(violation) 시 업데이트 거부
 #### 참조 트리거 작업 절 추가
-- 옵션에는 다음 명령들이 포함된다.
-	- SET NULL
-	- CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
-	- SET DEFAULT
-- DBMS에서 SET NULL 또는 SET DEFAULT를 사용하게 되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
-- CASCADE 옵션은 **"relation" 관계, 여러 값을 가진(multivaled) 속성, 약한 엔티티 타입(weak entity)에 적합**함.
+##### 옵션에는 다음 명령들이 포함된다.
+- SET NULL
+- CASCADE - 참조하는 것이 바뀌면 똑같이 실행해라
+- SET DEFAULT
+##### DBMS에서 SET NULL 또는 SET DEFAULT를 사용하게 되면 ON DELETE(삭제 시)와 ON UPDATE(업데이트 시) 모두 동일하게 적용
+##### CASCADE 옵션은 **"relation" 관계, 여러 값을 가진(multivaled) 속성, 약한 엔티티 타입(weak entity)에 적합**함.
 
 ---
-## 제약 조건에 이름 지정
+## 제약 조건에 이름 지정 (30p)
 *Giving Names to Constraints*
 
 ### `CONSTRAINT` 키워드 사용
-- 특정한 제약사항을 식별해 제약 조건에 이름 붙이기
-- 나중에 대체, 변경할 때 유용함함
+- 특정한 제약사항을 식별해 제약 조건(constraint)에 이름 붙이기
+- 나중에 대체, 변경할 때 유용함
 
 ---
 ### 예시
@@ -285,12 +285,11 @@ DEPARTMENT(Dnumber)
 ![[Pasted image 20241207012647.png]]
 
 ---
-## Specifying Constraints on Tuples Using `CHECK`
-- `CHECK`를 사용하여 튜플에 대한 제약 조건 지정
+## `CHECK`를 사용하여 튜플에 대한 제약 조건 지정 (32p)
+*Specifying Constraints on Tuples Using `CHECK`*
 
 ### 각각의 튜플에 `CHECK`를 통해 추가적인 제약 사항이 가능함.
-
-### `CHECK` 절은 CREATE TABLE문장의 끝부분에 와야 함.
+### `CHECK` 절은 CREATE TABLE 문장의 끝부분에 와야 함.
 - 각 튜플에 개별적으로 적용
 - `CHECK (Dept_create_date <= Mgr_start_date)`
 
