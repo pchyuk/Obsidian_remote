@@ -611,19 +611,26 @@ CREATE TABLE D5EMPS LIKE EMPLOYEE (
 ---
 ## DELETE (66p)
 ### 관계(relation)에서 튜플을 제거
+#### 삭제할 튜플을 선택하기 위한 WHERE 절을 포함 
 - WHERE 절을 포함하여 삭제할 tuple을 정함
 ```SQL
 DELETE FROM EMPLOYEE
 WHERE Lname = 'Brown';
 ```
 
-- 참조 무결성을 적용해야 함. (무결성 참조가 강조됨.)
-- 제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만 사라짐
-- WHERE절이 없다면 모든 tuple이 사라짐
+#### 참조 무결성을 적용해야 함.
+- 무결성 참조가 강조됨.
+
+#### 제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만 사라짐 
+- 참조 무결성 제약 조건에 CASCADE가 지정되지 않은 경우
+
+#### WHERE 절이 없다면 모든 tuple이 사라짐
+- 그러면 테이블이 빈 테이블이 됨
 ```SQL
 DELETE FROM EMPLOYEE;
 ```
 
+#### 삭제되는 튜플의 수는 WHERE 절을 만족하는 관계의 튜플 수에 따라 달라짐.
 ---
 ## UPDATE
 - Attribute의 값을 수정하기 위한 연산임
