@@ -506,12 +506,13 @@ WHERE E.Ssn = W.Essn AND W.Pno = P.Pnumber AND P.Pname =
 ```
 
 ---
-## 
+## 쿼리 결과 정렬 (56p)
+*Ordering of Query Results*
 
 ### `ORDER BY` 절 사용
 - Keyword
-	- `DESC`(내림차순)
-	- `ASC`(오름차순)
+	- `DESC` (내림차순)
+	- `ASC` (오름차순)
 - 일반적으로 쿼리 끝에 옴
 
 ```SQL
@@ -524,7 +525,9 @@ ORDER BY D.Dname, E.Lname, E.Fname;
 ```
 
 ---
-## BASIC SQL Retrieval Query Block
+## 기본 SQL 검색 쿼리 블록 (57p)
+*BASIC SQL Retrieval Query Block*
+
 ```SQL
 SELECT <attribute list>
 FROM <table list>
@@ -533,9 +536,16 @@ FROM <table list>
 ```
 
 ---
-## **INSERT, DELETE, and UPDATE Statements in SQL**
-## INSERT,DELETE ,and UPDATE Stat.in SQL
-- insert, delete, update command is modify the DB
+## **SQL의 INSERT, DELETE 및 UPDATE 문**
+**INSERT, DELETE, and UPDATE Statements in SQL**
+
+## SQL의 INSERT, DELETE 및 UPDATE 문 (59)
+*INSERT, DELETE, and UPDATE Statements in SQL*
+
+### 데이터베이스를 수정하는 데 사용되는 세 가지 명령: INSERT, DELETE 및 UPDATE
+### INSERT는 일반적으로 관계(테이블)에 튜플(행)을 삽입한다.
+### UPDATE는 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수 있다.
+### DELETE는 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수도 있다.
 
 ### INSERT
 - insert a tuple in a relation
