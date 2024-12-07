@@ -154,8 +154,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -286,7 +285,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7a1518c04544cd8e",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "Pasted Images/Pasted image 20241207023717.png",
