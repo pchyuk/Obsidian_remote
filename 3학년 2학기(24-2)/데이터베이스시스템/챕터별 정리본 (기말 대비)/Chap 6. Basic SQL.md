@@ -589,7 +589,7 @@ WHERE P.Pnumber = W.Pno AND W.Essn = E.Ssn;
 ```
 
 ---
-## 테이블의 대량 로딩 (63p)
+## 테이블의 대량 로딩 (64p)
 *Bulk Loading of Tables*
 
 ### 대용량의 tuple을 relation에 넣는 것
@@ -601,7 +601,7 @@ INSERT INTO D001EMP (SELECT * from dept_emp)
 /* dept_emp의 모든 tuple을 D001EMP로 삽입 */
 ```
 
-- 생성하면서 데이터 복사하기
+### 생성하면서 데이터 복사하기
 ```SQL
 CREATE TABLE D5EMPS LIKE EMPLOYEE (
 	SELECT E.* FROM EMPLOYEE AS E WHERE E.Dno=5
@@ -609,14 +609,15 @@ CREATE TABLE D5EMPS LIKE EMPLOYEE (
 ```
 
 ---
-## DELETE
+## DELETE (66p)
+### 관계(relation)에서 튜플을 제거
 - WHERE 절을 포함하여 삭제할 tuple을 정함
 ```SQL
 DELETE FROM EMPLOYEE
 WHERE Lname = 'Brown';
 ```
 
-- 무결성 참조가 강조됨.
+- 참조 무결성을 적용해야 함. (무결성 참조가 강조됨.)
 - 제약사항에 CASADE 제약사항이 있어도 tuple들은 한번에 한 테이블에서만 사라짐
 - WHERE절이 없다면 모든 tuple이 사라짐
 ```SQL
