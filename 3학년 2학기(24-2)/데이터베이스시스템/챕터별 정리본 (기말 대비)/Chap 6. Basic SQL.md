@@ -539,20 +539,30 @@ FROM <table list>
 ## **SQL의 INSERT, DELETE 및 UPDATE 문**
 **INSERT, DELETE, and UPDATE Statements in SQL**
 
-## SQL의 INSERT, DELETE 및 UPDATE 문 (59)
+## SQL의 INSERT, DELETE 및 UPDATE 문 (59p)
 *INSERT, DELETE, and UPDATE Statements in SQL*
 
-### 데이터베이스를 수정하는 데 사용되는 세 가지 명령: INSERT, DELETE 및 UPDATE
-### INSERT는 일반적으로 관계(테이블)에 튜플(행)을 삽입한다.
-### UPDATE는 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수 있다.
-### DELETE는 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수도 있다.
-
+### 데이터베이스를 수정하는 데 사용되는 세 가지 명령: **INSERT**, **DELETE** 및 **UPDATE**
 ### INSERT
+- 일반적으로 관계(테이블)에 튜플(행)을 삽입한다.
+### UPDATE
+- 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수 있다.
+### DELETE
+- 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수도 있다.
+
+---
+## INSERT
+### 가장 단순한 형태로는 **관계에 하나 이상의 튜플을 추가**하는 데 사용된다.
+### 속성 값은 CREATE TABLE 명령에서 지정된 속성과 동일한 순서로 나열되어야 한다.
+### 데이터 유형에 대한 제약 조건은 자동으로 준수된다.
+### DDL 사양의 일부로서 모든 무결성 제약 조건은 강제로 적용된다.
+
 - insert a tuple in a relation
 - add more than one tuples
 - Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
 - data type에 대한 제약사항은 자동적으로 관측됨
 - 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
+
 ```SQL
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
 VALUES ('Richard', 'Marini',4,'653298653')
