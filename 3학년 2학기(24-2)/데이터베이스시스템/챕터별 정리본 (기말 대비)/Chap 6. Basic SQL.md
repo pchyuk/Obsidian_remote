@@ -551,25 +551,29 @@ FROM <table list>
 - 조건을 만족하는 관계(테이블)의 여러 튜플(행)을 업데이트할 수도 있다.
 
 ---
-## INSERT
+## INSERT (60p)
 ### 가장 단순한 형태로는 **관계에 하나 이상의 튜플을 추가**하는 데 사용된다.
 ### 속성 값은 CREATE TABLE 명령에서 **지정된 속성과 동일한 순서로 나열**되어야 한다.
 - 속성 값들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
-### 데이터 타입에 대한 제약 조건은 자동으로 준수된다.
-### DDL 사양의 일부로서 모든 무결성 제약 조건이 적용된다.
+### **데이터 타입에 대한 제약 조건은 자동으로 준수**된다.
+### DDL 사양의 일부로서 **모든 무결성 제약 조건이 적용**된다.
+- 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
 
 --- 
-### 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
+### 튜플에 대한 관계 이름과 값 목록을 지정 (61p)
+### NULL을 포함한 모든 값이 제공
 
 ```SQL
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
-VALUES ('Richard', 'Marini',4,'653298653')
+VALUES ('Richard', 'Marini', 4, '653298653')
 or
 INSERT INTO EMPLOYEE
 VALUES ('아무튼 많은 정보들...')
 ```
 
-- query의 결과를 통해 Insert로 여러 tuple을 넣는 방법도 있음.
+---
+### query의 결과를 통해 Insert로 여러 tuple을 넣는 방법도 있음. (62p)
+
 ```SQL
 CREATE TABLE WORKS_ON_INFO
 (
@@ -585,9 +589,11 @@ WHERE P.Pnumber = W.Pno AND W.Essn = E.Ssn;
 ```
 
 ---
-## Bulk Loading of Tables
-- 대용량의 tuple을 relation에 넣는 것임.
-- `LIKE` 을 이용한 Attribute 복사
+## 테이블의 대량 로딩 (63p)
+*Bulk Loading of Tables*
+
+### 대용량의 tuple을 relation에 넣는 것
+### `LIKE` 을 이용한 Attribute 복사
 ```SQL
 CREATE TABLE D001EMP LIKE dept_emp;
 /* dept_emp와 동일한 attribute를 갖는 D001EMP TABLE 생성 */
