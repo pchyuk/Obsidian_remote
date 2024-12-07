@@ -648,4 +648,24 @@ WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 ```
 
 ### 각 명령어는 한 relation에 대해서의 tuple을 수정
-### 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
+### DDL 사양의 일부로 지정된 참조 무결성이 적용
+- 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제됨
+
+---
+## SQL의 추가 기능 (73p)
+### **복잡한 검색 쿼리를 지정**하기 위한 기술 
+- 7장 참조
+### SQL 문을 포함한 다양한 프로그래밍 언어로 프로그램 작성
+- **임베디드 및 동적 SQL, SQL/CLI(Call Level Interface)** 및 그 전신인 **ODBC, SQL/PSM(Persistent Stored Module)**
+- 10장 참조
+### 물리적 데이터베이스 설계 매개변수, 관계에 대한 파일 구조 및 액세스 경로를 지정하기 위한 명령 세트
+- 예: **CREATE INDEX**
+
+---
+### 트랜잭션 제어 명령
+### 사용자에게 권한 부여(GRANT) 및 취소(REVOKE) 지정
+### 트리거 생성을 위한 구성 요소
+### 객체 관계형으로 알려진 향상된 관계형 시스템은 관계를 클래스로 정의한다. 
+### 추상 데이터 유형(사용자 정의 유형- UDT라고 함)은 CREATE TYPE에서 지원된다.
+
+---
