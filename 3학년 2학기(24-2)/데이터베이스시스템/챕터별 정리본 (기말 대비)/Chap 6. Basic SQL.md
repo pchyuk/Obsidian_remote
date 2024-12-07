@@ -554,14 +554,14 @@ FROM <table list>
 ## INSERT
 ### 가장 단순한 형태로는 **관계에 하나 이상의 튜플을 추가**하는 데 사용된다.
 ### 속성 값은 CREATE TABLE 명령에서 **지정된 속성과 동일한 순서로 나열**되어야 한다.
+- 속성 값들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
 ### 데이터 유형에 대한 제약 조건은 자동으로 준수된다.
 ### DDL 사양의 일부로서 모든 무결성 제약 조건이 적용된다.
+부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
 
-- insert a tuple in a relation
-- add more than one tuples
-- Attribute value들은 CREATE TABLE 커맨드의 순서로 적혀 있어야 함.
+
 - data type에 대한 제약사항은 자동적으로 관측됨
-- 부족한 데이터에 대해서는 NULL을 자동적으로 할당함.
+- 
 
 ```SQL
 INSERT INTO EMPLOYEE(Fname, Lname, Dno, Ssn)
