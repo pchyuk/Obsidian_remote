@@ -631,11 +631,13 @@ DELETE FROM EMPLOYEE;
 ```
 
 #### 삭제되는 튜플의 수는 WHERE 절을 만족하는 관계의 튜플 수에 따라 달라짐.
+
 ---
-## UPDATE
-- Attribute의 값을 수정하기 위한 연산임
-- WHERE 절을 통해 수정할 tuple을 선택함
-- 추가적으로 SET 절을 이용해 수정될 새 속성들을 명세할 수 있음
+## UPDATE (69p)
+### 하나 이상의 선택된 튜플의 속성 값을 수정하는 데 사용
+- Attribute의 값을 수정하기 위한 연산
+### WHERE 절을 통해 수정할 tuple을 선택
+### 추가적으로 SET 절을 이용해 수정될 새 속성들을 명세할 수 있음
 ```SQL
 UPDATE PROJECT
 	SET PLOCATION = 'bellaire',DNUM = 5
@@ -645,5 +647,5 @@ SET SALARY = SALARY * 1.1
 WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 ```
 
-- 각 명령어는 한 relation에 대해서의 tuple을 수정한다.
-- 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
+### 각 명령어는 한 relation에 대해서의 tuple을 수정
+### 참조 무결성은 DDL 명세의 부분적으로 명시된 것으로 강제된다.
