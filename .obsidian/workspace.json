@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "fc2c8fd4cdcc9c8a",
+        "id": "6bef778ed224eb3c",
         "type": "tabs",
         "children": [
           {
@@ -20,13 +20,7 @@
               "icon": "lucide-file",
               "title": "Chap 6. Basic SQL"
             }
-          }
-        ]
-      },
-      {
-        "id": "6bef778ed224eb3c",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "23a16c2d8be035a7",
             "type": "leaf",
@@ -111,8 +105,7 @@
               "title": "Chap 6. Basic SQL (중간 범위)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,8 +171,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -290,8 +282,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5,
-    "collapsed": true
+    "width": 353.5
   },
   "left-ribbon": {
     "hiddenItems": {

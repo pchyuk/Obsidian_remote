@@ -454,7 +454,7 @@ FROM Employee e, Department d
 WHERE e.dno = d.dno;
 ```
 - equi-join과의 차이점
-	- natural join의 경우 ==데이터 값이 동일한 속성은 한 개만 남긴다==.
+	- natural join의 경우 **데이터 값이 동일한 속성은 한 개만 남긴다**.
 
 #### Self-join`
 ```SQL
