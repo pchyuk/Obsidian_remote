@@ -417,17 +417,51 @@ Ssn | Department
 ![[Pasted image 20241207023717.png]]
 
 ---
-## Tables as Sets in SQL
-Table을 집합으로 사용하는 방법
+## SQL에서 집합으로서의 테이블 (48p)
+*Tables as Sets in SQL*
+- Table을 집합으로 사용하는 방법
 
-- SQL은 쿼리의 결과로 중복되는 튜플을 삭제하지 않는다.
+- SQL은 쿼리의 결과로 중복되는 튜플을 자동으로 삭제하지 않는다.
 - `DISTINCT` 키워트를 통해 중복되는 튜플을 삭제 가능
 	- 결과에는 고유한 튜플만 남아야 한다.
+
+![[Pasted image 20241002104457.png]]
 
 ### Set Oprations
 - UNION, EXCEPT, INTERSECT가 있음
 - Multiset으로 하고 싶다면 ALL을 붙여주면 됨
 	- UNION ALL, EXCEPT ALL ~~
+
+---
+#### Equi-join
+```SQL
+SELECT *
+FROM Employee e, Department d
+WHERE e.dno = d.dno;
+```
+
+#### Theta-join
+```SQL
+SELECT *
+FROM Employee e, Department d
+WHERE e.ssn > 200;
+```
+
+#### Natural-join 
+```SQL
+SELECT e.dno, d.dname, e.ssn, e.name, e.address
+FROM Employee e, Department d
+WHERE e.dno = d.dno;
+```
+- equi-join과의 차이점
+	- natural join의 경우 ==데이터 값이 동일한 속성은 한 개만 남긴다==.
+
+#### Self-join`
+```SQL
+SELECT e2.*
+FROM Employee e1, Employee e2
+WHERE e1.name = 'kim' and e1.dno = e2.dno;
+```
 
 ---
 ## Substring Pattern Matching and Arithmetic Operators
