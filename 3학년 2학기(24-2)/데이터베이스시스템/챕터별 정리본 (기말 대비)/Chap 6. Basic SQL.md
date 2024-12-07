@@ -675,15 +675,15 @@ WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 *Summary*
 
 ### SQL
-- 관계형 데이터베이스 관리를 위한 포괄적인 언어
-- 데이터 정의, 쿼리, 업데이트, 제약 조건 지정 및 뷰 정의
-- https://dev.mysql.com/doc/refman/8.0/en/sql-syntax.html
+#### 관계형 데이터베이스 관리를 위한 포괄적인 언어
+#### 데이터 정의, 쿼리, 업데이트, 제약 조건 지정 및 뷰 정의
 
 ### 다룬 내용 (Covered)
-#### 테이블 생성을 위한 데이터 정의 명령
+#### 1. 테이블 생성을 위한 데이터 정의 명령
 *Data definition commands for creating tables*
-#### 제약 조건 지정 명령
+#### 2. 제약 조건 지정 명령
 *Commands for constraint specification*
-#### 간단한 검색 쿼리
+#### 3. 간단한 검색 쿼리
 *Simple retrieval queries*
-#### 데이터베이스 업데이트 명령
+#### 4. 데이터베이스 업데이트 명령
+*Database update commands*
