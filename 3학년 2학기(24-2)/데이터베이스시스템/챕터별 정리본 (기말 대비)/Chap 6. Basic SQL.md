@@ -653,6 +653,8 @@ WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 
 ---
 ## SQL의 추가 기능 (73p)
+*Additional Features of SQL*
+
 ### **복잡한 검색 쿼리를 지정**하기 위한 기술 
 - 7장 참조
 ### SQL 문을 포함한 다양한 프로그래밍 언어로 프로그램 작성
@@ -669,3 +671,19 @@ WHERE DNO IN (SELECT DNUMBER FROM DEPARTMENT WHERE DNAME = 'RESEARCH');
 ### 추상 데이터 유형(사용자 정의 유형- UDT라고 함)은 CREATE TYPE에서 지원된다.
 
 ---
+## 요약 (75p)
+*Summary*
+
+### SQL
+- 관계형 데이터베이스 관리를 위한 포괄적인 언어
+- 데이터 정의, 쿼리, 업데이트, 제약 조건 지정 및 뷰 정의
+- https://dev.mysql.com/doc/refman/8.0/en/sql-syntax.html
+
+### 다룬 내용 (Covered)
+#### 테이블 생성을 위한 데이터 정의 명령
+*Data definition commands for creating tables*
+#### 제약 조건 지정 명령
+*Commands for constraint specification*
+#### 간단한 검색 쿼리
+*Simple retrieval queries*
+#### 데이터베이스 업데이트 명령
