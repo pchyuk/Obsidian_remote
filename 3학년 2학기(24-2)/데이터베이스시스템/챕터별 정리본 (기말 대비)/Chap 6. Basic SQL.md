@@ -471,14 +471,18 @@ WHERE e1.name = 'kim' and e1.dno = e2.dno;
 - 문자열 패턴 매칭엔 사용
 - `%` - 0 개 이상의 임의의 문자를 대체함
 - `_` - 정확히 한 개의 문자를 대체함
-#### using
+
+#### 예시
 ```SQL
 SELECT Fname
 FROM EMPLOYEE
 WHERE Address LIKE '%Cheongju%'
+
+WHERE Ssn LIKE '__1__8901';
 ```
 
-### `BETWEEN` 비교 연산자
+---
+### `BETWEEN` 비교 연산자 (53p)
 ```SQL
 SELECT *
 FROM EMPLOYEE
@@ -486,8 +490,11 @@ WHERE (Salary BETWEEN 30000 AND 40000);
 ```
 
 ---
-## Arithmetic Operations
-### Standard arithmitic operations
+## 산술 연산자 (54p)
+*Arithmetic Operations*
+
+### 표준 산술 연산자
+*Standard arithmitic operations*
 - +, -, * , / 다 있음.
 - 보통 SELECT에 포함되어 사용함
 
@@ -499,6 +506,8 @@ WHERE E.Ssn = W.Essn AND W.Pno = P.Pnumber AND P.Pname =
 ```
 
 ---
+## 
+
 ### `ORDER BY` 절 사용
 - Keyword
 	- `DESC`(내림차순)
