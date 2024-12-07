@@ -421,13 +421,13 @@ Ssn | Department
 *Tables as Sets in SQL*
 - Table을 집합으로 사용하는 방법
 
-- SQL은 쿼리의 결과로 중복되는 튜플을 자동으로 삭제하지 않는다.
-- `DISTINCT` 키워트를 통해 중복되는 튜플을 삭제 가능
-	- 결과에는 고유한 튜플만 남아야 한다.
+### SQL은 쿼리의 결과로 중복되는 튜플을 자동으로 삭제하지 않는다.
+### `DISTINCT` 키워트를 통해 중복되는 튜플을 삭제 가능
+- 결과에는 고유한 튜플만 남아야 한다.
 
 ![[Pasted image 20241002104457.png]]
 
-### Set Oprations
+### 작업 설정 (Set Oprations)
 - UNION, EXCEPT, INTERSECT가 있음
 - Multiset으로 하고 싶다면 ALL을 붙여주면 됨
 	- UNION ALL, EXCEPT ALL ~~
@@ -464,8 +464,11 @@ WHERE e1.name = 'kim' and e1.dno = e2.dno;
 ```
 
 ---
-## Substring Pattern Matching and Arithmetic Operators
+## 부분 문자열 패턴 매칭 및 산술 연산자 (51p)
+*Substring Pattern Matching and Arithmetic Operators*
+
 ### `LIKE` 비교 연산자
+- 문자열 패턴 매칭엔 사용
 - `%` - 0 개 이상의 임의의 문자를 대체함
 - `_` - 정확히 한 개의 문자를 대체함
 #### using
