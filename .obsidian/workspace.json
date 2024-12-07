@@ -8,6 +8,20 @@
         "type": "tabs",
         "children": [
           {
+            "id": "d31c5bf8b70dc188",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chap 6. Basic SQL"
+            }
+          },
+          {
             "id": "23a16c2d8be035a7",
             "type": "leaf",
             "state": {
@@ -76,23 +90,8 @@
               "icon": "lucide-file",
               "title": "1016 7주차 - 1 (7장)"
             }
-          },
-          {
-            "id": "d31c5bf8b70dc188",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chap 6. Basic SQL"
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -287,13 +286,14 @@
   },
   "active": "d31c5bf8b70dc188",
   "lastOpenFiles": [
-    "Daily Note/2024-12-07.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
+    "Daily Note/2024-12-08.md",
+    "Daily Note/2024-12-07.md",
     "Pasted Images/Pasted image 20241207023717.png",
     "Pasted Images/Pasted image 20241207022527.png",
     "Pasted Images/Pasted image 20241207021254.png",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
     "Pasted Images/Pasted image 20241207012647.png",
     "Daily Note/2024-12-09.md",
     "Daily Note/2024-12-06.md",

@@ -416,9 +416,6 @@ Ssn | Department
 
 ![[Pasted image 20241207023717.png]]
 
-여기까지 함
-내일 다시 하자
-
 ---
 ## Tables as Sets in SQL
 Table을 집합으로 사용하는 방법
