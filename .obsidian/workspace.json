@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
+                "file": "Daily Note/2024-12-08.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chap 6. Basic SQL"
+              "title": "2024-12-08"
             }
           },
           {
@@ -158,7 +158,7 @@
             }
           },
           {
-            "id": "5d98e3931e306959",
+            "id": "6d5aedecc33ac9cd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -167,7 +167,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,10 +212,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md"
+                "file": "Daily Note/2024-12-08.md"
               },
               "icon": "lucide-list",
-              "title": "Chap 6. Basic SQL 개요"
+              "title": "2024-12-08 개요"
             }
           },
           {
