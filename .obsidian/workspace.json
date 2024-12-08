@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d31c5bf8b70dc188",
+            "id": "7a366531bb8f3def",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-08.md",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-08"
+              "title": "Chap 6. Basic SQL"
             }
           },
           {
@@ -90,51 +90,8 @@
               "icon": "lucide-file",
               "title": "1016 7주차 - 1 (7장)"
             }
-          },
-          {
-            "id": "387be583270250ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2024-12-08.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2024-12-08"
-            }
-          },
-          {
-            "id": "0dd0f5436ef5e67a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 최종본.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "데베시 중간 대비 최종본"
-            }
-          },
-          {
-            "id": "36b78cca54f2fcdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 문제 및 풀이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "데베시 중간 대비 문제 및 풀이"
-            }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +197,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-08.md"
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-08 개요"
+              "title": "Chap 6. Basic SQL 개요"
             }
           },
           {
@@ -327,19 +284,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "387be583270250ec",
+  "active": "7a366531bb8f3def",
   "lastOpenFiles": [
-    "Pasted Images/Pasted image 20241208170257.png",
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
+    "Daily Note/2024-12-08.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 문제 및 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 최종본.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
+    "Pasted Images/Pasted image 20241208170257.png",
+    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL (중간 범위).md",
-    "Daily Note/2024-12-08.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 1 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "Daily Note/2024-12-07.md",
     "Pasted Images/Pasted image 20241207023717.png",
     "Pasted Images/Pasted image 20241207022527.png",
@@ -352,7 +309,6 @@
     "Pasted Images/Pasted image 20241206233408.png",
     "Pasted Images/Pasted image 20241206233316.png",
     "Pasted Images/Pasted image 20241206223737.png",
-    "Pasted Images/Pasted image 20241206223425.png",
     "Daily Note/2024-12-05.md",
     "Daily Note/2024-12-04.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 2 (7장).md",
