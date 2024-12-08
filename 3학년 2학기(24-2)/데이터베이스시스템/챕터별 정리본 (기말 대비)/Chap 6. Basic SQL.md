@@ -49,7 +49,7 @@
 - DDL(Data Definition Language)을 이용해 데이터를 정의하는 행위
 - 테이블, 인덱스, 뷰 등과 같은 DB 객체를 생성하고 수정하는데 사용함.
 #### **2. 데이터 조작 (Data Manipulation)**
-- DML(Data manipulation language)를 이용해 데이터를 조작하는 행위
+- DML(Data Manipulation Language)를 이용해 데이터를 조작하는 행위
 - ex) 삽입, 수정, 삭제, 조회
 #### 3. 트랜잭션 제어 (Transaction Control)
 #### 4. 인덱싱 (Indexing)
