@@ -85,9 +85,9 @@
 
 ### 목록 (Catalog)
 - SQL 환경에서 **스키마의 컬렉션**으로 이름 지어져 있음
-- 이런 Catalog를 묶은 Cluster of Catalog가 존재하지만 원래 존재하는 개념은 아니고 일부 시스템에서 사용하는 아이디어임.
 
-### SQL에는 카탈로그 클러스터(cluster of catalogs) 라는 개념도 있다.
+### SQL에는 Catalog를 묶은 카탈로그 클러스터(cluster of catalogs) 라는 개념도 있다.
+- 원래 존재하는 개념은 아니고 일부 시스템에서 사용하는 아이디어
 
 ---
 ## SQL에서의 CREATE TABLE 명령 (12p)
