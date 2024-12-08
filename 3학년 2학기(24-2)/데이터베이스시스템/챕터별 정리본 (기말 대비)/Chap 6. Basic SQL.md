@@ -30,7 +30,7 @@
 **SQL Data Definition and Data Types**
 
 ## SQL 데이터 정의, 데이터 유형, 표준 (8p)
-SQL Data Definition, Data Types, Standards
+*SQL Data Definition, Data Types, Standards*
 
 ### 용어 (Terminology)
 - 관계형 모델(Relational Model, RM) 용어인 **관계, 튜플, 속성**에 사용되는 **테이블, 행, 열**
