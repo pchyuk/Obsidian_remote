@@ -4,109 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6bef778ed224eb3c",
+        "id": "d58845e1f62c2f5a",
         "type": "tabs",
         "children": [
           {
-            "id": "7a366531bb8f3def",
+            "id": "ac10f55f88f29d6f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chap 6. Basic SQL"
-            }
-          },
-          {
-            "id": "23a16c2d8be035a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "0930 5주차 (5~6장)"
-            }
-          },
-          {
-            "id": "f4f79806698a05cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1002 5주차 (6장)"
-            }
-          },
-          {
-            "id": "6d6ffb4417ceb9e6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 1 (6장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1007 6주차 - 1 (6장)"
-            }
-          },
-          {
-            "id": "822e9284517901ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1014 7주차 (7장)"
-            }
-          },
-          {
-            "id": "c0d5efef93f9374c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1016 7주차 - 1 (7장)"
-            }
-          },
-          {
-            "id": "fa11cabe771cedc8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1016 7주차 - 2 (8장)"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,11 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "1016 7주차 - 2 (8장) 개요"
+              "title": "개요"
             }
           },
           {
@@ -299,11 +207,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa11cabe771cedc8",
+  "active": "ac10f55f88f29d6f",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 1 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
