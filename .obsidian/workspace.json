@@ -11,9 +11,14 @@
             "id": "ac10f55f88f29d6f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-12-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-09"
             }
           }
         ]
@@ -121,9 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "Daily Note/2024-12-09.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2024-12-09 개요"
             }
           },
           {
@@ -209,6 +216,8 @@
   },
   "active": "ac10f55f88f29d6f",
   "lastOpenFiles": [
+    "Daily Note/2024-12-08.md",
+    "Daily Note/2024-12-09.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
@@ -216,7 +225,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
-    "Daily Note/2024-12-08.md",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 문제 및 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비/데베시 중간 대비 최종본.md",
     "Pasted Images/Pasted image 20241208170257.png",
@@ -228,7 +236,6 @@
     "Pasted Images/Pasted image 20241207022527.png",
     "Pasted Images/Pasted image 20241207021254.png",
     "Pasted Images/Pasted image 20241207012647.png",
-    "Daily Note/2024-12-09.md",
     "Daily Note/2024-12-06.md",
     "Pasted Images/Pasted image 20241206233718.png",
     "Pasted Images/Pasted image 20241206233609.png",
