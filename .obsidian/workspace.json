@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
+                "file": "Daily Note/2024-12-10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1210 15주차 - 2 (12장)"
+              "title": "2024-12-10"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "5c730fe909a3f324",
+            "id": "dc88ee1a22cbf252",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,7 +83,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -127,10 +128,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md"
+                "file": "Daily Note/2024-12-10.md"
               },
               "icon": "lucide-list",
-              "title": "1210 15주차 - 2 (12장) 개요"
+              "title": "2024-12-10 개요"
             }
           },
           {
@@ -217,8 +218,8 @@
   },
   "active": "ac10f55f88f29d6f",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - (11장).md",
     "Daily Note/2024-12-10.md",
     "Daily Note/2024-12-08.md",
