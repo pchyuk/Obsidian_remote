@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-10.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 (11장).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-10"
+              "title": "1210 15주차 (11장)"
             }
           }
         ]
@@ -83,12 +83,12 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -128,10 +128,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-10.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 (11장).md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-10 개요"
+              "title": "1210 15주차 (11장) 개요"
             }
           },
           {
@@ -199,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 353.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,9 +218,10 @@
   },
   "active": "ac10f55f88f29d6f",
   "lastOpenFiles": [
+    "Daily Note/2024-12-10.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 (11장).md",
     "Daily Note/2024-12-08.md",
     "Daily Note/2024-12-09.md",
-    "Daily Note/2024-12-10.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1016 7주차 - 2 (8장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1120 12주차 (14장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1202 14주차 (17장).md",
@@ -255,7 +257,6 @@
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/1101 회의록.md",
     "Daily Note/2024-12-03.md",
     "3학년 2학기(24-2)/서버프로그래밍/프로젝트/.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1125 13주차 - 1 (14장).md",
     "3학년 2학기(24-2)/산학프로젝트/멘토링",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
