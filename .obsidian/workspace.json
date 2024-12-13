@@ -97,8 +97,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -142,10 +141,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-12.md"
+                "file": "Daily Note/2024-12-13.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-12 개요"
+              "title": "2024-12-13 개요"
             }
           },
           {
@@ -229,11 +228,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "ac10f55f88f29d6f",
   "lastOpenFiles": [
-    "Daily Note/2024-12-13.md",
     "Daily Note/2024-12-11.md",
     "Daily Note/2024-12-12.md",
+    "Daily Note/2024-12-13.md",
     "Daily Note/2024-12-10.md",
     "3학년 2학기(24-2)/창업설계/1008 대학원 설명회.md",
     "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
