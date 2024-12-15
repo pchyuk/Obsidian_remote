@@ -49,8 +49,7 @@
               "title": "1107 10주차 -1 (7장)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,10 +155,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
               },
               "icon": "lucide-list",
-              "title": "1105 10주차 (7장) 개요"
+              "title": "7. Software Design - Modularity 개요"
             }
           },
           {
@@ -243,15 +242,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4bacfb21998ae2a3",
+  "active": "43f50342d5cdefb3",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "Pasted Images/Pasted image 20241216011535.png",
     "Pasted Images/Pasted image 20241216011025.png",
     "Pasted Images/Pasted image 20241216010451.png",
     "Pasted Images/Pasted image 20241216010213.png",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/Confidential/2024 소공 홍장의 교수님 중간 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/12. Other Topics on Software Engineering.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md",
@@ -283,7 +282,6 @@
     "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
     "Pasted Images/Pasted image 20241208170257.png",
     "Pasted Images/Pasted image 20241207023717.png",
-    "Pasted Images/Pasted image 20241207022527.png",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/무제 폴더",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)",
