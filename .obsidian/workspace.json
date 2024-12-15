@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
                 "mode": "source",
                 "source": false
               },
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md"
               },
               "icon": "lucide-list",
               "title": "7. Software Design - Modularity 개요"
@@ -230,8 +230,10 @@
   },
   "active": "25de06a87fa8a97c",
   "lastOpenFiles": [
-    "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본",
+    "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "Pasted Images/Pasted image 20241215145356.png",
     "Pasted Images/Pasted image 20241215145216.png",
@@ -274,7 +276,6 @@
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/10. generic type, trait, lifetime.pdf",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/9. error handling.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
