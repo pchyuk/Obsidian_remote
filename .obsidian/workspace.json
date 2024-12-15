@@ -133,8 +133,7 @@
               "title": "2024-12-15"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,10 +239,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/Confidential/2018 소공 홍장의 교수님 기말 족보.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md"
               },
               "icon": "lucide-list",
-              "title": "2018 소공 홍장의 교수님 기말 족보 개요"
+              "title": "7. Software Design - Modularity 개요"
             }
           },
           {
@@ -328,8 +327,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "121f7d9ed97339f6",
+  "active": "bb6a1000bb9671e3",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/소프트웨어공학/Confidential/2018 소공 홍장의 교수님 기말 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/Confidential/2024 소공 홍장의 교수님 중간 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/12. Other Topics on Software Engineering.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md",
@@ -340,7 +340,6 @@
     "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/12. Other Topics on Software Engineering.md",
-    "3학년 2학기(24-2)/소프트웨어공학/Confidential/2018 소공 홍장의 교수님 기말 족보.md",
     "Pasted Images/KakaoTalk_20241215_155935952.jpg",
     "3학년 2학기(24-2)/소프트웨어공학/Confidential",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/11. Verification and Validation - Software Testing.md",
