@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md"
               },
               "icon": "lucide-list",
-              "title": "7. Software Design - Modularity 개요"
+              "title": "1105 10주차 (7장) 개요"
             }
           },
           {
@@ -243,11 +243,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "25de06a87fa8a97c",
+  "active": "5dbeddc670d60f7e",
   "lastOpenFiles": [
-    "Pasted Images/Pasted image 20241215145356.png",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
+    "Pasted Images/Pasted image 20241215145356.png",
     "Pasted Images/Pasted image 20241215145216.png",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1031 9주차 - 2 (7장).md",
     "Daily Note/2024-12-15.md",
@@ -281,7 +281,6 @@
     "Pasted Images/Pasted image 20241207012647.png",
     "Pasted Images/Pasted image 20241206233718.png",
     "Pasted Images/Pasted image 20241206233609.png",
-    "Pasted Images/Pasted image 20241206233408.png",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/무제 폴더",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)",
