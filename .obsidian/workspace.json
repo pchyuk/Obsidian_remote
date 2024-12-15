@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+                "file": "Daily Note/2024-12-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Software Design - Modularity"
+              "title": "2024-12-15"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           },
           {
-            "id": "00010fcd322d27f5",
+            "id": "54aebb1f0ff6ac6a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -97,7 +97,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -141,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
+                "file": "Daily Note/2024-12-15.md"
               },
               "icon": "lucide-list",
-              "title": "7. Software Design - Modularity 개요"
+              "title": "2024-12-15 개요"
             }
           },
           {
