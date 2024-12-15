@@ -50,6 +50,34 @@
             }
           },
           {
+            "id": "20df6a9b84bf108e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/10. Software Inspection & Writing Codes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Software Inspection & Writing Codes"
+            }
+          },
+          {
+            "id": "d288afc67eac1060",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Verification and Validation - Software Testing"
+            }
+          },
+          {
             "id": "2a923b7438d557af",
             "type": "leaf",
             "state": {
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,8 +154,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -171,10 +198,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-15.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-15 개요"
+              "title": "11. Verification and Validation - Software Testing 개요"
             }
           },
           {
@@ -259,10 +286,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2a923b7438d557af",
+  "active": "d288afc67eac1060",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/10. Software Inspection & Writing Codes.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/9. Software Design - Object-Oriented Design.md",
+    "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/8. Software Design - Design Patterns.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
@@ -278,7 +306,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/12. Other Topics on Software Engineering.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본",
-    "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "Pasted Images/Pasted image 20241215145356.png",
     "Pasted Images/Pasted image 20241215145216.png",
