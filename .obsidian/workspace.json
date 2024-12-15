@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,10 +156,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
               },
               "icon": "lucide-list",
-              "title": "1105 10주차 (7장) 개요"
+              "title": "7. Software Design - Modularity 개요"
             }
           },
           {
@@ -243,13 +243,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5dbeddc670d60f7e",
+  "active": "25de06a87fa8a97c",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1031 9주차 - 2 (7장).md",
+    "Pasted Images/Pasted image 20241215145356.png",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "Pasted Images/Pasted image 20241215145216.png",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1031 9주차 - 2 (7장).md",
     "Daily Note/2024-12-15.md",
     "Daily Note/2024-12-14.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "Pasted Images/Pasted image 20241214035345.png",
     "Daily Note/2024-12-13.md",
@@ -272,7 +274,6 @@
     "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - (11장).md",
     "Pasted Images/Pasted image 20241208170257.png",
     "Pasted Images/Pasted image 20241207023717.png",
     "Pasted Images/Pasted image 20241207022527.png",
@@ -281,7 +282,6 @@
     "Pasted Images/Pasted image 20241206233718.png",
     "Pasted Images/Pasted image 20241206233609.png",
     "Pasted Images/Pasted image 20241206233408.png",
-    "Pasted Images/Pasted image 20241206233316.png",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/무제 폴더",
     "3학년 2학기(24-2)/데이터베이스시스템/중간 대비",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)",
