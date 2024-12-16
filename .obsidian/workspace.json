@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "43f50342d5cdefb3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. Software Design - Modularity"
-            }
-          },
-          {
             "id": "a310026891069700",
             "type": "leaf",
             "state": {
@@ -62,8 +48,21 @@
               "icon": "lucide-file",
               "title": "1107 10주차 -1 (7장)"
             }
+          },
+          {
+            "id": "ad6c1fd84ac2934f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-07-SoftwareDesign-Modularity_ko(translated).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2024-07-SoftwareDesign-Modularity_ko(translated)"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,12 +124,11 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 325.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -170,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md"
+                "file": "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-07-SoftwareDesign-Modularity_ko(translated).pdf"
               },
               "icon": "lucide-list",
-              "title": "7. Software Design - Modularity 개요"
+              "title": "2024-07-SoftwareDesign-Modularity_ko(translated) 개요"
             }
           },
           {
@@ -257,10 +255,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "43f50342d5cdefb3",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본",
+    "Daily Note/2024-12-17.md",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-12-OtherIssues-Short_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-11-VeriValidation_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-10-Inspection-1_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-09-SoftwareDesign-2-OOD_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-08-SoftwareDesign-GoF_Patterns_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-07-SoftwareDesign-Modularity_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)",
+    "Daily Note/2024-12-16.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
     "Pasted Images/Pasted image 20241216052459.png",
     "Pasted Images/Pasted image 20241216051740.png",
     "Pasted Images/Pasted image 20241216051145.png",
@@ -282,7 +290,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/10. Software Inspection & Writing Codes.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/8. Software Design - Design Patterns.md",
     "Daily Note/2024-12-15.md",
-    "Daily Note/2024-12-16.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
     "3학년 2학기(24-2)/소프트웨어공학/Confidential/2018 소공 홍장의 교수님 기말 족보.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/9. Software Design - Object-Oriented Design.md",
@@ -295,16 +302,7 @@
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1031 9주차 - 2 (7장).md",
     "Daily Note/2024-12-14.md",
-    "Daily Note/2024-12-13.md",
-    "Daily Note/2024-12-12.md",
     "3학년 2학기(24-2)/창업설계/241015 특강 발표자료(학생창업자의 미래 마스터 플랜에 대한 가이드).pdf",
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/무제 폴더",
-    "3학년 2학기(24-2)/데이터베이스시스템/중간 대비",
-    "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)",
-    "3학년 2학기(24-2)/산학프로젝트/멘토링",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/GNU Parallel 조사 3 - 찬혁.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/11. Writing Automatic Testing.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/10. generic type, trait, lifetime.pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
