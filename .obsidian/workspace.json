@@ -1,37 +1,14 @@
 {
   "main": {
-    "id": "898985a0e4240582",
+    "id": "d2a8d996198d1079",
     "type": "split",
     "children": [
       {
-        "id": "81bd8e93f42ee045",
+        "id": "77b90b5b373065b4",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca06199a8f75d7a",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "d9ee73b5d0cea241",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 풀이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2020039066 박찬혁 7장 실습 문제 풀이"
-            }
-          },
-          {
-            "id": "59bb926e36c5ad7f",
+            "id": "7df5cb795038851d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -43,23 +20,37 @@
               "icon": "lucide-file",
               "title": "2024-12-20"
             }
+          },
+          {
+            "id": "1dc782248033af47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "80a4abd6fd3f71cf",
+    "id": "04e866720d257f96",
     "type": "split",
     "children": [
       {
-        "id": "d29ca9a12797a846",
+        "id": "2f9d5464d818bb88",
         "type": "tabs",
         "children": [
           {
-            "id": "1ebdb8f1f18f9228",
+            "id": "de3d94a7f9f3df15",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -71,7 +62,7 @@
             }
           },
           {
-            "id": "6667cea03b8ff8d8",
+            "id": "d71462f63b42104c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -88,7 +79,7 @@
             }
           },
           {
-            "id": "e99b9fccb3c22057",
+            "id": "f1933b4c72169b55",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -98,7 +89,7 @@
             }
           },
           {
-            "id": "703c9f38bcabbfe7",
+            "id": "54e5296aa96e7625",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -107,64 +98,27 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 253.5
+    "width": 300
   },
   "right": {
-    "id": "9bb18815e223e09e",
+    "id": "2497ba5f713273ec",
     "type": "split",
     "children": [
       {
-        "id": "c3c16ceba955020d",
+        "id": "0c524ee4da23af6e",
         "type": "tabs",
-        "dimension": 50.434027777777786,
         "children": [
           {
-            "id": "7227c226702a3b4e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e6744a7ae97f7538",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "2d3d9e61bb58b9ac",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily Note/2024-12-20.md"
-              },
-              "icon": "lucide-list",
-              "title": "2024-12-20 개요"
-            }
-          },
-          {
-            "id": "da3ad323fcccce14",
+            "id": "d07b149ee0e40489",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,56 +128,64 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "1017 7주차 (5장)의 백링크"
+              "title": "conflict-files-obsidian-git의 백링크"
             }
           },
           {
-            "id": "6dd109154fc4d750",
+            "id": "34070d173934a8fe",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/1017 7주차 (5장).md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "1017 7주차 (5장)의 나가는 링크"
+              "title": "conflict-files-obsidian-git의 나가는 링크"
             }
           },
           {
-            "id": "d2967792561d0210",
+            "id": "ac8a40da24214e83",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "30b500fdf83a3c6b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md"
+              },
+              "icon": "lucide-list",
+              "title": "conflict-files-obsidian-git 개요"
+            }
+          },
+          {
+            "id": "7da0800b9b2390fa",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "d5aafccbe7424b4c",
-        "type": "tabs",
-        "dimension": 49.565972222222214,
-        "children": [
-          {
-            "id": "a78d16ccfeedd566",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 353.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -233,67 +195,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "widgets:Add widget": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false,
+      "widgets:Add widget": false
     }
   },
-  "active": "59bb926e36c5ad7f",
+  "active": "7da0800b9b2390fa",
   "lastOpenFiles": [
-    "Daily Note/2024-11-24.md",
     "Daily Note/2024-12-20.md",
-    "Daily Note/2024-11-23.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 2 풀이.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 풀이.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 DDL 실습 과제.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/무제 파일.md",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제/6장 데이터 정의 언어 실습 문제.pdf",
-    "Daily Note/2024-11-22.md",
-    "Daily Note/2024-11-20.md",
-    "Daily Note/2024-11-21.md",
-    "conflict-files-obsidian-git.md",
-    "Pasted Images/Pasted image 20241121103437.png",
-    "Pasted Images/Pasted image 20241120193938.png",
-    "Pasted Images/Pasted image 20241115105135.png",
-    "Pasted Images/Pasted image 20241112133221.png",
-    "Pasted Images/Pasted image 20241112133205.png",
-    "Pasted Images/Pasted image 20241112133148.png",
-    "Pasted Images/Pasted image 20241112133124.png",
-    "Pasted Images/Pasted image 20241112133107.png",
-    "Pasted Images/Pasted image 20241112133048.png",
-    "Pasted Images/14.png",
-    "Daily Note/24년 11월/2024-11-10.md",
-    "Daily Note/24년 11월/2024-11-09.md",
-    "Daily Note/24년 11월/2024-11-08.md",
-    "Daily Note/24년 11월/2024-11-07.md",
-    "Daily Note/24년 11월/2024-11-02.md",
-    "Daily Note/24년 11월/2024-11-01.md",
-    "Daily Note/24년 11월",
-    "Daily Note/2024-11-19.md",
-    "Daily Note/2024-11-18.md",
-    "Daily Note/2024-11-17.md",
-    "Daily Note/2024-11-16.md",
-    "Daily Note/2024-11-15.md",
-    "Daily Note/2024-11-14.md",
-    "Daily Note/2024-11-13.md",
-    "Daily Note/2024-11-12.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1121 12주차 (13장).md",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/gnu2 - 영찬.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/Gnu Parallel 조사 - 재찬.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU parallel - 영찬.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 조사 - 찬혁.pdf",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf",
-    "3학년 2학기(24-2)/산학프로젝트/과제",
-    "3학년 2학기(24-2)/데이터베이스시스템/과제",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0904.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0902.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
-    "무제 파일.canvas",
-    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
+    "conflict-files-obsidian-git.md"
   ]
 }
