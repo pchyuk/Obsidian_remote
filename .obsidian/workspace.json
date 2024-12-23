@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-20.md",
+                "file": "Daily Note/2024-12-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-20"
+              "title": "2024-12-23"
             }
           }
         ]
@@ -83,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -160,18 +159,34 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-20.md"
+                "file": "Daily Note/2024-12-23.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-20 개요"
+              "title": "2024-12-23 개요"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "f982dc8dd39b8a1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c73e343b2ef065f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 322.5
+    "width": 333.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,6 +206,7 @@
   "active": "7da0800b9b2390fa",
   "lastOpenFiles": [
     "Daily Note/2024-12-20.md",
+    "Daily Note/2024-12-23.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
     "Daily Note/2024-12-18.md",
     "conflict-files-obsidian-git.md"
