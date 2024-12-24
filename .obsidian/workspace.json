@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-23.md",
+                "file": "Daily Note/2024-12-24.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-23"
+              "title": "2024-12-24"
             }
           }
         ]
@@ -74,7 +74,7 @@
             }
           },
           {
-            "id": "6e78be5b8e260f8b",
+            "id": "9a7f00b87e806c88",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -127,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-23.md"
+                "file": "Daily Note/2024-12-24.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-23 개요"
+              "title": "2024-12-24 개요"
             }
           },
           {
@@ -214,14 +214,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "7749b5d763e87982",
   "lastOpenFiles": [
+    "Daily Note/2024-12-23.md",
+    "Daily Note/2024-12-24.md",
     "conflict-files-obsidian-git.md",
     "Daily Note/2024-12-20.md",
     "Daily Note/2024-11-24.md",
     "Daily Note/2024-12-18.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
-    "Daily Note/2024-12-23.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 3차 과제 - 11 ~ 16장 문제 만들기.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
     "Daily Note/2024-12-17.md",
@@ -261,7 +262,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/8. Software Design - Design Patterns.md",
     "Daily Note/2024-12-15.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
-    "3학년 2학기(24-2)/소프트웨어공학/Confidential/2018 소공 홍장의 교수님 기말 족보.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
