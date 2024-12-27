@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "d2a8d996198d1079",
+    "id": "898985a0e4240582",
     "type": "split",
     "children": [
       {
-        "id": "77b90b5b373065b4",
+        "id": "e3ff1412c2449c88",
         "type": "tabs",
         "children": [
           {
-            "id": "7df5cb795038851d",
+            "id": "7749b5d763e87982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2024-12-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-24"
+            }
+          },
+          {
+            "id": "0b39ee62c11849dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,21 +35,22 @@
               "title": "24.11.27 LEVEL-UP 영어캠프 Zoom OT"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "04e866720d257f96",
+    "id": "80a4abd6fd3f71cf",
     "type": "split",
     "children": [
       {
-        "id": "2f9d5464d818bb88",
+        "id": "d29ca9a12797a846",
         "type": "tabs",
         "children": [
           {
-            "id": "de3d94a7f9f3df15",
+            "id": "1ebdb8f1f18f9228",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,12 +62,12 @@
             }
           },
           {
-            "id": "d71462f63b42104c",
+            "id": "6667cea03b8ff8d8",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -64,7 +79,7 @@
             }
           },
           {
-            "id": "f1933b4c72169b55",
+            "id": "e99b9fccb3c22057",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,7 +89,7 @@
             }
           },
           {
-            "id": "5f71dd6f6f060011",
+            "id": "c83fa2c5dbd1df41",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -87,57 +102,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 340.5
   },
   "right": {
-    "id": "2497ba5f713273ec",
+    "id": "9bb18815e223e09e",
     "type": "split",
     "children": [
       {
-        "id": "0c524ee4da23af6e",
+        "id": "c3c16ceba955020d",
         "type": "tabs",
+        "dimension": 50.434027777777786,
         "children": [
           {
-            "id": "d07b149ee0e40489",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "7. Software Design - Modularity의 백링크"
-            }
-          },
-          {
-            "id": "34070d173934a8fe",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "7. Software Design - Modularity의 나가는 링크"
-            }
-          },
-          {
-            "id": "ac8a40da24214e83",
+            "id": "7227c226702a3b4e",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true
               },
               "icon": "lucide-tags",
@@ -145,7 +127,7 @@
             }
           },
           {
-            "id": "7da0800b9b2390fa",
+            "id": "e6744a7ae97f7538",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -155,7 +137,7 @@
             }
           },
           {
-            "id": "ccc2d49ac55e8dba",
+            "id": "2d3d9e61bb58b9ac",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -165,16 +147,60 @@
               "icon": "lucide-list",
               "title": "24.11.27 LEVEL-UP 영어캠프 Zoom OT 개요"
             }
+          },
+          {
+            "id": "da3ad323fcccce14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Note/2024-12-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-10의 백링크"
+            }
+          },
+          {
+            "id": "6dd109154fc4d750",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Note/2024-11-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-26의 나가는 링크"
+            }
+          },
+          {
+            "id": "d2967792561d0210",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
-        "id": "f982dc8dd39b8a1a",
+        "id": "d5aafccbe7424b4c",
         "type": "tabs",
+        "dimension": 49.565972222222214,
         "children": [
           {
-            "id": "2c73e343b2ef065f",
+            "id": "a78d16ccfeedd566",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -187,8 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,38 +223,63 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7df5cb795038851d",
+  "active": "0b39ee62c11849dd",
   "lastOpenFiles": [
+    "Daily Note/2024-12-24.md",
     "Pasted Images/Pasted image 20241227112926.png",
     "Pasted Images/Pasted image 20241227112910.png",
     "Pasted Images/Pasted image 20241227112839.png",
     "Pasted Images/Pasted image 20241227112636.png",
-    "Pasted Images/Pasted image 20241227112546.png",
-    "Pasted Images/Pasted image 20241227112509.png",
-    "Pasted Images/Pasted image 20241227112314.png",
-    "Pasted Images/Pasted image 20241227112156.png",
-    "Pasted Images/Pasted image 20241227112106.png",
-    "Pasted Images/Pasted image 20241227111922.png",
-    "Pasted Images/Pasted image 20241227111618.png",
-    "Daily Note/2024-12-25.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.11.27 LEVEL-UP 영어캠프 Zoom OT.md",
-    "3학년 겨울학기(24-W)/기타",
-    "3학년 겨울학기(24-W)/CSLAB",
-    "3학년 겨울학기(24-W)/졸업작품 준비(Rust)",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반",
     "3학년 겨울학기(24-W)",
-    "Daily Note/2024-12-24.md",
     "Daily Note/2024-12-23.md",
+    "conflict-files-obsidian-git.md",
     "Daily Note/2024-12-20.md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "Daily Note/2024-11-24.md",
     "Daily Note/2024-12-18.md",
-    "conflict-files-obsidian-git.md"
+    "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/PL 3차 과제 - 11 ~ 16장 문제 만들기.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
+    "Daily Note/2024-12-17.md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2024 소공 홍장의 교수님 기말 족보.md",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-12-OtherIssues-Short.pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-11-VeriValidation.pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-11-VeriValidation_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-07-SoftwareDesign-Modularity.pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-07-SoftwareDesign-Modularity_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-10-Inspection-1.pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/번역본 - 기말범위 (파파고+)/2024-12-OtherIssues-Short_ko(translated).pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-08-SoftwareDesign-GoF_Patterns.pdf",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
+    "Daily Note/2024-12-16.md",
+    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1128 13주차 (11장).md",
+    "Pasted Images/Pasted image 20241216052459.png",
+    "Pasted Images/Pasted image 20241216051740.png",
+    "Pasted Images/Pasted image 20241216051145.png",
+    "Pasted Images/Pasted image 20241216050032.png",
+    "Pasted Images/Pasted image 20241216050021.png",
+    "Pasted Images/Pasted image 20241216045938.png",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1121 12주차 (10장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1114 11주차 (9장).md",
+    "3학년 2학기(24-2)/소프트웨어공학/Confidential/2024 소공 홍장의 교수님 중간 족보.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/12. Other Topics on Software Engineering.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/11. Verification and Validation - Software Testing.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/10. Software Inspection & Writing Codes.md",
+    "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/8. Software Design - Design Patterns.md",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
+    "무제 파일.canvas",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
   ]
 }
