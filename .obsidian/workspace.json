@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2024-12-25.md",
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.11.27 Zoom OT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-12-25"
+              "title": "24.11.27 Zoom OT"
             }
           }
         ]
@@ -83,12 +83,12 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2497ba5f713273ec",
@@ -160,10 +160,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Note/2024-12-25.md"
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.11.27 Zoom OT.md"
               },
               "icon": "lucide-list",
-              "title": "2024-12-25 개요"
+              "title": "24.11.27 Zoom OT 개요"
             }
           }
         ],
@@ -187,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 333.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,8 +207,14 @@
   },
   "active": "7df5cb795038851d",
   "lastOpenFiles": [
-    "Daily Note/2024-12-24.md",
     "Daily Note/2024-12-25.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.11.27 Zoom OT.md",
+    "3학년 겨울학기(24-W)/기타",
+    "3학년 겨울학기(24-W)/CSLAB",
+    "3학년 겨울학기(24-W)/졸업작품 준비(Rust)",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반",
+    "3학년 겨울학기(24-W)",
+    "Daily Note/2024-12-24.md",
     "Daily Note/2024-12-23.md",
     "Daily Note/2024-12-20.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
