@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "25.01.01 - 12장"
             }
+          },
+          {
+            "id": "5e00064bea78ee26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust 공부 계획"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +89,7 @@
             }
           },
           {
-            "id": "85b164641233765b",
+            "id": "70771c157ce293a0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -127,10 +142,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md"
+                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md"
               },
               "icon": "lucide-list",
-              "title": "25.01.01 - 12장 개요"
+              "title": "Rust 공부 계획 개요"
             }
           },
           {
@@ -214,10 +229,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "5e00064bea78ee26",
   "lastOpenFiles": [
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
     "Daily Note/24년 12월/2024-12-01.md",
@@ -249,7 +264,6 @@
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
     "Daily Note/24년 12월/2024-12-17.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2024 소공 홍장의 교수님 기말 족보.md",
-    "3학년 2학기(24-2)/소프트웨어공학/강의자료 - 기말범위 필기본/2024-12-OtherIssues-Short.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
