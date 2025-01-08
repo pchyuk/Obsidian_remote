@@ -89,7 +89,7 @@
             }
           },
           {
-            "id": "487f59882eaa5379",
+            "id": "c06d1e6040641b25",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -98,7 +98,8 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -142,10 +143,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md"
               },
               "icon": "lucide-list",
-              "title": "conflict-files-obsidian-git 개요"
+              "title": "Rust 공부 계획 개요"
             }
           },
           {
@@ -229,7 +230,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "5e00064bea78ee26",
   "lastOpenFiles": [
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
     "conflict-files-obsidian-git.md",
