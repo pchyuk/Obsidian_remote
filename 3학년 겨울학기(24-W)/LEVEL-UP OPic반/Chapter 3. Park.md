@@ -1,0 +1,1 @@
+## Q1. What kind of things do you usually do at the park? Who do you go with? Do you like to do some exercise or have a picnic there? Pleases describe your normal day at the park.
