@@ -7,7 +7,7 @@
 
 친구들이랑 볼링친 썰
 
-Yeah, Let me tell you about my memorable experience in my neighborhood. When I meet my friend in near my house
+Yeah, Let me tell you about my memorable experience in my neighborhood. When I meet my friend near my house, 
 
 ---
 ## Q3. Think about your overall living experience now compared to the pase. What has improved, and what do you miss about your previous home?
