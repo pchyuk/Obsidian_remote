@@ -4,4 +4,4 @@
 ## Q2. What do you usually do to prepare before going to the beach? What kind of items do you bring with you, and why are they important?
 ### 일반(준비물) - 날씨!
 
-## Q3. I want
+## Q3. I want to hear about your 
