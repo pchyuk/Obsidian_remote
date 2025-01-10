@@ -4,7 +4,7 @@
 Well, I live in a big apartment. It has four room, but honestly, It's perfect for me right now.
 First of all, you know, my bed, desk, and living room are all in one space. 
 The bed is right next to the window, so I get nice sunlight during the day, which I love.
-Whenever I lay down on my bed, It makes me so cosy and comfortable.
+Whenever I lie down on my bed, I feel incredibly cozy and comfortable.
 And my desk! It's pretty big and wide, so It works for studying or, you know, using my fantastic computer and laptop.
 Secondly, there is a living room with television and a sofa. 
 Honestly, It's not big, but it's enough for get some rest.
