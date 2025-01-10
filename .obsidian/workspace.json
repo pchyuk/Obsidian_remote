@@ -77,7 +77,8 @@
               "title": "Chapter 4. Beach"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -183,10 +184,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.01.10.md"
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md"
               },
               "icon": "lucide-list",
-              "title": "25.01.10 개요"
+              "title": "Chapter 1. House & Neighborhood 개요"
             }
           },
           {
@@ -270,10 +271,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fe64e691b0150c6a",
+  "active": "ab63b07de87a4406",
   "lastOpenFiles": [
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 5. Domestic & International Travel.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.01.10.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 5. Domestic & International Travel.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 4. Beach.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 3. Park.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
