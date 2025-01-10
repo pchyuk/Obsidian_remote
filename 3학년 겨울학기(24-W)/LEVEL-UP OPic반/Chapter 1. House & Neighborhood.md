@@ -1,6 +1,9 @@
 ## Q1. Could you tell me about the place you live in? What does your room or house look like?
 ### 묘사하기 - MP 2개
 
+Well, I live in a big apartment. It has four room, but honestly, It's perfect for me right now.
+First of all, you know, my bed, desk, and living room are all in one space. The bed is right next to the window
+
 ---
 ## Q2. Can you talk about a memorable experience that happened in your neighborhood? What made it so memorable?
 ### 썰 풀기 - 시제 **과거**로 고정
