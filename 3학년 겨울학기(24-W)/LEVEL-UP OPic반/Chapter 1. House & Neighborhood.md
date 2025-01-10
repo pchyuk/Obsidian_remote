@@ -20,7 +20,7 @@ So yeah, this is pretty much about my house.
 Yeah, Let me tell you about my memorable experience in my neighborhood. 
 When I meet my friend near my house, we ususally go to the bowling room.
 My friends are pretty good at playing bowling, so we spent time totally exciting.
-To play more fun, we used to play 
+To play more fun, we used to play with
 
 ---
 ## Q3. Think about your overall living experience now compared to the pase. What has improved, and what do you miss about your previous home?
