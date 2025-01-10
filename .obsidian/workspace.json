@@ -11,9 +11,14 @@
             "id": "fe64e691b0150c6a",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 2. Cafe & Bar & Pub"
             }
           }
         ]
@@ -69,7 +74,7 @@
             }
           },
           {
-            "id": "6904aa5d6cb54f6a",
+            "id": "72801af33558920b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -121,9 +126,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Chapter 2. Cafe & Bar & Pub 개요"
             }
           },
           {
@@ -170,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -209,6 +216,8 @@
   },
   "active": "fe64e691b0150c6a",
   "lastOpenFiles": [
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
@@ -247,8 +256,6 @@
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1107 10주차 -1 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1105 10주차 (7장).md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/1210 15주차 - 2 (12장).md",
-    "Daily Note/24년 12월/2024-12-16.md",
-    "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/7. Software Design - Modularity.md",
     "Pasted Images/Pasted image 20241216052459.png",
     "Pasted Images/Pasted image 20241216051740.png",
     "Pasted Images/Pasted image 20241216051145.png",
