@@ -17,10 +17,16 @@ So yeah, this is pretty much about my house.
 
 친구들이랑 볼링친 썰
 
-Yeah, Let me tell you about my memorable experience in my neighborhood. 
-When I meet my friend near my house, we ususally go to the bowling room.
-My friends are pretty good at playing bowling, so we spent time totally exciting.
-To play more fun, we used to play with
+Okay, Let me tell you about a memorable experience that happened in my neighborhood. 
+Whenever I meet my hometown friends, we often go bowling. 
+My friends are quite good at bowling, so we always have a great time. 
+To make the game a bit more exciting and tense, we usually place a small bet. 
+The person with the lowest score among us has to buy a drink for the person with the highest score.
+
+So, in order not to lose the bet, everyone tries their best to get the highest score possible. 
+One time, I scored the highest among my friends, and my score was a whopping 178! 
+This was my personal best, and thanks to that, I got to enjoy a free drink from a friend. 
+Every time I think of this experience, it brings a smile to my face. That day was truly perfect.
 
 ---
 ## Q3. Think about your overall living experience now compared to the pase. What has improved, and what do you miss about your previous home?
