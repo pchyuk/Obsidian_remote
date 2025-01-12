@@ -23,19 +23,28 @@ As(Like) I said before(earlier/mentioned) ~
 # Script
 ## Q1. You indicated that you like to take your vacation at home. What do you usually do? Why do you like to stay at home? Tell me in detail.
 
-MP(Main Point): 나는 방학 때 우리 집의 나의 방에서 유튜브를 보는 것과, 음악을 듣는 것을 좋아해.
+**MP(Main Point):** 나는 방학 때 우리 집의 나의 방에서 유튜브를 보는 것과, 음악을 듣는 것을 좋아해.
 이 활동들은 내가 아무 생각 없이 편하게 쉴 수 있게 도와줘.
 
-첫 번째로, 나는 쉴 때 주로 책상 앞에 앉아서 컴퓨터로 ITSub, UnderKG와 같은 테크 유튜버들의 영상을 시청해.
+**첫 번째로,** 나는 쉴 때 주로 책상 앞에 앉아서 컴퓨터로 ITSub, UnderKG와 같은 테크 유튜버들의 영상을 시청해.
 그들은 주로 전자기기들을 소개하고 리뷰하는 영상을 제작하는데, 내가 전자기기에 관심이 정말 많기 때문에, 그들의 영상은 나를 매우 흥미롭게 만들어.
 
-두 번째로, 나는 나의 훌륭하고 귀여운 스피커를 통해 음악을 듣는 것을 즐겨.
+**두 번째로,** 나는 나의 훌륭하고 귀여운 스피커를 통해 음악을 듣는 것을 즐겨.
 이전에 말했듯이, 나는 전자기기를 좋아하기 때문에, 이어폰, 헤드폰, 스피커와 같은 컴퓨터용 음향 기기에도 관심이 많아.
 사실, 나의 스피커는 꽤 작지만, 그것의 성능은 결코 부족하지 않아.
 내 스피커의 음질은 상당히 훌륭해서, 내가 그것으로 음악을 들을 때, 그것은 나를 흥분되고 신나게 만들어.
 나는 나의 기분에 따라 다양한 장르의 음악을 듣는데, 다음에 기회가 된다면, 너에게 나의 음악 취향에 대해서도 말해 줄게.
 
 이것이 내가 방학 때 집에서 나만의 휴가를 보내는 방식이야. 꽤 멋있고 재미있을 것 같지 않아?
+
+---
+**Main Point**: During vacations, I love watching YouTube and listening to music in my room at home. These activities help me relax and unwind without any worries.
+
+**Firstly,** when I'm relaxing, I usually sit at my desk and watch videos from tech YouTubers like ITSub and UnderKG on my computer. They mainly create videos introducing and reviewing electronic devices, and since I'm really interested in gadgets, their videos fascinate me.
+
+**Secondly,** I enjoy listening to music through my fantastic and cute speaker. As I mentioned earlier, I love electronic devices, so I'm also interested in computer audio gear like earphones, headphones, and speakers. My speaker is quite small, but its performance is definitely not lacking. The sound quality is excellent, and when I listen to music through it, it makes me feel excited and thrilled. I listen to various genres of music depending on my mood, and next time, I'll tell you about my music preferences if I get the chance.
+
+This is how I spend my personal vacation time at home during breaks. Doesn't it sound pretty cool and fun?
 
 ---
 ## Q2. I would like to hear what you did during your last vacation at home. Describe from the first day to the last day.
@@ -55,6 +64,17 @@ MP: 알았어. 지난 방학때 나의 하루 일상에 대해 말해줄게. 나
 이것이 나의 방학 일상이야. 혹시 더 궁금한 점이 있니?
 
 ---
+**Main Point**: Alright, let me tell you about my daily routine during my last vacation. Each day was pretty similar.
+
+**First,** I start my day by waking up around 8 a.m. and freshening up with a quick shower. This really wakes me up and makes me feel refreshed. After that, I have a simple breakfast, usually a banana, milk, and cereal, and then get ready to start my day at my computer.
+
+**Since** I'm majoring in Computer Science and studying software, I spend most of my day in front of my computer. Last winter, my goal was to solve at least one algorithm problem a day. So, I usually tackled these problems in the morning when I was most focused. I met my goal quite well and even managed to solve problems for 100 consecutive days! My skills improved a lot, and when I think about that time, I feel really proud of myself. I did it!
+
+Of course, since it was vacation, I didn't study all day. As I mentioned earlier, I relaxed by watching YouTube or listening to music. This helped me unwind and feel comfortable.
+
+That's how I spent my days during the break. Anything else you’d like to know?
+
+---
 ## Q3. What's the memorable vacation that you spent at home? Why was it so memorable? Please describe it in detail.
 
 음... 좋아! 집에서 나의 형과 함께한 기억나는 방학에 대해 말해줄게.
@@ -69,3 +89,10 @@ MP: 알았어. 지난 방학때 나의 하루 일상에 대해 말해줄게. 나
 이 대회에서 한국 대표팀이 우승을 차지했는데, 그 순간 정말 소리치고 싶을 만큼 행복했었어!
 
 이것이 내가 집에서 보낸 기억에 남는 방학이야. 아직도 이때만 생각하면 웃음이 나와.
+
+---
+**Main Point**: Alright, let me tell you about a memorable vacation I spent at home with my brother.
+
+I have an older brother who is one year older than me. His name is Chan-ho Park. Seriously! Unfortunately, my brother is not good at baseball. Just kidding! Instead, my brother and I are both interested in baseball, and we enjoy watching baseball games at home. Let me share a story about this. As you know, the Asian Games were held in Hangzhou last summer. The tournament included a baseball event, and the Korean national team participated. We watched almost every game together at home, and we laughed and cried together. The Korean team won the championship in this tournament, and at that moment, we were so happy we could have screamed!
+
+This is the memorable vacation I spent at home. I still smile whenever I think of that time.
