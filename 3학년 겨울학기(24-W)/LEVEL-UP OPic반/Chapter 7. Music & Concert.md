@@ -30,6 +30,7 @@
 
 나는 지금까지 콘서트를 딱 한 번 가봤는데, 그때는 2년 전 봄이었어.
 
+
 ---
 ## Q2. When and where do you like to listen to music? Explain all the ways that you like to music.
 
