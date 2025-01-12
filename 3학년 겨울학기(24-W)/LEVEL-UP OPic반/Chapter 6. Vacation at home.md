@@ -1,4 +1,4 @@
-# 요약 정리
+# 수업 내용 정리
 ## 비교하기 - 현재완료!
 ### 시작할 때
 - When it comes to ~
@@ -12,12 +12,12 @@
 
 ---
 ## 스크립트 필기본
-치트키: In my --- time ~
-ex) In my vacation time at home ~
+- 치트키: In my --- time ~
+	- ex) In my vacation time at home ~
 
-As(Like) I said before(earlier/mentioned) ~
+- As(Like) I said before(earlier/mentioned) ~
 
-영화 관련 추천: 1. 쥬라기 공원 / 2. 어벤져스 / 3. 해리포터
+- 영화 관련 추천: 1. 쥬라기 공원 / 2. 어벤져스 / 3. 해리포터
 
 ---
 # Script
@@ -90,7 +90,7 @@ That's how I spent my days during the break. Anything else you’d like to know?
 ---
 ## Q3. What's the memorable vacation that you spent at home? Why was it so memorable? Please describe it in detail.
 
-음... 좋아! 집에서 나의 형과 함께한 기억나는 방학에 대해 말해줄게.
+MP: 음... 좋아! 집에서 나의 형과 함께한 기억나는 방학에 대해 말해줄게.
 
 나에게는 나보다 1살 많은 형이 있어. 그의 이름은 박찬호야. 진짜로!
 안타깝게도 우리 형은 야구를 잘 하지 못해. 농담이야!

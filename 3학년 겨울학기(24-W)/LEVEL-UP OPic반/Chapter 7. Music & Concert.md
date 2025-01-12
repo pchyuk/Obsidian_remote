@@ -1,3 +1,9 @@
+# 수업 내용 정리
+- 질문에 현재 완료가 사
+
+
+---
+# Script
 ## Q1. Can you tell me about the most memorable concert you've attended? What was the event like, and why was it so special to you? Please describe the experience in detail.
 
 ---
