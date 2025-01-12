@@ -63,6 +63,13 @@
 10년 전쯤의 과거의 나는, k-pop 노래, 특히나 여자 아이돌 그룹의 노래에 미쳐 있었어.
 좋아하던 그룹도 다양해서, 나는 그들의 앨범을 사 모으곤 했고, 음원 파일도 다운로드 받아 소장하고 다녔지.
 그들의 노래는 신나고 활기찼으며, 언제나 나에게 에너지를 주었어.
+젊음의 열정이 나에게 그대로 느껴지는 듯 했어.
+
+요즘의 나는, 비슷하지만 조금 달라. 나는 요즘 주로 밴드 가수의 노래를 즐겨 들어.
+그들의 노래는 뭔가 강렬하고 힘이 넘쳐. 이것은 나의 심장을 뛰게 만들어.
+사실, 내 노래 취향의 변화의 이유가 있어. 
+
+
 
 ---
 ## Q4. How were concerts in the past different from concerts today? What has changed, and how do you feel about these changes? Please explain in detail.
