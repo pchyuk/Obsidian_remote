@@ -49,7 +49,14 @@
 그 순간만큼은, 어떠한 생각과 고민 없이 온전히 음악에만 집중할 수 있어. 나는 이 시간을 정말 좋아해.
 
 또 뭐가 있을까... 맞아, 나는 버스에서 음악을 듣는 것도 좋아해.
-나는 주로 학교에 가거나 어
+나는 주로 학교에 가거나 아르바이트에 갈 때, 또는 친구들이나 놀러갈 때 대중교통을 이용하는데, 이동시간이 꽤 걸려.
+특히 학교에 갈 때는, 집에서 학교까지 약 1시간 정도 걸리는데, 나는 주로 이 시간에 무선 블루투스 이어폰으로 음악을 들어.
+앞서 말했듯이 나는 음악 듣는 것을 상당히 좋아하기 때문에, 버스를 타고 학교를 가는 이 시간이 그리 나쁘지 않아. 사실, 이 시간을 꽤나 즐기는 것 같아!
+
+이것이 내가 음악을 즐기는 방식이야. 이것들은 나의 하루를 조금 더 즐겁게 만들어.
 
 ---
 ## Q3. What kind of music did you listen to in the past? How is it different from the music that you listen to nowadays? How has it changed over the dacades?
+
+---
+## Q4. How were concerts in the past different from concerts today? What has changed
