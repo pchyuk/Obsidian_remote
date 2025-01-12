@@ -40,9 +40,11 @@ MP(Main Point): 나는 방학 때 우리 집의 나의 방에서 유튜브를 �
 ---
 ## Q2. I would like to hear what you did during your last vacation at home. Describe from the first day to the last day.
 
-알았어. 지난 방학때 나의 하루 일상에 대해 말해줄게.
+알았어. 지난 방학때 나의 하루 일상에 대해 말해줄게. 나는 매일매일 거의 비슷한 하루를 보냈었어.
 
 우선, 나는 아침 8시 정도에 일어나서 머리를 감고 간단히 씻는 것으로 하루를 시작해.
+이것은 나를 매우 상쾌하게 만들고, 확실히 잠에서 깰 수 있게 도와줘.
+이후 아침을 먹
 
 ---
 ## Q3. What's the memorable vacation that you spent at home? Why was it so memorable? Please describe it in detail.
