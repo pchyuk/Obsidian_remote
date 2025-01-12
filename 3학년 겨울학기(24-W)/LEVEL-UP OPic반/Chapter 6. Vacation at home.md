@@ -38,11 +38,16 @@ As(Like) I said before(earlier/mentioned) ~
 이것이 내가 방학 때 집에서 나만의 휴가를 보내는 방식이야. 꽤 멋있고 재미있을 것 같지 않아?
 
 ---
-**Main Point**: During vacations, I love watching YouTube and listening to music in my room at home. These activities help me relax and unwind without any worries.
+**Main Point**: During vacations, I love watching YouTube and listening to music in my room at home.
+These activities help me relax and unwind without any worries.
 
 **Firstly,** when I'm relaxing, I usually sit at my desk and watch videos from tech YouTubers like ITSub and UnderKG on my computer. They mainly create videos introducing and reviewing electronic devices, and since I'm really interested in gadgets, their videos fascinate me.
 
-**Secondly,** I enjoy listening to music through my fantastic and cute speaker. As I mentioned earlier, I love electronic devices, so I'm also interested in computer audio gear like earphones, headphones, and speakers. My speaker is quite small, but its performance is definitely not lacking. The sound quality is excellent, and when I listen to music through it, it makes me feel excited and thrilled. I listen to various genres of music depending on my mood, and next time, I'll tell you about my music preferences if I get the chance.
+**Secondly,** I enjoy listening to music through my fantastic and cute speaker. 
+As I mentioned earlier, I love electronic devices, so I'm also interested in computer audio gear like earphones, headphones, and speakers. 
+My speaker is quite small, but its performance is definitely not lacking. 
+The sound quality is excellent, and when I listen to music through it, it makes me feel excited and thrilled. 
+I listen to various genres of music depending on my mood, and next time, I'll tell you about my music preferences if I get the chance.
 
 This is how I spend my personal vacation time at home during breaks. Doesn't it sound pretty cool and fun?
 
@@ -66,11 +71,19 @@ MP: 알았어. 지난 방학때 나의 하루 일상에 대해 말해줄게. 나
 ---
 **Main Point**: Alright, let me tell you about my daily routine during my last vacation. Each day was pretty similar.
 
-**First,** I start my day by waking up around 8 a.m. and freshening up with a quick shower. This really wakes me up and makes me feel refreshed. After that, I have a simple breakfast, usually a banana, milk, and cereal, and then get ready to start my day at my computer.
+**First,** I start my day by waking up around 8 a.m. and freshening up with a quick shower. 
+This really wakes me up and makes me feel refreshed. 
+After that, I have a simple breakfast, usually a banana, milk, and cereal, and then get ready to start my day at my computer.
 
-**Since** I'm majoring in Computer Science and studying software, I spend most of my day in front of my computer. Last winter, my goal was to solve at least one algorithm problem a day. So, I usually tackled these problems in the morning when I was most focused. I met my goal quite well and even managed to solve problems for 100 consecutive days! My skills improved a lot, and when I think about that time, I feel really proud of myself. I did it!
+**Since** I'm majoring in Computer Science and studying software, I spend most of my day in front of my computer. 
+Last winter, my goal was to solve at least one algorithm problem a day. 
+So, I usually tackled these problems in the morning when I was most focused. 
+I met my goal quite well and even managed to solve problems for 100 consecutive days! 
+My skills improved a lot, and when I think about that time, I feel really proud of myself. I did it!
 
-Of course, since it was vacation, I didn't study all day. As I mentioned earlier, I relaxed by watching YouTube or listening to music. This helped me unwind and feel comfortable.
+Of course, since it was vacation, I didn't study all day. 
+As I mentioned earlier, I relaxed by watching YouTube or listening to music. 
+This helped me unwind and feel comfortable.
 
 That's how I spent my days during the break. Anything else you’d like to know?
 
@@ -93,6 +106,13 @@ That's how I spent my days during the break. Anything else you’d like to know?
 ---
 **Main Point**: Alright, let me tell you about a memorable vacation I spent at home with my brother.
 
-I have an older brother who is one year older than me. His name is Chan-ho Park. Seriously! Unfortunately, my brother is not good at baseball. Just kidding! Instead, my brother and I are both interested in baseball, and we enjoy watching baseball games at home. Let me share a story about this. As you know, the Asian Games were held in Hangzhou last summer. The tournament included a baseball event, and the Korean national team participated. We watched almost every game together at home, and we laughed and cried together. The Korean team won the championship in this tournament, and at that moment, we were so happy we could have screamed!
+I have an older brother who is one year older than me. His name is Chan-ho Park. Seriously! 
+Unfortunately, my brother is not good at baseball. Just kidding! 
+Instead, my brother and I are both interested in baseball, and we enjoy watching baseball games at home. 
+Let me share a story about this. 
+As you know, the Asian Games were held in Hangzhou last summer. 
+The tournament included a baseball event, and the Korean national team participated. 
+We watched almost every game together at home, and we laughed and cried together. 
+The Korean team won the championship in this tournament, and at that moment, we were so happy we could have screamed!
 
 This is the memorable vacation I spent at home. I still smile whenever I think of that time.
