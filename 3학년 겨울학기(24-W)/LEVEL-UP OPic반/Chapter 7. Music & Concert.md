@@ -31,7 +31,7 @@
 나는 지금까지 콘서트를 딱 한 번 가봤는데, 그때는 2년 전 봄이었어.
 나는 3명의 친구들과 함께 서울로 가수 볼빨간 사춘기(BOL4)의 콘서트를 보러 갔었어.
 그녀는 한국에서 꽤 유명한 밴드 가수야.
-나는 평소에도 그녀의 노래를 즐겨 들었는데, 
+나는 평소에도 그녀의 노래를 즐겨 들었는데, 그녀의 노래는 나를 기쁘게 만들어.
 
 ---
 ## Q2. When and where do you like to listen to music? Explain all the ways that you like to music.
