@@ -43,9 +43,15 @@
 ---
 **Main Point**: Let me tell you about the only concert I've ever been to, which was two years ago in the spring.
 
-I went to Seoul with three of my friends to see the singer Bolbbalgan4 (BOL4). She is quite a famous band singer in Korea. I usually enjoy listening to her songs because they sometimes make me excited and other times comfort me. When I first saw the concert hall, I was amazed by the grandeur of the stage setup. Once the concert started, I was even more blown away by the live atmosphere. I couldn't believe I had been missing out on something so fun and exciting!
+I went to Seoul with three of my friends to see the singer Bolbbalgan4 (BOL4). 
+She is quite a famous band singer in Korea. 
+I usually enjoy listening to her songs because they sometimes make me excited and other times comfort me. 
+When I first saw the concert hall, I was amazed by the grandeur of the stage setup. 
+Once the concert started, I was even more blown away by the live atmosphere. 
+I couldn't believe I had been missing out on something so fun and exciting!
 
-The concert's atmosphere, the mood of the day, and the memories with my friends – everything about that day was perfect. I was deeply impressed and vowed to attend more concerts in the future.
+The concert's atmosphere, the mood of the day, and the memories with my friends – everything about that day was perfect. 
+I was deeply impressed and vowed to attend more concerts in the future.
 
 That day is one of the happiest and most unforgettable moments in my life. I still smile whenever I think about it.
 
@@ -69,9 +75,15 @@ That day is one of the happiest and most unforgettable moments in my life. I sti
 ---
 **Main Point**: I usually listen to music when I'm relaxing in my room and while I'm traveling on the bus.
 
-**First of all**, I love listening to music in my room with my computer and speakers. Being able to enjoy my favorite music in my own space without any interruptions is truly amazing, don't you think? When I'm sitting in my chair or lying on my bed, feeling comfortable and listening to music, it helps me relieve stress and makes me feel like I have the whole world. In that moment, I can fully focus on the music without any worries or concerns. I really cherish this time.
+**First of all**, I love listening to music in my room with my computer and speakers. 
+Being able to enjoy my favorite music in my own space without any interruptions is truly amazing, don't you think? When I'm sitting in my chair or lying on my bed, feeling comfortable and listening to music, it helps me relieve stress and makes me feel like I have the whole world. 
+In that moment, I can fully focus on the music without any worries or concerns. I really cherish this time.
 
-**What else...** Oh right, I also enjoy listening to music on the bus. I usually take public transportation when I'm going to school, my part-time job, or hanging out with friends, and the travel time can be quite long. Especially when going to school, it takes about an hour from home to campus, and during this time, I listen to music with my wireless Bluetooth earphones. As I mentioned earlier, I really enjoy listening to music, so the time spent on the bus isn't too bad. In fact, I quite enjoy it!
+**What else...** Oh right, I also enjoy listening to music on the bus. 
+I usually take public transportation when I'm going to school, my part-time job, or hanging out with friends, and the travel time can be quite long. 
+Especially when going to school, it takes about an hour from home to campus, and during this time, I listen to music with my wireless Bluetooth earphones. 
+As I mentioned earlier, I really enjoy listening to music, so the time spent on the bus isn't too bad. 
+In fact, I quite enjoy it!
 
 This is how I enjoy music. These activities make my day a bit more enjoyable.
 
@@ -93,7 +105,19 @@ This is how I enjoy music. These activities make my day a bit more enjoyable.
 나는 음악으로부터 정말 많은 힘을 얻어. 음악은 정말 큰 힘을 가지고 있어.
 
 ---
-## Q4. How were concerts in the past different from concerts today? What has changed, and how do you feel about these changes? Please explain in detail.
+**Main Point**: About ten years ago, I was obsessed with K-pop songs, especially those by girl idol groups.
 
-음.. 좋아. 과거의 콘서트와 현재의 콘서트를 비교해 줄게.
+I liked a variety of groups, so I used to buy their albums and download their songs to keep. 
+Their songs were upbeat and energetic, always giving me a boost of energy. 
+It felt like I could feel the youthful passion directly from them.
+
+Nowadays, my taste is similar but a bit different. I mostly enjoy listening to band music now. 
+Their songs are intense and powerful, which really gets my heart racing. 
+Actually, there's a reason for this change in my music taste. Someone I liked was really into band music. 
+I started listening to it to have something in common with that person, and now it has become my own preference. 
+The power of love is truly strong and a bit scary, don't you think? It can change a person's taste to such an extent.
+
+Music has had a huge impact on me. 
+While I still enjoy the music I used to listen to, I think I prefer the music I listen to now. 
+It gives me a lot of strength. Music really does have great power.
 
