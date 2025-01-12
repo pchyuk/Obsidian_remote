@@ -104,7 +104,7 @@ That's how I spent my days during the break. Anything else you’d like to know?
 이것이 내가 집에서 보낸 기억에 남는 방학이야. 아직도 이때만 생각하면 웃음이 나와.
 
 ---
-**Main Point**: Alright, let me tell you about a memorable vacation I spent at home with my brother.
+**Main Point**: Okay, I wanna tell you about a memorable vacation I spent at home with my brother.
 
 I have an older brother who is one year older than me. His name is Chan-ho Park. Seriously! 
 Unfortunately, my brother is not good at baseball. Just kidding! 
