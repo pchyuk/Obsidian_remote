@@ -22,10 +22,13 @@ As(Like) I said before(earlier/mentioned) ~
 ---
 # Script
 ## Q1. You indicated that you like to take your vacation at home. What do you usually do? Why do you like to stay at home? Tell me in detail.
-MP(Main Point): 나는 집에서 유튜브를 보는 것과, 음악을 듣는 것을 좋아해.
+MP(Main Point): 나는 나의 방에서 유튜브를 보는 것과, 음악을 듣는 것을 좋아해.
 이 활동들은 내가 아무 생각 없이 편하게 쉴 수 있게 도와줘.
 
-첫 번째로, 나는 쉴 때 주로 책상 앞에 앉아서 컴퓨터로 ItSub, UnderK
+첫 번째로, 나는 쉴 때 주로 책상 앞에 앉아서 컴퓨터로 ITSub, UnderKG와 같은 테크 유튜버들의 영상을 시청해.
+그들은 주로 전자기기들을 소개하고 리뷰하는 영상을 제작하는데, 내가 전자기기에 관심이 정말 많기 때문에, 그들의 영상은 나를 매우 흥미롭게 만들어.
+
+두 번째로, 
 
 ---
 ## Q2. I would like to hear what you did during your last vacation at home. Describe from the first day to the last day.
