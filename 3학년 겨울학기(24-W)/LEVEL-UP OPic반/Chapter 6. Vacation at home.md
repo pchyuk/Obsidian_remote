@@ -22,6 +22,7 @@ As(Like) I said before(earlier/mentioned) ~
 ---
 # Script
 ## Q1. You indicated that you like to take your vacation at home. What do you usually do? Why do you like to stay at home? Tell me in detail.
+
 MP(Main Point): 나는 방학 때 우리 집의 나의 방에서 유튜브를 보는 것과, 음악을 듣는 것을 좋아해.
 이 활동들은 내가 아무 생각 없이 편하게 쉴 수 있게 도와줘.
 
@@ -34,11 +35,16 @@ MP(Main Point): 나는 방학 때 우리 집의 나의 방에서 유튜브를 �
 내 스피커의 음질은 상당히 훌륭해서, 내가 그것으로 음악을 들을 때, 그것은 나를 흥분되고 신나게 만들어.
 나는 나의 기분에 따라 다양한 장르의 음악을 듣는데, 다음에 기회가 된다면, 너에게 나의 음악 취향에 대해서도 말해 줄게.
 
-이것이 내가 방학 때 집에서 나만의 휴가를 보내는 방식이야. 꽤 멋있고 재미 않아?
-
+이것이 내가 방학 때 집에서 나만의 휴가를 보내는 방식이야. 꽤 멋있고 재미있을 것 같지 않아?
 
 ---
 ## Q2. I would like to hear what you did during your last vacation at home. Describe from the first day to the last day.
 
+
 ---
 ## Q3. What's the memorable vacation that you spent at home? Why was it so memorable? Please describe it in detail.
+
+음... 좋아. 집에서 나의 형과 함께한 기억나는 방학에 대해 말해줄게.
+
+나에게는 나보다 1살 많은 형이 있어. 그의 이름은 박찬호야. 진짜로.
+안타깝게도 우리 형은 야구를 잘 하지 못해.
