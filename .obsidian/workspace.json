@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -151,10 +151,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md"
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md"
               },
               "icon": "lucide-list",
-              "title": "Chapter 7. Music & Concert 개요"
+              "title": "Chapter 6. Vacation at home 개요"
             }
           },
           {
@@ -239,10 +239,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f65f67ceefa8faf7",
+  "active": "a239cf9bf2284c16",
   "lastOpenFiles": [
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
     "conflict-files-obsidian-git.md",
     "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디/25.01.08(수) 첫 스터디.md",
