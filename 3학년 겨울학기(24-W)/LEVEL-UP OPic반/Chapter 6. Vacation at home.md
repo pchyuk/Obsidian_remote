@@ -44,7 +44,9 @@ MP(Main Point): 나는 방학 때 우리 집의 나의 방에서 유튜브를 �
 
 우선, 나는 아침 8시 정도에 일어나서 머리를 감고 간단히 씻는 것으로 하루를 시작해.
 이것은 나를 매우 상쾌하게 만들고, 확실히 잠에서 깰 수 있게 도와줘.
-이후 아침을 먹
+이후 바나나와 우유, 시리얼 등의 간단한 아침을 먹고, 컴퓨터 앞에 앉아서 본격적으로 하루를 시작할 준비를 해.
+내 전공은 Computer Science이고, 소프트웨어에 대해 공부하고 있기 때문에 하루 중 대부분의 시간을 컴퓨터와 함께 보내.
+지난 겨울 나의 목표는 알고리즘 문제를 하루에 최소 한 문제를 푸는 것이었기 때문에, 
 
 ---
 ## Q3. What's the memorable vacation that you spent at home? Why was it so memorable? Please describe it in detail.
