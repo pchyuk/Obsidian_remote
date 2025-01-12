@@ -41,7 +41,7 @@
 지금도 그 날만 생각하면 입가에 미소가 지어져.
 
 ---
-**Main Point**: Let me tell you about the only concert I've ever been to, which was two years ago in the spring.
+**Main Point**: Okay, Let me tell you about the only concert I've ever been to, which was two years ago in the spring.
 
 I went to Seoul with three of my friends to see the singer Bolbbalgan4 (BOL4). 
 She is quite a famous band singer in Korea. 
