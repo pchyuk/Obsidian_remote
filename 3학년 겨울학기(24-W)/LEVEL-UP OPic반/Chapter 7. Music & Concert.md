@@ -41,6 +41,15 @@
 지금도 그 날만 생각하면 입가에 미소가 지어져.
 
 ---
+**Main Point**: Let me tell you about the only concert I've ever been to, which was two years ago in the spring.
+
+I went to Seoul with three of my friends to see the singer Bolbbalgan4 (BOL4). She is quite a famous band singer in Korea. I usually enjoy listening to her songs because they sometimes make me excited and other times comfort me. When I first saw the concert hall, I was amazed by the grandeur of the stage setup. Once the concert started, I was even more blown away by the live atmosphere. I couldn't believe I had been missing out on something so fun and exciting!
+
+The concert's atmosphere, the mood of the day, and the memories with my friends – everything about that day was perfect. I was deeply impressed and vowed to attend more concerts in the future.
+
+That day is one of the happiest and most unforgettable moments in my life. I still smile whenever I think about it.
+
+---
 ## Q2. When and where do you like to listen to music? Explain all the ways that you like to music.
 
 **MP:** 나는 보통 나의 방에서 쉴 때와, 버스를 타고 어딘가 이동하는 동안에 음악을 들어.
@@ -58,6 +67,15 @@
 이것이 내가 음악을 즐기는 방식이야. 이것들은 나의 하루를 조금 더 즐겁게 만들어.
 
 ---
+**Main Point**: I usually listen to music when I'm relaxing in my room and while I'm traveling on the bus.
+
+**First of all**, I love listening to music in my room with my computer and speakers. Being able to enjoy my favorite music in my own space without any interruptions is truly amazing, don't you think? When I'm sitting in my chair or lying on my bed, feeling comfortable and listening to music, it helps me relieve stress and makes me feel like I have the whole world. In that moment, I can fully focus on the music without any worries or concerns. I really cherish this time.
+
+**What else...** Oh right, I also enjoy listening to music on the bus. I usually take public transportation when I'm going to school, my part-time job, or hanging out with friends, and the travel time can be quite long. Especially when going to school, it takes about an hour from home to campus, and during this time, I listen to music with my wireless Bluetooth earphones. As I mentioned earlier, I really enjoy listening to music, so the time spent on the bus isn't too bad. In fact, I quite enjoy it!
+
+This is how I enjoy music. These activities make my day a bit more enjoyable.
+
+---
 ## Q3. What kind of music did you listen to in the past? How is it different from the music that you listen to nowadays? How has it changed over the dacades?
 
 10년 전쯤의 과거의 나는, k-pop 노래, 특히나 여자 아이돌 그룹의 노래에 미쳐 있었어.
@@ -72,9 +90,10 @@
 사랑의 힘은 정말 강력하면서도 무서워. 사람의 취향을 바꿀 정도니까 말이야. 그렇지 않아?
 
 음악은 나에게 정말 많은 영향을 주었어. 나는 과거에 듣던 음악도 좋지만, 현재의 음악이 더 좋은 것 같아.
-나는 음악으로부터
-
-
+나는 음악으로부터 정말 많은 힘을 얻어. 음악은 정말 큰 힘을 가지고 있어.
 
 ---
 ## Q4. How were concerts in the past different from concerts today? What has changed, and how do you feel about these changes? Please explain in detail.
+
+음.. 좋아. 과거의 콘서트와 현재의 콘서트를 비교해 줄게.
+
