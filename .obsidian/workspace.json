@@ -8,58 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c55b3d1d9b70b584",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "f65f67ceefa8faf7",
+            "id": "620602d651b18b99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
+                "file": "Daily Note/2025-01-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 7. Music & Concert"
-            }
-          },
-          {
-            "id": "4f58f21a7c259d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Rust 공부 계획"
-            }
-          },
-          {
-            "id": "a239cf9bf2284c16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6. Vacation at home"
+              "title": "2025-01-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,8 +83,7 @@
               "title": "Spaces"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -166,10 +127,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md"
+                "file": "Daily Note/2025-01-16.md"
               },
               "icon": "lucide-list",
-              "title": "Rust 공부 계획 개요"
+              "title": "2025-01-16 개요"
             }
           },
           {
@@ -253,9 +214,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f58f21a7c259d0d",
+  "active": "620602d651b18b99",
   "lastOpenFiles": [
+    "Daily Note/2025-01-16.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
+    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
     "conflict-files-obsidian-git.md",
@@ -266,7 +229,6 @@
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 3. Park.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.01.10.md",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
@@ -294,7 +256,6 @@
     "Daily Note/24년 12월/2024-12-18.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 3차 과제 - 11 ~ 16장 문제 만들기.md",
-    "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 시험 대비 준비.md",
     "Pasted Images/Pasted image 20241216052459.png",
     "Pasted Images/Pasted image 20241216051740.png",
     "Pasted Images/Pasted image 20241216051145.png",
