@@ -31,6 +31,18 @@
             }
           },
           {
+            "id": "f176103474d8da3d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
+          },
+          {
             "id": "a239cf9bf2284c16",
             "type": "leaf",
             "state": {
@@ -45,7 +57,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -94,11 +106,11 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
-            "id": "5e17a1c3135f033e",
+            "id": "5d2acda7aec60b72",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,10 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 겨울학기(24-W)/CSLAB/25.2.4 랩미팅 준비.md"
+                "file": "3학년 겨울학기(24-W)/CSLAB/25.2.4 랩미팅 준비.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "25.2.4 랩미팅 준비 개요"
+              "title": "25.2.4 랩미팅 준비 의 개요"
             }
           },
           {
@@ -228,11 +243,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "widgets:Add widget": false,
-      "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "obsidian-kanban:새 보드 만들기": false,
@@ -241,7 +256,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f65f67ceefa8faf7",
+  "active": "f176103474d8da3d",
   "lastOpenFiles": [
     "Pasted Images/Pasted image 20250204115354.png",
     "3학년 겨울학기(24-W)/CSLAB/CSC 2025 교통편.md",
