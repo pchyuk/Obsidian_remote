@@ -1,53 +1,69 @@
 {
   "main": {
-    "id": "898985a0e4240582",
+    "id": "c8d49781240f4084",
     "type": "split",
     "children": [
       {
-        "id": "748924f0bd93399b",
+        "id": "b1a346142c4bbfd6",
         "type": "tabs",
         "children": [
           {
-            "id": "287eb367ad13bcbf",
+            "id": "7fda7df88492da68",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "562d25063685f319",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "80a4abd6fd3f71cf",
+    "id": "15013c71b5041922",
     "type": "split",
     "children": [
       {
-        "id": "d29ca9a12797a846",
+        "id": "a313f76a113c9b33",
         "type": "tabs",
         "children": [
           {
-            "id": "1ebdb8f1f18f9228",
+            "id": "adef4be9378f2812",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
             }
           },
           {
-            "id": "6667cea03b8ff8d8",
+            "id": "576d88ac54686875",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": " ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -59,17 +75,17 @@
             }
           },
           {
-            "id": "e99b9fccb3c22057",
+            "id": "91999d2e82ac4584",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
-            "id": "98611d33d315c8c7",
+            "id": "6161e53d008d875b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -78,61 +94,28 @@
               "title": "Spaces"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 300
   },
   "right": {
-    "id": "9bb18815e223e09e",
+    "id": "6b7cca9b28c7fdef",
     "type": "split",
     "children": [
       {
-        "id": "c3c16ceba955020d",
+        "id": "dc2e4da81c2341d7",
         "type": "tabs",
-        "dimension": 50.434027777777786,
         "children": [
           {
-            "id": "7227c226702a3b4e",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "alphabetical",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "e6744a7ae97f7538",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
-          },
-          {
-            "id": "2d3d9e61bb58b9ac",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {},
-              "icon": "lucide-list",
-              "title": "개요"
-            }
-          },
-          {
-            "id": "da3ad323fcccce14",
+            "id": "cbb369df15870557",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Note/2024-12-10.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,43 +125,65 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-12-10의 백링크"
+              "title": "conflict-files-obsidian-git 의 백링크"
             }
           },
           {
-            "id": "6dd109154fc4d750",
+            "id": "b3b96428b15eae80",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Note/2024-11-26.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2024-11-26의 나가는 링크"
+              "title": "conflict-files-obsidian-git 의 나가는 링크"
             }
           },
           {
-            "id": "d2967792561d0210",
+            "id": "b17a656d3cf8789e",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "d5aafccbe7424b4c",
-        "type": "tabs",
-        "dimension": 49.565972222222214,
-        "children": [
+          },
           {
-            "id": "a78d16ccfeedd566",
+            "id": "e4ce047d569b0b32",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "followCursor": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "conflict-files-obsidian-git 의 개요"
+            }
+          },
+          {
+            "id": "1c2368cfa33c7eb3",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "7f36446f2f7f0f26",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -191,73 +196,30 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 332.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "287eb367ad13bcbf",
+  "active": "562d25063685f319",
   "lastOpenFiles": [
-    "Daily Note/2025-01-22.md",
     "conflict-files-obsidian-git.md",
-    "Pasted Images/횡계-원주.png",
-    "Pasted Images/황계-원주.png",
-    "Pasted Images/청주-강릉.png",
-    "Pasted Images/강릉-횡계.png",
-    "Pasted Images/Pasted image 20250204115354.png",
-    "Pasted Images/Pasted image 20250130163655.png",
-    "Pasted Images/Pasted image 20250130162352.png",
-    "Pasted Images/Pasted image 20250130161923.png",
-    "Pasted Images/Pasted image 20250130160742.png",
-    "Pasted Images/Pasted image 20250130160116.png",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025 교통편.md",
-    "3학년 겨울학기(24-W)/CSLAB/25.2.4 랩미팅 준비.md",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025/CSC2025_Proceedings.pdf",
+    "3학년 2학기(24-2)/기타/24.11.07 CUVIC 대학원 연구실 설명.md",
     "3학년 겨울학기(24-W)/CSLAB/CSC 2025/1일차 (25.2.10).md",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025/CSC2025_우대권.pdf",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.20.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.12.27 LEVEL-UP 영어캠프 Zoom OT.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.17.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.10.md",
-    "Daily Note/2025-01-16.md",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
-    "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디/25.01.08(수) 첫 스터디.md",
-    "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 5. Domestic & International Travel.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 4. Beach.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 3. Park.md",
-    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
-    "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
-    "Daily Note/24년 12월/2024-12-01.md",
-    "Daily Note/25년 1월",
-    "Daily Note/24년 12월/2024-12-04.md",
-    "Daily Note/24년 12월",
-    "Daily Note/24년 12월/2024-12-24.md",
-    "Daily Note/24년 12월/2024-12-30.md",
-    "3학년 겨울학기(24-W)/CSLAB/기타",
-    "3학년 겨울학기(24-W)/CSLAB/KCC 2024 논문",
-    "3학년 겨울학기(24-W)/CSLAB/RHCSA",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
-    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
-    "무제 파일.canvas",
-    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
+    "Daily Note/2025-02-10.md",
+    "3학년 겨울학기(24-W)/CSLAB/CSC 2025/CSC2025_Proceedings.pdf",
+    "3학년 겨울학기(24-W)/CSLAB/25.2.4 랩미팅 준비.md",
+    "3학년 겨울학기(24-W)/CSLAB/RHCSA/24.12.30.md"
   ]
 }
