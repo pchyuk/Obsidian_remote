@@ -15,21 +15,8 @@
               "state": {},
               "title": "New tab"
             }
-          },
-          {
-            "id": "06802ac0435c39b0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.8.9"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.9"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,8 +79,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -227,7 +213,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "06802ac0435c39b0",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily Note/2025-02-10.md",
