@@ -15,8 +15,21 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "06802ac0435c39b0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +83,7 @@
             }
           },
           {
-            "id": "a1a32cd83a9b5e66",
+            "id": "6e9be88070c305c5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +92,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,14 +221,13 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-kanban:새 보드 만들기": false,
       "obsidian-git:Open Git source control": false,
       "widgets:Add widget": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2a35d12007a7631f",
+  "active": "06802ac0435c39b0",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily Note/2025-02-10.md",
