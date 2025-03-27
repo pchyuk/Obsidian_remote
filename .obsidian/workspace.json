@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5956f0bd97e18253",
+        "id": "92bd02cf1cc4d3cd",
         "type": "tabs",
         "children": [
           {
-            "id": "2a35d12007a7631f",
+            "id": "16888d1b6d14961a",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "title": "새 탭"
             }
           }
         ]
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "7b9626d11c5fe61d",
+            "id": "4cccd9f4ababeccd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -80,8 +80,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,6 +215,7 @@
   },
   "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디/25.01.08(수) 첫 스터디.md",
     "Tags",
     "conflict-files-obsidian-git.md",
     "Daily Note/2025-02-10.md",
@@ -245,7 +245,6 @@
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/24.12.27 LEVEL-UP 영어캠프 Zoom OT.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
-    "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디/25.01.08(수) 첫 스터디.md",
     "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 5. Domestic & International Travel.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 4. Beach.md",
@@ -261,7 +260,6 @@
     "3학년 겨울학기(24-W)/CSLAB/KCC 2024 논문",
     "3학년 겨울학기(24-W)/CSLAB/RHCSA",
     "3학년 겨울학기(24-W)/CSLAB",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
