@@ -13,7 +13,8 @@
             "state": {
               "type": "beautitab-react-view",
               "state": {},
-              "title": "New tab"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -70,7 +71,7 @@
             }
           },
           {
-            "id": "6e9be88070c305c5",
+            "id": "7b9626d11c5fe61d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +80,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,14 +209,14 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "Tags",
     "conflict-files-obsidian-git.md",
     "Daily Note/2025-02-10.md",
     "Daily Note/2025-01-22.md",
@@ -253,7 +255,6 @@
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
     "Daily Note/25년 1월",
     "Daily Note/24년 12월",
     "3학년 겨울학기(24-W)/CSLAB/기타",
