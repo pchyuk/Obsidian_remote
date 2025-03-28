@@ -79,8 +79,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -214,7 +213,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8876c3c62ec29ac7",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/3. Software Process & Its Models.md",
     "3학년 2학기(24-2)/소프트웨어공학/GPT 요약본/7. Software Design - Modularity.md",
