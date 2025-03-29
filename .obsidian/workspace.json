@@ -184,8 +184,7 @@
               "title": "1014 7주차 (7장)"
             }
           }
-        ],
-        "currentTab": 12
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +238,7 @@
             }
           },
           {
-            "id": "e5fef0c4fe35d09c",
+            "id": "a39984a929d9961c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -248,7 +247,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -382,7 +382,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "cb46ab01e8ce98e2",
+  "active": "8876c3c62ec29ac7",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0925 4주차 (5장).md",
