@@ -13,7 +13,8 @@
             "state": {
               "type": "beautitab-react-view",
               "state": {},
-              "title": "New tab"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -73,10 +74,13 @@
             "id": "409634c8a80df3ca",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -209,8 +213,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "ab6b4c15b383af46",
