@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "a39984a929d9961c",
+            "id": "409634c8a80df3ca",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +79,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -213,7 +214,7 @@
       "widgets:Add widget": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "ab6b4c15b383af46",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
