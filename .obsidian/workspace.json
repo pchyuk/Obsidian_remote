@@ -70,16 +70,13 @@
             }
           },
           {
-            "id": "0fa7015a603d15d7",
+            "id": "abd684dafd3924b9",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -215,7 +212,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a45836e389f38e2f",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "Tags",
     "conflict-files-obsidian-git.md",
