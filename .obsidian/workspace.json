@@ -8,13 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afbb33dbc80955ba",
+            "id": "a45836e389f38e2f",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "beautitab-react-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "New tab"
             }
           }
         ]
@@ -74,10 +73,13 @@
             "id": "0fa7015a603d15d7",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -213,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "afbb33dbc80955ba",
+  "active": "a45836e389f38e2f",
   "lastOpenFiles": [
     "Tags",
     "conflict-files-obsidian-git.md",
