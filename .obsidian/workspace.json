@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "92bd02cf1cc4d3cd",
+        "id": "625bb1906a4e545a",
         "type": "tabs",
         "children": [
           {
-            "id": "16888d1b6d14961a",
+            "id": "cccbf6267e0c1156",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "4cccd9f4ababeccd",
+            "id": "aea7a5c27966de79",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -213,8 +213,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/GNU Parallel 2018.pdf.md",
+    "3학년 2학기(24-2)/졸업작품 교수님 스터디/1106 졸작 관련 랩실 컨택 리스트업.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.20.md",
     "3학년 겨울학기(24-W)/자료구조&알고리즘 스터디/25.01.08(수) 첫 스터디.md",
     "Tags",
@@ -252,7 +254,6 @@
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.01.10.md",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
-    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
     "3학년 2학기(24-2)/졸업작품 교수님 스터디/~11.27/week.pdf",
     "Daily Note/25년 1월",
     "Daily Note/24년 12월",
