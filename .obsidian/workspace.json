@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7afb48a9339b934",
+        "id": "7ea7bab487e44961",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6b4c15b383af46",
+            "id": "afbb33dbc80955ba",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "title": "새 탭"
             }
           }
         ]
@@ -71,16 +71,13 @@
             }
           },
           {
-            "id": "409634c8a80df3ca",
+            "id": "0fa7015a603d15d7",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -216,8 +213,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab6b4c15b383af46",
+  "active": "afbb33dbc80955ba",
   "lastOpenFiles": [
+    "Tags",
     "conflict-files-obsidian-git.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1002 5주차 (6장).md",
@@ -252,7 +250,6 @@
     "Daily Note/2025-02-10.md",
     "Daily Note/2025-01-22.md",
     "3학년 겨울학기(24-W)/CSLAB/CSC 2025/CSC 2025 교통편.md",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025/1일차 (25.2.10).md",
     "3학년 겨울학기(24-W)/CSLAB/CSC 2025",
     "Pasted Images/Pasted image 20250204115354.png",
     "Pasted Images/Pasted image 20250130163655.png",
