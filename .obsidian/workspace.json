@@ -4,16 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a7afb48a9339b934",
+        "id": "dac4cd98dc8104e5",
         "type": "tabs",
         "children": [
           {
-            "id": "ab6b4c15b383af46",
+            "id": "50cb91e85ee07cc4",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
+              "type": "empty",
               "state": {},
-              "title": "New tab"
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -70,7 +71,7 @@
             }
           },
           {
-            "id": "409634c8a80df3ca",
+            "id": "ab7e68ae310464e7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -209,11 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-git:Open Git source control": false,
-      "widgets:Add widget": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ab6b4c15b383af46",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1014 7주차 (7장).md",
