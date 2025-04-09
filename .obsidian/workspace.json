@@ -11,9 +11,14 @@
             "id": "a45836e389f38e2f",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.12.30 - 1장"
             }
           }
         ]
@@ -70,7 +75,7 @@
             }
           },
           {
-            "id": "abd684dafd3924b9",
+            "id": "a50603431cded8dd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "a45836e389f38e2f",
   "lastOpenFiles": [
     "Tags",
     "conflict-files-obsidian-git.md",
