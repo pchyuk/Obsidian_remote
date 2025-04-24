@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7ea7bab487e44961",
+        "id": "f6f7bdbf881b395d",
         "type": "tabs",
         "children": [
           {
-            "id": "3bd9f9ee5b055431",
+            "id": "fc2a3f6af398524a",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "a50603431cded8dd",
+            "id": "19e616be1e44ab63",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +79,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,11 +213,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "fc2a3f6af398524a",
   "lastOpenFiles": [
-    "Daily Note/2025-04-07.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.09 1차 발표 리뷰.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.02 1차 발표 리뷰.md",
+    "Daily Note/2025-04-07.md",
     "4학년 1학기(25-1)/캡스톤 디자인",
     "4학년 1학기(25-1)",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
