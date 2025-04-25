@@ -11,9 +11,14 @@
             "id": "3bd9f9ee5b055431",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "4학년 1학기(25-1)/임베디드 시스템/25.04.24 1차 중간 발표.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.04.24 1차 중간 발표"
             }
           }
         ]
@@ -70,7 +75,7 @@
             }
           },
           {
-            "id": "a50603431cded8dd",
+            "id": "0be326d4b7413238",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -212,8 +218,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "3bd9f9ee5b055431",
   "lastOpenFiles": [
+    "4학년 1학기(25-1)/임베디드 시스템/25.04.24 1차 중간 발표.md",
+    "4학년 1학기(25-1)/임베디드 시스템",
     "Daily Note/2025-04-07.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.09 1차 발표 리뷰.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.02 1차 발표 리뷰.md",
@@ -248,9 +256,7 @@
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/5. Requirement Analysis & Specification (1).md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/4. Software Project Management.md",
     "3학년 2학기(24-2)/소프트웨어공학/챕터별 정리본/2. Qualities.md",
-    "3학년 1학기(24-1)/운영체제 필기노트/09.mem/09.mem.md",
     "무제.canvas",
-    "3학년 겨울학기(24-W)/CSLAB/CSC 2025",
     "Pasted Images/Pasted image 20250204115354.png",
     "Pasted Images/Pasted image 20250130163655.png",
     "Pasted Images/Pasted image 20250130162352.png",
