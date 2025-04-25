@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "2025-04-24"
             }
+          },
+          {
+            "id": "f8f50bc9293ac83d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,7 +88,7 @@
             }
           },
           {
-            "id": "19e616be1e44ab63",
+            "id": "43a6ff81470440b8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +97,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -217,7 +231,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fc2a3f6af398524a",
+  "active": "f8f50bc9293ac83d",
   "lastOpenFiles": [
     "Daily Note/2025-04-07.md",
     "Daily Note/2025-01-22.md",
