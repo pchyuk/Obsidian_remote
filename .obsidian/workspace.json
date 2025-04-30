@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e104ed4a58a1a96",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "README.md",
     "이름 없는 보드.md",
