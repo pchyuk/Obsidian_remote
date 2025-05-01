@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -288,7 +288,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "adb16a610b77eff2",
+  "active": "789ab7f3d7a379dc",
   "lastOpenFiles": [
     "4학년 1학기(25-1)/클라우드 컴퓨팅/클컴 중간족보.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/7. 자동화 기반 HTCondor 클러스터 구축.md",
