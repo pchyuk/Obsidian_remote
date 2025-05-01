@@ -63,7 +63,8 @@
               "title": "7. 자동화 기반 HTCondor 클러스터 구축"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -259,8 +260,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dc03acf27ea3ba60",
+  "active": "884e0bfa6db533bf",
   "lastOpenFiles": [
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 중간족보.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 연습문제.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/7. 자동화 기반 HTCondor 클러스터 구축.md",
@@ -273,7 +275,6 @@
     "Pasted Images/Pasted image 20250502074123.png",
     "Pasted Images/Pasted image 20250502073948.png",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/2. 클라우드 컴퓨팅 역사와 모델.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
     "Pasted Images/KakaoTalk_20250501_174103187_03.png",
     "Pasted Images/KakaoTalk_20250501_174103187_02.png",
     "Pasted Images/KakaoTalk_20250501_174103187_01.png",
