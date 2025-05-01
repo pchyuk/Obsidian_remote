@@ -11,9 +11,14 @@
             "id": "dc03acf27ea3ba60",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/1장.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1장"
             }
           }
         ]
@@ -212,7 +217,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "dc03acf27ea3ba60",
   "lastOpenFiles": [
     "Daily Note/2025-06-04.md",
     "Daily Note/2025-05-15.md",
