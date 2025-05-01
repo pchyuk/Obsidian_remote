@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -246,11 +246,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "789ab7f3d7a379dc",
+  "active": "884e0bfa6db533bf",
   "lastOpenFiles": [
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/3. High Throughput Computing.md",
+    "Pasted Images/Pasted image 20250502060316.png",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/2. 클라우드 컴퓨팅 역사와 모델.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/3. High Throughput Computing.md",
     "Pasted Images/Pasted image 20250502044406.png",
     "Pasted Images/Pasted image 20250502033324.png",
     "Daily Note/2025-06-04.md",
@@ -285,7 +286,6 @@
     "4학년 1학기(25-1)/캡스톤 디자인",
     "4학년 1학기(25-1)",
     "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/24.12.30 - 1장.md",
-    "conflict-files-obsidian-git.md",
     "무제.canvas",
     "Pasted Images/Pasted image 20250204115354.png",
     "Pasted Images/Pasted image 20250130163655.png",
@@ -294,7 +294,6 @@
     "Pasted Images/Pasted image 20250130160742.png",
     "Pasted Images/황계-원주.png",
     "Pasted Images/Pasted image 20250130160116.png",
-    "Pasted Images/Pasted image 20250130155939.png",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
