@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4e579df7de9c2cfc",
+        "id": "99780c8082671ff2",
         "type": "tabs",
         "children": [
           {
-            "id": "8d82ea58844bf4fe",
+            "id": "cfb2c947c49217d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "2e5bef7ee990445e",
+            "id": "8277caf4ef5e9fa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -232,8 +232,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "8277caf4ef5e9fa8",
   "lastOpenFiles": [
+    "Daily Note/2025-05-07.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.05.07 3차 발표.md",
     "conflict-files-obsidian-git.md",
     "Pasted Images/Pasted image 20250502074634.png",
@@ -246,7 +247,6 @@
     "Pasted Images/Pasted image 20250502060316.png",
     "Pasted Images/Pasted image 20250502044406.png",
     "Pasted Images/Pasted image 20250502033324.png",
-    "Daily Note/2025-05-07.md",
     "4학년 1학기(25-1)/캡스톤 디자인/24.04.30 교수님 코멘트.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.09 1차 발표 리뷰.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1장.md",
