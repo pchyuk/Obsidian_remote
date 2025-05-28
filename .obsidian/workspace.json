@@ -85,7 +85,7 @@
             }
           },
           {
-            "id": "430417c3e27ef209",
+            "id": "a830b9bfb4b7348a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,7 +94,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -227,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "5110da918c458c9c",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
