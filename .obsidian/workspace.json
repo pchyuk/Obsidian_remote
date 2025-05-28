@@ -43,9 +43,23 @@
               "icon": "lucide-file",
               "title": "2025-05-28"
             }
+          },
+          {
+            "id": "7fafba7b49c20e88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -241,11 +255,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c7fe325f07f7c98",
+  "active": "7fafba7b49c20e88",
   "lastOpenFiles": [
-    "Daily Note/2025-04-25.md",
     "Daily Note/2025-05-28.md",
     "conflict-files-obsidian-git.md",
+    "지출 계획서.md",
+    "4학년 1학기(25-1)/캡스톤 디자인/25.05.28 교수님 코멘트.md",
+    "4학년 1학기(25-1)/캡스톤 디자인/25.04.30 교수님 코멘트.md",
+    "Daily Note/2025-04-25.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
     "Excalidraw/Drawing 2025-05-13 18.42.36.excalidraw.md",
     "Excalidraw/Drawing 2025-05-13 18.42.32.excalidraw.md",
@@ -280,11 +297,8 @@
     "4학년 1학기(25-1)/기타",
     "README.md",
     "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0924 4주차 (3장).md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0910 2주차 (2장).md",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-02-Quality.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-00-Syllabus.pdf",
-    "2025-04-24.md",
-    "Daily Note/25년 1월/2025-01-16.md",
     "Daily Note/25년 2월",
     "Daily Note/25년 4월",
     "Daily Note/25년 1월",
