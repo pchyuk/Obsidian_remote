@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,8 +108,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5110da918c458c9c",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "Daily Note/2025-05-29.md",
     "Daily Note/2025-05-28.md",
