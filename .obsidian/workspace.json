@@ -36,16 +36,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Note/2025-05-28.md",
+                "file": "Daily Note/2025-05-29.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-28"
+              "title": "2025-05-29"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,10 +242,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c7fe325f07f7c98",
+  "active": "5110da918c458c9c",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Daily Note/2025-05-29.md",
     "Daily Note/2025-05-28.md",
+    "conflict-files-obsidian-git.md",
     "지출 계획서.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.05.28 교수님 코멘트.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.30 교수님 코멘트.md",
@@ -283,7 +284,6 @@
     "4학년 1학기(25-1)/기타/옵시디언 특강 대본.md",
     "4학년 1학기(25-1)/기타",
     "README.md",
-    "3학년 2학기(24-2)/소프트웨어공학/날짜별 필기본/0924 4주차 (3장).md",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-02-Quality.pdf",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-00-Syllabus.pdf",
     "Daily Note/25년 2월",
