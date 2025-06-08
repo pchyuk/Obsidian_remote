@@ -8,44 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adb16a610b77eff2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/7. 자동화 기반 HTCondor 클러스터 구축.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. 자동화 기반 HTCondor 클러스터 구축"
-            }
-          },
-          {
             "id": "5110da918c458c9c",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "3c7fe325f07f7c98",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Note/2025-05-29.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-29"
-            }
-          },
-          {
-            "id": "1043160df4f87705",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -58,8 +21,7 @@
               "title": "2025-06-08"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -122,12 +84,12 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -240,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -256,11 +219,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1043160df4f87705",
+  "active": "5110da918c458c9c",
   "lastOpenFiles": [
-    "4학년 1학기(25-1)/기타/25.06.05 이재성 교수님 세미나.md",
+    "Pasted Images/5월 편의점 수입.jpg",
+    "Daily Note/2025-06-04.md",
     "Daily Note/2025-06-08.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/7. 자동화 기반 HTCondor 클러스터 구축.md",
     "Daily Note/2025-05-29.md",
+    "4학년 1학기(25-1)/기타/25.06.05 이재성 교수님 세미나.md",
     "Daily Note/2025-05-28.md",
     "conflict-files-obsidian-git.md",
     "지출 계획서.md",
@@ -274,7 +240,6 @@
     "4학년 1학기(25-1)/캡스톤 디자인/25.05.07 3차 발표.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 중간족보.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 연습문제.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/7. 자동화 기반 HTCondor 클러스터 구축.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial",
     "Pasted Images/Pasted image 20250502074634.png",
     "Pasted Images/Pasted image 20250502074526.png",
@@ -287,7 +252,6 @@
     "Pasted Images/KakaoTalk_20250501_174103187_02.png",
     "Pasted Images/KakaoTalk_20250501_174103187_01.png",
     "Pasted Images/KakaoTalk_20250501_174103187.png",
-    "Daily Note/2025-06-04.md",
     "Daily Note/2025-05-15.md",
     "Daily Note/2025-05-14.md",
     "Daily Note/2025-05-07.md",
@@ -295,7 +259,6 @@
     "Daily Note/2025-04-28.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅",
     "4학년 1학기(25-1)/캡스톤 디자인/24.04.30 교수님 코멘트.md",
-    "4학년 1학기(25-1)/임베디드 시스템/25.04.24 1차 중간 발표.md",
     "4학년 1학기(25-1)/임베디드 시스템",
     "4학년 1학기(25-1)/기타",
     "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-02-Quality.pdf",
