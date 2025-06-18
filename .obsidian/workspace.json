@@ -73,7 +73,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,7 +127,7 @@
             }
           },
           {
-            "id": "aabed42b6f1a5cf2",
+            "id": "05b5889bf64b0d2a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -136,7 +136,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -270,10 +271,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7f482061785319",
+  "active": "7087747c593d7de1",
   "lastOpenFiles": [
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념 - 요약.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
