@@ -14,7 +14,7 @@
               "type": "beautitab-react-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -142,13 +142,13 @@
             }
           },
           {
-            "id": "ac7c4eac6fbaf0c4",
+            "id": "0b87aa5f86c66b00",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ]
@@ -243,7 +243,7 @@
               "type": "advanced-tables-toolbar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           }
         ],
@@ -278,10 +278,10 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-kanban:새 보드 만들기": false,
-      "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "1ebdb8f1f18f9228",
