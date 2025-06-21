@@ -151,8 +151,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -285,7 +284,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7f482061785319",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
     "Daily Note/2025-06-21.md",
