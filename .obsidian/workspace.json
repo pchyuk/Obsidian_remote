@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 여름학기(25-S)/기타/대만여행/대만여행 1~2일차 정산.md",
+                "file": "4학년 여름학기(25-S)/OPIc/250704 오리엔테이션.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "대만여행 1~2일차 정산"
+              "title": "250704 오리엔테이션"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "fc70d50c832f70b2",
+            "id": "72f9f5b0e5390488",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -219,6 +219,9 @@
   },
   "active": "b17ccd0de7e2eff2",
   "lastOpenFiles": [
+    "4학년 여름학기(25-S)/기타/대만여행/대만여행 1~2일차 정산.md",
+    "4학년 여름학기(25-S)/OPIc/250704 오리엔테이션.md",
+    "4학년 여름학기(25-S)/OPIc",
     "Pasted Images/Pasted image 20250701022025.png",
     "Pasted Images/Pasted image 20250701021019.png",
     "Pasted Images/Pasted image 20250701020616.png",
@@ -230,7 +233,6 @@
     "Pasted Images/Pasted image 20250701013544.png",
     "Pasted Images/Pasted image 20250701013219.png",
     "Daily Note/2025-07-01.md",
-    "4학년 여름학기(25-S)/기타/대만여행/대만여행 1~2일차 정산.md",
     "4학년 여름학기(25-S)/기타/대만여행/.md",
     "4학년 여름학기(25-S)/기타/대만여행",
     "4학년 여름학기(25-S)/기타/대만여행/6.29 ~ 7.3 대전팟 대만 여행.md",
@@ -256,7 +258,6 @@
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 연습문제.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/3. High Throughput Computing.md",
     "Daily Note/2025-06-08.md",
-    "Pasted Images/Pasted image 20250609134428.png",
     "4학년 1학기(25-1)/기타/25.06.05 이재성 교수님 세미나.md",
     "Daily Note/2025-05-29.md",
     "Daily Note/2025-05-28.md",
@@ -264,7 +265,6 @@
     "4학년 1학기(25-1)/캡스톤 디자인/25.05.28 교수님 코멘트.md",
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.30 교수님 코멘트.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅",
     "무제.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
