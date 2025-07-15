@@ -45,6 +45,48 @@
             }
           },
           {
+            "id": "0186a2cd3f8cd061",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 1. House & Neighborhood"
+            }
+          },
+          {
+            "id": "27c2382ce4cd844f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 7. Music & Concert"
+            }
+          },
+          {
+            "id": "ba5ccfb80177165e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "25.1.17"
+            }
+          },
+          {
             "id": "7087747c593d7de1",
             "type": "leaf",
             "state": {
@@ -87,7 +129,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -150,8 +192,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -284,11 +325,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b7f482061785319",
+  "active": "27c2382ce4cd844f",
   "lastOpenFiles": [
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.17.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
+    "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념 - 요약.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 연습문제.md",
@@ -320,9 +364,6 @@
     "Pasted Images/KakaoTalk_20250501_174103187_03.png",
     "Pasted Images/KakaoTalk_20250501_174103187_02.png",
     "Pasted Images/KakaoTalk_20250501_174103187_01.png",
-    "Daily Note/2025-06-04.md",
-    "Daily Note/2025-05-15.md",
-    "Daily Note/2025-05-14.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅",
     "4학년 1학기(25-1)/임베디드 시스템",
     "4학년 1학기(25-1)/기타",
