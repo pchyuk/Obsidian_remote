@@ -11,181 +11,17 @@
             "id": "e4b631032b473a0e",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "fce38e0c81358c22",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
+                "file": "Daily Note/2025-07-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. 가상화 기술 개념"
-            }
-          },
-          {
-            "id": "8b7f482061785319",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "14. 컨테이너 기본 개념"
-            }
-          },
-          {
-            "id": "0186a2cd3f8cd061",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 1. House & Neighborhood.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 1. House & Neighborhood"
-            }
-          },
-          {
-            "id": "d0fe87ac39a9493b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 2. Cafe & Bar & Pub"
-            }
-          },
-          {
-            "id": "d2fbce98f4e30b94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 3. Park.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 3. Park"
-            }
-          },
-          {
-            "id": "5def71e35287ba93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 4. Beach.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 4. Beach"
-            }
-          },
-          {
-            "id": "27c2382ce4cd844f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 7. Music & Concert"
-            }
-          },
-          {
-            "id": "ef693eee82339636",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Chapter 6. Vacation at home"
-            }
-          },
-          {
-            "id": "ba5ccfb80177165e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.17.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25.1.17"
-            }
-          },
-          {
-            "id": "7087747c593d7de1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10. 가상화 기술 개념"
-            }
-          },
-          {
-            "id": "2457617e3a80ed40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11. CPU, 메모리, IO 가상화"
-            }
-          },
-          {
-            "id": "43629f22aa8277ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. 클라우드 컴퓨팅 개념"
+              "title": "2025-07-16"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -239,7 +75,7 @@
             }
           },
           {
-            "id": "f7973deac5d02845",
+            "id": "61d0491368e7c20f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -248,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -382,8 +217,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "27c2382ce4cd844f",
+  "active": "e4b631032b473a0e",
   "lastOpenFiles": [
+    "Daily Note/2025-07-16.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 4. Beach.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 3. Park.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 2. Cafe & Bar & Pub.md",
@@ -391,11 +231,7 @@
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 6. Vacation at home.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/Chapter 7. Music & Concert.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPic반/25.1.17.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/14. 컨테이너 기본 개념.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/11. CPU, 메모리, IO 가상화.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/10. 가상화 기술 개념 - 요약.md",
-    "4학년 1학기(25-1)/클라우드 컴퓨팅/1. 클라우드 컴퓨팅 개념.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial/클컴 연습문제.md",
     "6월 월급 사용 계획서.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/3. High Throughput Computing.md",
@@ -410,7 +246,6 @@
     "4학년 1학기(25-1)/캡스톤 디자인/25.04.30 교수님 코멘트.md",
     "Daily Note/2025-04-25.md",
     "Excalidraw/Drawing 2025-05-13 18.42.36.excalidraw.md",
-    "Excalidraw/Drawing 2025-05-13 18.42.32.excalidraw.md",
     "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial",
     "Pasted Images/Pasted image 20250502074634.png",
     "Pasted Images/Pasted image 20250502074526.png",
