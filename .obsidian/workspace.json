@@ -173,7 +173,7 @@
             }
           },
           {
-            "id": "ac3aa91ff930e054",
+            "id": "19a0ceae8250c9c0",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -182,7 +182,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -299,8 +300,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
