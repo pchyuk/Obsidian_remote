@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250724 (수).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "콤보 - 자전거"
+              "title": "Day 8 - 250724 (수)"
             }
           },
           {
@@ -83,9 +83,23 @@
               "icon": "lucide-file",
               "title": "특별한 경험 - 자전거"
             }
+          },
+          {
+            "id": "ef59a68bfdc7925e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "콤보 - 자전거"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -148,8 +162,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -282,15 +295,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "ef59a68bfdc7925e",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/특별한 경험 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250724 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 자전거.md",
     "Daily Note/2025-07-22.md",
     "To Do list.md",
     "README.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 7 - 250723 (화).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/특별한 경험 - 자전거.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 6 - 250721 (월).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 사람.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 국내, 해외여행.md",
@@ -309,7 +323,6 @@
     "In.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/시스템 - transportation.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 2 - 250715 (화).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts",
     "Pasted Images/confusion_matrix 1.png",
