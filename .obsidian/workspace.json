@@ -22,6 +22,27 @@
             }
           },
           {
+            "id": "a264f7b7451bce87",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "To Do list.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "To Do list"
+            }
+          },
+          {
             "id": "8dfa3d95006cfcf6",
             "type": "leaf",
             "state": {
@@ -126,8 +147,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -262,13 +282,13 @@
   },
   "active": "f9747754986a69b9",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250724 (수).md",
+    "To Do list.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 집 2.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250724 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/집.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/특별한 경험 - 자전거.md",
-    "To Do list.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 자전거.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 국내, 해외여행.md",
     "README.md",
