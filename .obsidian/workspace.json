@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f9747754986a69b9",
-            "type": "leaf",
-            "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria"
-              },
-              "icon": "lucide-file",
-              "title": "LEVEL-UP OPIc 실전 오전반- Gloria"
-            }
-          },
-          {
             "id": "53c4df328401971e",
             "type": "leaf",
             "state": {
@@ -61,8 +49,7 @@
               "title": "Day 10 - 250725 (금)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,10 +245,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "53c4df328401971e",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/돌발 - 기술.md",
