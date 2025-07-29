@@ -63,7 +63,8 @@
               "title": "Day 10 - 250725 (금)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,7 +223,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -259,10 +260,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "e6744a7ae97f7538",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
+    "To Do list.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
@@ -272,7 +274,6 @@
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 9 - 250724 (목).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250723 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 집 2.md",
-    "To Do list.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/집.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/특별한 경험 - 자전거.md",
