@@ -35,7 +35,8 @@
               "title": "비교 - 은행"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,10 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae5b20cf6e1f87c8",
+  "active": "3ad5fa102f61972d",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 은행.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 집.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 은행.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/음악.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
