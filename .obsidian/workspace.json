@@ -137,8 +137,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -271,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5739bd521938d590",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
