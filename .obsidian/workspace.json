@@ -1,0 +1,342 @@
+{
+  "main": {
+    "id": "898985a0e4240582",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb14b37186f05771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53c4df328401971e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 12 - 250729 (화)"
+            }
+          },
+          {
+            "id": "8b1e1838dbc96b52",
+            "type": "leaf",
+            "state": {
+              "type": "keyboard-shortcuts-visualization",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Keyboard Shortcuts"
+            }
+          },
+          {
+            "id": "2de805c05118ff8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 11 - 250728 (월) - X"
+            }
+          },
+          {
+            "id": "59bb7334623e6219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 10 - 250725 (금)"
+            }
+          },
+          {
+            "id": "5739bd521938d590",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 13 - 250730 (수)"
+            }
+          },
+          {
+            "id": "52bc5e2ac787296b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 14 - 250731 (목)"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80a4abd6fd3f71cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d29ca9a12797a846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebdb8f1f18f9228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6667cea03b8ff8d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e99b9fccb3c22057",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "02484080ad254988",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 340.5
+  },
+  "right": {
+    "id": "9bb18815e223e09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c16ceba955020d",
+        "type": "tabs",
+        "dimension": 50.434027777777786,
+        "children": [
+          {
+            "id": "7227c226702a3b4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6744a7ae97f7538",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2d3d9e61bb58b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "da3ad323fcccce14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Note/2024-12-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-10의 백링크"
+            }
+          },
+          {
+            "id": "6dd109154fc4d750",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Note/2024-11-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-26의 나가는 링크"
+            }
+          },
+          {
+            "id": "d2967792561d0210",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d5aafccbe7424b4c",
+        "type": "tabs",
+        "dimension": 49.565972222222214,
+        "children": [
+          {
+            "id": "a78d16ccfeedd566",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "52bc5e2ac787296b",
+  "lastOpenFiles": [
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/25.07.29 OT.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+    "Daily Note/2025-07-29.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디",
+    "Daily Note/2025-07-22.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
+    "To Do list.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/돌발 - 기술.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/돌발 - 호텔.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 7 - 250722 (화).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 9 - 250724 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250723 (수).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 집 2.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/집.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콤보 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/특별한 경험 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 자전거.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 국내, 해외여행.md",
+    "README.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/250704 오리엔테이션.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 6 - 250721 (월).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts",
+    "Pasted Images/confusion_matrix 1.png",
+    "Pasted Images/Pasted image 20250716202310.png",
+    "Pasted Images/confusion_matrix.png",
+    "Pasted Images/Pasted image 20250716201130.png",
+    "Pasted Images/Pasted image 20250716201050.png",
+    "Pasted Images/Pasted image 20250716201027.png",
+    "4학년 여름학기(25-S)/졸업작품",
+    "Pasted Images/Pasted image 20250609134428.png",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅/Confidencial",
+    "Pasted Images/Pasted image 20250502074634.png",
+    "Pasted Images/Pasted image 20250502074526.png",
+    "Pasted Images/Pasted image 20250502074239.png",
+    "4학년 1학기(25-1)/클라우드 컴퓨팅",
+    "4학년 1학기(25-1)/임베디드 시스템",
+    "4학년 1학기(25-1)/기타",
+    "3학년 2학기(24-2)/소프트웨어공학/강의자료/2024-02-Quality.pdf",
+    "무제.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
+    "무제 파일.canvas",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
+  ]
+}
