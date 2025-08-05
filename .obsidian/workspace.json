@@ -4,207 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "4a88262c984bb6b8",
+        "id": "47395dca98a72675",
         "type": "tabs",
         "children": [
           {
-            "id": "96339b1e663c54cd",
+            "id": "4205316e0e88e28c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 6 - 250721 (월).md",
+                "file": "4학년 여름학기(25-S)/알고리즘 스터디/250805 2일차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 6 - 250721 (월)"
+              "title": "250805 2일차"
             }
           },
           {
-            "id": "dfa0a45e3e1277b8",
+            "id": "b78446216c6702f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 카페,  술집.md",
+                "file": "4학년 여름학기(25-S)/알고리즘 스터디/250731 1일차.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "묘사 - 카페,  술집"
-            }
-          },
-          {
-            "id": "7a73b8309a2844ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 12 - 250729 (화)"
-            }
-          },
-          {
-            "id": "ddc989c2048162eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 14 - 250731 (목)"
-            }
-          },
-          {
-            "id": "d51d05250052dc79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 3 - 250716 (수)"
-            }
-          },
-          {
-            "id": "afce45028af3548e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 4 - 250717 (목)"
-            }
-          },
-          {
-            "id": "3ab05ee06628990c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 5 - 250718 (금)"
-            }
-          },
-          {
-            "id": "b20dd0b2a7b3e5c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 사람.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "묘사 - 사람"
-            }
-          },
-          {
-            "id": "95801fa1c93fdc00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 11 - 250728 (월) - X"
-            }
-          },
-          {
-            "id": "b0de1f29c1b4a192",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 13 - 250730 (수)"
-            }
-          },
-          {
-            "id": "5f87d675724ef75b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 음악.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "비교 - 음악"
-            }
-          },
-          {
-            "id": "2650493a4b9852fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콘서트.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "콘서트"
-            }
-          },
-          {
-            "id": "3dfa525aac0da1e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/영화.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "영화"
-            }
-          },
-          {
-            "id": "22819273cef9d9f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day 10 - 250725 (금)"
+              "title": "250731 1일차"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,8 +98,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -402,19 +232,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b20dd0b2a7b3e5c4",
+  "active": "4205316e0e88e28c",
   "lastOpenFiles": [
+    "4학년 여름학기(25-S)/알고리즘 스터디/250731 1일차.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/250805 2일차.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/영화.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콘서트.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 음악.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 사람.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/영화.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콘서트.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 음악.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 카페,  술집.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 6 - 250721 (월).md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPIc 중급 오후반 - Simon/24.12.27 LEVEL-UP 영어캠프 Zoom OT.md",
@@ -427,10 +260,7 @@
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 집.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPIc 중급 오후반 - Simon/Chapter 7. Music & Concert.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/음악.md",
-    "4학년 여름학기(25-S)/알고리즘 스터디/250731.md",
-    "conflict-files-obsidian-git.md",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
-    "4학년 여름학기(25-S)/알고리즘 스터디/25.07.29 OT.md",
     "4학년 여름학기(25-S)/알고리즘 스터디",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts",
