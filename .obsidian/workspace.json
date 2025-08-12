@@ -11,9 +11,14 @@
             "id": "efdde8cb0dfcb425",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2025-08-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-13"
             }
           }
         ]
@@ -79,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,8 +217,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efdde8cb0dfcb425",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
+    "Daily Note/2025-08-13.md",
     "4학년 여름학기(25-S)/기타/250809 BINS MT.md",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "4학년 여름학기(25-S)/알고리즘 스터디/250805 2일차.md",
