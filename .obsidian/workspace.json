@@ -174,7 +174,7 @@
             }
           },
           {
-            "id": "b520d51285f85782",
+            "id": "65905b1bb66b336f",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -183,7 +183,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -304,6 +305,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
       "switcher:빠른 전환기 열기": false,
       "daily-notes:오늘의 일일 노트 열기": false,
       "graph:그래프 뷰 열기": false,
