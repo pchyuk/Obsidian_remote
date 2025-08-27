@@ -20,8 +20,107 @@
               "icon": "lucide-file",
               "title": "250821 6일차 - 님 게임 2"
             }
+          },
+          {
+            "id": "b03d6d61cef1d120",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 2 - 250715 (화).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 2 - 250715 (화)"
+            }
+          },
+          {
+            "id": "229b1873e85989e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 3 - 250716 (수)"
+            }
+          },
+          {
+            "id": "6bdb1e863a6cd7f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 4 - 250717 (목)"
+            }
+          },
+          {
+            "id": "d2ac05b5026d9915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Note/2025-08-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-27"
+            }
+          },
+          {
+            "id": "8ac41a665bd39010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 11 - 250728 (월) - X"
+            }
+          },
+          {
+            "id": "8937e8412941aa22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Day 10 - 250725 (금)"
+            }
+          },
+          {
+            "id": "257d973f87feecda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "묘사 - 걷기, 조깅,  자전거 타기"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -84,8 +183,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,31 +316,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "efdde8cb0dfcb425",
+  "active": "257d973f87feecda",
   "lastOpenFiles": [
-    "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
-    "4학년 여름학기(25-S)/알고리즘 스터디/250821 6일차 - 님 게임 2.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+    "Daily Note/2025-08-27.md",
     "Daily Note/2025-08-13.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 2 - 250715 (화).md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/250821 6일차 - 님 게임 2.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "4학년 여름학기(25-S)/기타/250809 BINS MT.md",
     "4학년 여름학기(25-S)/알고리즘 스터디/250805 2일차.md",
     "4학년 여름학기(25-S)/알고리즘 스터디/250731 1일차.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/영화.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/콘서트.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/비교 - 음악.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 사람.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 카페,  술집.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 6 - 250721 (월).md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPIc 중급 오후반 - Simon/24.12.27 LEVEL-UP 영어캠프 Zoom OT.md",
     "3학년 겨울학기(24-W)/LEVEL-UP OPIc 중급 오후반 - Simon/25.1.10.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 2 - 250715 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 8 - 250723 (수).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 7 - 250722 (화).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 15 - 250801 (금).md",
