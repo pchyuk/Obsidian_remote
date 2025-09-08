@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "2e8ce876141c9a4d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.10"
+            }
+          },
+          {
             "id": "229b1873e85989e1",
             "type": "leaf",
             "state": {
@@ -347,7 +359,8 @@
               "title": "Day 12 - 250729 (화)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -404,10 +417,13 @@
             "id": "0a4e15025c6996a1",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ],
@@ -545,7 +561,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b03d6d61cef1d120",
+  "active": "2e8ce876141c9a4d",
   "lastOpenFiles": [
     "4학년 여름학기(25-S)/알고리즘 스터디/250821 6일차 - 님 게임 2.md",
     "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
