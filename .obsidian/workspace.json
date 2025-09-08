@@ -11,9 +11,14 @@
             "id": "10363e926876dcc4",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "4학년 2학기(25-2)/빅데이터분석시각화/250908 2주차 수업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "250908 2주차 수업"
             }
           }
         ]
@@ -215,6 +220,7 @@
   },
   "active": "10363e926876dcc4",
   "lastOpenFiles": [
+    "4학년 2학기(25-2)/빅데이터분석시각화/250908 2주차 수업.md",
     "4학년 2학기(25-2)/빅데이터분석시각화/.md",
     "4학년 2학기(25-2)/기타",
     "4학년 2학기(25-2)/졸업작품",
@@ -248,7 +254,6 @@
     "4학년 여름학기(25-S)/알고리즘 스터디/250731 1일차.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 13 - 250730 (수).md",
     "Daily Note/2025-08-13.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 5 - 250718 (금).md",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "4학년 여름학기(25-S)/알고리즘 스터디",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
