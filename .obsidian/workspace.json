@@ -71,7 +71,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "검색"
+              "title": "Search"
             }
           },
           {
@@ -228,7 +228,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5bbd18ff75303b85",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
