@@ -8,15 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a88e80f29e663a9f",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
             "id": "5bbd18ff75303b85",
             "type": "leaf",
             "state": {
@@ -30,8 +21,7 @@
               "title": "0917"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +75,7 @@
             }
           },
           {
-            "id": "a5d4c865fc7ff1d3",
+            "id": "bacfa9b7885a48f8",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,11 +84,13 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -211,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +221,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "5bbd18ff75303b85",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
