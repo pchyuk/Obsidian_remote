@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f03fe960d0117adf",
+        "id": "c8410048cde7ee50",
         "type": "tabs",
         "children": [
           {
-            "id": "d21aebd4e06bd981",
+            "id": "a88e80f29e663a9f",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
@@ -17,7 +17,7 @@
             }
           },
           {
-            "id": "bb61026ceef984c7",
+            "id": "5bbd18ff75303b85",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -211,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 342.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -228,7 +230,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bb61026ceef984c7",
+  "active": "5bbd18ff75303b85",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
