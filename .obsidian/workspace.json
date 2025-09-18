@@ -1,0 +1,272 @@
+{
+  "main": {
+    "id": "898985a0e4240582",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ec7cfd52e24ea46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddc3d6ff4f13b0d4",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80a4abd6fd3f71cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d29ca9a12797a846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ebdb8f1f18f9228",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "6667cea03b8ff8d8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e99b9fccb3c22057",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "77387f41a0c2d816",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 285.5
+  },
+  "right": {
+    "id": "9bb18815e223e09e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3c16ceba955020d",
+        "type": "tabs",
+        "dimension": 50.434027777777786,
+        "children": [
+          {
+            "id": "7227c226702a3b4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e6744a7ae97f7538",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "2d3d9e61bb58b9ac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "da3ad323fcccce14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Note/2024-12-10.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2024-12-10의 백링크"
+            }
+          },
+          {
+            "id": "6dd109154fc4d750",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Daily Note/2024-11-26.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2024-11-26의 나가는 링크"
+            }
+          },
+          {
+            "id": "d2967792561d0210",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "d5aafccbe7424b4c",
+        "type": "tabs",
+        "dimension": 49.565972222222214,
+        "children": [
+          {
+            "id": "a78d16ccfeedd566",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "1ebdb8f1f18f9228",
+  "lastOpenFiles": [
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0919 3주차 (4장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 2 (3장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0916 3주차 - 1 (2장).md",
+    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0912 2주차 (2장).md",
+    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/Rust 공부 계획.md",
+    "conflict-files-obsidian-git.md",
+    "4학년 2학기(25-2)/빅데이터분석시각화/250908 2주차 수업.md",
+    "4학년 2학기(25-2)/빅데이터분석시각화",
+    "4학년 2학기(25-2)",
+    "3학년 2학기(24-2)/Rust/Week 1/Study Rust Day1.pdf",
+    "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장.md",
+    "3학년 2학기(24-2)/Rust/Week 1/Questions.pdf",
+    "3학년 2학기(24-2)/Rust/Week 1/1~3장 공부.pdf",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 12 - 250729 (화).md",
+    "3학년 2학기(24-2)/Rust/Week 1/Week 1 - 1 ~ 3장 질문.md",
+    "3학년 겨울학기(24-W)/졸업작품 준비 - Rust/25.01.01 - 12장.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/PL 2차 과제 - 4 ~ 10장 문제 만들기.md",
+    "3학년 2학기(24-2)/프로그래밍언어론/itpl-2023-08-10.pdf",
+    "4학년 여름학기(25-S)/알고리즘 스터디/25.07.29 OT.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 11 - 250728 (월) - X.md",
+    "Daily Note/2025-08-27.md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 4 - 250717 (목).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 3 - 250716 (수).md",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 2 - 250715 (화).md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/250821 6일차 - 님 게임 2.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/250731 1일차.md",
+    "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
+    "4학년 여름학기(25-S)/알고리즘 스터디",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
+    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts",
+    "Pasted Images/confusion_matrix 1.png",
+    "Pasted Images/Pasted image 20250716202310.png",
+    "Pasted Images/confusion_matrix.png",
+    "Pasted Images/Pasted image 20250716201130.png",
+    "Pasted Images/Pasted image 20250716201050.png",
+    "Pasted Images/Pasted image 20250716201027.png",
+    "4학년 여름학기(25-S)/졸업작품",
+    "Pasted Images/Pasted image 20250609134428.png",
+    "Pasted Images/Pasted image 20250502074634.png",
+    "Pasted Images/Pasted image 20250502074526.png",
+    "Pasted Images/Pasted image 20250502074239.png",
+    "무제.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
+    "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
+    "무제 파일.canvas",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/class diagram.canvas"
+  ]
+}
