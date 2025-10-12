@@ -43,21 +43,9 @@
               "icon": "lucide-file",
               "title": "신관소 중간 과제"
             }
-          },
-          {
-            "id": "da1f43cbada4cf28",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.9.14"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.9.14"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,16 +99,13 @@
             }
           },
           {
-            "id": "28fb865c1f5e42d7",
+            "id": "671c46e358c6ea9c",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -259,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da1f43cbada4cf28",
+  "active": "a0ae2f9338cfe835",
   "lastOpenFiles": [
     "신관소 과제_2.png",
     "신관소 과제_1.png",
