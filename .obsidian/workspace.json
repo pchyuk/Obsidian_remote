@@ -68,7 +68,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -112,8 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -246,16 +245,17 @@
   },
   "active": "a0ae2f9338cfe835",
   "lastOpenFiles": [
-    "신관소 과제_2.png",
-    "신관소 과제_1.png",
-    "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
+    "To Do list.md",
+    "Untitled.md",
+    "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_1.png",
+    "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_2.png",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 중간 과제.md",
+    "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
     "4학년 2학기(25-2)/캡스톤/1015 발표.md",
     "Daily Note/2025-10-15.md",
     "4학년 2학기(25-2)/캡스톤/0926 교수님 피드백.md",
     "4학년 2학기(25-2)/캡스톤",
     "conflict-files-obsidian-git.md",
-    "Untitled.md",
     "4학년 2학기(25-2)/신용관리와 소비생활",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
@@ -280,7 +280,6 @@
     "4학년 여름학기(25-S)/알고리즘 스터디/25.07.29 OT.md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 14 - 250731 (목).md",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/Scripts/묘사 - 걷기, 조깅,  자전거 타기.md",
-    "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리/Day 10 - 250725 (금).md",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "4학년 여름학기(25-S)/알고리즘 스터디",
     "4학년 여름학기(25-S)/LEVEL-UP OPIc 실전 오전반- Gloria/수업내용 정리",
@@ -292,7 +291,6 @@
     "Pasted Images/Pasted image 20250716201027.png",
     "Pasted Images/Pasted image 20250609134428.png",
     "Pasted Images/Pasted image 20250502074634.png",
-    "Pasted Images/Pasted image 20250502074526.png",
     "무제.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
