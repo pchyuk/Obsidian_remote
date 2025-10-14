@@ -99,7 +99,7 @@
             }
           },
           {
-            "id": "671c46e358c6ea9c",
+            "id": "e37563060c6932be",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -231,14 +231,14 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-kanban:Create new board": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-kanban:새 보드 만들기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false
