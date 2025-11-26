@@ -45,6 +45,18 @@
             }
           },
           {
+            "id": "8173be50bba33696",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
+          },
+          {
             "id": "a81b723ed967c5fd",
             "type": "leaf",
             "state": {
@@ -59,7 +71,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +125,7 @@
             }
           },
           {
-            "id": "6661d694d3d641ae",
+            "id": "55a4b5adc0844e39",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -258,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "af0019adbb69bff9",
+  "active": "8173be50bba33696",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/빅데이터분석시각화/250908 2주차 수업.md",
     "4학년 2학기(25-2)/빅데이터분석시각화/3. Numpy.md",
