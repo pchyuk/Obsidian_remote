@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "24.11.26 공공기관 취업 특강 - 한전 KDN"
             }
+          },
+          {
+            "id": "e95a4350f913381f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,10 +105,13 @@
             "id": "55a4b5adc0844e39",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -234,7 +249,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "437c8d68662380ae",
+  "active": "e95a4350f913381f",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "4학년 2학기(25-2)/캡스톤/0926 교수님 피드백.md",
