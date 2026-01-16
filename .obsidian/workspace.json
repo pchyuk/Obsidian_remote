@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "56c03c2122107922",
+            "id": "2930e47fda94b6d3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -87,7 +87,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
