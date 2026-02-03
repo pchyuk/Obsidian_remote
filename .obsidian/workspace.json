@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
+          },
+          {
+            "id": "c925c3b0596bd6b7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -75,16 +88,13 @@
             }
           },
           {
-            "id": "2930e47fda94b6d3",
+            "id": "c04fe0c99e7b6664",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -92,7 +102,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -223,7 +234,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a55765e540979e0f",
+  "active": "c925c3b0596bd6b7",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/신용관리와 소비생활/기말족보일까.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/기말고사 벼락치기.md",
