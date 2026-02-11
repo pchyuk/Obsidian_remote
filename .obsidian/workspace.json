@@ -4,34 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dc4e98b62d3b4483",
+        "id": "0b95a7c8b58c5750",
         "type": "tabs",
         "children": [
           {
-            "id": "84743e1ac81c3537",
+            "id": "6a927f0639ce3254",
             "type": "leaf",
             "state": {
               "type": "beautitab-react-view",
               "state": {},
               "title": "New tab"
             }
-          },
-          {
-            "id": "8847a4abb275c685",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "기타/한국통계정보원 직무능력 소개서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "한국통계정보원 직무능력 소개서"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +70,7 @@
             }
           },
           {
-            "id": "3079cbc60611dc4e",
+            "id": "0d1ae39f0926c528",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,12 +79,12 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "9bb18815e223e09e",
@@ -230,7 +215,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8847a4abb275c685",
+  "active": "6a927f0639ce3254",
   "lastOpenFiles": [
     "기타/한국통계정보원 직무능력 소개서.md",
     "기타/지방 9급 영어-B 시험 대비 학습 가이드.md",
