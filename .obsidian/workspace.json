@@ -15,8 +15,117 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "2d83cf74e52ee8b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 1학기(24-1)/객체지향 설계 필기노트/06-Structural Modeling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "06-Structural Modeling"
+            }
+          },
+          {
+            "id": "f0046983dcb8b286",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 1학기(24-1)/객체지향 설계 필기노트/0522 피드백.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0522 피드백"
+            }
+          },
+          {
+            "id": "102765f3351389ec",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3학년 1학기(24-1)/객체지향 설계 필기노트/Pasted image 20240617225245.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20240617225245"
+            }
+          },
+          {
+            "id": "4ee370f3b517d0e7",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "3학년 1학기(24-1)/운영체제 필기노트/09.mem/4p.png"
+              },
+              "icon": "lucide-image",
+              "title": "4p"
+            }
+          },
+          {
+            "id": "90c4777c3f2160e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 1학기(24-1)/운영체제 필기노트/09.mem/09.mem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "09.mem"
+            }
+          },
+          {
+            "id": "2152b104f1d72005",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 1학기(24-1)/컴파일러 필기노트/기말대비 필기노트.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "기말대비 필기노트"
+            }
+          },
+          {
+            "id": "2da0e3f4062d9962",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "교원대 대학원"
+            }
+          },
+          {
+            "id": "5affab58b54de56c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
+            }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -79,8 +188,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -215,8 +323,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6a927f0639ce3254",
+  "active": "5affab58b54de56c",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/기타/진로고민/교원대 대학원.md",
+    "3학년 2학기(24-2)/기타/진로고민/2025학년도 전기 대학원 신입생 모집요강.pdf",
+    "3학년 1학기(24-1)/컴파일러 필기노트/기말대비 필기노트.md",
+    "3학년 1학기(24-1)/운영체제 필기노트/09.mem/09.mem.md",
+    "3학년 1학기(24-1)/운영체제 필기노트/09.mem/4p.png",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/Pasted image 20240617225245.png",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/0522 피드백.md",
+    "3학년 1학기(24-1)/객체지향 설계 필기노트/06-Structural Modeling.md",
+    "요약본 추가.pdf",
     "기타/한국통계정보원 직무능력 소개서.md",
     "기타/지방 9급 영어-B 시험 대비 학습 가이드.md",
     "기타/6월 월급 사용 계획서.md",
@@ -226,7 +343,6 @@
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "README.md",
     "To Do list.md",
-    "요약본 추가.pdf",
     "4학년 2학기(25-2)/신용관리와 소비생활/기말족보일까.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/기말고사 벼락치기.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0902.canvas",
@@ -243,19 +359,12 @@
     "4학년 2학기(25-2)/빅데이터분석시각화/250908 2주차 수업.md",
     "4학년 2학기(25-2)/빅데이터분석시각화/3. Numpy.md",
     "4학년 2학기(25-2)/캡스톤/1015 발표 피드백.md",
-    "4학년 2학기(25-2)/캡스톤/.md",
-    "Untitled.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_1.png",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_2.png",
-    "Daily Note/2025-10-15.md",
     "4학년 2학기(25-2)/캡스톤",
-    "conflict-files-obsidian-git.md",
     "4학년 2학기(25-2)/신용관리와 소비생활",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
     "4학년 2학기(25-2)/빅데이터분석시각화",
     "4학년 2학기(25-2)",
-    "3학년 2학기(24-2)/Rust/Week 1/Study Rust Day1.pdf",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "Pasted Images/confusion_matrix 1.png",
     "Pasted Images/Pasted image 20250716202310.png",
@@ -263,8 +372,6 @@
     "Pasted Images/Pasted image 20250716201130.png",
     "Pasted Images/Pasted image 20250716201050.png",
     "Pasted Images/Pasted image 20250716201027.png",
-    "Pasted Images/Pasted image 20250609134428.png",
-    "Pasted Images/Pasted image 20250502074634.png",
     "무제.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
