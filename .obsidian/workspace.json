@@ -79,8 +79,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 237.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,7 +213,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c938f6ea69b96e02",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "4학년 2학기(25-2)/신용관리와 소비생활/기말고사 벼락치기.md",
     "Tags",
