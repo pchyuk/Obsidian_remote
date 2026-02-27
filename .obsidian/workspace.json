@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "f9999d9b7464fa62",
+            "id": "1f749a37d7aaf531",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +79,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
