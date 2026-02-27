@@ -29,9 +29,32 @@
               "icon": "lucide-file",
               "title": "한국통계정보원 직무능력 소개서"
             }
+          },
+          {
+            "id": "48c418dc4fdb4e1b",
+            "type": "leaf",
+            "state": {
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "9f2bbdb718eacb57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             }
           },
           {
-            "id": "c3b97e30c12e37d8",
+            "id": "ff592a288bb9fa87",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -94,7 +117,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -228,8 +252,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "9f2bbdb718eacb57",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Daily Note/25년 2월/2025-02-10.md",
     "기타/한국통계정보원 직무능력 소개서.md",
     "Daily Note/2025-05-07.md",
@@ -262,7 +287,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904 1주차 (1장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/6장 데이터 정의 언어 실습 문제.pdf",
     "4학년 2학기(25-2)/신용관리와 소비생활/2020039066 박찬혁 신관소 중간과제.md",
-    "4학년 2학기(25-2)/신용관리와 소비생활/0917.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/Untitled",
     "4학년 2학기(25-2)/기타",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_1.png",
