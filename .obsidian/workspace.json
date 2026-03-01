@@ -22,12 +22,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26년 상반기(26-1)/한국철도공사 자기소개서.md",
+                "file": "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "한국철도공사 자기소개서"
+              "title": "한국전력거래소 자기소개서"
             }
           },
           {
@@ -45,7 +45,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,12 +242,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9c14bb0b99e45657",
+  "active": "1c16572cb576aa27",
   "lastOpenFiles": [
     "26년 상반기(26-1)/한국철도공사 자기소개서.md",
+    "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
+    "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
     "Pasted image 20260301115221.png",
     "Pasted image 20260301115202.png",
-    "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
     "요약본 추가.pdf",
     "26년 상반기(26-1)",
     "conflict-files-obsidian-git.md",
