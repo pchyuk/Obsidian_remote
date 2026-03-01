@@ -29,9 +29,21 @@
               "icon": "lucide-file",
               "title": "한국통계정보원 직무능력 소개서"
             }
+          },
+          {
+            "id": "3321088a1a853f19",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "요약본 추가.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "요약본 추가"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,10 +100,13 @@
             "id": "de39f423eabc2333",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -228,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a78d16ccfeedd566",
+  "active": "3321088a1a853f19",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "기타/한국통계정보원 직무능력 소개서.md",
