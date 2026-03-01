@@ -8,29 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6ed680dff9135152",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "1c16572cb576aa27",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "한국전력거래소 자기소개서"
-            }
-          },
-          {
             "id": "9c14bb0b99e45657",
             "type": "leaf",
             "state": {
@@ -42,6 +19,20 @@
               },
               "icon": "lucide-file",
               "title": "한국특허정보원 직무능력 소개서"
+            }
+          },
+          {
+            "id": "3564f4dc42b35639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "한국전력거래소 자기소개서"
             }
           }
         ],
@@ -199,12 +190,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "d5aafccbe7424b4c",
@@ -242,14 +233,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1c16572cb576aa27",
+  "active": "3564f4dc42b35639",
   "lastOpenFiles": [
-    "26년 상반기(26-1)/한국철도공사 자기소개서.md",
+    "Pasted Images/Pasted image 20241003150936.png",
+    "요약본 추가.pdf",
+    "Pasted Images/Pasted image 20260301115221.png",
+    "Pasted Images/Pasted image 20260301115202.png",
     "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
-    "Pasted image 20260301115221.png",
-    "Pasted image 20260301115202.png",
-    "요약본 추가.pdf",
+    "무제 1.base",
+    "무제.base",
+    "26년 상반기(26-1)/한국철도공사 자기소개서.md",
     "26년 상반기(26-1)",
     "conflict-files-obsidian-git.md",
     "4학년 여름학기(25-S)/기타/250809 BINS MT.md",
@@ -282,16 +276,12 @@
     "4학년 2학기(25-2)/신용관리와 소비생활",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/1003 5주차 (7장).md",
     "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0930 5주차 (5~6장).md",
-    "3학년 2학기(24-2)/프로그래밍언어론/날짜별 필기본/0923 4주차 (4~5장).md",
-    "4학년 2학기(25-2)/빅데이터분석시각화",
-    "4학년 2학기(25-2)",
     "4학년 여름학기(25-S)/알고리즘 스터디/무제.canvas",
     "Pasted Images/confusion_matrix 1.png",
     "Pasted Images/Pasted image 20250716202310.png",
     "Pasted Images/confusion_matrix.png",
     "Pasted Images/Pasted image 20250716201130.png",
     "Pasted Images/Pasted image 20250716201050.png",
-    "Pasted Images/Pasted image 20250716201027.png",
     "무제.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0904.canvas",
     "3학년 2학기(24-2)/데이터베이스시스템/0911 2주차/무제 파일.canvas",
