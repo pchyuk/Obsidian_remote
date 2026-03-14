@@ -85,19 +85,17 @@
             }
           },
           {
-            "id": "fcbb7ece07859c0d",
+            "id": "86085af9c6d87a6a",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -231,7 +229,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1d6c3df00f8ef2cd",
+  "active": "1ebdb8f1f18f9228",
   "lastOpenFiles": [
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
