@@ -8,15 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a4fbf17d7531c805",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
-          },
-          {
             "id": "1d6c3df00f8ef2cd",
             "type": "leaf",
             "state": {
@@ -44,8 +35,7 @@
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,8 +232,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb69a386f53bad9",
+  "active": "1d6c3df00f8ef2cd",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "Pasted image 20260310135213.png",
     "Pasted image 20260310135721.png",
@@ -253,7 +244,6 @@
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
-    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "Pasted Images/Pasted image 20241003150936.png",
     "요약본 추가.pdf",
     "Pasted Images/Pasted image 20260301115221.png",
