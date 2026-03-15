@@ -36,18 +36,6 @@
             }
           },
           {
-            "id": "452e28b1ecabdcea",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260310135721.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260310135721"
-            }
-          },
-          {
             "id": "0bb69a386f53bad9",
             "type": "leaf",
             "state": {
@@ -61,8 +49,7 @@
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +246,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452e28b1ecabdcea",
+  "active": "1d6c3df00f8ef2cd",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
+    "Pasted image 20260310135721.png",
     "README.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
-    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "Pasted image 20260310135213.png",
-    "Pasted image 20260310135721.png",
     "Pasted image 20260310135916.png",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
@@ -301,7 +288,6 @@
     "4학년 2학기(25-2)/빅데이터분석시각화/3. Numpy.md",
     "4학년 2학기(25-2)/캡스톤/1015 발표 피드백.md",
     "4학년 2학기(25-2)/캡스톤/.md",
-    "To Do list.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_1.png",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_2.png",
     "4학년 2학기(25-2)/캡스톤",
