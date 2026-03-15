@@ -29,9 +29,45 @@
               "icon": "lucide-file",
               "title": "한국고용정보원 자기소개서"
             }
+          },
+          {
+            "id": "5fc75785574fbe40",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260310135213.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260310135213"
+            }
+          },
+          {
+            "id": "3a4e3ae050a7fff8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260310135721.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260310135721"
+            }
+          },
+          {
+            "id": "9ce7e62aad09e55b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20260310135916.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260310135916"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,10 +124,13 @@
             "id": "86085af9c6d87a6a",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -228,14 +267,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ebdb8f1f18f9228",
+  "active": "9ce7e62aad09e55b",
   "lastOpenFiles": [
+    "Pasted image 20260310135721.png",
+    "Pasted image 20260310135213.png",
+    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
-    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
-    "Pasted image 20260310135721.png",
-    "Pasted image 20260310135213.png",
     "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
@@ -269,7 +308,6 @@
     "4학년 2학기(25-2)/캡스톤/1015 발표 피드백.md",
     "4학년 2학기(25-2)/캡스톤/.md",
     "To Do list.md",
-    "Untitled.md",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_1.png",
     "4학년 2학기(25-2)/신용관리와 소비생활/신관소 과제_2.png",
     "4학년 2학기(25-2)/캡스톤",
