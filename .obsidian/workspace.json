@@ -22,20 +22,6 @@
             }
           },
           {
-            "id": "39b70706dfdf7ffc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
             "id": "0bb69a386f53bad9",
             "type": "leaf",
             "state": {
@@ -49,8 +35,7 @@
               "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,16 +89,13 @@
             }
           },
           {
-            "id": "e5f9a6ced0bc902b",
+            "id": "bae041839856d3e9",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -250,10 +232,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bb69a386f53bad9",
+  "active": "1d6c3df00f8ef2cd",
   "lastOpenFiles": [
-    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
+    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "Pasted image 20260310135721.png",
     "README.md",
     "Pasted image 20260310135213.png",
