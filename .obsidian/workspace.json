@@ -36,34 +36,6 @@
             }
           },
           {
-            "id": "383f3250e942160a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "한국전력거래소 자기소개서"
-            }
-          },
-          {
-            "id": "c84a1e4a03b8b48c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26년 상반기(26-1)/한국철도공사 자기소개서.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "한국철도공사 자기소개서"
-            }
-          },
-          {
             "id": "e008a449ba7eb9c7",
             "type": "leaf",
             "state": {
@@ -76,23 +48,9 @@
               "icon": "lucide-file",
               "title": "한국특허정보원 직무능력 소개서"
             }
-          },
-          {
-            "id": "0bb69a386f53bad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24.10.17 공공기관 취업 특강 - 한국고용정보원"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -289,19 +247,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e008a449ba7eb9c7",
+  "active": "031725b7b3141c1a",
   "lastOpenFiles": [
+    "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
+    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
+    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "26년 상반기(26-1)/한국철도공사 자기소개서.md",
     "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
-    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
-    "3학년 2학기(24-2)/기타/24.10.17 공공기관 취업 특강 - 한국고용정보원.md",
     "Pasted image 20260310135721.png",
     "README.md",
     "Pasted image 20260310135213.png",
     "Pasted image 20260310135916.png",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/0930 5주차 (5~6장).md",
-    "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
     "3학년 2학기(24-2)/데이터베이스시스템/챕터별 정리본 (기말 대비)/Chap 6. Basic SQL.md",
     "3학년 2학기(24-2)/기타/24.11.26 공공기관 취업 특강 - 한전 KDN.md",
     "Pasted Images/Pasted image 20241003150936.png",
