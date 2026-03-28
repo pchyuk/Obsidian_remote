@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "cffb23d7119d918e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f2c6ca584b548627",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56b82c9ea56e4419",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "충북대학교병원 필기시험 복기"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d4394feafe03796",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e0cc63c9b78f7de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "451fac1e529412fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "d7a4edacbbeb0807",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "20913ba3ec7dc401",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "69e3128f32985d56",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fd00a5f3e443289c",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbda4dba95dba680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "877b01b703dc568b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "충북대학교병원 필기시험 복기 의 백링크"
+            }
+          },
+          {
+            "id": "ffb86f85d6bfbeb4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "충북대학교병원 필기시험 복기 의 나가는 링크"
+            }
+          },
+          {
+            "id": "9486d9921f5d2f29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "65e77c7b64118e9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "충북대학교병원 필기시험 복기 의 개요"
+            }
+          },
+          {
+            "id": "02793f2a2702b305",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "56b82c9ea56e4419",
+  "lastOpenFiles": [
+    "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md"
+  ]
+}
