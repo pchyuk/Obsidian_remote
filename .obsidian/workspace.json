@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "충북대학교병원 필기시험 복기"
+              "title": "충북대학교병원 면접 대비"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "414397a23a59becf",
+            "id": "01167227a7970d29",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "충북대학교병원 필기시험 복기 의 백링크"
+              "title": "충북대학교병원 면접 대비 의 백링크"
             }
           },
           {
@@ -124,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "충북대학교병원 필기시험 복기 의 나가는 링크"
+              "title": "충북대학교병원 면접 대비 의 나가는 링크"
             }
           },
           {
@@ -153,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "충북대학교병원 필기시험 복기 의 개요"
+              "title": "충북대학교병원 면접 대비 의 개요"
             }
           },
           {
@@ -172,12 +171,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +193,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56b82c9ea56e4419",
+  "active": "451fac1e529412fe",
   "lastOpenFiles": [
-    "26년 상반기(26-1)/충북대학교병원 필기시험 복기.md"
+    "26년 상반기(26-1)/충북대학교병원 면접 대비.md"
   ]
 }
