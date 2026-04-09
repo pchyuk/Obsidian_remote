@@ -38,9 +38,21 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "20df8d73f7090d70",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.12.4"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -95,6 +107,19 @@
           },
           {
             "id": "dfb790b86e7ff168",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "aebfef2dac4637ac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -241,7 +266,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "48c418dc4fdb4e1b",
+  "active": "20df8d73f7090d70",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Daily Note/25년 2월/2025-02-10.md",
