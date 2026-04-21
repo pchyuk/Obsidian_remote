@@ -18,13 +18,13 @@
 
 - DDL 예제
 
-예제 1. 데이터베이스 생성
+1. 데이터베이스 생성
 ```SQL
 CREATE DATABASE my_database;
 ```
 - "my_database" 라는 이름의 DB를 생성하는 구문
 
-예제 2. 테이블 생성
+2. 테이블 생성
 ```sql
 CREATE TABLE employees (
 	id INT,
@@ -36,6 +36,13 @@ CREATE TABLE employees (
 - "employees" 라는 이름의 테이블을 생성하는 구문
 - 테이블에는 id, name, age, department라는 열(Column)이 정의되어 있다.
 - 각 열의 데이터 타입과 크기도 함께 정의되어 있다.
-	- INT: 정수형
+	- INT: 4byte(32bit) 정수형
 	- VARCHAR: 가변 길이 문자열
-		- CHAR과의 차이: CHAR(50)은 몇 글자를 저장하던지 무조건 50byte를 차지하지만, VARCHAR(50)은 최대 50byte까지 입력 가능하다는 뜻으로
+		- CHAR과의 차이: CHAR(50)은 몇 글자를 저장하던지 무조건 50byte를 차지하지만, VARCHAR(50)은 최대 50byte까지 입력 가능하다는 뜻으로 50byte보다 적게 입력한다면 실제 필요한 데이터만큼만 저장된다.
+		- VARCHAR은 고정 길이인 CHAR보다 메모리를 효율적으로 사용하지만, 대신 처리 속도가 조금 느릴 수 있다. 
+
+3. 테이블 변경 (열 추가)
+```sql
+ALTER TABLE employees
+ADD COLUMN salary DECIMAL(10, 2);
+```
