@@ -58,7 +58,7 @@ DROP TABLE employees;
 - 해당 테이블과 관련된 모든 데이터도 함께 삭제된다.
 
 ---
-- DDL의 3가지 유형 정리
+**DDL의 3가지 유형 정리**
 
 | <center>명령어</center> | <center>기능</center>                     |
 | -------------------- | --------------------------------------- |
@@ -70,7 +70,7 @@ DROP TABLE employees;
 ### 1.1.2. 데이터 조작 언어 (DML)
 - DML: DB에서 데이터를 검색하거나 조작하는 역할
 
-1. 데이터 삽입
+1. 데이터 삽입(*INSERT*)
 ```sql
 INSERT INTO employees (id, name, age, department)
 VALUES (1, 'John Doe', 30, 'IT');
@@ -78,14 +78,14 @@ VALUES (1, 'John Doe', 30, 'IT');
 - "employees" 테이블에 새로운 데이터를 삽입하는 구문
 - id에 1, name에 'John Doe', age에 30, department에 'IT'라는 값들을 지정하여 데이터를 삽입
 
-2. 데이터 조회
+2. 데이터 조회(*SELECT*)
 ```sql
 SELECT * FROM employees;
 ```
 - "employees" 테이블의 모든 데이터를 조회하는 구문
 - "* "는 모든 열을 의미하며, DB에서 모든 열과 행을 반환한다.
 
-3. 데이터 업데이트
+3. 데이터 업데이트(*UPDATE*)
 ```sql
 UPDATE employees
 SET age = 35
@@ -93,10 +93,20 @@ WHERE id = 1;
 ```
 - "employees" 테이블에서 id가 1인 데이터의 age 값을 35로 업데이트하는 구문
 
-4. 데이터 삭제
+4. 데이터 삭제(*DELETE*)
 ```sql
 DELETE FROM employees
 WHERE id = 1;
 ```
 - "employees" 테이블에서 id가 1인 데이터를 삭제하는 구문
-- 
+- 혼동 주의!
+	- *DELETE*는 테이블의 ***'데이터'*** 를 지우는 **DML**
+	- *DROP*은 ***'테이블' 자체*** 를 지우는 **DDL**
+
+---
+**DML의 4가지 유형 정리**
+
+|     |     |
+| --- | --- |
+|     |     |
+
