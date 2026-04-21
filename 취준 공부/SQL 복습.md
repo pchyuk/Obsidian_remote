@@ -125,4 +125,8 @@ GRANT SELECT, INSERT ON employees TO user1;
 - user1은 해당 테이블에서 데이터를 조회하고 삽입할 수 있게 된다.
 
 2. 사용자의 권한 취소(*REVOKE*)
-3. 
+```sql
+REVOKE UPDATE ON employees FROM user2;
+```
+- "employees" 테이블에 대한 UPDATE 권한을 user2로부터 취소하는 구문
+- user2는 해당 테이블에서 데이터를 업데이트할 수 없게 된다.
