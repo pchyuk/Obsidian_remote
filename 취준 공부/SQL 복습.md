@@ -18,13 +18,13 @@
 
 - DDL 예제
 
-1. 데이터베이스 생성
+1. 데이터베이스 생성(*CREATE*)
 ```SQL
 CREATE DATABASE my_database;
 ```
 - "my_database" 라는 이름의 DB를 생성하는 구문
 
-2. 테이블 생성
+2. 테이블 생성 (*CREATE TABLE*)
 ```sql
 CREATE TABLE employees (
 	id INT,
@@ -41,7 +41,7 @@ CREATE TABLE employees (
 		- CHAR과의 차이: CHAR(50)은 몇 글자를 저장하던지 무조건 50byte를 차지하지만, VARCHAR(50)은 최대 50byte까지 입력 가능하다는 뜻으로 50byte보다 적게 입력한다면 실제 필요한 데이터만큼만 저장된다.
 		- VARCHAR은 고정 길이인 CHAR보다 메모리를 효율적으로 사용하지만, 대신 처리 속도가 조금 느릴 수 있다. 
 
-3. 테이블 변경 (열 추가)
+3. 테이블 변경(열 추가) (*ALTER*)
 ```sql
 ALTER TABLE employees
 ADD COLUMN salary DECIMAL(10, 2);
@@ -50,7 +50,7 @@ ADD COLUMN salary DECIMAL(10, 2);
 - DECIMAL: 고정 소수점 수치를 정확하게 저장하는 데이터 형식
 	- DECIMAL(10, 2): 전체 10자리 중 소수점 이하 2자리를 저장하여 최대 99999999.99까지 표현 가능
 
-4. 테이블 삭제
+4. 테이블 삭제(*DROP*)
 ```sql
 DROP TABLE employees;
 ```
@@ -106,7 +106,12 @@ WHERE id = 1;
 ---
 **DML의 4가지 유형 정리**
 
-|     |     |
-| --- | --- |
-|     |     |
+| <center></center>명령문 | <center>기능</center> |
+| -------------------- | ------------------- |
+| INSERT               | 테이블에 새로운 튜플을 삽입함    |
+| SELECT               | 테이블에서 튜플을 검색함       |
+| UPDATE               | 테이블에서 튜플의 내용을 갱신함   |
+| DELETE               | 테이블에서 튜플을 삭제함       |
 
+---
+### 1.1.3. 데이터 제어 언어 ()
