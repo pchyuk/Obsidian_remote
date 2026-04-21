@@ -35,3 +35,7 @@ CREATE TABLE employees (
 ```
 - "employees" 라는 이름의 테이블을 생성하는 구문
 - 테이블에는 id, name, age, department라는 열(Column)이 정의되어 있다.
+- 각 열의 데이터 타입과 크기도 함께 정의되어 있다.
+	- INT: 정수형
+	- VARCHAR: 가변 길이 문자열
+		- CHAR과의 차이: CHAR(50)은 몇 글자를 저장하던지 무조건 50byte를 차지하지만, VARCHAR(50)은 최대 50byte까지 입력 가능하다는 뜻으로
