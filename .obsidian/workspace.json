@@ -8,17 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56b82c9ea56e4419",
+            "id": "94424fe79137461e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "충북대학교병원 면접 대비"
+              "type": "beautitab-react-view",
+              "state": {},
+              "title": "New tab"
             }
           }
         ]
@@ -84,8 +79,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -148,36 +142,41 @@
             }
           },
           {
-            "id": "65e77c7b64118e9e",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "충북대학교병원 면접 대비 의 개요"
-            }
-          },
-          {
             "id": "02793f2a2702b305",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
+      },
+      {
+        "id": "6ba60da27ab7663a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f76fad2732cdf4c6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "pinned": true,
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 283.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,9 +193,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "56b82c9ea56e4419",
+  "active": "451fac1e529412fe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "26년 상반기(26-1)/충북대학교병원 면접 대비.md"
+    "취준 공부",
+    "Daily Note/24년 10월/2024-10-19.md",
+    "Daily Note/24년 10월/2024-10-18.md",
+    "Daily Note/24년 10월/2024-10-17.md",
+    "Daily Note/24년 10월/2024-10-16.md",
+    "Daily Note/24년 10월/2024-10-15.md",
+    "Daily Note/24년 10월/2024-10-14.md",
+    "Daily Note/24년 10월/2024-10-13.md",
+    "Daily Note/24년 10월/2024-10-12.md",
+    "Daily Note/24년 9월/2024-09-14.md",
+    "Daily Note/24년 12월/2024-12-02.md",
+    "Daily Note/24년 12월/2024-12-01.md",
+    "Daily Note/25년 4월/2025-04-07.md",
+    "Daily Note/2025-04-25.md",
+    "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
