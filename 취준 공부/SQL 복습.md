@@ -11,3 +11,20 @@
 		- ***GRANT, REVOKE*** 등
 
 ---
+### 1.1.1. 데이터 정의 언어 (DDL)
+- 데이터는 관계형 데이터베이스(RDBMS)와 비관계형 데이베이스(NoSQL)로 나뉘며, 각각의 장단점이 있다.
+
+- DDL은 DB의 구조를 **정의(생성 -> CREATE)** 하고 **조작(변경-> ALTER, 삭제-> DROP)** 하는 역할을 한다.
+
+- DDL 예제
+
+예제 1. 데이터베이스 생성
+```SQL
+CREATE DATABASE my_database;
+```
+- "my_database" 라는 이름의 DB를 생성하는 구문
+
+예제 2. 테이블 생성
+```sql
+CREATE TABLE employees 
+```
