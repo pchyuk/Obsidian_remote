@@ -58,7 +58,21 @@ DROP TABLE employees;
 - 해당 테이블과 관련된 모든 데이터도 함께 삭제된다.
 
 ---
+- DDL의 3가지 유형 정리
 
-|     |     |
-| --- | --- |
-|     |     |
+| <center>명령어</center> | <center>기능</center>                     |
+| -------------------- | --------------------------------------- |
+| CREATE               | SCHEMA, DOMAIN, TABLE, VIEW, INDEX를 정의함 |
+| ALTER                | TABLE에 대한 정의를 변경하는 데 사용                 |
+| DROP                 | SCHEMA, DOMAIN, TABLE, VIEW, INDEX를 삭제함 |
+
+---
+### 1.1.2. 데이터 조작 언어 (DML)
+- DML: DB에서 데이터를 검색하거나 조작하는 역할
+
+1. 데이터 삽입
+```sql
+INSERT INTO employees (id, name, age, department)
+VALUES (1, 'John Doe', 30, 'IT');
+```
+- "employees" 테이블에 새로운 데이터를 삽입하는 구문
