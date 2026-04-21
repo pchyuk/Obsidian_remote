@@ -101,7 +101,7 @@ WHERE id = 1;
 - "employees" 테이블에서 id가 1인 데이터를 삭제하는 구문
 - 혼동 주의!
 	- *DELETE*는 테이블의 ***'데이터'*** 를 지우는 **DML**
-	- *DROP*은 ***'테이블' 자체*** 를 지우는 **DDL**
+	- *DROP*은 ***'테이블'*** 또는 SCHEMA, DOMAIN, VIEW, INDEX를 지우는 **DDL**
 
 ---
 **DML의 4가지 유형 정리**
@@ -114,4 +114,15 @@ WHERE id = 1;
 | DELETE               | 테이블에서 튜플을 삭제함       |
 
 ---
-### 1.1.3. 데이터 제어 언어 ()
+### 1.1.3. 데이터 제어 언어 (DCL)
+- DCL: DB에 대한 접근 권한을 관리하는 역할
+
+1. 사용자에게 권한 부여(*GRANT*)
+```SQL
+GRANT SELECT, INSERT ON employees TO user1;
+```
+- "employees" 테이블에 대한 SELECT와 INSERT 권한을 user1에게 부여하는 구문
+- user1은 해당 테이블에서 데이터를 조회하고 삽입할 수 있게 된다.
+
+2. 사용자의 권한 취소(*REVOKE*)
+3. 
