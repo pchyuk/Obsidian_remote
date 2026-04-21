@@ -46,3 +46,13 @@ CREATE TABLE employees (
 ALTER TABLE employees
 ADD COLUMN salary DECIMAL(10, 2);
 ```
+- "employees" 테이블에 "salary"라는 열을 추가
+- DECIMAL: 고정 소수점 수치를 정확하게 저장하는 데이터 형식
+	- DECIMAL(10, 2): 전체 10자리 중 소수점 이하 2자리를 저장하여 최대 99999999.99까지 표현 가능
+
+4. 테이블 삭제
+```sql
+DROP TABLE employees;
+```
+- "employees" 테이블을 삭제하는 구문
+- 해당 테이블과 관련된 모든 데이터도 함께 삭제된다.
