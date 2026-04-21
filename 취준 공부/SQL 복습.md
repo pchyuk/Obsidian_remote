@@ -26,5 +26,12 @@ CREATE DATABASE my_database;
 
 예제 2. 테이블 생성
 ```sql
-CREATE TABLE employees 
+CREATE TABLE employees (
+	id INT,
+	name VARCHAR(50),
+	age INT,
+	department VARCHAR(50)
+);
 ```
+- "employees" 라는 이름의 테이블을 생성하는 구문
+- 테이블에는 id, name, age, department라는 열(Column)이 정의되어 있다.
