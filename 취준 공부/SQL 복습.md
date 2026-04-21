@@ -76,3 +76,27 @@ INSERT INTO employees (id, name, age, department)
 VALUES (1, 'John Doe', 30, 'IT');
 ```
 - "employees" 테이블에 새로운 데이터를 삽입하는 구문
+- id에 1, name에 'John Doe', age에 30, department에 'IT'라는 값들을 지정하여 데이터를 삽입
+
+2. 데이터 조회
+```sql
+SELECT * FROM employees;
+```
+- "employees" 테이블의 모든 데이터를 조회하는 구문
+- "* "는 모든 열을 의미하며, DB에서 모든 열과 행을 반환한다.
+
+3. 데이터 업데이트
+```sql
+UPDATE employees
+SET age = 35
+WHERE id = 1;
+```
+- "employees" 테이블에서 id가 1인 데이터의 age 값을 35로 업데이트하는 구문
+
+4. 데이터 삭제
+```sql
+DELETE FROM employees
+WHERE id = 1;
+```
+- "employees" 테이블에서 id가 1인 데이터를 삭제하는 구문
+- 
