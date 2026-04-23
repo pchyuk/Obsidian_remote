@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준 공부/SQL 복습.md",
+                "file": "취준 공부/SQL/2. SQL 기초.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL 복습"
+              "title": "2. SQL 기초"
             }
           }
         ]
@@ -175,17 +175,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "취준 공부/SQL 복습.md",
+                "file": "취준 공부/SQL/2. SQL 기초.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SQL 복습 의 개요"
+              "title": "2. SQL 기초 의 개요"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "6ba60da27ab7663a",
@@ -227,7 +227,9 @@
   },
   "active": "94424fe79137461e",
   "lastOpenFiles": [
-    "취준 공부/SQL 복습.md",
+    "취준 공부/SQL/1. 소개.md",
+    "취준 공부/SQL/2. SQL 기초.md",
+    "취준 공부/SQL",
     "취준 공부",
     "Daily Note/24년 10월/2024-10-19.md",
     "Daily Note/24년 10월/2024-10-18.md",
