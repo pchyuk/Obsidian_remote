@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "d93fd68def1a9a0a",
+            "id": "6415cb3cd7eb7f76",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -167,6 +167,21 @@
               "state": {},
               "icon": "spreadsheet",
               "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "e3f129c0ec895972",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "취준 공부/SQL 복습.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "SQL 복습 의 개요"
             }
           }
         ],
