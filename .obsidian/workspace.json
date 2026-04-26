@@ -48,21 +48,9 @@
               "icon": "lucide-file",
               "title": "1007 6주차 - 1 (6장)"
             }
-          },
-          {
-            "id": "bcf86f5cb03814ad",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/강의자료/2019-F-Database-Systems-05 (Basic SQL).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2019-F-Database-Systems-05 (Basic SQL)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -119,10 +107,13 @@
             "id": "6415cb3cd7eb7f76",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
         ]
@@ -215,13 +206,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3학년 2학기(24-2)/데이터베이스시스템/강의자료/2019-F-Database-Systems-05 (Basic SQL).pdf",
+                "file": "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 1 (6장).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2019-F-Database-Systems-05 (Basic SQL) 의 개요"
+              "title": "1007 6주차 - 1 (6장) 의 개요"
             }
           }
         ],
@@ -265,8 +256,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcf86f5cb03814ad",
+  "active": "c40bf669c3030a70",
   "lastOpenFiles": [
+    "3학년 2학기(24-2)/데이터베이스시스템/강의자료/2019-F-Database-Systems-05 (Basic SQL).pdf",
     "3학년 2학기(24-2)/데이터베이스시스템/날짜별 필기본/1007 6주차 - 1 (6장).md",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 7장 실습 문제 2 풀이.md",
     "3학년 2학기(24-2)/데이터베이스시스템/과제/2020039066 박찬혁 DDL 실습 과제.md",
