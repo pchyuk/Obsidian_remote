@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "정처기 전산직 일일정리 2026-04-30"
             }
+          },
+          {
+            "id": "1ac7d50295295f14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "취준 공부/정처기 전산직 일일정리 2026-05-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "정처기 전산직 일일정리 2026-05-01"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +104,7 @@
             }
           },
           {
-            "id": "9a92e61adffe515c",
+            "id": "41b78be1b873e12b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -239,12 +253,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be583c275eab63ef",
+  "active": "1ac7d50295295f14",
   "lastOpenFiles": [
+    "취준 공부/정처기 전산직 일일정리 2026-04-30.md",
     "Pasted image 20260310135916.png",
     "Pasted image 20260310135721.png",
     "Pasted image 20260310135213.png",
-    "취준 공부/정처기 전산직 일일정리 2026-04-30.md",
     "취준 공부/정처기 전산직 일일정리 2026-04-29.md",
     "취준 공부/SQL/2. SQL 기초.md",
     "취준 공부/정처기 전산직 일일정리 2026-04-28.md",
