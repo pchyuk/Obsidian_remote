@@ -70,16 +70,13 @@
             }
           },
           {
-            "id": "b562d6b52ef499c7",
+            "id": "302f73deb0055bbe",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ]
@@ -221,7 +218,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf79bbf2a92da810",
+  "active": "451fac1e529412fe",
   "lastOpenFiles": [
     "취준 공부/유형별 정리/네트워크.md",
     "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-02.md",
