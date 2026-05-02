@@ -15,18 +15,8 @@
               "state": {},
               "title": "New tab"
             }
-          },
-          {
-            "id": "4711920d06ff183c",
-            "type": "leaf",
-            "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -83,14 +73,16 @@
             "id": "b562d6b52ef499c7",
             "type": "leaf",
             "state": {
-              "type": "mk-path-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "Navigator"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -229,8 +221,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4711920d06ff183c",
+  "active": "cf79bbf2a92da810",
   "lastOpenFiles": [
+    "취준 공부/유형별 정리/네트워크.md",
+    "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-02.md",
     "취준 공부/정처기 전산직 일일정리 2026-05-01.md",
     "취준 공부/정처기 전산직 일일정리 2026-04-30.md",
     "Pasted image 20260310135916.png",
@@ -261,8 +255,6 @@
     "Daily Note/24년 10월/2024-10-15.md",
     "Daily Note/24년 10월/2024-10-14.md",
     "Daily Note/24년 10월/2024-10-13.md",
-    "Daily Note/24년 10월/2024-10-12.md",
-    "Daily Note/24년 9월/2024-09-14.md",
-    "Daily Note/24년 12월/2024-12-02.md"
+    "Daily Note/24년 10월/2024-10-12.md"
   ]
 }
