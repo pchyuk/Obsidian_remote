@@ -70,7 +70,7 @@
             }
           },
           {
-            "id": "302f73deb0055bbe",
+            "id": "b75fe707e704255e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -79,7 +79,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -218,8 +219,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "451fac1e529412fe",
+  "active": "cf79bbf2a92da810",
   "lastOpenFiles": [
+    "취준 공부/클로디_프로필_이미지.png",
     "취준 공부/유형별 정리/네트워크.md",
     "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-02.md",
     "취준 공부/정처기 전산직 일일정리 2026-05-01.md",
@@ -251,7 +253,6 @@
     "Daily Note/24년 10월/2024-10-16.md",
     "Daily Note/24년 10월/2024-10-15.md",
     "Daily Note/24년 10월/2024-10-14.md",
-    "Daily Note/24년 10월/2024-10-13.md",
-    "Daily Note/24년 10월/2024-10-12.md"
+    "Daily Note/24년 10월/2024-10-13.md"
   ]
 }
