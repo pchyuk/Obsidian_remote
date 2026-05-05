@@ -15,8 +15,23 @@
               "state": {},
               "title": "New tab"
             }
+          },
+          {
+            "id": "c41db7f86f7b8b20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "정처기 전산직 일일정리 2026-05-04"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -79,8 +94,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,7 +233,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf79bbf2a92da810",
+  "active": "c41db7f86f7b8b20",
   "lastOpenFiles": [
     "취준 공부/클로디_프로필_이미지.png",
     "취준 공부/유형별 정리/네트워크.md",
