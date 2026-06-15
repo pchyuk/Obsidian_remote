@@ -22,30 +22,72 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-03.md",
+                "file": "26년 하반기/26.6 기술보증기금 자기소개서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "정처기 전산직 일일정리 2026-05-03"
+              "title": "26.6 기술보증기금 자기소개서"
             }
           },
           {
-            "id": "6caffbe43a180af9",
+            "id": "f397880ca28f0d58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "취준 공부/유형별 정리/자료구조.md",
+                "file": "26년 상반기(26-1)/한국철도공사 자기소개서.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "자료구조"
+              "title": "한국철도공사 자기소개서"
+            }
+          },
+          {
+            "id": "3ab097f6ecf0467a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "한국전력거래소 자기소개서"
+            }
+          },
+          {
+            "id": "5d57a46bec8e0102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "충북대학교병원 면접 대비"
+            }
+          },
+          {
+            "id": "bb2227d855d04942",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "충북대학교병원 자기소개서"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -108,8 +150,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -129,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +180,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "충북대학교병원 면접 대비 의 백링크"
+              "title": "충북대학교병원 자기소개서 의 백링크"
             }
           },
           {
@@ -148,12 +189,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
+                "file": "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "충북대학교병원 면접 대비 의 나가는 링크"
+              "title": "충북대학교병원 자기소개서 의 나가는 링크"
             }
           },
           {
@@ -209,7 +250,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "6ba60da27ab7663a",
@@ -248,18 +289,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6caffbe43a180af9",
+  "active": "bb2227d855d04942",
   "lastOpenFiles": [
-    "취준 공부/클로디_프로필_이미지.png",
-    "취준 공부/유형별 정리/자료구조.md",
+    "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
+    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
+    "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
+    "26년 상반기(26-1)/한국철도공사 자기소개서.md",
+    "26년 하반기/26.6 기술보증기금 자기소개서.md",
+    "Pasted image 20260310135916.png",
+    "Pasted image 20260310135721.png",
+    "Pasted image 20260310135213.png",
+    "Pasted image 20260615205542.png",
+    "Pasted image 20260615205516.png",
     "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-03.md",
+    "26년 하반기",
+    "취준 공부/유형별 정리/자료구조.md",
+    "취준 공부/클로디_프로필_이미지.png",
     "취준 공부/유형별 정리/네트워크.md",
     "취준 공부/날짜별 정리/정처기 전산직 일일정리 2026-05-02.md",
     "취준 공부/정처기 전산직 일일정리 2026-05-01.md",
     "취준 공부/정처기 전산직 일일정리 2026-04-30.md",
-    "Pasted image 20260310135916.png",
-    "Pasted image 20260310135721.png",
-    "Pasted image 20260310135213.png",
     "취준 공부/정처기 전산직 일일정리 2026-04-29.md",
     "취준 공부/SQL/2. SQL 기초.md",
     "취준 공부/정처기 전산직 일일정리 2026-04-28.md",
@@ -278,10 +327,6 @@
     "취준 공부/SQL/1. 소개.md",
     "취준 공부/SQL",
     "취준 공부",
-    "Daily Note/24년 10월/2024-10-19.md",
-    "Daily Note/24년 10월/2024-10-18.md",
-    "Daily Note/24년 10월/2024-10-17.md",
-    "Daily Note/24년 10월/2024-10-16.md",
-    "Daily Note/24년 10월/2024-10-15.md"
+    "Daily Note/24년 10월/2024-10-19.md"
   ]
 }
