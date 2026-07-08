@@ -49,7 +49,8 @@
               "title": "충북대학교병원 자기소개서"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,12 +152,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 하반기/26.7 한국재정정보원 자기소개서.md",
+                "file": "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "26.7 한국재정정보원 자기소개서 의 나가는 링크"
+              "title": "한국고용정보원 자기소개서 의 나가는 링크"
             }
           },
           {
@@ -251,11 +252,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0332be15f7e9b82",
+  "active": "bba60807d7f6b306",
   "lastOpenFiles": [
-    "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 하반기/26.7 한국재정정보원 자기소개서.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
+    "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 상반기(26-1)/한국전력거래소 자기소개서.md",
     "26년 상반기(26-1)/한국철도공사 자기소개서.md",
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
