@@ -63,7 +63,8 @@
               "title": "충북대학교병원 자기소개서"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -167,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
+                "file": "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -267,12 +268,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b20699937fe9180",
+  "active": "789c0b39902a2072",
   "lastOpenFiles": [
+    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
     "26년 하반기/26.7 한국재정정보원 자기소개서.md",
-    "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
     "26년 하반기/26.6 기술보증기금 자기소개서.md",
     "26년 하반기/자소서 예상 질문 + 면접 대비.md",
