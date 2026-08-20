@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
+                "file": "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -282,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "789c0b39902a2072",
+  "active": "c98550696a0abfa8",
   "lastOpenFiles": [
+    "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
     "26년 하반기/26.7 한국재정정보원 자기소개서.md",
     "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
     "Pasted image 20260310135213.png",
@@ -292,7 +293,6 @@
     "26년 상반기(26-1)/한국특허정보원 직무능력 소개서.md",
     "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
-    "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
     "요약본 추가.pdf",
     "26년 상반기(26-1)/충북대학교병원 면접 대비.md",
     "26년 하반기/26.6 기술보증기금 자기소개서.md",
