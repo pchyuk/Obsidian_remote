@@ -132,8 +132,21 @@
               "icon": "lucide-file",
               "title": "26.8 건강보험심사평가원 자기소개서"
             }
+          },
+          {
+            "id": "88d78c422276ec18",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.14.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -189,7 +202,7 @@
             }
           },
           {
-            "id": "0d369f282c032067",
+            "id": "75c5eb2abc94c1f2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -198,7 +211,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -298,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "6ba60da27ab7663a",
@@ -337,7 +351,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b20699937fe9180",
+  "active": "88d78c422276ec18",
   "lastOpenFiles": [
     "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
