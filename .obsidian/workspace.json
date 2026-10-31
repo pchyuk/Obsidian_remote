@@ -132,21 +132,9 @@
               "icon": "lucide-file",
               "title": "26.8 건강보험심사평가원 자기소개서"
             }
-          },
-          {
-            "id": "88d78c422276ec18",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "릴리즈 노트 1.14.4"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -211,8 +199,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -351,14 +338,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d78c422276ec18",
+  "active": "a4a2fd8d47479f35",
   "lastOpenFiles": [
+    "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
     "26년 상반기(26-1)/충북대학교병원 자기소개서.md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
     "26년 하반기/26.10 한국농수산식품유통공사(aT) 자기소개서 .md",
     "26년 하반기/26.9 한국조폐공사(KOMSCO) 자기소개서.md",
     "26년 하반기/자소서 예상 질문 + 면접 대비.md",
-    "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
     "26년 하반기/26.7 한국재정정보원 자기소개서.md",
     "26년 하반기/26.6 기술보증기금 자기소개서.md",
     "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
