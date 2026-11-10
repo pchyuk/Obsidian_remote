@@ -91,8 +91,7 @@
               "title": "26.8 한국주택금융공사(HF) 자기소개서"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
+                "file": "26년 하반기/26.11 독립기념관 자기소개서.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -296,10 +295,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "77f234a567427941",
+  "active": "5ddc0e9db5bb8c75",
   "lastOpenFiles": [
-    "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
     "26년 하반기/26.8 한국주택금융공사(HF) 자기소개서.md",
+    "26년 하반기/26.8 건강보험심사평가원 자기소개서.md",
     "26년 하반기/26.10 한국재정정보원 자기소개서.md",
     "26년 하반기/26.10 한국농수산식품유통공사(aT) 자기소개서 .md",
     "26년 상반기(26-1)/한국고용정보원 자기소개서.md",
